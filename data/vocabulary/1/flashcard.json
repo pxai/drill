@@ -1,0 +1,77 @@
+[
+  {
+    "id": 1,
+    "front": "e.g.",
+    "back": "Latin abbreviation for 'exempli gratia', meaning 'for example'."
+  },
+  {
+    "id": 2,
+    "front": "i.e.",
+    "back": "Latin abbreviation for 'id est', meaning 'that is'."
+  },
+  {
+    "id": 3,
+    "front": "NB",
+    "back": "Latin abbreviation for 'nota bene', meaning 'note well'."
+  },
+  {
+    "id": 4,
+    "front": "asap",
+    "back": "Abbreviation for 'as soon as possible'."
+  },
+  {
+    "id": 5,
+    "front": "RSVP",
+    "back": "Abbreviation for 'répondez s'il vous plaît', used on invitations to mean 'please reply'."
+  },
+  {
+    "id": 6,
+    "front": "PTO",
+    "back": "Written abbreviation meaning 'please turn over'."
+  },
+  {
+    "id": 7,
+    "front": "FAQ",
+    "back": "Abbreviation for 'frequently asked question', common on websites."
+  },
+  {
+    "id": 8,
+    "front": "pcm",
+    "back": "Accommodation ad abbreviation for 'per calendar month'."
+  },
+  {
+    "id": 9,
+    "front": "o.n.o.",
+    "back": "Abbreviation meaning 'or nearest offer'."
+  },
+  {
+    "id": 10,
+    "front": "VAT",
+    "back": "Abbreviation for 'value-added tax', which can be pronounced as an acronym /væt/ or by individual letters."
+  },
+  {
+    "id": 11,
+    "front": "sitcom",
+    "back": "A shortened word for 'situational comedy'."
+  },
+  {
+    "id": 12,
+    "front": "all mod cons",
+    "back": "Abbreviation for 'all modern conveniences' (e.g., washing machine)."
+  },
+  {
+    "id": 13,
+    "front": "AFK",
+    "back": "Electronic text message abbreviation for 'away from keyboard'."
+  },
+  {
+    "id": 14,
+    "front": "BTW",
+    "back": "Electronic text message abbreviation for 'by the way'."
+  },
+  {
+    "id": 15,
+    "front": "s/c",
+    "back": "Accommodation ad abbreviation for 'self-contained'."
+  }
+]   

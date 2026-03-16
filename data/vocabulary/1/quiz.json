@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "question": "In the sentence 'Fruits, ... lemons, pears and grapes, are sometimes added when cooking poultry', which Latin abbreviation is most appropriate?",
+    "options": ["i.e.", "e.g.", "NB", "viz."],
+    "answer": "e.g."
+  },
+  {
+    "id": 2,
+    "question": "Which abbreviation is used to indicate that the reader should 'note well' or pay special attention to something?",
+    "options": ["P.S.", "NB", "i.e.", "etc."],
+    "answer": "NB"
+  },
+  {
+    "id": 3,
+    "question": "What does the abbreviation 'asap' stand for in standard English?",
+    "options": ["as soon as possible", "always stay at peace", "as simple as possible", "at some accessible point"],
+    "answer": "as soon as possible"
+  },
+  {
+    "id": 4,
+    "question": "According to the exercises, how is the abbreviation 'VAT' (Value Added Tax) typically pronounced?",
+    "options": ["Only by individual letters (V-A-T)", "As a single word /væt/", "Both as an acronym and by individual letters", "It is never abbreviated in speech"],
+    "answer": "Both as an acronym and by individual letters"
+  },
+  {
+    "id": 5,
+    "question": "In an advertisement for a flat, what does the abbreviation 'pcm' stand for?",
+    "options": ["private central main", "per calendar month", "please contact me", "post code map"],
+    "answer": "per calendar month"
+  },
+  {
+    "id": 6,
+    "question": "What is the meaning of the abbreviation 'o.n.o.' in a sales advertisement?",
+    "options": ["only new owners", "or nearest offer", "on night only", "original number only"],
+    "answer": "or nearest offer"
+  },
+  {
+    "id": 7,
+    "question": "Translate the following text message into standard English: 'BTW K’s going 2 b here 2.'",
+    "options": ["Between Ken going to be here too.", "By the way, K is going to be here too.", "Before the weekend, K is going to be here.", "Back to work, K is going to be here soon."],
+    "answer": "By the way, K is going to be here too."
+  },
+  {
+    "id": 8,
+    "question": "Which organization does the abbreviation 'WHO' stand for?",
+    "options": ["World Health Organisation", "World Heritage Office", "Wild Habitat Observer", "Western Health Order"],
+    "answer": "World Health Organisation"
+  },
+  {
+    "id": 9,
+    "question": "What does the abbreviation 'pp.' typically refer to in a book or document?",
+    "options": ["Private property", "Pages", "Past participle", "Post-production"],
+    "answer": "Pages"
+  },
+  {
+    "id": 10,
+    "question": "On a website, what does 'FAQ' stand for?",
+    "options": ["Frequently Asked Questions", "Fast Access Query", "Facts And Quotations", "File Access Quality"],
+    "answer": "Frequently Asked Questions"
+  }
+]
