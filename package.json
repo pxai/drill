@@ -17,6 +17,8 @@
     "typescript": "^5.9.3"
   },
   "devDependencies": {
-    "@types/node": "^25.5.0"
+    "@astrojs/tailwind": "^6.0.2",
+    "@types/node": "^25.5.0",
+    "tailwindcss": "^4.2.1"
   }
 }
