@@ -1,0 +1,52 @@
+---
+import Layout from '../layouts/Layout.astro';
+import vocabularyData from '../../public/data/vocabulary.json';
+
+// Group topics by groupname
+const groups: Record<string, typeof vocabularyData> = {};
+for (const item of vocabularyData) {
+  if (!groups[item.groupname]) groups[item.groupname] = [];
+  groups[item.groupname].push(item);
+}
+---
+
+<Layout title="Vocabulary" section="vocabulary">
+  <div class="mb-8">
+    <h1 class="text-3xl font-bold text-slate-900 dark:text-white">Vocabulary</h1>
+    <p class="mt-1 text-slate-500 dark:text-slate-400">100 topics grouped by theme</p>
+  </div>
+
+  <div class="space-y-8">
+    {Object.entries(groups).map(([group, topics]) => (
+      <section>
+        <!-- Group header -->
+        <div class="flex items-center gap-3 mb-3">
+          <span class="inline-flex items-center justify-center w-6 h-6 rounded-full bg-indigo-100 dark:bg-indigo-900 text-indigo-600 dark:text-indigo-300 text-xs font-bold">
+            {topics.length}
+          </span>
+          <h2 class="text-base font-semibold uppercase tracking-wider text-slate-400 dark:text-slate-500">
+            {group}
+          </h2>
+          <div class="flex-1 h-px bg-slate-200 dark:bg-slate-700" />
+        </div>
+
+        <!-- Topic cards -->
+        <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-3">
+          {topics.map((topic) => (
+            <a
+              href="#"
+              class="group flex items-start gap-3 p-4 rounded-2xl bg-white dark:bg-slate-800 border border-slate-200 dark:border-slate-700 hover:border-indigo-400 dark:hover:border-indigo-500 hover:shadow-md transition-all duration-200"
+            >
+              <span class="flex-shrink-0 w-8 h-8 rounded-xl bg-indigo-50 dark:bg-indigo-950 text-indigo-500 dark:text-indigo-400 flex items-center justify-center text-xs font-bold group-hover:bg-indigo-600 group-hover:text-white transition-colors duration-200">
+                {topic.number}
+              </span>
+              <span class="text-sm font-medium text-slate-700 dark:text-slate-200 leading-snug group-hover:text-indigo-600 dark:group-hover:text-indigo-400 transition-colors duration-200">
+                {topic.title}
+              </span>
+            </a>
+          ))}
+        </div>
+      </section>
+    ))}
+  </div>
+</Layout>
