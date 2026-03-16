@@ -1,0 +1,137 @@
+---
+interface Flashcard {
+  id: number;
+  front: string;
+  back: string;
+}
+
+interface Props {
+  cards: Flashcard[];
+}
+
+const { cards } = Astro.props;
+---
+
+<div id="flashcards-container" class="max-w-2xl mx-auto py-4">
+  <div class="mb-6 flex justify-between items-center text-sm text-slate-500 font-medium tracking-wide border-b border-slate-200 dark:border-slate-700 pb-2">
+    <span>Flashcards</span>
+    <span id="card-counter">1 / {cards.length}</span>
+  </div>
+
+  <div class="relative w-full aspect-[3/2] perspective-1000 cursor-pointer select-none" id="flashcard-wrapper">
+    <!-- The actual card -->
+    <div id="flashcard" class="w-full h-full relative transition-transform duration-500 transform-style-3d">
+      
+      <!-- Front side -->
+      <div class="absolute inset-0 w-full h-full bg-white dark:bg-slate-800 border-2 border-slate-200 dark:border-slate-700 rounded-3xl flex items-center justify-center p-8 text-center text-2xl font-bold text-slate-900 dark:text-white backface-hidden shadow-sm ring-1 ring-slate-900/5">
+        <div class="flex flex-col items-center gap-4">
+            <span class="text-slate-400 font-normal uppercase tracking-widest text-[10px]">Front</span>
+            <span>{cards[0]?.front}</span>
+        </div>
+      </div>
+
+      <!-- Back side -->
+      <div class="absolute inset-0 w-full h-full bg-indigo-50 dark:bg-slate-900 border-2 border-indigo-200 dark:border-indigo-400/30 rounded-3xl flex items-center justify-center p-12 text-center text-lg leading-relaxed font-medium text-slate-700 dark:text-slate-200 backface-hidden rotate-y-180 shadow-inner">
+        <div class="flex flex-col items-center gap-4">
+            <span class="text-indigo-400/70 font-normal uppercase tracking-widest text-[10px]">Back</span>
+            <span id="card-back-text">{cards[0]?.back}</span>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="mt-10 flex flex-col items-center gap-6">
+    <div class="flex items-center gap-3">
+        <button id="prev-btn" class="p-3 rounded-2xl bg-white dark:bg-slate-800 text-slate-600 dark:text-slate-400 border border-slate-200 dark:border-slate-700 hover:bg-slate-50 dark:hover:bg-slate-700 transition-colors shadow-sm disabled:opacity-30 disabled:cursor-not-allowed">
+            <svg class="w-6 h-6" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2.5"><path stroke-linecap="round" stroke-linejoin="round" d="M15 19l-7-7 7-7"/></svg>
+        </button>
+        
+        <button id="flip-btn" class="px-8 py-3 rounded-2xl bg-indigo-600 text-white font-bold hover:bg-indigo-500 active:scale-95 transition-all shadow-md shadow-indigo-500/20">
+            Flip Card
+        </button>
+
+        <button id="next-btn" class="p-3 rounded-2xl bg-white dark:bg-slate-800 text-slate-600 dark:text-slate-400 border border-slate-200 dark:border-slate-700 hover:bg-slate-50 dark:hover:bg-slate-700 transition-colors shadow-sm disabled:opacity-30 disabled:cursor-not-allowed">
+            <svg class="w-6 h-6" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2.5"><path stroke-linecap="round" stroke-linejoin="round" d="M9 5l7 7-7 7"/></svg>
+        </button>
+    </div>
+    
+    <div class="text-center text-xs text-slate-400">
+        <kbd class="px-2 py-1 rounded bg-slate-100 dark:bg-slate-800 font-sans border border-slate-200 dark:border-slate-700">Space</kbd> to flip, <kbd class="px-2 py-1 rounded bg-slate-100 dark:bg-slate-800 font-sans border border-slate-200 dark:border-slate-700">←</kbd> <kbd class="px-2 py-1 rounded bg-slate-100 dark:bg-slate-800 font-sans border border-slate-200 dark:border-slate-700">→</kbd> to navigate
+    </div>
+  </div>
+</div>
+
+<style>
+  .perspective-1000 { perspective: 1000px; }
+  .transform-style-3d { transform-style: preserve-3d; }
+  .backface-hidden { backface-visibility: hidden; }
+  .rotate-y-180 { transform: rotateY(180deg); }
+  .is-flipped { transform: rotateY(180deg); }
+</style>
+
+<script define:vars={{ cards }}>
+  let currentIndex = 0;
+  let isFlipped = false;
+
+  const card = document.getElementById('flashcard');
+  const cardWrapper = document.getElementById('flashcard-wrapper');
+  const counter = document.getElementById('card-counter');
+  const prevBtn = document.getElementById('prev-btn');
+  const nextBtn = document.getElementById('next-btn');
+  const flipBtn = document.getElementById('flip-btn');
+
+  function updateCard() {
+    const frontText = card.querySelector('.backface-hidden:not(.rotate-y-180) span:last-child');
+    const backText = document.getElementById('card-back-text');
+    
+    // Reset flip before changing content
+    card.classList.remove('is-flipped');
+    isFlipped = false;
+
+    setTimeout(() => {
+        frontText.textContent = cards[currentIndex].front;
+        backText.textContent = cards[currentIndex].back;
+        counter.textContent = `${currentIndex + 1} / ${cards.length}`;
+        prevBtn.disabled = currentIndex === 0;
+        nextBtn.disabled = currentIndex === cards.length - 1;
+    }, 150);
+  }
+
+  function handleFlip() {
+    isFlipped = !isFlipped;
+    card.classList.toggle('is-flipped', isFlipped);
+  }
+
+  cardWrapper?.addEventListener('click', handleFlip);
+  flipBtn?.addEventListener('click', handleFlip);
+
+  prevBtn?.addEventListener('click', () => {
+    if (currentIndex > 0) {
+      currentIndex--;
+      updateCard();
+    }
+  });
+
+  nextBtn?.addEventListener('click', () => {
+    if (currentIndex < cards.length - 1) {
+      currentIndex++;
+      updateCard();
+    }
+  });
+
+  document.addEventListener('keydown', (e) => {
+    if (e.code === 'Space') {
+      e.preventDefault();
+      handleFlip();
+    } else if (e.code === 'ArrowLeft' && currentIndex > 0) {
+      currentIndex--;
+      updateCard();
+    } else if (e.code === 'ArrowRight' && currentIndex < cards.length - 1) {
+      currentIndex++;
+      updateCard();
+    }
+  });
+
+  // Initial state
+  updateCard();
+</script>

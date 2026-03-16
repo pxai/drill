@@ -1,0 +1,135 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import Flashcards from '../../components/Flashcards.astro';
+import Quiz from '../../components/Quiz.astro';
+import vocabularyData from '../../../public/data/vocabulary.json';
+
+export async function getStaticPaths() {
+  return vocabularyData.map((topic) => ({
+    params: { id: topic.id.toString() },
+    props: { topic },
+  }));
+}
+
+const { id } = Astro.params;
+const { topic } = Astro.props;
+
+// Try to fetch specific topic data
+let flashcards = [];
+let quiz = [];
+let hasData = false;
+
+try {
+  // We use import.meta.glob or similar for static, but since these are in public,
+  // we can also tries to fetch them if we were SSR. For static, we need them at build time.
+  // The user said the data is in data/vocabulary/id.
+  // Since I can't easily dynamic import from public during build without a specific loader,
+  // I'll use a hacky way to check if files exist if I had access to fs, but in Astro component 
+  // I can use standard node fs if I'm building.
+  
+  const fs = await import('node:fs');
+  const path = await import('node:path');
+  
+  const flashcardPath = path.resolve(`./public/data/vocabulary/${id}/flashcard.json`);
+  const quizPath = path.resolve(`./public/data/vocabulary/${id}/quiz.json`);
+  
+  if (fs.existsSync(flashcardPath)) {
+    flashcards = JSON.parse(fs.readFileSync(flashcardPath, 'utf8'));
+    hasData = true;
+  }
+  
+  if (fs.existsSync(quizPath)) {
+    quiz = JSON.parse(fs.readFileSync(quizPath, 'utf8'));
+  }
+} catch (e) {
+  console.error(`Error loading data for topic ${id}`, e);
+}
+
+const base = import.meta.env.BASE_URL;
+---
+
+<Layout title={topic.title} section="vocabulary">
+  <div class="mb-8 flex flex-col sm:flex-row sm:items-end justify-between gap-4">
+    <div>
+        <a href={`${base}vocabulary`} class="text-xs font-bold text-indigo-600 dark:text-indigo-400 uppercase tracking-widest hover:underline mb-2 inline-block">
+            ← Back to Vocabulary
+        </a>
+        <h1 class="text-3xl font-bold text-slate-900 dark:text-white leading-tight">
+            {topic.title}
+        </h1>
+        <p class="text-slate-500 dark:text-slate-400 mt-1">Topic {topic.number} · {topic.groupname}</p>
+    </div>
+  </div>
+
+  {!hasData ? (
+    <div class="py-20 text-center">
+        <div class="text-6xl mb-4">🚧</div>
+        <h2 class="text-xl font-bold text-slate-900 dark:text-white">Exercises Coming Soon</h2>
+        <p class="text-slate-500 max-w-sm mx-auto mt-2">We are currently preparing the flashcards and quiz for this topic. Please check back later!</p>
+        <a href={`${base}vocabulary`} class="mt-8 inline-block px-6 py-2 rounded-full bg-slate-200 dark:bg-slate-800 text-slate-700 dark:text-slate-300 font-bold hover:bg-slate-300 transition-colors">
+            Go Back
+        </a>
+    </div>
+  ) : (
+    <div x-data="{ tab: 'flashcards' }" class="bg-white dark:bg-slate-800/50 rounded-3xl border border-slate-200 dark:border-slate-700 overflow-hidden shadow-sm">
+      <!-- Tabs Header -->
+      <div class="flex border-b border-slate-200 dark:border-slate-700 bg-slate-50/50 dark:bg-slate-800">
+        <button 
+            id="tab-flashcards"
+            class="flex-1 py-4 text-sm font-bold transition-all border-b-2 border-transparent text-slate-400 hover:text-slate-600 dark:hover:text-slate-200"
+            role="tab"
+        >
+            Flashcards
+        </button>
+        <button 
+            id="tab-quiz"
+            class="flex-1 py-4 text-sm font-bold transition-all border-b-2 border-transparent text-slate-400 hover:text-slate-600 dark:hover:text-slate-200"
+            role="tab"
+        >
+            Quiz
+        </button>
+      </div>
+
+      <!-- Tab Content -->
+      <div class="p-6 sm:p-10 min-h-[400px]">
+        <div id="panel-flashcards" class="animate-in fade-in duration-300">
+            <Flashcards cards={flashcards} />
+        </div>
+        <div id="panel-quiz" class="hidden animate-in fade-in duration-300">
+            <Quiz questions={quiz} topicId={id} />
+        </div>
+      </div>
+    </div>
+  )}
+</Layout>
+
+<script>
+    const tabFlashcards = document.getElementById('tab-flashcards');
+    const tabQuiz = document.getElementById('tab-quiz');
+    const panelFlashcards = document.getElementById('panel-flashcards');
+    const panelQuiz = document.getElementById('panel-quiz');
+
+    function setTab(tab: 'flashcards' | 'quiz') {
+        if (tab === 'flashcards') {
+            tabFlashcards?.classList.add('border-indigo-600', 'text-indigo-600', 'dark:text-indigo-400');
+            tabFlashcards?.classList.remove('text-slate-400');
+            tabQuiz?.classList.remove('border-indigo-600', 'text-indigo-600', 'dark:text-indigo-400');
+            tabQuiz?.classList.add('text-slate-400');
+            panelFlashcards?.classList.remove('hidden');
+            panelQuiz?.classList.add('hidden');
+        } else {
+            tabQuiz?.classList.add('border-indigo-600', 'text-indigo-600', 'dark:text-indigo-400');
+            tabQuiz?.classList.remove('text-slate-400');
+            tabFlashcards?.classList.remove('border-indigo-600', 'text-indigo-600', 'dark:text-indigo-400');
+            tabFlashcards?.classList.add('text-slate-400');
+            panelQuiz?.classList.remove('hidden');
+            panelFlashcards?.classList.add('hidden');
+        }
+    }
+
+    tabFlashcards?.addEventListener('click', () => setTab('flashcards'));
+    tabQuiz?.addEventListener('click', () => setTab('quiz'));
+
+    // Init
+    setTab('flashcards');
+</script>
