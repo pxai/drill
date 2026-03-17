@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "front": "cyber-",
+    "back": "A prefix relating to computers and the Internet (e.g., 'cyberpet', 'cyberspace')."
+  },
+  {
+    "id": 2,
+    "front": "techno-",
+    "back": "A prefix relating to technology (e.g., 'techno-wizard', 'technophobia')."
+  },
+  {
+    "id": 3,
+    "front": "retro-",
+    "back": "A prefix meaning 'looking back' or 'past' (e.g., 'retrospective', 'retro-style')."
+  },
+  {
+    "id": 4,
+    "front": "auto-",
+    "back": "A prefix meaning 'self' (e.g., 'autopilot', 'autograph')."
+  },
+  {
+    "id": 5,
+    "front": "-ology",
+    "back": "A suffix meaning the 'study of' a subject (e.g., 'criminology', 'graphology')."
+  },
+  {
+    "id": 6,
+    "front": "-graphy",
+    "back": "A suffix relating to writing or representation (e.g., 'biography', 'phonology')."
+  },
+  {
+    "id": 7,
+    "front": "infomercial",
+    "back": "A blend of 'information' and 'commercial'; a long TV advertisement that gives a lot of information."
+  },
+  {
+    "id": 8,
+    "front": "edutainment",
+    "back": "A blend of 'education' and 'entertainment'; products or activities that teach and entertain at the same time."
+  },
+  {
+    "id": 9,
+    "front": "cybrary",
+    "back": "A blend of 'cyber' and 'library'; a collection of resources available on the Internet."
+  },
+  {
+    "id": 10,
+    "front": "swimathon",
+    "back": "A blend of 'swim' and 'marathon'; a long-distance swimming event, often for charity."
+  }
+]

@@ -1,0 +1,77 @@
+[
+  {
+    "id": 1,
+    "front": "overrated",
+    "back": "To value something more highly than it deserves; uses the 'excess' meaning of the prefix [2]."
+  },
+  {
+    "id": 2,
+    "front": "underestimate",
+    "back": "To think that something is smaller or less important than it really is [2]."
+  },
+  {
+    "id": 3,
+    "front": "overwrite",
+    "back": "To replace an existing file with a new one; uses the 'cover' meaning of the prefix [2]."
+  },
+  {
+    "id": 4,
+    "front": "underfunded",
+    "back": "Lacking sufficient money for a project or organization [3]."
+  },
+  {
+    "id": 5,
+    "front": "overstepping the mark",
+    "back": "Crossing a barrier into offensive or unacceptable behavior [2]."
+  },
+  {
+    "id": 6,
+    "front": "underlying",
+    "back": "Refers to a deeper or fundamental issue, such as an 'underlying question' [2]."
+  },
+  {
+    "id": 7,
+    "front": "undermine",
+    "back": "To attack or weaken something, often in a sneaky or dishonest way [2]."
+  },
+  {
+    "id": 8,
+    "front": "upgrade",
+    "back": "To change something to a better class or more advanced version [2]."
+  },
+  {
+    "id": 9,
+    "front": "upturn",
+    "back": "A sudden change for the better, commonly used in economic contexts [2]."
+  },
+  {
+    "id": 10,
+    "front": "cross-border",
+    "back": "Refers to activities occurring across the frontiers of two or more countries [2, 3]."
+  },
+  {
+    "id": 11,
+    "front": "ejected",
+    "back": "A formal term for being thrown out, using the prefix 'e-' meaning 'coming out of' [2]."
+  },
+  {
+    "id": 12,
+    "front": "emitted",
+    "back": "A formal term meaning to give out something, such as a loud noise [2]."
+  },
+  {
+    "id": 13,
+    "front": "adjacent to",
+    "back": "Meaning 'next to'; the prefix 'a(d)-' implies adding or connecting [2]."
+  },
+  {
+    "id": 14,
+    "front": "proliferate",
+    "back": "To increase rapidly in number [3]."
+  },
+  {
+    "id": 15,
+    "front": "extracurricular",
+    "back": "Activities that fall outside the normal academic curriculum [3]."
+  }
+]

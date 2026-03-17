@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "question": "What meaning does the prefix 'over-' provide in the word 'overrated'?",
+    "options": ["Covering/dominating", "Excess", "Crossing a barrier", "Sudden change"],
+    "answer": "Excess"
+  },
+  {
+    "id": 2,
+    "question": "In the phrase 'the underlying question', the prefix 'under-' most likely indicates:",
+    "options": ["Lacking money", "Negative behavior", "Something deeper/below another thing", "Across frontiers"],
+    "answer": "Something deeper/below another thing"
+  },
+  {
+    "id": 3,
+    "question": "Complete the sentence: 'Cooperation ... the frontier has been very good.'",
+    "options": ["intra-border", "inter-border", "cross-border", "extra-border"],
+    "answer": "cross-border"
+  },
+  {
+    "id": 4,
+    "question": "Which verb means to 'increase rapidly in number'?",
+    "options": ["promote", "proliferate", "procrastinate", "procreate"],
+    "answer": "proliferate"
+  },
+  {
+    "id": 5,
+    "question": "What is the approximate meaning of the prefix 'extra-' in words like 'extraterrestrial'?",
+    "options": ["within", "between", "across", "outside"],
+    "answer": "outside"
+  },
+  {
+    "id": 6,
+    "question": "If a machine 'gave out' a loud noise, it is formally said to have ... it.",
+    "options": ["conversed", "emitted", "annotated", "upgraded"],
+    "answer": "emitted"
+  },
+  {
+    "id": 7,
+    "question": "To be 'thrown out' of a restaurant for bad behavior is to be ... (formal term).",
+    "options": ["ejected", "emitted", "adjacent", "undermined"],
+    "answer": "ejected"
+  },
+  {
+    "id": 8,
+    "question": "Which word describes a sudden change for the better in the economy?",
+    "options": ["upgrade", "upturn", "proliferate", "procrastination"],
+    "answer": "upturn"
+  },
+  {
+    "id": 9,
+    "question": "If you replace an old file with a new one in a computer program, you ... the existing file.",
+    "options": ["underestimate", "undermine", "overwrite", "overstep"],
+    "answer": "overwrite"
+  },
+  {
+    "id": 10,
+    "question": "A project that failed to open because it lacked money was ... from the outset.",
+    "options": ["overbearing", "underfunded", "underhand", "overshadowed"],
+    "answer": "underfunded"
+  }
+]

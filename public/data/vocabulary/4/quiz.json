@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "question": "What is the meaning of the prefix in the word 'biography'?",
+    "options": ["study of", "writing about a life", "self-made", "distance"],
+    "answer": "writing about a life"
+  },
+  {
+    "id": 2,
+    "question": "Which word part would you use to describe a degree in 'the science of crime'?",
+    "options": ["-graphy", "cyber-", "-ology", "retro-"],
+    "answer": "-ology"
+  },
+  {
+    "id": 3,
+    "question": "If you are 'looking back' at a painter's life and work, the exhibition is a ...",
+    "options": ["photographic", "retrospective", "autobiographical", "technological"],
+    "answer": "retrospective"
+  },
+  {
+    "id": 4,
+    "question": "Complete the blend: A burger made with vegetables instead of meat is a ...",
+    "options": ["bioburger", "vegeburger", "technoburger", "infoburger"],
+    "answer": "vegeburger"
+  },
+  {
+    "id": 5,
+    "question": "In the sentence 'Most planes fly on ...', which word means they are controlled by a computer?",
+    "options": ["autopilot", "telepilot", "cyberpilot", "macropilot"],
+    "answer": "autopilot"
+  },
+  {
+    "id": 6,
+    "question": "What two words are combined to form 'edutainment'?",
+    "options": ["editing + entertainment", "education + entertainment", "education + attainment", "editorial + entertainment"],
+    "answer": "education + entertainment"
+  },
+  {
+    "id": 7,
+    "question": "A 'techno-wizard' is someone who is ...",
+    "options": ["afraid of technology", "very skilled with technology", "studying technology", "selling technology"],
+    "answer": "very skilled with technology"
+  },
+  {
+    "id": 8,
+    "question": "Which prefix refers to something happening 'after' a specific event?",
+    "options": ["pre-", "post-", "auto-", "tele-"],
+    "answer": "post-"
+  },
+  {
+    "id": 9,
+    "question": "A 'swimathon' is modeled after which type of event?",
+    "options": ["Triathlon", "Marathon", "Telethon", "Decathlon"],
+    "answer": "Marathon"
+  },
+  {
+    "id": 10,
+    "question": "If a library's resources are primarily electronic/Internet-based, it might be called a ...",
+    "options": ["Technary", "Net-brary", "Cybrary", "Tele-brary"],
+    "answer": "Cybrary"
+  }
+]

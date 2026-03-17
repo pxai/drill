@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "question": "Which collocation is most appropriate for describing a protest organized by students?",
+    "options": ["student-free protest", "student-worthy protest", "student-led protest", "student-rich protest"],
+    "answer": "student-led protest"
+  },
+  {
+    "id": 2,
+    "question": "If someone is very focused on their job and professional growth, they are said to be ...",
+    "options": ["job-proof", "career-minded", "work-ridden", "office-conscious"],
+    "answer": "career-minded"
+  },
+  {
+    "id": 3,
+    "question": "Complete the sentence using a suffix: 'The weather is ... (can't be predicted).'",
+    "options": ["unpredictful", "unpredictable", "unpredict-worthy", "unpredict-related"],
+    "answer": "unpredictable"
+  },
+  {
+    "id": 4,
+    "question": "What does 'disposable income' refer to?",
+    "options": ["Income that is thrown away", "Income available to be spent", "Income that is related to taxes", "Income for poor people"],
+    "answer": "Income available to be spent"
+  },
+  {
+    "id": 5,
+    "question": "Which word describes a person who feels a lot of regret or shame?",
+    "options": ["shame-free", "guilt-ridden", "regret-proof", "pity-conscious"],
+    "answer": "guilt-ridden"
+  },
+  {
+    "id": 6,
+    "question": "A room that blocks out all external noise is described as being ...",
+    "options": ["quiet-rich", "sound-free", "soundproof", "noise-led"],
+    "answer": "soundproof"
+  },
+  {
+    "id": 7,
+    "question": "Which suffix converts the adjective 'moist' into a verb meaning 'to make moist'?",
+    "options": ["-ly", "-ant", "-en", "-able"],
+    "answer": "-en"
+  },
+  {
+    "id": 8,
+    "question": "A news story that is important enough to be reported is ...",
+    "options": ["news-conscious", "news-related", "newsworthy", "news-led"],
+    "answer": "newsworthy"
+  },
+  {
+    "id": 9,
+    "question": "In the word 'applicant', what does the suffix '-ant' signify?",
+    "options": ["A person who does the action", "A quality of being", "A small amount", "A mathematical result"],
+    "answer": "A person who does the action"
+  },
+  {
+    "id": 10,
+    "question": "Which of these '-ly' words is actually an adjective, not an adverb?",
+    "options": ["quickly", "leisurely", "happily", "recently"],
+    "answer": "leisurely"
+  }
+]
