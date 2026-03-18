@@ -1,0 +1,63 @@
+[
+  {
+    "id": 1,
+    "question": "According to the 'false friends' list in Exercise 5.5, what does the English word 'sympathetic' mean?",
+    "options": ["Nice and friendly", "Understanding and caring about others' problems", "A person who is easy to talk to", "Similar to another person"],
+    "answer": "Understanding and caring about others' problems"
+  },
+  {
+    "id": 2,
+    "question": "If an English speaker gives a German speaker a 'gift', why might there be a misunderstanding?",
+    "//": "Based on Exercise 5.5 regarding false friends.",
+    "options": ["Because 'gift' means 'poison' in German", "Because 'gift' means 'expensive' in German", "Because 'gift' means 'stolen' in German", "Because Germans do not give gifts"],
+    "answer": "Because 'gift' means 'poison' in German"
+  },
+  {
+    "id": 3,
+    "question": "Complete the sentence from Exercise 5.3: 'Most children these days are ... against measles when they are babies.'",
+    "options": ["enriched", "inoculated", "advertised", "proposed"],
+    "answer": "inoculated"
+  },
+  {
+    "id": 4,
+    "question": "To which thematic field do the English loan words 'bacon', 'beefsteak', and 'pudding' belong?",
+    "options": ["Flora and fauna", "Clothing and the home", "Food and drink", "Industrial products"],
+    "answer": "Food and drink"
+  },
+  {
+    "id": 5,
+    "question": "In the collocation '... of information', which word from Exercise 5.1 fits best?",
+    "options": ["enrich", "source", "classical", "linguistic"],
+    "answer": "source"
+  },
+  {
+    "id": 6,
+    "question": "The words 'mustang' and 'bulldog' are categorized in Exercise 5.6 as English loan words related to:",
+    "options": ["Flora and fauna", "Politics and society", "Arts and leisure", "Technology"],
+    "answer": "Flora and fauna"
+  },
+  {
+    "id": 7,
+    "question": "Complete the collocation from Exercise 5.3: 'The company will be committing ... if it agrees to such a plan.'",
+    "options": ["economic proposal", "linguistic enrich", "classical source", "industrial cleaning"],
+    "answer": "economic proposal"
+  },
+  {
+    "id": 8,
+    "question": "Which word from Exercise 5.1 describes something related to the study of language?",
+    "options": ["Classical", "Linguistic", "Enrich", "Source"],
+    "answer": "Linguistic"
+  },
+  {
+    "id": 9,
+    "question": "What kind of words are 'hammock', 'turban', and 'tiger' in the context of this unit?",
+    "options": ["Compound words", "Suffixes", "Loan words from other languages", "False friends"],
+    "answer": "Loan words from other languages"
+  },
+  {
+    "id": 10,
+    "question": "In Exercise 5.2, which word is illustrated by a picture of a traditional head-covering worn in various cultures?",
+    "options": ["Hammock", "Cot", "Turban", "Tiger"],
+    "answer": "Turban"
+  }
+]

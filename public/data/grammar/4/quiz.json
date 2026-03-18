@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "question": "Which tense is correct? 'Just as I ... into the bath, all the lights ... off.'",
+    "options": ["got / went", "was getting / were going", "was getting / went", "got / was going"],
+    "answer": "was getting / went"
+  },
+  {
+    "id": 2,
+    "question": "To describe a background situation in a story (e.g., what someone was wearing when they left), you should use:",
+    "options": ["Past Simple", "Past Continuous", "Past Perfect", "Present Perfect"],
+    "answer": "Past Continuous"
+  },
+  {
+    "id": 3,
+    "question": "Complete the intention: 'We ... wondering about inviting Eva over tomorrow.' (Indicates a less definite plan)",
+    "options": ["are", "were", "had been", "will be"],
+    "answer": "were"
+  },
+  {
+    "id": 4,
+    "question": "In the sentence 'The smoke alarm ... when she ... a candle underneath it', both verbs should be:",
+    "options": ["Past Continuous", "Past Simple", "Past Perfect", "Present Simple"],
+    "answer": "Past Simple"
+  },
+  {
+    "id": 5,
+    "question": "If you say 'I was having to bring work home every night', the Past Continuous suggests:",
+    "options": ["It was a permanent habit", "It happened surprisingly often", "It was a one-time event", "It never actually happened"],
+    "answer": "It happened surprisingly often"
+  }
+]

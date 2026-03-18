@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "front": "Past Continuous (Emphasis)",
+    "back": "Used to emphasize that an event or activity was in progress during a past period (e.g., 'I was learning to drive')."
+  },
+  {
+    "id": 2,
+    "front": "Past Simple (Sequence)",
+    "back": "Used to talk about two or more past completed events that followed one another (e.g., 'She got up when the alarm went off')."
+  },
+  {
+    "id": 3,
+    "front": "Repeated Past Actions",
+    "back": "Usually use Past Simple. However, Past Continuous is used in spoken English for temporary actions or things that happened surprisingly often."
+  },
+  {
+    "id": 4,
+    "front": "Background in Narrative",
+    "back": "Past Continuous is often used to describe the situation that existed at the time a single complete event (Past Simple) occurred."
+  },
+  {
+    "id": 5,
+    "front": "Verbs of Intention",
+    "back": "Verbs like 'consider', 'expect', or 'plan' in Past Continuous report a future intention that is less definite than the Past Simple form."
+  }
+]
