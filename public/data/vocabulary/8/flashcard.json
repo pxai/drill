@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "front": "perks",
+    "back": "Extra benefits you receive from a job in addition to your salary, such as a company car or health insurance."
+  },
+  {
+    "id": 2,
+    "front": "hit a glass ceiling",
+    "back": "An invisible barrier that prevents certain groups (often women or minorities) from being promoted to the highest levels of a company."
+  },
+  {
+    "id": 3,
+    "front": "snowed under",
+    "back": "An informal expression meaning to have a huge amount of work to do."
+  },
+  {
+    "id": 4,
+    "front": "high-flyer",
+    "back": "A person who is very ambitious and is likely to be successful in their career."
+  },
+  {
+    "id": 5,
+    "front": "demoted",
+    "back": "To be moved to a lower position or rank in a company, often as a punishment (the opposite of promoted)."
+  },
+  {
+    "id": 6,
+    "front": "short-listed",
+    "back": "To be chosen from a large group of applicants for a final interview or the next stage of selection."
+  },
+  {
+    "id": 7,
+    "front": "drop in salary",
+    "back": "A reduction in the amount of money you earn from your job."
+  },
+  {
+    "id": 8,
+    "front": "loosely organised",
+    "back": "A team or system that lacks a rigid structure; its opposite is 'tightly knit'."
+  },
+  {
+    "id": 9,
+    "front": "static profession",
+    "back": "A career path that offers little change or opportunity for growth."
+  },
+  {
+    "id": 10,
+    "front": "low motivation",
+    "back": "Lacking the drive or interest to perform well at work."
+  }
+]

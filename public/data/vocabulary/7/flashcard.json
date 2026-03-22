@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "front": "talk shop",
+    "back": "To talk about work when you are not at work, especially with colleagues in a social setting."
+  },
+  {
+    "id": 2,
+    "front": "nine-to-five",
+    "back": "Describes a job with standard daytime hours, typically in an office."
+  },
+  {
+    "id": 3,
+    "front": "clock in",
+    "back": "To record the time you arrive at work, often using an electronic card or clock."
+  },
+  {
+    "id": 4,
+    "front": "flexi-time",
+    "back": "A system where employees can choose their start and finish times within certain limits."
+  },
+  {
+    "id": 5,
+    "front": "stuck in a rut",
+    "back": "Trapped in a boring, repetitive job or situation that is difficult to change."
+  },
+  {
+    "id": 6,
+    "front": "heavy workload",
+    "back": "Having a very large amount of work to complete."
+  },
+  {
+    "id": 7,
+    "front": "freelance",
+    "back": "Working for several different organizations rather than being employed by one specific company."
+  },
+  {
+    "id": 8,
+    "front": "manual job",
+    "back": "A job that involves physical work rather than mental or office work."
+  },
+  {
+    "id": 9,
+    "front": "vocational job",
+    "back": "A job that requires specific skills and training, often regarded as a calling (e.g., nursing or teaching)."
+  },
+  {
+    "id": 10,
+    "front": "job-share",
+    "back": "An arrangement where two people share the hours, duties, and pay of one full-time position."
+  }
+]

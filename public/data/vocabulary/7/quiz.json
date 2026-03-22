@@ -1,0 +1,77 @@
+[
+  {
+    "id": 1,
+    "question": "According to Exercise 7.1, what does it mean to 'talk shop'?",
+    "options": [
+      "To go shopping during lunch breaks",
+      "To discuss work matters outside of work hours",
+      "To negotiate a higher salary",
+      "To complain about colleagues"
+    ],
+    "answer": "To discuss work matters outside of work hours"
+  },
+  {
+    "id": 2,
+    "question": "If you work in a system where you can start any time between 8:00 and 10:00 AM, you are working ...",
+    "options": ["regular hours", "flexi-time", "a job-share", "freelance"],
+    "answer": "flexi-time"
+  },
+  {
+    "id": 3,
+    "question": "What is the standard term for a job with standard office hours (e.g., 9:00 AM to 5:00 PM)?",
+    "options": ["A manual job", "A vocational job", "A nine-to-five", "A routine task"],
+    "answer": "A nine-to-five"
+  },
+  {
+    "id": 4,
+    "question": "In Exercise 7.3, which phrase describes feeling trapped in a boring job?",
+    "options": ["Stuck in a rut", "Clocking in", "Talking shop", "Meeting a deadline"],
+    "answer": "Stuck in a rut"
+  },
+  {
+    "id": 5,
+    "question": "A person who works as a 'private eye' or 'trawlerman' (from Exercise 7.2) would likely describe their job as having:",
+    "options": [
+      "Standard office hours",
+      "Routine tasks",
+      "Great variety",
+      "A light workload"
+    ],
+    "answer": "Great variety"
+  },
+  {
+    "id": 6,
+    "question": "When you arrive at a factory and swipe a card to record your arrival time, you are ...",
+    "options": ["clocking out", "clocking in", "job-sharing", "freelancing"],
+    "answer": "clocking in"
+  },
+  {
+    "id": 7,
+    "question": "Which of these is considered a 'vocational' job in the context of the unit?",
+    "options": ["Assembly-line worker", "Refuse collector", "Nurse", "PR officer"],
+    "answer": "Nurse"
+  },
+  {
+    "id": 8,
+    "question": "If you have too much work to do, you are said to have a ... workload.",
+    "options": ["heavy", "routine", "manual", "stagnant"],
+    "answer": "heavy"
+  },
+  {
+    "id": 9,
+    "question": "Someone who is their own boss and takes on projects for various different companies is a ... worker.",
+    "options": ["job-share", "freelance", "manual", "vocational"],
+    "answer": "freelance"
+  },
+  {
+    "id": 10,
+    "question": "Exercise 7.4 describes a job involving a lot of 'paperwork'. What does this imply?",
+    "options": [
+      "Building things with paper",
+      "Administrative tasks like filing and writing reports",
+      "Selling newspapers on the street",
+      "Working in a recycling center"
+    ],
+    "answer": "Administrative tasks like filing and writing reports"
+  }
+]

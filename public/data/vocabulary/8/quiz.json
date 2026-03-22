@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "question": "In formal English, what is a better way to say 'There’s a lot of money in selling computers'?",
+    "options": ["Selling computers makes big bucks", "Computer sales generate significant revenue", "Computer selling is very wealthy", "There is high cash in computer sales"],
+    "answer": "Computer sales generate significant revenue"
+  },
+  {
+    "id": 2,
+    "question": "If a woman is unable to get a top management position despite being qualified, she is said to have ...",
+    "options": ["hit a brick wall", "hit a glass ceiling", "fallen through the floor", "broken the window"],
+    "answer": "hit a glass ceiling"
+  },
+  {
+    "id": 3,
+    "question": "Which of these is the most appropriate opposite for a 'loosely organised' team?",
+    "options": ["A high-flying team", "A static team", "A tightly knit team", "A demoted team"],
+    "answer": "A tightly knit team"
+  },
+  {
+    "id": 4,
+    "question": "Based on Exercise 8.4, which of these is considered a 'positive' (+) expression?",
+    "options": ["to be snowed under", "to be demoted", "to have a lot of perks", "to hit a glass ceiling"],
+    "answer": "to have a lot of perks"
+  },
+  {
+    "id": 5,
+    "question": "If you are one of the final three people being considered for a job after a long interview process, you have been ...",
+    "options": ["demoted", "short-listed", "passed over", "snowed under"],
+    "answer": "short-listed"
+  }
+]

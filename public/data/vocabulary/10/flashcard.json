@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "front": "submit a tender",
+    "back": "To supply a written offer to do a job for an agreed price [1]."
+  },
+  {
+    "id": 2,
+    "front": "penalty clause",
+    "back": "A part of a contract specifying what will happen if an agreement is broken [1]."
+  },
+  {
+    "id": 3,
+    "front": "outstanding account",
+    "back": "An account that has not yet been paid [1, 2]."
+  },
+  {
+    "id": 4,
+    "front": "default on a payment",
+    "back": "To fail to pay something that had been agreed upon [1, 2]."
+  },
+  {
+    "id": 5,
+    "front": "acknowledge receipt",
+    "back": "To inform the sender when something (like a payment or letter) has been received [1, 2]."
+  },
+  {
+    "id": 6,
+    "front": "shipment",
+    "back": "The goods that are sent out after an order has been shipped [1]."
+  },
+  {
+    "id": 7,
+    "front": "morale",
+    "back": "The amount of confidence felt by a person or group, often related to workplace environment [1, 2]."
+  },
+  {
+    "id": 8,
+    "front": "character flaw",
+    "back": "A weakness or fault in someone's personality [1, 2]."
+  },
+  {
+    "id": 9,
+    "front": "square deal",
+    "back": "A fair and honest business agreement [1, 2]."
+  },
+  {
+    "id": 10,
+    "front": "chief executive",
+    "back": "The highest-ranking person in a company or organization [2]."
+  },
+  {
+    "id": 11,
+    "front": "survival of the fittest",
+    "back": "A concept often applied to business suggesting only the strongest companies endure [1, 2]."
+  },
+  {
+    "id": 12,
+    "front": "amass a fortune",
+    "back": "To collect or build up a large amount of money over time [1, 2]."
+  }
+]

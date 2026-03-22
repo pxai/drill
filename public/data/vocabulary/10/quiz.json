@@ -1,0 +1,67 @@
+[
+  {
+    "id": 1,
+    "question": "If you have many accounts that have not yet been paid, they are described as being ...",
+    "options": ["expired", "outstanding", "defaulted", "acknowledged"],
+    "answer": "outstanding"
+  },
+  {
+    "id": 2,
+    "question": "In a business contract, what do we call a section that specifies the consequences of breaking the agreement?",
+    "options": ["A tender", "A square deal", "A penalty clause", "A character flaw"],
+    "answer": "A penalty clause"
+  },
+  {
+    "id": 3,
+    "question": "Complete the sentence from Exercise 10.2: 'Unfortunately, there’s a ... in your reasoning.'",
+    "options": ["lack", "flaw", "morale", "project"],
+    "answer": "flaw"
+  },
+  {
+    "id": 4,
+    "question": "If a contract was agreed for a fixed period and that period ends, the contract is said to ...",
+    "options": ["default", "submit", "expire", "ship"],
+    "answer": "expire"
+  },
+  {
+    "id": 5,
+    "question": "What is the correct term for supplying a written offer to do a job for a set price?",
+    "options": ["To acknowledge receipt", "To win a tender", "To submit a tender", "To default on a payment"],
+    "answer": "To submit a tender"
+  },
+  {
+    "id": 6,
+    "question": "According to the collocations in Exercise 10.4, a fair and honest deal is a ... deal.",
+    "options": ["chief", "survival", "personal", "square"],
+    "answer": "square"
+  },
+  {
+    "id": 7,
+    "question": "If a company fails to pay a debt it had previously agreed to pay, it is said to ... on that payment.",
+    "options": ["miss", "default", "acknowledge", "ship"],
+    "answer": "default"
+  },
+  {
+    "id": 8,
+    "question": "In the context of the unit, what does 'morale' refer to?",
+    "options": [
+      "Ethical business standards",
+      "The amount of confidence in a group",
+      "The total profit of a company",
+      "A written offer for a job"
+    ],
+    "answer": "The amount of confidence in a group"
+  },
+  {
+    "id": 9,
+    "question": "Which collocation from the quotes in Section C refers to the highest-ranking person in a corporation?",
+    "options": ["Human factor", "Chief executive", "Personal gesture", "Award for achievement"],
+    "answer": "Chief executive"
+  },
+  {
+    "id": 10,
+    "question": "When you send a message to someone to let them know you have received their payment, you are ...",
+    "options": ["shipping an order", "meeting a deadline", "acknowledging receipt", "amassing a fortune"],
+    "answer": "acknowledging receipt"
+  }
+]

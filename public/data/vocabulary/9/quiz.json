@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "question": "Which term describes selling products in a package that makes it very difficult to work out which company is cheapest?",
+    "options": ["Inertia selling", "Confusion marketing", "Cold-calling", "Telemarketing"],
+    "answer": "Confusion marketing"
+  },
+  {
+    "id": 2,
+    "question": "If you have 'brand loyalty', what does that imply?",
+    "options": ["You always shop for the lowest price", "You have confidence in a make and tend to always choose it", "You only buy products from niche markets", "You prefer buying items on approval"],
+    "answer": "You have confidence in a make and tend to always choose it"
+  },
+  {
+    "id": 3,
+    "question": "Complete the collocation from Exercise 9.1: '... assets'",
+    "options": ["Loss", "Brand", "Capital", "Niche"],
+    "answer": "Capital"
+  },
+  {
+    "id": 4,
+    "question": "A unique painting being sold at an auction tomorrow is said to be going ...",
+    "options": ["under the hammer", "on approval", "into a niche market", "first refusal"],
+    "answer": "under the hammer"
+  },
+  {
+    "id": 5,
+    "question": "What does the term 'lucrative' mean in a business context?",
+    "options": ["Highly bureaucratic", "Producing a lot of money", "Involving high risk", "Related to merging companies"],
+    "answer": "Producing a lot of money"
+  },
+  {
+    "id": 6,
+    "question": "In Exercise 9.3, if two companies are discussing 'becoming one', what term is used?",
+    "options": ["Takeover", "Merging", "Entrepreneurship", "Compromise"],
+    "answer": "Merging"
+  },
+  {
+    "id": 7,
+    "question": "Which of these is a negative term for bureaucracy?",
+    "options": ["Capital assets", "Red tape", "Entrepreneurship", "Niche market"],
+    "answer": "Red tape"
+  },
+  {
+    "id": 8,
+    "question": "If you are 'swallowed up' in a business sense, what has happened?",
+    "options": ["You have gone bankrupt", "You have been taken over by a larger company", "You have reached a compromise", "You have started a new business"],
+    "answer": "You have been taken over by a larger company"
+  },
+  {
+    "id": 9,
+    "question": "What is 'inertia selling'?",
+    "options": ["Selling to a niche market", "Behaving as if a customer agreed to buy because they didn't refuse", "Phoning people who didn't request a call", "Selling items at a loss to attract customers"],
+    "answer": "Behaving as if a customer agreed to buy because they didn't refuse"
+  },
+  {
+    "id": 10,
+    "question": "If you have 'first refusal' on a property, it means:",
+    "options": ["You are the highest bidder at an auction", "The seller must ask you if you want to buy it before offering it to others", "You have the right to return the property if not satisfied", "You are buying the property as part of a package deal"],
+    "answer": "The seller must ask you if you want to buy it before offering it to others"
+  }
+]
