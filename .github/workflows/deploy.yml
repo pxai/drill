@@ -39,8 +39,8 @@ jobs:
       - name: Build Astro site
         run: npm run build
         env:
-          SITE: https://pxai.github.io
-          BASE_PATH: /drill # Set to / if using a custom root domain like drill.pello.io
+          SITE: https://drill.pello.io
+          BASE_PATH: / # Set to / if using a custom root domain like drill.pello.io
 
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
