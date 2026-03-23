@@ -1,5 +1,6 @@
 ---
 import Layout from '../layouts/Layout.astro';
+import QuizPieChart from '../components/QuizPieChart.astro';
 
 const sections = [
   { icon: '🕐', label: 'Tenses', count: 12, color: 'violet' },
@@ -20,7 +21,10 @@ const sections = [
       <div class="flex items-center gap-4 p-5 rounded-2xl bg-white dark:bg-slate-800 border border-slate-200 dark:border-slate-700 opacity-60 cursor-not-allowed select-none">
         <span class="text-3xl">{s.icon}</span>
         <div>
-          <p class="font-semibold text-slate-700 dark:text-slate-200">{s.label}</p>
+          <div class="flex items-center gap-2">
+            <p class="font-semibold text-slate-700 dark:text-slate-200">{s.label}</p>
+            <QuizPieChart topicId={s.label.toLowerCase().replace(/\s+/g, '-')} type="gram" />
+          </div>
           <p class="text-sm text-slate-400">{s.count} topics</p>
         </div>
         <span class="ml-auto text-xs font-medium bg-slate-100 dark:bg-slate-700 text-slate-400 px-2.5 py-1 rounded-full">Soon</span>

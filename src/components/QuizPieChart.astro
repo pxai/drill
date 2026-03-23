@@ -1,0 +1,68 @@
+---
+const { topicId, type = 'voca' } = Astro.props;
+---
+
+<div class="quiz-pie-chart-container w-6 h-6 ml-auto hidden" data-topic-id={topicId} data-type={type}>
+    <canvas class="quiz-pie-canvas"></canvas>
+</div>
+
+<script>
+    import { Chart, PieController, ArcElement } from 'chart.js';
+    Chart.register(PieController, ArcElement);
+
+    function initCharts() {
+        const containers = document.querySelectorAll('.quiz-pie-chart-container');
+        containers.forEach(container => {
+            if (container.getAttribute('data-chart-initialized')) return;
+
+            const topicId = container.getAttribute('data-topic-id');
+            const type = container.getAttribute('data-type');
+            const key = `drill_results_${type}_${topicId}`;
+            const dataStr = localStorage.getItem(key);
+
+            if (dataStr) {
+                try {
+                    const history = JSON.parse(dataStr);
+                    if (!Array.isArray(history) || history.length === 0) return;
+                    
+                    const data = history[history.length - 1]; // Get last result
+                    const canvas = container.querySelector('canvas') as HTMLCanvasElement;
+                    if (!canvas) return;
+                    
+                    container.classList.remove('hidden');
+                    container.classList.add('flex');
+
+                    new Chart(canvas, {
+                        type: 'pie',
+                        data: {
+                            datasets: [{
+                                data: [data.score, data.total - data.score],
+                                backgroundColor: [
+                                    'rgba(16, 185, 129, 0.8)', // emerald-500
+                                    'rgba(244, 63, 94, 0.8)'   // rose-500
+                                ],
+                                borderWidth: 0,
+                            }]
+                        },
+                        options: {
+                            responsive: true,
+                            maintainAspectRatio: true,
+                            events: [], // Disable all interactions
+                            plugins: {
+                                legend: { display: false },
+                                tooltip: { enabled: false }
+                            }
+                        }
+                    });
+                    container.setAttribute('data-chart-initialized', 'true');
+                } catch (e) {
+                    console.error('Error parsing quiz data', e);
+                }
+            }
+        });
+    }
+
+    // Run on load and after any view transitions
+    initCharts();
+    document.addEventListener('astro:after-swap', initCharts);
+</script>

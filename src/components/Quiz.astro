@@ -93,9 +93,28 @@ const { questions, topicId } = Astro.props;
 
   function saveScore(newScore) {
     const key = `drill_score_voca_${topicId}`;
+    const historyKey = `drill_results_voca_${topicId}`;
     const saved = localStorage.getItem(key);
     const best = saved ? parseInt(saved) : 0;
     
+    // Store history
+    const historyStr = localStorage.getItem(historyKey);
+    let history = [];
+    if (historyStr) {
+      try {
+        history = JSON.parse(historyStr);
+        if (!Array.isArray(history)) history = [];
+      } catch (e) {
+        history = [];
+      }
+    }
+    history.push({
+      score: newScore,
+      total: questions.length,
+      timestamp: Date.now()
+    });
+    localStorage.setItem(historyKey, JSON.stringify(history));
+
     if (newScore > best) {
       localStorage.setItem(key, newScore.toString());
     }
