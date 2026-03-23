@@ -1,0 +1,97 @@
+[
+  {
+    "id": 1,
+    "question": "What is the term for a long, research-based work of 10,000–15,000 words required for a degree?",
+    "options": ["Composition", "Essay", "Dissertation", "Portfolio"],
+    "answer": "Dissertation"
+  },
+  {
+    "id": 2,
+    "question": "In the context of the unit, what does it mean to 'cram' for an exam?",
+    "options": [
+      "To study intensively for a short period of time",
+      "To learn by memory tricks",
+      "To fail an exam despite studying",
+      "To cheat during the test"
+    ],
+    "answer": "To study intensively for a short period of time"
+  },
+  {
+    "id": 3,
+    "question": "Which word describes using someone else's ideas as if they were your own?",
+    "options": ["Mnemonics", "Plagiarism", "Rote-learning", "Feedback"],
+    "answer": "Plagiarism"
+  },
+  {
+    "id": 4,
+    "question": "If you are 'burying yourself in your books', what are you doing?",
+    "options": [
+      "Hiding your books so others can't find them",
+      "Reading for pleasure in your free time",
+      "Spending as much time as possible studying",
+      "Organizing your library"
+    ],
+    "answer": "Spending as much time as possible studying"
+  },
+  {
+    "id": 5,
+    "question": "Based on Exercise 11.3, if someone 'breezed through' their exams, they:",
+    "options": [
+      "Found them very difficult",
+      "Did them calmly and efficiently",
+      "Forgot everything they studied",
+      "Cheated to get a high grade"
+    ],
+    "answer": "Did them calmly and efficiently"
+  },
+  {
+    "id": 6,
+    "question": "What is a 'mind-map' used for in the writing process?",
+    "options": [
+      "To check for spelling errors",
+      "To diagram and connect ideas for a topic",
+      "To count the number of words in an essay",
+      "To find relevant academic journals"
+    ],
+    "answer": "To diagram and connect ideas for a topic"
+  },
+  {
+    "id": 7,
+    "question": "Which of these is the correct term for the final exams taken before receiving a degree?",
+    "options": ["Assignments", "Past papers", "First drafts", "Finals"],
+    "answer": "Finals"
+  },
+  {
+    "id": 8,
+    "question": "According to the unit, 'rote-learning' is defined as:",
+    "options": [
+      "Learning through research",
+      "Learning by memory tricks",
+      "Learning purely by repetition",
+      "Learning through feedback"
+    ],
+    "answer": "Learning purely by repetition"
+  },
+  {
+    "id": 9,
+    "question": "If you miss several classes and find yourself unable to keep up with the work, you are ...",
+    "options": [
+      "breezing through",
+      "falling behind",
+      "getting the hang of it",
+      "dropping out"
+    ],
+    "answer": "falling behind"
+  },
+  {
+    "id": 10,
+    "question": "What happens when your 'mind goes blank' during an exam?",
+    "options": [
+      "You finish very quickly",
+      "You remember everything clearly",
+      "You suddenly cannot remember anything",
+      "You decide to leave the course"
+    ],
+    "answer": "You suddenly cannot remember anything"
+  }
+]

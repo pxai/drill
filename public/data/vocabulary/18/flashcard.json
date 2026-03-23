@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "front": "must / mustn't (Formal)",
+    "back": "Used for formal rules, regulations, and warnings (e.g., 'Bookings must be made at least seven days before departure')."
+  },
+  {
+    "id": 2,
+    "front": "must / mustn't (Arrangements)",
+    "back": "In spoken English, used to propose future arrangements (e.g., 'We must get together more often') without making detailed plans."
+  },
+  {
+    "id": 3,
+    "front": "must + have + past participle",
+    "back": "Used to draw a conclusion about something that happened in the past (e.g., 'She must have borrowed it from her parents')."
+  },
+  {
+    "id": 4,
+    "front": "must be + -ing",
+    "back": "Used to draw a conclusion about something happening at or around the time of speaking (e.g., 'You must be imagining things')."
+  },
+  {
+    "id": 5,
+    "front": "must be going to / must be + -ing",
+    "back": "Used to draw a conclusion about something likely to happen in the future (e.g., 'It must be happening next Friday')."
+  },
+  {
+    "id": 6,
+    "front": "must have had to",
+    "back": "Used to conclude something about a past situation based on current knowledge (e.g., 'He must have had to go out unexpectedly')."
+  },
+  {
+    "id": 7,
+    "front": "have (got) to (Questions)",
+    "back": "Preferred in questions that hope for or expect a negative answer (e.g., 'Do we have to answer all the questions?')."
+  },
+  {
+    "id": 8,
+    "front": "have to (Criticism)",
+    "back": "Used in questions to imply criticism of an action (e.g., 'Do you have to play your trumpet here? It’s deafening!')."
+  },
+  {
+    "id": 9,
+    "front": "have to (Frequency)",
+    "back": "Usually used instead of 'have got to' when paired with frequency adverbs like 'often', 'always', or 'never'."
+  },
+  {
+    "id": 10,
+    "front": "had to",
+    "back": "The past simple form used for necessity; 'must' is not used for past necessity in this way."
+  }
+]

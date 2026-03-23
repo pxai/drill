@@ -1,0 +1,77 @@
+[
+  {
+    "id": 1,
+    "front": "medical history",
+    "back": "A record of past health and medical events for a patient."
+  },
+  {
+    "id": 2,
+    "front": "Caesarean section",
+    "back": "An operation in which the mother's stomach and womb are cut to allow a baby to be born."
+  },
+  {
+    "id": 3,
+    "front": "ectopic pregnancy",
+    "back": "A pregnancy that develops outside the uterus, such as in the fallopian tubes."
+  },
+  {
+    "id": 4,
+    "front": "ripe old age",
+    "back": "A common phrase used to describe someone who has lived well into old age (e.g., 'to live to a ripe old age')."
+  },
+  {
+    "id": 5,
+    "front": "late",
+    "back": "Used to refer to someone who has recently died (e.g., 'my late mother')."
+  },
+  {
+    "id": 6,
+    "front": "sheltered accommodation",
+    "back": "Special housing, usually for elderly people, where care staff also live."
+  },
+  {
+    "id": 7,
+    "front": "have all her wits about her",
+    "back": "To be mentally sharp and able to think and react quickly, especially in old age."
+  },
+  {
+    "id": 8,
+    "front": "will",
+    "back": "A legal document specifying how a person's possessions should be distributed after their death."
+  },
+  {
+    "id": 9,
+    "front": "cremation",
+    "back": "A service where a dead body is burned instead of buried."
+  },
+  {
+    "id": 10,
+    "front": "obituaries",
+    "back": "Newspaper articles that provide details about the lives of people who have recently died."
+  },
+  {
+    "id": 11,
+    "front": "at death's door",
+    "back": "A colloquial expression meaning to be very close to dying."
+  },
+  {
+    "id": 12,
+    "front": "fatalities",
+    "back": "A term for people killed in accidents or war (e.g., 'road accident fatalities')."
+  },
+  {
+    "id": 13,
+    "front": "perished",
+    "back": "A formal term for having died, often used in the context of accidents or natural disasters."
+  },
+  {
+    "id": 14,
+    "front": "bequeath",
+    "back": "To legally leave property or money to someone in a will; the gift itself is a 'bequest'."
+  },
+  {
+    "id": 15,
+    "front": "die intestate",
+    "back": "To die without having made a valid will."
+  }
+]

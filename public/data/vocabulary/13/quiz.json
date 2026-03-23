@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "question": "According to Table B, which of these words has a negative connotation for someone who is careful with money?",
+    "options": ["Thrifty", "Frugal", "Parsimonious", "Generous"],
+    "answer": "Parsimonious"
+  },
+  {
+    "id": 2,
+    "question": "What is the positive equivalent for the word 'stubborn' provided in the sources?",
+    "options": ["Mulish", "Resolute / Dogged", "Work-obsessed", "Cunning"],
+    "answer": "Resolute / Dogged"
+  },
+  {
+    "id": 3,
+    "question": "If you describe someone as 'shrewd', you are using a positive term to imply they are:",
+    "options": [
+      "Lacking in moral principles",
+      "Clever and have good judgement",
+      "Gloomy and ill-tempered",
+      "Extravagant and immoderate"
+    ],
+    "answer": "Clever and have good judgement"
+  },
+  {
+    "id": 4,
+    "question": "What does the word 'chauvinistic' mean in the context of personality characteristics?",
+    "options": [
+      "Systematic and careful",
+      "Too patriotic",
+      "Inclined to procrastinate",
+      "Understanding instinctively"
+    ],
+    "answer": "Too patriotic"
+  },
+  {
+    "id": 5,
+    "question": "Based on Exercise 13.1, what is the opposite of 'altruistic'?",
+    "options": ["Selfish", "Lazy", "Low-brow", "Placid"],
+    "answer": "Selfish"
+  },
+  {
+    "id": 6,
+    "question": "Which term describes a person who is 'work-obsessed' (negative association)?",
+    "options": ["Altruistic", "Workaholic", "Methodical", "Industrious"],
+    "answer": "Workaholic"
+  },
+  {
+    "id": 7,
+    "question": "What is the correct opposite for 'diligent' according to Exercise 13.1?",
+    "options": ["Parsimonious", "Morose", "Lazy", "Stubborn"],
+    "answer": "Lazy"
+  },
+  {
+    "id": 8,
+    "question": "If a person is 'morose', they are described as being:",
+    "options": ["Cheerful", "Gloomy", "Generous", "Broad-minded"],
+    "answer": "Gloomy"
+  },
+  {
+    "id": 9,
+    "question": "Which positive term is used to describe speech that is witty and brief?",
+    "options": [
+      "Sharp-tongued",
+      "Pithy",
+      "Terse",
+      "Sullen"
+    ],
+    "answer": "Pithy"
+  },
+  {
+    "id": 10,
+    "question": "According to the sources, what does it mean if someone is 'unscrupulous'?",
+    "options": [
+      "They are extremely systematic",
+      "They are lacking in moral principles",
+      "They are very naive",
+      "They are easily excited"
+    ],
+    "answer": "They are lacking in moral principles"
+  }
+]

@@ -1,0 +1,87 @@
+[
+  {
+    "id": 1,
+    "question": "What is the primary difference between 'antipathy' and 'aversion' as described in the sources?",
+    "options": [
+      "Antipathy is a dislike of things; aversion is a dislike of people",
+      "Antipathy is often an active dislike; aversion is an unwillingness to do something",
+      "Antipathy is a positive feeling; aversion is negative",
+      "There is no difference between the two terms"
+    ],
+    "answer": "Antipathy is often an active dislike; aversion is an unwillingness to do something"
+  },
+  {
+    "id": 2,
+    "question": "Which verb corresponds to the noun 'abhorrence'?",
+    "options": ["Abhor", "Abhorrent", "Abhorrently", "Abhorrence"],
+    "answer": "Abhor"
+  },
+  {
+    "id": 3,
+    "question": "If you describe someone as 'brash', you are suggesting they are:",
+    "options": [
+      "Too shy and reserved",
+      "Too confident and perhaps wearing too bright clothes",
+      "Very meticulous and careful",
+      "Old-fashioned and traditional"
+    ],
+    "answer": "Too confident and perhaps wearing too bright clothes"
+  },
+  {
+    "id": 4,
+    "question": "What does the adjective 'officious' mean?",
+    "options": [
+      "Working in a professional office",
+      "Too eager to tell others what to do",
+      "Showing a rude lack of interest",
+      "Extremely dirty and unpleasant"
+    ],
+    "answer": "Too eager to tell others what to do"
+  },
+  {
+    "id": 5,
+    "question": "According to Exercise 17.5, which word with a positive association is the pair for 'sloppy'?",
+    "options": ["Nonchalant", "Meticulous", "Childlike", "Authoritative"],
+    "answer": "Nonchalant"
+  },
+  {
+    "id": 6,
+    "question": "What is the noun form of the adjective 'pompous'?",
+    "options": ["Pompousness", "Pomposity", "Pomp", "Pompously"],
+    "answer": "Pomposity"
+  },
+  {
+    "id": 7,
+    "question": "A person who is 'grasping' (informal) is described as:",
+    "options": [
+      "Always wanting more money",
+      "Very good at catching things",
+      "Changing opinions suddenly",
+      "Too silly and childish"
+    ],
+    "answer": "Always wanting more money"
+  },
+  {
+    "id": 8,
+    "question": "If a plot of a story is described as 'trite', it is:",
+    "options": [
+      "Original and exciting",
+      "Lacking in originality or banal",
+      "Very dirty and unpleasant",
+      "Highly formal and self-important"
+    ],
+    "answer": "Lacking in originality or banal"
+  },
+  {
+    "id": 9,
+    "question": "Complete the sentence from Exercise 17.2: 'The behavior of some of the committee can only be described as ... (abhor).'",
+    "options": ["abhorring", "abhorrent", "abhorred", "abhorrence"],
+    "answer": "abhorrent"
+  },
+  {
+    "id": 10,
+    "question": "Which of these words has a negative association for behavior that is 'childlike'?",
+    "options": ["Puerile", "Nonchalant", "Fickle", "Dowdy"],
+    "answer": "Puerile"
+  }
+]

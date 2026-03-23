@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "question": "Which form is used for formal rules and regulations?",
+    "options": ["have got to", "must", "had to", "are having to"],
+    "answer": "must"
+  },
+  {
+    "id": 2,
+    "question": "Complete the conclusion about the past: 'I left my laptop on the train. Someone ... (find) it and handed it in.'",
+    "options": ["must find", "must have found", "had to find", "must be finding"],
+    "answer": "must have found"
+  },
+  {
+    "id": 3,
+    "question": "Which tense is correct for a conclusion about an event happening right now?",
+    "options": ["must be + -ing", "must + have + past participle", "must + bare infinitive", "have got to"],
+    "answer": "must be + -ing"
+  },
+  {
+    "id": 4,
+    "question": "In a question expecting a negative answer, which is preferred?",
+    "options": ["Must we...?", "Have we got to...?", "Do we have to...?", "Both B and C"],
+    "answer": "Both B and C"
+  },
+  {
+    "id": 5,
+    "question": "Which is the correct way to conclude something about a past situation based on knowledge of the present?",
+    "options": ["must have to", "must have had to", "must had to", "must have got to"],
+    "answer": "must have had to"
+  },
+  {
+    "id": 6,
+    "question": "If you want to criticize someone's repeated action in a question, you use:",
+    "options": ["Must you...?", "Do you have to...?", "Had you to...?", "Both A and B"],
+    "answer": "Both A and B"
+  },
+  {
+    "id": 7,
+    "question": "Complete the sentence with a frequency adverb: 'I often ... work at the weekend to get everything done.'",
+    "options": ["have to", "have got to", "must", "must to"],
+    "answer": "have to"
+  },
+  {
+    "id": 8,
+    "question": "Which form is used for necessity in the past simple?",
+    "options": ["must", "musted", "had to", "have had to"],
+    "answer": "had to"
+  },
+  {
+    "id": 9,
+    "question": "True or False: 'Have got to' is generally preferred in formal rules and warnings.",
+    "options": ["True", "False"],
+    "answer": "False"
+  },
+  {
+    "id": 10,
+    "question": "When 'have' is contracted (e.g., 'I've'), which word must be included for necessity?",
+    "options": ["to", "got", "must", "had"],
+    "answer": "got"
+  }
+]

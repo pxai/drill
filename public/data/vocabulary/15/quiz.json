@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "question": "What is the difference between a friend and a 'casual acquaintance'?",
+    "options": [
+      "A friend is someone you only know slightly",
+      "A casual acquaintance is someone you know, but not very well",
+      "They are exactly the same thing",
+      "A casual acquaintance is a bitter rival"
+    ],
+    "answer": "A casual acquaintance is someone you know, but not very well"
+  },
+  {
+    "id": 2,
+    "question": "If someone 'talks behind your back', they are:",
+    "options": [
+      "Whispering to you in secret",
+      "Saying bad things about you when you aren't there",
+      "Giving you unswerving loyalty",
+      "Trying to resolve a misunderstanding"
+    ],
+    "answer": "Saying bad things about you when you aren't there"
+  },
+  {
+    "id": 3,
+    "question": "Which collocation is used to describe loyalty that is constant and never changes?",
+    "options": ["Bumpy loyalty", "Sour loyalty", "Unswerving loyalty", "Discordant loyalty"],
+    "answer": "Unswerving loyalty"
+  },
+  {
+    "id": 4,
+    "question": "In a professional context, people who are in aggressive competition with each other are called ... rivals.",
+    "options": ["bitter", "staunch", "casual", "honest"],
+    "answer": "bitter"
+  },
+  {
+    "id": 5,
+    "question": "If two people 'don't see eye to eye', it means:",
+    "options": [
+      "They are physically blind",
+      "They have the same opinion",
+      "They have different opinions",
+      "They have split up"
+    ],
+    "answer": "They have different opinions"
+  },
+  {
+    "id": 6,
+    "question": "According to Section B, what is a 'rift'?",
+    "options": [
+      "A period of good and bad moments",
+      "A serious disagreement that divides people",
+      "A minor misunderstanding",
+      "A happy family reunion"
+    ],
+    "answer": "A serious disagreement that divides people"
+  },
+  {
+    "id": 7,
+    "question": "If a relationship has 'turned sour', it has:",
+    "options": ["Improved greatly", "Become bad", "Stayed exactly the same", "Ended in a divorce"],
+    "answer": "Become bad"
+  },
+  {
+    "id": 8,
+    "question": "Complete the collocation: 'There has been a lot of ... (disagreement and discontent) in the office lately.'",
+    "options": ["ally", "feud", "discord", "acquaintance"],
+    "answer": "discord"
+  },
+  {
+    "id": 9,
+    "question": "What does the informal idiom 'to hate someone's guts' mean?",
+    "options": [
+      "To be worried about someone's health",
+      "To dislike someone very intensely",
+      "To be very honest with someone",
+      "To support someone in bad times"
+    ],
+    "answer": "To dislike someone very intensely"
+  },
+  {
+    "id": 10,
+    "question": "According to Exercise 15.7, if a person is determined to harm or criticize you, they ...",
+    "options": [
+      "have it in for you",
+      "are on bad terms with you",
+      "are your staunchest ally",
+      "see eye to eye with you"
+    ],
+    "answer": "have it in for you"
+  }
+]

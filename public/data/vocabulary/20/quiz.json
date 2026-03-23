@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "question": "What is the term for a pregnancy that develops in the fallopian tubes instead of the uterus?",
+    "options": ["Termination", "Ectopic pregnancy", "Caesarean section", "Placental delivery"],
+    "answer": "Ectopic pregnancy"
+  },
+  {
+    "id": 2,
+    "question": "If someone is described as 'the late Mr. Smith', what does it imply?",
+    "options": ["He is not on time", "He has recently died", "He is very old", "He has retired"],
+    "answer": "He has recently died"
+  },
+  {
+    "id": 3,
+    "question": "According to the source, what is 'sheltered accommodation'?",
+    "options": [
+      "A hospital for new mothers",
+      "Special housing for the elderly with care staff",
+      "A funeral home",
+      "Temporary housing for disaster victims"
+    ],
+    "answer": "Special housing for the elderly with care staff"
+  },
+  {
+    "id": 4,
+    "question": "Which word describes people killed specifically in accidents or war?",
+    "options": ["Fatalities", "Mourners", "The deceased", "Fatalists"],
+    "answer": "Fatalities"
+  },
+  {
+    "id": 5,
+    "question": "If you die 'intestate', what has happened?",
+    "options": [
+      "You have died in a hospital",
+      "You have died without making a will",
+      "You have died of a rare disease",
+      "You have died at a very young age"
+    ],
+    "answer": "You have died without making a will"
+  },
+  {
+    "id": 6,
+    "question": "What is a 'bequest'?",
+    "options": [
+      "A legal document about birth",
+      "A gift of property or money left in a will",
+      "A newspaper article about a life",
+      "A ceremony for scattering ashes"
+    ],
+    "answer": "A gift of property or money left in a will"
+  },
+  {
+    "id": 7,
+    "question": "Complete the idiom: 'She lived to a ... old age.'",
+    "options": ["sweet", "ripe", "mature", "grand"],
+    "answer": "ripe"
+  },
+  {
+    "id": 8,
+    "question": "Which formal verb is used to say someone died, often in a disaster like an earthquake?",
+    "options": ["Inherited", "Perished", "Slaughtered", "Bequeathed"],
+    "answer": "Perished"
+  },
+  {
+    "id": 9,
+    "question": "In the context of the unit, what does it mean to 'have all your wits about you'?",
+    "options": [
+      "To be mentally sharp and react quickly",
+      "To be very funny",
+      "To be very wealthy",
+      "To be physically strong"
+    ],
+    "answer": "To be mentally sharp and react quickly"
+  },
+  {
+    "id": 10,
+    "question": "Where can you find detailed articles about the lives of people who have recently died?",
+    "options": ["The classifieds", "The obituaries", "The lead story", "The headlines"],
+    "answer": "The obituaries"
+  }
+]

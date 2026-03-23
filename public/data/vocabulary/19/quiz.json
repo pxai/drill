@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "question": "According to Exercise 19.1, what is the opposite of 'approachable'?",
+    "options": ["diffident", "unapproachable", "modest", "garrulous"],
+    "answer": "unapproachable"
+  },
+  {
+    "id": 2,
+    "question": "What is a stronger, more disapproving way of saying 'obstinate'?",
+    "options": ["pig-headed", "conscientious", "effusive", "taciturn"],
+    "answer": "pig-headed"
+  },
+  {
+    "id": 3,
+    "question": "If a person is described as 'diffident', they are likely to:",
+    "options": ["Have a lot of self-confidence", "Have very little self-confidence", "Talk too much", "Be very pushy"],
+    "answer": "Have very little self-confidence"
+  },
+  {
+    "id": 4,
+    "question": "Which word describes a person who is easily deceived by others?",
+    "options": ["unscrupulous", "gullible", "aloof", "haughty"],
+    "answer": "gullible"
+  },
+  {
+    "id": 5,
+    "question": "Based on the text, which term is more likely to have a positive connotation when describing sudden actions?",
+    "options": ["impetuous", "impulsive"],
+    "answer": "impulsive"
+  },
+  {
+    "id": 6,
+    "question": "A person who 'talks too much, especially about unimportant things' is:",
+    "options": ["garrulous", "taciturn", "diffident", "effusive"],
+    "answer": "garrulous"
+  },
+  {
+    "id": 7,
+    "question": "How would you describe a greeting that shows 'exaggerated expression of pleasure'?",
+    "options": ["modest", "aloof", "effusive", "pushy"],
+    "answer": "effusive"
+  },
+  {
+    "id": 8,
+    "question": "Which adjective refers to someone who 'thinks themselves wonderful' (the opposite of modest)?",
+    "options": ["conceited", "diffident", "conscientious", "naïve"],
+    "answer": "conceited"
+  },
+  {
+    "id": 9,
+    "question": "In Exercise 19.3, someone who was 'a very determined person' is described as being ...",
+    "options": ["obstinate", "conscientious", "pushy", "excitable"],
+    "answer": "obstinate"
+  },
+  {
+    "id": 10,
+    "question": "A person who 'lacks moral principles and is prepared to do bad things' is ...",
+    "options": ["unscrupulous", "diffident", "haughty", "aloof"],
+    "answer": "unscrupulous"
+  }
+]

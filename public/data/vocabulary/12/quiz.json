@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "question": "According to the unit, what does it mean if a school system is 'comprehensive'?",
+    "options": [
+      "It only accepts the most talented students via exams",
+      "It is for everyone and does not have entrance exams",
+      "It is only for mature students",
+      "It is funded entirely by private gifts"
+    ],
+    "answer": "It is for everyone and does not have entrance exams"
+  },
+  {
+    "id": 2,
+    "question": "What is the specific term for lists that rank schools from best to worst based on results?",
+    "options": ["League tables", "Two-tier systems", "National syllabuses", "Curriculum reforms"],
+    "answer": "League tables"
+  },
+  {
+    "id": 3,
+    "question": "If an education system 'perpetuates inequalities', it means it:",
+    "options": [
+      "Fixes social problems quickly",
+      "Makes everyone equal",
+      "Makes social differences continue forever",
+      "Focuses only on basic literacy"
+    ],
+    "answer": "Makes social differences continue forever"
+  },
+  {
+    "id": 4,
+    "question": "In the context of 'the three Rs', what does 'numeracy' refer to?",
+    "options": [
+      "The ability to read",
+      "The ability to write",
+      "The ability to count and do basic maths",
+      "Achieving an excellent standard in sports"
+    ],
+    "answer": "The ability to count and do basic maths"
+  },
+  {
+    "id": 5,
+    "question": "Which of these describes a 'well-endowed' school?",
+    "options": [
+      "A school with very few students",
+      "A school that receives a lot of money from grants or rich donors",
+      "A school that only teaches reading and writing",
+      "A school that is part of a two-tier system"
+    ],
+    "answer": "A school that receives a lot of money from grants or rich donors"
+  },
+  {
+    "id": 6,
+    "question": "What do we call a teacher who travels between different schools to teach?",
+    "options": ["Supply teacher", "School governor", "Peripatetic teacher", "Mature student"],
+    "answer": "Peripatetic teacher"
+  },
+  {
+    "id": 7,
+    "question": "According to Exercise 12.3, 'mature students' are those who are:",
+    "options": [
+      "Very intelligent children",
+      "Students with special needs",
+      "Older than the average student",
+      "Learning 'the three Rs' for the first time"
+    ],
+    "answer": "Older than the average student"
+  },
+  {
+    "id": 8,
+    "question": "What is 'curriculum reform'?",
+    "options": [
+      "Building new school facilities",
+      "Changes to the educational programme or national syllabus",
+      "Firing teachers who do not perform well",
+      "Providing one-to-one education for all children"
+    ],
+    "answer": "Changes to the educational programme or national syllabus"
+  },
+  {
+    "id": 9,
+    "question": "If a student wants to 'excel' at school, they want to:",
+    "options": [
+      "Drop out of their course",
+      "Achieve an excellent standard",
+      "Teach other students",
+      "Change their curriculum"
+    ],
+    "answer": "Achieve an excellent standard"
+  },
+  {
+    "id": 10,
+    "question": "What is a 'supply teacher' (as defined in Exercise 12.5)?",
+    "options": [
+      "A teacher who brings school supplies to class",
+      "A teacher who works in a school when someone else is sick",
+      "A teacher who travels between countries",
+      "A teacher who only teaches adults"
+    ],
+    "answer": "A teacher who works in a school when someone else is sick"
+  }
+]

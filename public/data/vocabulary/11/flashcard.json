@@ -1,0 +1,77 @@
+[
+  {
+    "id": 1,
+    "front": "rote-learning",
+    "back": "Learning something purely by repetition, often without necessarily understanding it."
+  },
+  {
+    "id": 2,
+    "front": "mnemonics",
+    "back": "Tricks or techniques that help you remember something (e.g., using 'i' before 'e' except after 'c')."
+  },
+  {
+    "id": 3,
+    "front": "bury yourself in your books",
+    "back": "To spend the maximum amount of time possible studying."
+  },
+  {
+    "id": 4,
+    "front": "know the subject inside out",
+    "back": "To have a complete and thorough knowledge of a specific subject."
+  },
+  {
+    "id": 5,
+    "front": "composition",
+    "back": "A short piece of writing (50–100 words), often used to refer to work by children."
+  },
+  {
+    "id": 6,
+    "front": "dissertation",
+    "back": "A long, research-based piece of work (10,000–15,000 words) for a degree or diploma."
+  },
+  {
+    "id": 7,
+    "front": "thesis",
+    "back": "A very long, original, research-based piece of work (80,000–100,000 words) for a higher degree like a PhD."
+  },
+  {
+    "id": 8,
+    "front": "plagiarism",
+    "back": "The serious offense of using other people's work as if it were your own."
+  },
+  {
+    "id": 9,
+    "front": "inter-library loan",
+    "back": "A system where libraries exchange books or journals with one another for student use."
+  },
+  {
+    "id": 10,
+    "front": "drop out",
+    "back": "To leave a course before the end because you cannot cope or have other issues."
+  },
+  {
+    "id": 11,
+    "front": "fall behind",
+    "back": "To fail to keep up with the pace of work or be at a lower level than other students."
+  },
+  {
+    "id": 12,
+    "front": "breeze through",
+    "back": "To complete an exam or task calmly, easily, and efficiently."
+  },
+  {
+    "id": 13,
+    "front": "get the hang of",
+    "back": "To understand or master something, such as complex English prepositions."
+  },
+  {
+    "id": 14,
+    "front": "mind went blank",
+    "back": "When you suddenly cannot remember anything or think clearly, often due to stress during an exam."
+  },
+  {
+    "id": 15,
+    "front": "first draft",
+    "back": "The first rough version of a piece of writing before it is edited or finalized."
+  }
+]

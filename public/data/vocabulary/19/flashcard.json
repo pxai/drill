@@ -1,0 +1,77 @@
+[
+  {
+    "id": 1,
+    "front": "impetuous",
+    "back": "Acts on a sudden idea without thinking first; generally has a negative connotation."
+  },
+  {
+    "id": 2,
+    "front": "impulsive",
+    "back": "Similar to impetuous, but can be used in a more positive way (e.g., 'impulsive generosity')."
+  },
+  {
+    "id": 3,
+    "front": "effusive",
+    "back": "Gives an exaggerated expression of pleasure, praise, or gratitude."
+  },
+  {
+    "id": 4,
+    "front": "garrulous",
+    "back": "Talks too much, especially about unimportant things."
+  },
+  {
+    "id": 5,
+    "front": "taciturn",
+    "back": "Reserved or says very little; generally has a negative connotation."
+  },
+  {
+    "id": 6,
+    "front": "diffident",
+    "back": "Lacks confidence and has a low opinion of oneself."
+  },
+  {
+    "id": 7,
+    "front": "aloof",
+    "back": "Unfriendly and not sociable; often used to describe someone who seems distant."
+  },
+  {
+    "id": 8,
+    "front": "haughty",
+    "back": "Unfriendly and thinks oneself better than others; disdainful."
+  },
+  {
+    "id": 9,
+    "front": "conceited",
+    "back": "Thinks oneself wonderful; self-important (opposite of modest)."
+  },
+  {
+    "id": 10,
+    "front": "gullible",
+    "back": "Easily deceived or tricked into believing things that may not be true."
+  },
+  {
+    "id": 11,
+    "front": "conscientious",
+    "back": "Always takes work very seriously and puts in a lot of effort."
+  },
+  {
+    "id": 12,
+    "front": "obstinate",
+    "back": "Unwilling to change, despite persuasion; a stronger, more negative term is 'pig-headed'."
+  },
+  {
+    "id": 13,
+    "front": "unscrupulous",
+    "back": "Lacking in moral principles and prepared to do very bad things."
+  },
+  {
+    "id": 14,
+    "front": "approachable",
+    "back": "Easy to be sociable with or start a conversation with."
+  },
+  {
+    "id": 15,
+    "front": "modest",
+    "back": "Prefers not to exaggerate one's own qualities or importance."
+  }
+]

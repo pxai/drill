@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "question": "Which idiom means that two people immediately liked each other the moment they met?",
+    "options": ["Hit it off", "Kindred spirits", "Inseparable", "Platonic"],
+    "answer": "Hit it off"
+  },
+  {
+    "id": 2,
+    "question": "If someone is 'infatuated' with another person, they are described as being:",
+    "options": [
+      "Blindly in love",
+      "Romantically obsessed",
+      "In a non-sexual relationship",
+      "Very kind and helpful"
+    ],
+    "answer": "Romantically obsessed"
+  },
+  {
+    "id": 3,
+    "question": "What is the meaning of the expression 'get on like a house on fire'?",
+    "options": [
+      "To have a very good, enjoyable relationship",
+      "To have frequent, explosive arguments",
+      "To live together in a dangerous building",
+      "To be inseparable from birth"
+    ],
+    "answer": "To have a very good, enjoyable relationship"
+  },
+  {
+    "id": 4,
+    "question": "According to the collocations in Table C, what do you call people who look at life in the same way?",
+    "options": ["Soulmates", "Bosom buddies", "Kindred spirits", "A well-matched couple"],
+    "answer": "Kindred spirits"
+  },
+  {
+    "id": 5,
+    "question": "Which noun corresponds to the adjective 'amiable'?",
+    "options": ["Amiability", "Affection", "Loyalty", "Fondness"],
+    "answer": "Amiability"
+  },
+  {
+    "id": 6,
+    "question": "If you describe someone as 'a man after my own heart', it implies:",
+    "options": [
+      "You are romantically obsessed with them",
+      "They have exactly the same tastes or ideas as you",
+      "They are a lifelong companion",
+      "You have a platonic relationship with them"
+    ],
+    "answer": "They have exactly the same tastes or ideas as you"
+  },
+  {
+    "id": 7,
+    "question": "What is a 'platonic relationship'?",
+    "options": [
+      "A very deep romantic love",
+      "A relationship between opposite sexes that is not sexual",
+      "A bond between very close family members",
+      "A relationship that began at first sight"
+    ],
+    "answer": "A relationship between opposite sexes that is not sexual"
+  },
+  {
+    "id": 8,
+    "question": "According to Exercise 14.1, if two people 'look at life in the same way', they are ... spirits.",
+    "options": ["kindred", "bosom", "fond", "soul"],
+    "answer": "kindred"
+  },
+  {
+    "id": 9,
+    "question": "Complete the sentence from Exercise 14.4: 'She’s absolutely ... to her mother and visits her every day.'",
+    "options": ["fond", "devoted", "amiable", "considerate"],
+    "answer": "devoted"
+  },
+  {
+    "id": 10,
+    "question": "Which of these terms describes 'very close, good friends'?",
+    "options": ["Bosom friends", "Kindred spirits", "Well-matched pals", "Platonic souls"],
+    "answer": "Bosom friends"
+  }
+]

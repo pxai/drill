@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "question": "Which verb is used specifically for a strong desire for something you cannot have, like a particular car?",
+    "options": ["Crave", "Hanker after", "Thirst for", "Appease"],
+    "answer": "Hanker after"
+  },
+  {
+    "id": 2,
+    "question": "If you try to make a tense situation calmer by changing the subject, you are attempting to ... it.",
+    "options": ["placate", "conciliate", "defuse", "covet"],
+    "answer": "defuse"
+  },
+  {
+    "id": 3,
+    "question": "What does the adjective 'implacable' mean when referring to someone's feelings?",
+    "options": [
+      "They change very quickly",
+      "They are hidden from others",
+      "They cannot be changed",
+      "They are based on success"
+    ],
+    "answer": "They cannot be changed"
+  },
+  {
+    "id": 4,
+    "question": "According to the collocations in Section C, which word often follows 'blissfully'?",
+    "options": ["Victorious", "Ignorant", "Angry", "Tense"],
+    "answer": "Ignorant"
+  },
+  {
+    "id": 5,
+    "question": "Which term describes expressing great happiness specifically because of a victory?",
+    "options": ["Exultant", "Jubilant", "Rapture", "Blissful"],
+    "answer": "Jubilant"
+  },
+  {
+    "id": 6,
+    "question": "If a person wants to possess a prestigious sporting prize very badly, they ... it.",
+    "options": ["yearn", "thirst", "covet", "conciliate"],
+    "answer": "covet"
+  },
+  {
+    "id": 7,
+    "question": "Complete the idiom from Exercise 16.3: 'Sarah has been walking ... since finishing her thesis.'",
+    "options": ["on top of the world", "on air", "over the moon", "in bliss"],
+    "answer": "on air"
+  },
+  {
+    "id": 8,
+    "question": "To 'appease' an enemy in a disagreement typically involves:",
+    "options": [
+      "Acting friendly toward both sides",
+      "Giving them an advantage they demanded",
+      "Ignoring their demands entirely",
+      "Making them feel less angry through charm"
+    ],
+    "answer": "Giving them an advantage they demanded"
+  },
+  {
+    "id": 9,
+    "question": "In Exercise 16.1, which word best fits the sentence: 'Martha is very good at ... difficult situations.'",
+    "options": ["placating", "appeasing", "defusing", "thirsting"],
+    "answer": "defusing"
+  },
+  {
+    "id": 10,
+    "question": "Someone who is extremely happy because of a success (like doing well in exams) is described as:",
+    "options": ["Exultant", "Implacable", "Hankering", "Yearning"],
+    "answer": "Exultant"
+  }
+]
