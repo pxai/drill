@@ -1,0 +1,97 @@
+[
+  {
+    "id": 1,
+    "question": "Which verb should you use if you want to say someone is involving themselves in your business in a negative way?",
+    "options": ["Intervene", "Interfere", "Uphold", "Outdo"],
+    "answer": "Interfere"
+  },
+  {
+    "id": 2,
+    "question": "Complete the sentence from Section A: 'Stir the mixture ... (without stopping) until it boils.'",
+    "options": ["continually", "continuously", "serial", "upend"],
+    "answer": "continuously"
+  },
+  {
+    "id": 3,
+    "question": "If you are watching a set of related programmes about space exploration, you are watching a ...",
+    "options": ["serial", "series", "topic", "breakout"],
+    "answer": "series"
+  },
+  {
+    "id": 4,
+    "question": "Which word describes an escape from a high security jail?",
+    "options": ["Outbreak", "Breakout", "Outlook", "Lookout"],
+    "answer": "Breakout"
+  },
+  {
+    "id": 5,
+    "question": "Based on Exercise 6.1, which word refers to writing materials like paper and pens?",
+    "options": ["Stationary", "Stationery", "Signal", "Sign"],
+    "answer": "Stationery"
+  },
+  {
+    "id": 6,
+    "question": "If a cake is 'slightly wet' in a pleasant way, it is:",
+    "options": ["Damp", "Moist", "Squalid", "Bland"],
+    "answer": "Moist"
+  },
+  {
+    "id": 7,
+    "question": "What is the difference between 'shade' and 'shadow' according to the text?",
+    "options": [
+      "Shade is for property; shadow is for accidents",
+      "Shade is out of the sun (pleasant); shadow refers to dark shapes",
+      "They are exactly the same",
+      "Shadow is for cakes; shade is for weather"
+    ],
+    "answer": "Shade is out of the sun (pleasant); shadow refers to dark shapes"
+  },
+  {
+    "id": 8,
+    "question": "A person who watches while others commit a crime is called the ...",
+    "options": ["outlook", "lookout", "uphold", "upend"],
+    "answer": "lookout"
+  },
+  {
+    "id": 9,
+    "question": "Complete the collocation: 'The ... of conversation changed from weather to gossip.'",
+    "options": ["theme", "topic", "series", "intervene"],
+    "answer": "topic"
+  },
+  {
+    "id": 10,
+    "question": "Which noun refers to the beginning of a disease in several villages?",
+    "options": ["Breakout", "Outbreak", "Outlook", "Outdo"],
+    "answer": "Outbreak"
+  },
+  {
+    "id": 11,
+    "question": "If an economy is 'stagnant', we are talking about its ...",
+    "options": ["outlook", "lookout", "uphold", "upend"],
+    "answer": "outlook"
+  },
+  {
+    "id": 12,
+    "question": "What does the phrasal combination 'outdo' mean?",
+    "options": ["To decorate", "To do better than someone else", "To confirm", "To delay"],
+    "answer": "To do better than someone else"
+  },
+  {
+    "id": 13,
+    "question": "According to Section B, a 'safety officer' is concerned with:",
+    "options": ["Protection of property", "Prevention of accidents", "Illegal entry", "Theft"],
+    "answer": "Prevention of accidents"
+  },
+  {
+    "id": 14,
+    "question": "In Exercise 6.1, if a traffic light changes from red to green, it is a ...",
+    "options": ["sign", "signal", "serial", "series"],
+    "answer": "signal"
+  },
+  {
+    "id": 15,
+    "question": "Which term describes a climate that is 'slightly wet in an unpleasant way'?",
+    "options": ["Moist", "Damp", "Shade", "Shadow"],
+    "answer": "Damp"
+  }
+]

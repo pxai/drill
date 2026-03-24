@@ -1,0 +1,77 @@
+[
+  {
+    "id": 1,
+    "front": "scruff",
+    "back": "A dirty and untidy person."
+  },
+  {
+    "id": 2,
+    "front": "pastel",
+    "back": "Clothing in pale colours."
+  },
+  {
+    "id": 3,
+    "front": "power outfits",
+    "back": "Formal clothes intended to make the wearer seem powerful."
+  },
+  {
+    "id": 4,
+    "front": "frumpy",
+    "back": "Describing clothes that are old-fashioned and boring."
+  },
+  {
+    "id": 5,
+    "front": "dress code",
+    "back": "An accepted way of dressing in a particular social group or workplace."
+  },
+  {
+    "id": 6,
+    "front": "dress down",
+    "back": "To wear less formal clothes than usual, often on specific days like Fridays."
+  },
+  {
+    "id": 7,
+    "front": "smart-casual",
+    "back": "Clothes that are informal but clean, tidy, and stylish."
+  },
+  {
+    "id": 8,
+    "front": "dressed to kill",
+    "back": "Wearing clothes intended to attract significant attention, often sexually."
+  },
+  {
+    "id": 9,
+    "front": "off the peg/rack",
+    "back": "Ready-made clothes bought in a shop rather than being specially made for a person."
+  },
+  {
+    "id": 10,
+    "front": "all the rage",
+    "back": "An idiom meaning very fashionable."
+  },
+  {
+    "id": 11,
+    "front": "the height of fashion",
+    "back": "Describing something worn in an extremely fashionable way."
+  },
+  {
+    "id": 12,
+    "front": "up-to-the-minute",
+    "back": "Dealing with the very most recent trends."
+  },
+  {
+    "id": 13,
+    "front": "slave to fashion",
+    "back": "Someone who is very strongly influenced by changing fashion trends."
+  },
+  {
+    "id": 14,
+    "front": "off the cuff",
+    "back": "Metaphorical idiom meaning to speak or do something without having prepared it."
+  },
+  {
+    "id": 15,
+    "front": "on a shoestring",
+    "back": "Doing something while spending as little money as possible."
+  }
+]

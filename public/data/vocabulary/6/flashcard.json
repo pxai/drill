@@ -1,0 +1,77 @@
+[
+  {
+    "id": 1,
+    "front": "intervene",
+    "back": "To step in or become involved in a situation to help (neutral/positive connotation)."
+  },
+  {
+    "id": 2,
+    "front": "interfere",
+    "back": "To involve oneself in a way that is negative, critical, or unwanted."
+  },
+  {
+    "id": 3,
+    "front": "continually",
+    "back": "Happening very frequently, often in an annoying way."
+  },
+  {
+    "id": 4,
+    "front": "continuously",
+    "back": "Happening without stopping or interruption."
+  },
+  {
+    "id": 5,
+    "front": "serial",
+    "back": "A story where the narrative continues over different episodes (e.g., Oliver Twist)."
+  },
+  {
+    "id": 6,
+    "front": "series",
+    "back": "A set of related programmes on a specific theme (e.g., space exploration)."
+  },
+  {
+    "id": 7,
+    "front": "shade",
+    "back": "A place out of the sun; usually has a pleasant connotation."
+  },
+  {
+    "id": 8,
+    "front": "shadow",
+    "back": "Dark areas or shapes created by an object; often has a negative or literal connotation."
+  },
+  {
+    "id": 9,
+    "front": "moist",
+    "back": "Slightly wet in a good way (e.g., a cake mixture)."
+  },
+  {
+    "id": 10,
+    "front": "damp",
+    "back": "Slightly wet in an unpleasant way (e.g., a cold climate)."
+  },
+  {
+    "id": 11,
+    "front": "theme",
+    "back": "The main, overarching idea that everything else follows (e.g., 1000 years of culture)."
+  },
+  {
+    "id": 12,
+    "front": "topic",
+    "back": "The specific subject being talked about at any given moment."
+  },
+  {
+    "id": 13,
+    "front": "security officer",
+    "back": "Someone concerned with the protection of property and theft prevention."
+  },
+  {
+    "id": 14,
+    "front": "safety officer",
+    "back": "Someone concerned with the prevention of accidents."
+  },
+  {
+    "id": 15,
+    "front": "upend",
+    "back": "To move something into a vertical position (particle first phrasal combination)."
+  }
+]

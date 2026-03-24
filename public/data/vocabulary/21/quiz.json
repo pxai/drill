@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "question": "Which adjective describes an activity that produces good results, such as a successful collaboration?",
+    "options": ["Rewarding", "Lucrative", "Fruitful", "Therapeutic"],
+    "answer": "Fruitful"
+  },
+  {
+    "id": 2,
+    "question": "If you are a 'culture vulture', you are someone who:",
+    "options": [
+      "Is physically very inactive",
+      "Is a big fan of anything cultural like theatre and art",
+      "Is addicted to shopping",
+      "Never keeps doing one activity for long"
+    ],
+    "answer": "Is a big fan of anything cultural like theatre and art"
+  },
+  {
+    "id": 3,
+    "question": "What does the idiom 'get up to' mean when asking about someone's weekend?",
+    "options": ["To finish work", "To sleep late", "To do", "To feel bored"],
+    "answer": "To do"
+  },
+  {
+    "id": 4,
+    "question": "According to Exercise 21.1, which adjective best describes gardening because it 'reduces stress levels and calms you down'?",
+    "options": ["Lucrative", "Therapeutic", "Time-consuming", "Fruitful"],
+    "answer": "Therapeutic"
+  },
+  {
+    "id": 5,
+    "question": "If a person 'went off' a sport, they:",
+    "options": [
+      "Became addicted to it",
+      "Started playing it professionally",
+      "Stopped liking it",
+      "Isolated themselves to practice it"
+    ],
+    "answer": "Stopped liking it"
+  },
+  {
+    "id": 6,
+    "question": "What is a 'shopaholic'?",
+    "options": [
+      "A person who works in a shop",
+      "A person addicted to shopping",
+      "A person who hates buying things",
+      "A person who owns many shops"
+    ],
+    "answer": "A person addicted to shopping"
+  },
+  {
+    "id": 7,
+    "question": "Complete the phrase from Exercise 21.5: 'She’s ... addicted to ice hockey these days.'",
+    "options": ["heavily", "totally", "fruitfully", "rewardingly"],
+    "answer": "totally"
+  },
+  {
+    "id": 8,
+    "question": "A person who is 'physically very inactive' and watches TV for hours is informally called a:",
+    "options": ["Couch potato", "Culture vulture", "Dabbler", "Real doer"],
+    "answer": "Couch potato"
+  },
+  {
+    "id": 9,
+    "question": "If you have a 'full diary', it means:",
+    "options": [
+      "You have no friends",
+      "You have a lot of commitments and activities",
+      "You write in your journal every day",
+      "You have lost your schedule"
+    ],
+    "answer": "You have a lot of commitments and activities"
+  },
+  {
+    "id": 10,
+    "question": "Which term describes someone who believes in acting and doing things rather than just sitting around?",
+    "options": ["Dabbler", "Real doer", "Couch potato", "Culture vulture"],
+    "answer": "Real doer"
+  }
+]

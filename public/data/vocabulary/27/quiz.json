@@ -1,0 +1,97 @@
+[
+  {
+    "id": 1,
+    "question": "What kind of book would contain a 'section on troubleshooting'?",
+    "options": ["Journal", "Manual", "Compendium", "Logbook"],
+    "answer": "Manual"
+  },
+  {
+    "id": 2,
+    "question": "Which term describes a book that is 'so fascinating you can't stop reading it'?",
+    "options": ["Heavy going", "Compulsive reading", "Masterpiece", "Journal"],
+    "answer": "Compulsive reading"
+  },
+  {
+    "id": 3,
+    "question": "What do we call a 'day-to-day record of life during a war' or for a vehicle test?",
+    "options": ["Manual", "Journal", "Logbook", "Memoirs"],
+    "answer": "Logbook"
+  },
+  {
+    "id": 4,
+    "question": "If a book is 'dense and very difficult to read', it is described as ...",
+    "options": ["compulsive", "heavy going", "moving", "involved"],
+    "answer": "heavy going"
+  },
+  {
+    "id": 5,
+    "question": "A 'typical selection of English poets' would likely be found in a ...",
+    "options": ["manual", "logbook", "compendium", "journal"],
+    "answer": "compendium"
+  },
+  {
+    "id": 6,
+    "question": "Which adjective describes a story that makes you feel 'very sad'?",
+    "options": ["Moving", "Puzzling", "Dense", "Satirical"],
+    "answer": "Moving"
+  },
+  {
+    "id": 7,
+    "question": "What is the term for a book that provides 'concise information about an academic subject'?",
+    "options": ["Logbook", "Manual", "Journal", "Masterpiece"],
+    "answer": "Journal"
+  },
+  {
+    "id": 8,
+    "question": "If you describe a novel as a 'portrayal of life', you are referring to:",
+    "options": ["The way life is represented", "The weight of the book", "The price of the book", "The speed of the plot"],
+    "answer": "The way life is represented"
+  },
+  {
+    "id": 9,
+    "question": "A 'very great work of art' is commonly called a ...",
+    "options": ["chronicle", "manual", "masterpiece", "compendium"],
+    "answer": "masterpiece"
+  },
+  {
+    "id": 10,
+    "question": "Which genre is characterized by 'humour despite a bad situation' used to criticize?",
+    "options": ["Documentation", "Satire", "Memoirs", "Chronicle"],
+    "answer": "Satire"
+  },
+  {
+    "id": 11,
+    "question": "Complete the sentence from Exercise 27.3: 'The novel is full of ... passages depicting life in Scotland.'",
+    "options": ["moving", "dense", "puzzling", "heavy"],
+    "answer": "moving"
+  },
+  {
+    "id": 12,
+    "question": "If you 'couldn't wait to get to the next page', the experience was ...",
+    "options": ["heavy going", "fascinating", "dense", "puzzling"],
+    "answer": "fascinating"
+  },
+  {
+    "id": 13,
+    "question": "What is the difference between 'memoirs' and a 'chronicle'?",
+    "options": [
+      "Memoirs are personal experiences; a chronicle is a record of historical events",
+      "They are exactly the same",
+      "A chronicle is always fictional; memoirs are not",
+      "Memoirs are only for troubleshooting"
+    ],
+    "answer": "Memoirs are personal experiences; a chronicle is a record of historical events"
+  },
+  {
+    "id": 14,
+    "question": "A book that provides a 'documentation of abuse' focuses on:",
+    "options": ["Humour", "Evidence and records", "Instructions", "Poetry"],
+    "answer": "Evidence and records"
+  },
+  {
+    "id": 15,
+    "question": "According to Exercise 27.2, if you 'could not seem to become involved in the story', you:",
+    "options": ["Finished it quickly", "Did not feel connected to it", "Found it too easy", "Memorized it"],
+    "answer": "Did not feel connected to it"
+  }
+]

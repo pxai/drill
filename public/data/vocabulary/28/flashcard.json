@@ -1,0 +1,77 @@
+[
+  {
+    "id": 1,
+    "front": "synthetic ingredients",
+    "back": "Ingredients made from artificial substances."
+  },
+  {
+    "id": 2,
+    "front": "wholesome",
+    "back": "Something that is good for you, either physically or morally."
+  },
+  {
+    "id": 3,
+    "front": "wholemeal",
+    "back": "Food containing all the natural substances in the grain with nothing removed."
+  },
+  {
+    "id": 4,
+    "front": "Fair Trade",
+    "back": "Products marketed so that small farmers in developing countries receive the profits."
+  },
+  {
+    "id": 5,
+    "front": "free-range",
+    "back": "Relating to farm animals that are not kept in cages."
+  },
+  {
+    "id": 6,
+    "front": "GM product",
+    "back": "Genetically modified product; its genes (DNA) have been altered in some way."
+  },
+  {
+    "id": 7,
+    "front": "loopholes",
+    "back": "Ways of getting round regulations, often due to imprecise wording."
+  },
+  {
+    "id": 8,
+    "front": "derivatives",
+    "back": "Things produced from something else (e.g., starch or sugars produced from grain)."
+  },
+  {
+    "id": 9,
+    "front": "recipe for disaster",
+    "back": "A metaphoric expression for a situation that is sure to lead to trouble or failure."
+  },
+  {
+    "id": 10,
+    "front": "all the ingredients of",
+    "back": "Having all the necessary characteristics for a particular result (e.g., a box office hit)."
+  },
+  {
+    "id": 11,
+    "front": "stew (metaphor)",
+    "back": "To worry or suffer about something, especially when it is your own fault."
+  },
+  {
+    "id": 12,
+    "front": "grill (metaphor)",
+    "back": "To ask someone a lot of questions in an intensive way."
+  },
+  {
+    "id": 13,
+    "front": "half-baked",
+    "back": "A scheme or idea that is unrealistic or has not been thought through properly."
+  },
+  {
+    "id": 14,
+    "front": "spice up",
+    "back": "To make something more lively or interesting."
+  },
+  {
+    "id": 15,
+    "front": "unsavoury",
+    "back": "Unpleasant or morally offensive (often used to describe people or characters)."
+  }
+]

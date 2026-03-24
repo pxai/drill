@@ -1,0 +1,77 @@
+[
+  {
+    "id": 1,
+    "front": "tow-away zone",
+    "back": "An area where you cannot park and your car will be removed by the authorities."
+  },
+  {
+    "id": 2,
+    "front": "tailback",
+    "back": "A long line of traffic that is moving very slowly or not at all, often due to road works."
+  },
+  {
+    "id": 3,
+    "front": "pile-up",
+    "back": "A traffic accident involving several vehicles."
+  },
+  {
+    "id": 4,
+    "front": "give way",
+    "back": "To stop or slow down to allow other vehicles to go past before you move onto a road."
+  },
+  {
+    "id": 5,
+    "front": "right of way",
+    "back": "The legal right to proceed first at a corner or intersection."
+  },
+  {
+    "id": 6,
+    "front": "hit-and-run",
+    "back": "An accident in which the driver hits someone or something and then drives away without stopping."
+  },
+  {
+    "id": 7,
+    "front": "exhaust emissions",
+    "back": "The gases produced and sent out into the air by a vehicle's engine."
+  },
+  {
+    "id": 8,
+    "front": "breathalyser",
+    "back": "A device used by the police to test how much alcohol a driver has consumed."
+  },
+  {
+    "id": 9,
+    "front": "road rage",
+    "back": "Violent anger or aggressive behavior shown by a driver in traffic."
+  },
+  {
+    "id": 10,
+    "front": "skidded",
+    "back": "To slide across a surface in an uncontrolled way, often due to ice or wet roads."
+  },
+  {
+    "id": 11,
+    "front": "clamped",
+    "back": "When a vehicle's wheels are locked with a metal device (a clamp) due to illegal parking."
+  },
+  {
+    "id": 12,
+    "front": "head-on collision",
+    "back": "A crash where two vehicles hit each other directly from the front."
+  },
+  {
+    "id": 13,
+    "front": "roadworthy",
+    "back": "Describing a vehicle that is in a fit and safe condition to be driven legally."
+  },
+  {
+    "id": 14,
+    "front": "total gridlock",
+    "back": "A situation where traffic in a city is so heavy that no one can move in any direction."
+  },
+  {
+    "id": 15,
+    "front": "back-seat driver",
+    "back": "A passenger who gives unwanted and annoying advice to the driver."
+  }
+]

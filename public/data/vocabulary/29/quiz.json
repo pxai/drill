@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "question": "If you and your friends 'split the bill', what does that mean?",
+    "options": ["One person pays for everything", "Everyone pays for themselves", "The restaurant gives you a free meal", "You pay only for the drinks"],
+    "answer": "Everyone pays for themselves"
+  },
+  {
+    "id": 2,
+    "question": "Which adjective describes service that is 'perfect and cannot be faulted'?",
+    "options": ["Sluggish", "Brusque", "Impeccable", "Courteous"],
+    "answer": "Impeccable"
+  },
+  {
+    "id": 3,
+    "question": "How would you describe a waiter who is 'quick and rude'?",
+    "options": ["Overbearing", "Brusque", "Sullen", "Sluggish"],
+    "answer": "Brusque"
+  },
+  {
+    "id": 4,
+    "question": "If someone is 'teetotal', what will they likely order to drink?",
+    "options": ["Red wine", "Champagne", "Beer", "Orange juice"],
+    "answer": "Orange juice"
+  },
+  {
+    "id": 5,
+    "question": "What does it mean to 'take pot luck' at a friend's house?",
+    "options": ["To win a prize", "To bring your own food", "To eat whatever they have already prepared", "To order a takeaway"],
+    "answer": "To eat whatever they have already prepared"
+  },
+  {
+    "id": 6,
+    "question": "Complete the phrase: 'Please help yourself to some ... (nuts and crisps) before the main course.'",
+    "options": ["nibbles", "seconds", "pot luck", "takeaway"],
+    "answer": "nibbles"
+  },
+  {
+    "id": 7,
+    "question": "A person who is 'calorie-conscious' will likely:",
+    "options": ["Order two desserts", "Skip the menu", "Check the nutritional info of the food", "Be teetotal"],
+    "answer": "Check the nutritional info of the food"
+  },
+  {
+    "id": 8,
+    "question": "What is the opposite of 'a sweet dish' according to Exercise 29.3?",
+    "options": ["A savoury dish", "A fussy dish", "A teetotal dish", "A calorie-conscious dish"],
+    "answer": "A savoury dish"
+  },
+  {
+    "id": 9,
+    "question": "If service is described as 'sluggish', it means it is:",
+    "options": ["Friendly", "Very fast", "Rather slow", "Impeccable"],
+    "answer": "Rather slow"
+  },
+  {
+    "id": 10,
+    "question": "What should you say if someone is pouring you water and you have enough?",
+    "options": ["When!", "Say when!", "Please!", "No more!"],
+    "answer": "When!"
+  },
+  {
+    "id": 11,
+    "question": "Which term describes a person who has 'very particular demands when eating'?",
+    "options": ["Teetotal", "Fussy eater", "Calorie-conscious", "Wined and dined"],
+    "answer": "Fussy eater"
+  },
+  {
+    "id": 12,
+    "question": "If you were 'wined and dined' by a company, they:",
+    "options": ["Paid for your training", "Took you to expensive restaurants", "Asked you to pay for lunch", "Gave you a free office space"],
+    "answer": "Took you to expensive restaurants"
+  },
+  {
+    "id": 13,
+    "question": "What is the meaning of 'sullen' in the context of service?",
+    "options": ["Bad-tempered or unwilling to smile", "Too confident", "Very polite", "Polite but slow"],
+    "answer": "Bad-tempered or unwilling to smile"
+  },
+  {
+    "id": 14,
+    "question": "A 'dinner party' is typically:",
+    "options": ["An informal get-together", "A formal meal with guests at someone's house", "A meal at a fast-food restaurant", "A teetotal event"],
+    "answer": "A formal meal with guests at someone's house"
+  },
+  {
+    "id": 15,
+    "question": "If restaurant staff 'go out of their way' for you, they are:",
+    "options": ["Getting lost", "Leaving the restaurant", "Doing everything possible to help you", "Being brusque"],
+    "answer": "Doing everything possible to help you"
+  }
+]

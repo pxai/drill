@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "question": "What is the meaning of the idiom 'to pull the wool over the public's eyes'?",
+    "options": ["To educate the public", "To deceive the public", "To ignore the public", "To praise the public"],
+    "answer": "To deceive the public"
+  },
+  {
+    "id": 2,
+    "question": "Which word describes a person who cannot appreciate art or culture?",
+    "options": ["Surrealist", "Philistine", "Detractor", "Impressionist"],
+    "answer": "Philistine"
+  },
+  {
+    "id": 3,
+    "question": "If an art movement is 'deemed mad', it is ...",
+    "options": ["proven to be mad", "considered/judged mad", "feared to be mad", "called mad by the public"],
+    "answer": "considered/judged mad"
+  },
+  {
+    "id": 4,
+    "question": "What happens if the public 'votes with their feet' at a gallery?",
+    "options": ["They dance", "They stop coming", "They walk faster", "They kick the art"],
+    "answer": "They stop coming"
+  },
+  {
+    "id": 5,
+    "question": "According to the unit, what does it mean to be 'visually literate'?",
+    "options": ["To be able to paint", "To be educated in art", "To be blind to art", "To read art books"],
+    "answer": "To be educated in art"
+  },
+  {
+    "id": 6,
+    "question": "Which term is the opposite of 'sophisticated'?",
+    "options": ["Pedestrian", "Clumsy", "Primitive", "Dreary"],
+    "answer": "Primitive"
+  },
+  {
+    "id": 7,
+    "question": "If something is 'impenetrable' in an artistic context, it is:",
+    "options": ["Very clear", "Extremely difficult to understand", "Physically hard", "Very expensive"],
+    "answer": "Extremely difficult to understand"
+  },
+  {
+    "id": 8,
+    "question": "What is the opposite of 'highbrow'?",
+    "options": ["Lowbrow", "Transparent", "Undemanding", "Earnest"],
+    "answer": "Lowbrow"
+  },
+  {
+    "id": 9,
+    "question": "A work that is 'dazzling' is ...",
+    "options": ["Boring", "Brilliant and inspiring admiration", "Very bright", "Not intended to be serious"],
+    "answer": "Brilliant and inspiring admiration"
+  },
+  {
+    "id": 10,
+    "question": "Which adjective describes something that 'calls up images and memories'?",
+    "options": ["Intriguing", "Evocative", "Peerless", "Exquisite"],
+    "answer": "Evocative"
+  },
+  {
+    "id": 11,
+    "question": "What is the opposite of 'tongue-in-cheek'?",
+    "options": ["Earnest", "Dazzling", "Primitive", "Pedestrian"],
+    "answer": "Earnest"
+  },
+  {
+    "id": 12,
+    "question": "If someone is 'immune to surprises', they are:",
+    "options": ["Easily shocked", "Not affected by them", "Searching for surprises", "Deceived by surprises"],
+    "answer": "Not affected by them"
+  },
+  {
+    "id": 13,
+    "question": "Which word corresponds to 'better than any other'?",
+    "options": ["Peerless", "Exquisite", "Sophisticated", "Challenging"],
+    "answer": "Peerless"
+  },
+  {
+    "id": 14,
+    "question": "What does it mean to 'dumb down' a subject?",
+    "options": ["To make it more complex", "To make it less intellectual", "To teach it in silence", "To ignore it"],
+    "answer": "To make it less intellectual"
+  },
+  {
+    "id": 15,
+    "question": "In the metaphoric sense, 'shadowy' refers to ...",
+    "options": ["Bright colors", "Minor or less defined characters", "The artist's workshop", "Black and white drawings"],
+    "answer": "Minor or less defined characters"
+  }
+]

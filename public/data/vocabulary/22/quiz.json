@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "question": "If an office allows employees to wear less formal clothes on Fridays, they are allowed to ...",
+    "options": ["dress up", "dress down", "suit up", "snazzy up"],
+    "answer": "dress down"
+  },
+  {
+    "id": 2,
+    "question": "Which term describes clothes that are informal but still look clean, tidy, and stylish?",
+    "options": ["Skimpy", "Frumpy", "Smart-casual", "Baggy"],
+    "answer": "Smart-casual"
+  },
+  {
+    "id": 3,
+    "question": "If denim jackets are described as being 'all the rage', it means they are:",
+    "options": ["Very cheap", "Out of style", "Very fashionable", "Badly made"],
+    "answer": "Very fashionable"
+  },
+  {
+    "id": 4,
+    "question": "A service that is simple, plain, and provides only the basics is described as being ...",
+    "options": ["snazzy", "without frills", "off the cuff", "hand in glove"],
+    "answer": "without frills"
+  },
+  {
+    "id": 5,
+    "question": "What does it mean to speak 'off the cuff'?",
+    "options": [
+      "To speak very formally",
+      "To speak with a loud voice",
+      "To speak without having prepared anything",
+      "To speak while wearing a power outfit"
+    ],
+    "answer": "To speak without having prepared anything"
+  },
+  {
+    "id": 6,
+    "question": "According to the text, a 'scruff' is a person who is:",
+    "options": ["Always fashionable", "Dirty and untidy", "Very wealthy", "Very old-fashioned"],
+    "answer": "Dirty and untidy"
+  },
+  {
+    "id": 7,
+    "question": "In a marriage, the partner who is dominant is idiomatically said to ...",
+    "options": [
+      "wear the trousers",
+      "take the shirt off their back",
+      "be hand in glove",
+      "be in a straitjacket"
+    ],
+    "answer": "wear the trousers"
+  },
+  {
+    "id": 8,
+    "question": "If a business is being run 'on a shoestring', it is:",
+    "options": [
+      "Spending as little money as possible",
+      "Becoming extremely successful",
+      "Selling only designer clothes",
+      "Moving into a new trend"
+    ],
+    "answer": "Spending as little money as possible"
+  },
+  {
+    "id": 9,
+    "question": "A person who is very strongly influenced by the latest trends is called a ...",
+    "options": ["culture vulture", "slave to fashion", "techie", "dabbler"],
+    "answer": "slave to fashion"
+  },
+  {
+    "id": 10,
+    "question": "Exercise 22.5 uses the phrase 'a feather in her cap' to describe:",
+    "options": [
+      "An old-fashioned hat",
+      "A proud achievement",
+      "A secret meeting",
+      "A very thin person"
+    ],
+    "answer": "A proud achievement"
+  }
+]

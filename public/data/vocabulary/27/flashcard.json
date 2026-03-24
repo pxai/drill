@@ -1,0 +1,77 @@
+[
+  {
+    "id": 1,
+    "front": "compulsive reading",
+    "back": "A book that is so formal or interesting that you just cannot stop reading it."
+  },
+  {
+    "id": 2,
+    "front": "heavy going",
+    "back": "A book that is very difficult or dense to read, often requiring a lot of effort."
+  },
+  {
+    "id": 3,
+    "front": "masterpiece",
+    "back": "A very great or impressive work of art or literature."
+  },
+  {
+    "id": 4,
+    "front": "compendium",
+    "back": "A collection of concise information about a particular subject (e.g., a typical selection of poets)."
+  },
+  {
+    "id": 5,
+    "front": "manual",
+    "back": "A book giving practical instructions on how to do something or use a machine (e.g., troubleshooting)."
+  },
+  {
+    "id": 6,
+    "front": "logbook",
+    "back": "A day-to-day record of events, such as for a journey or a technical test (e.g., for a lorry)."
+  },
+  {
+    "id": 7,
+    "front": "journal",
+    "back": "A book providing concise, often academic information about a specific subject."
+  },
+  {
+    "id": 8,
+    "front": "memoirs",
+    "back": "A written account in which someone describes their past experiences and life."
+  },
+  {
+    "id": 9,
+    "front": "chronicle",
+    "back": "A record of historical events in the order in which they happened."
+  },
+  {
+    "id": 10,
+    "front": "moving",
+    "back": "An adjective describing a story that is very sad and arouses strong emotions."
+  },
+  {
+    "id": 11,
+    "front": "puzzling",
+    "back": "Something that is mysterious or difficult to understand or explain."
+  },
+  {
+    "id": 12,
+    "front": "satire",
+    "back": "A style of writing that uses humour and irony to criticize people's stupidity or vices."
+  },
+  {
+    "id": 13,
+    "front": "portrayal",
+    "back": "The way in which someone or something is described or represented in a book or film."
+  },
+  {
+    "id": 14,
+    "front": "dense",
+    "back": "Describing writing that is packed with information and complex, making it difficult to read quickly."
+  },
+  {
+    "id": 15,
+    "front": "involved",
+    "back": "In a literary context, to become deeply interested or emotionally connected to a story."
+  }
+]

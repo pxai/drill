@@ -1,0 +1,77 @@
+[
+  {
+    "id": 1,
+    "front": "overrated",
+    "back": "Not as good as people say it is (opposite: underrated)."
+  },
+  {
+    "id": 2,
+    "front": "hackneyed",
+    "back": "A performance or plot that is boring because it has been done so often."
+  },
+  {
+    "id": 3,
+    "front": "impenetrable",
+    "back": "Something so complex that it is impossible to understand."
+  },
+  {
+    "id": 4,
+    "front": "far-fetched",
+    "back": "Something that is impossible to believe (opposite: credible/believable)."
+  },
+  {
+    "id": 5,
+    "front": "risqué",
+    "back": "Slightly immoral and likely to shock some people."
+  },
+  {
+    "id": 6,
+    "front": "harrowing",
+    "back": "Extremely upsetting, often used to describe documentaries about difficult subjects."
+  },
+  {
+    "id": 7,
+    "front": "understated",
+    "back": "Done or expressed in a simple but attractive and effective style."
+  },
+  {
+    "id": 8,
+    "front": "panned",
+    "back": "When a work is very negatively criticised by the critics."
+  },
+  {
+    "id": 9,
+    "front": "lauded",
+    "back": "Highly praised by critics or the public."
+  },
+  {
+    "id": 10,
+    "front": "masterpiece",
+    "back": "A very great work of art."
+  },
+  {
+    "id": 11,
+    "front": "miscast",
+    "back": "When an actor is the wrong person for a particular role."
+  },
+  {
+    "id": 12,
+    "front": "typecast",
+    "back": "Always being associated with the same type of role (e.g., always playing a villain)."
+  },
+  {
+    "id": 13,
+    "front": "encore",
+    "back": "Calls from the audience at the end of a performance for the artist to repeat it or play more."
+  },
+  {
+    "id": 14,
+    "front": "rendition",
+    "back": "A performance of a specific piece of music or drama on a particular occasion."
+  },
+  {
+    "id": 15,
+    "front": "standing ovation",
+    "back": "When the audience stands up and applauds to show great appreciation."
+  }
+]

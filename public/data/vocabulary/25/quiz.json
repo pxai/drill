@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "question": "If a play is described as 'disjointed' in Section A, what does it mean?",
+    "options": [
+      "It is too long",
+      "It is unconnected and not in a clear order",
+      "It is extremely exciting",
+      "It is impossible to believe"
+    ],
+    "answer": "It is unconnected and not in a clear order"
+  },
+  {
+    "id": 2,
+    "question": "What is the opposite of 'credible' or 'believable' according to Exercise 25.1?",
+    "options": ["Overrated", "Hackneyed", "Far-fetched", "Understated"],
+    "answer": "Far-fetched"
+  },
+  {
+    "id": 3,
+    "question": "When a play 'bombs' in the West End, it is considered:",
+    "options": ["A great success", "A failure", "Too complex", "Very immoral"],
+    "answer": "A failure"
+  },
+  {
+    "id": 4,
+    "question": "According to the definitions in Section B, if a performance is 'lauded', it is:",
+    "options": ["Negatively criticised", "Highly praised", "Very upsetting", "Boring"],
+    "answer": "Highly praised"
+  },
+  {
+    "id": 5,
+    "question": "What term is used in Section C for an actor's 'performance on a specific occasion'?",
+    "options": ["Interpretation", "Version", "Rendition", "Portrayal"],
+    "answer": "Rendition"
+  },
+  {
+    "id": 6,
+    "question": "If an actor is 'typecast' as a middle-aged mother, it means they are:",
+    "options": [
+      "Always given that kind of role",
+      "The wrong person for the role",
+      "Given a standing ovation",
+      "Negatively criticised by the critics"
+    ],
+    "answer": "Always given that kind of role"
+  },
+  {
+    "id": 7,
+    "question": "Which adjective describes a work that is 'exciting and keeps your attention the whole time'?",
+    "options": ["Harrowing", "Gripping", "Hackneyed", "Risqué"],
+    "answer": "Gripping"
+  },
+  {
+    "id": 8,
+    "question": "Complete the sentence from Exercise 25.2: 'Some of his films are absolutely ... (complex) because they are so dense and obscure.'",
+    "options": ["impenetrable", "overrated", "moving", "understated"],
+    "answer": "impenetrable"
+  },
+  {
+    "id": 9,
+    "question": "What happens when an audience gives a 'standing ovation'?",
+    "options": [
+      "They leave the theatre early",
+      "They stand up and applaud",
+      "They shout for an encore",
+      "They stay silent in disappointment"
+    ],
+    "answer": "They stand up and applaud"
+  },
+  {
+    "id": 10,
+    "question": "In the context of the unit, a 'cliffhanger' is something that:",
+    "options": [
+      "Is very boring",
+      "Keeps you in suspense or constantly excited",
+      "Is a very great work of art",
+      "Is a police or crime theme"
+    ],
+    "answer": "Keeps you in suspense or constantly excited"
+  }
+]

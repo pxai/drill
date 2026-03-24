@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "question": "Which type of party is specifically held to celebrate moving into a new residence?",
+    "options": ["Launch party", "Housewarming", "Reception", "Fancy dress party"],
+    "answer": "Housewarming"
+  },
+  {
+    "id": 2,
+    "question": "In the context of networking, what is the 'old school tie' network?",
+    "options": [
+      "A group of people who wear the same uniform",
+      "Contacts made by the children of the ruling class at elite schools",
+      "A retirement club for former teachers",
+      "An organization that provides free clothing to job applicants"
+    ],
+    "answer": "Contacts made by the children of the ruling class at elite schools"
+  },
+  {
+    "id": 3,
+    "question": "If you are 'hobnobbing' with important people, you are:",
+    "options": [
+      "Avoiding them in public",
+      "Being friendly with them (often with a negative connotation)",
+      "Working for them in a menial job",
+      "Arguing with them about politics"
+    ],
+    "answer": "Being friendly with them (often with a negative connotation)"
+  },
+  {
+    "id": 4,
+    "question": "What is the meaning of the informal idiom 'to be an item'?",
+    "options": [
+      "To be part of a shopping list",
+      "To have a romantic relationship",
+      "To be a target of criticism",
+      "To be an employee of a large bank"
+    ],
+    "answer": "To have a romantic relationship"
+  },
+  {
+    "id": 5,
+    "question": "According to Section C, what is a 'party pooper'?",
+    "options": [
+      "Someone who organises many events",
+      "Someone who ruins a party by being miserable",
+      "Someone who brings their own music",
+      "Someone who arrives exactly on time"
+    ],
+    "answer": "Someone who ruins a party by being miserable"
+  },
+  {
+    "id": 6,
+    "question": "If someone 'stood you up', they:",
+    "options": [
+      "Failed to appear for your date",
+      "Supported you during an argument",
+      "Gave you a standing ovation",
+      "Asked you to leave their house"
+    ],
+    "answer": "Failed to appear for your date"
+  },
+  {
+    "id": 7,
+    "question": "What is the difference between a 'girls' night out' and a 'hen party'?",
+    "options": [
+      "A girls' night out is for older women only",
+      "A hen party is usually specifically before one of them gets married",
+      "A hen party is always held at a restaurant",
+      "There is no difference between the two"
+    ],
+    "answer": "A hen party is usually specifically before one of them gets married"
+  },
+  {
+    "id": 8,
+    "question": "If you are 'rubbing shoulders with royalty', you are:",
+    "options": [
+      "Trying to harm them",
+      "Mixing socially with them",
+      "Working as their servant",
+      "Reading about them in a newspaper"
+    ],
+    "answer": "Mixing socially with them"
+  },
+  {
+    "id": 9,
+    "question": "A small group of people who spend time together and are unfriendly to others is a:",
+    "options": ["Clique", "Networking group", "Stag party", "Household"],
+    "answer": "Clique"
+  },
+  {
+    "id": 10,
+    "question": "What does it mean to 'outstay your welcome'?",
+    "options": [
+      "To arrive earlier than planned",
+      "To stay longer than the host wants",
+      "To bring an uninvited guest",
+      "To forget to say thank you"
+    ],
+    "answer": "To stay longer than the host wants"
+  }
+]

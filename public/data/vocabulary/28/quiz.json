@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "question": "What does 'synthetic' imply when used on a food label?",
+    "options": ["It is organic", "It is made from artificial substances", "It is good for your health", "It is a genetically modified grain"],
+    "answer": "It is made from artificial substances"
+  },
+  {
+    "id": 2,
+    "question": "Which term describes food that is 'good for you, physically or morally'?",
+    "options": ["Wholesome", "Wholemeal", "Light", "Unflavoured"],
+    "answer": "Wholesome"
+  },
+  {
+    "id": 3,
+    "question": "If a product is labeled as 'Fair Trade', it means:",
+    "options": ["It is free of charge", "Small farmers get the profits rather than large companies", "It is sold at a fixed price everywhere", "It has no synthetic ingredients"],
+    "answer": "Small farmers get the profits rather than large companies"
+  },
+  {
+    "id": 4,
+    "question": "What are 'loopholes' in the context of food regulations?",
+    "options": ["New strict laws", "Ways of getting round regulations", "Types of food packaging", "Labels for organic food"],
+    "answer": "Ways of getting round regulations"
+  },
+  {
+    "id": 5,
+    "question": "Which metaphor describes a situation that will definitely lead to trouble?",
+    "options": ["A recipe for disaster", "Juicy gossip", "A half-baked scheme", "A spicy party"],
+    "answer": "A recipe for disaster"
+  },
+  {
+    "id": 6,
+    "question": "If you 'grill' a suspect, you are:",
+    "options": ["Cooking for them", "Asking them a lot of questions", "Letting them go free", "Ignoring their mistakes"],
+    "answer": "Asking them a lot of questions"
+  },
+  {
+    "id": 7,
+    "question": "What does it mean if a business deal 'turns sour'?",
+    "options": ["It becomes very profitable", "It goes wrong", "It is finalized quickly", "It involves unsavoury characters"],
+    "answer": "It goes wrong"
+  },
+  {
+    "id": 8,
+    "question": "A 'half-baked' idea is:",
+    "options": ["Very creative", "Unrealistic or not thought through properly", "Highly successful", "Warm and welcoming"],
+    "answer": "Unrealistic or not thought through properly"
+  },
+  {
+    "id": 9,
+    "question": "Which word describes someone who is 'unpleasant and morally offensive'?",
+    "options": ["Wholesome", "Unsavoury", "Juicy", "Organic"],
+    "answer": "Unsavoury"
+  },
+  {
+    "id": 10,
+    "question": "To 'spice up' a meeting means to make it ...",
+    "options": ["more formal", "more lively", "shorter", "more difficult"],
+    "answer": "more lively"
+  },
+  {
+    "id": 11,
+    "question": "According to the text, 'wholemeal' bread contains:",
+    "options": ["Only the white part of the grain", "Artificial substances", "All the natural substances in the grain", "Extra sugar and fat"],
+    "answer": "All the natural substances in the grain"
+  },
+  {
+    "id": 12,
+    "question": "If you are 'stewing' over a mistake, you are:",
+    "options": ["Forgetting it quickly", "Worrying or suffering about it", "Celebrating it", "Fixing it immediately"],
+    "answer": "Worrying or suffering about it"
+  },
+  {
+    "id": 13,
+    "question": "What kind of gossip is described as 'juicy'?",
+    "options": ["Boring and repetitive", "Exciting and interesting", "Dangerous and illegal", "False and misleading"],
+    "answer": "Exciting and interesting"
+  },
+  {
+    "id": 14,
+    "question": "Animals that are 'free-range' are:",
+    "options": ["Kept in small cages", "Not kept in cages", "Genetically modified", "Only fed organic corn"],
+    "answer": "Not kept in cages"
+  },
+  {
+    "id": 15,
+    "question": "If a film has 'all the ingredients of a box office hit', it has:",
+    "options": ["A very large budget", "All the necessary characteristics for success", "A very short duration", "Many famous actors"],
+    "answer": "All the necessary characteristics for success"
+  }
+]

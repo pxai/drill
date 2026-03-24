@@ -1,0 +1,87 @@
+[
+  {
+    "id": 1,
+    "question": "What do we call a small city residence used only occasionally by someone who has a main home elsewhere?",
+    "options": ["A hovel", "A penthouse", "A pied à terre", "A council house"],
+    "answer": "A pied à terre"
+  },
+  {
+    "id": 2,
+    "question": "If someone wants to 'get out of the rat race', they want to:",
+    "options": [
+      "Start a competitive business",
+      "Live a less stressful or less conventional lifestyle",
+      "Move into a high-rise flat",
+      "Become a household name"
+    ],
+    "answer": "Live a less stressful or less conventional lifestyle"
+  },
+  {
+    "id": 3,
+    "question": "Which idiom describes something that is 'nothing special'?",
+    "options": [
+      "A household word",
+      "Nothing to write home about",
+      "Hit home",
+      "Story of my life"
+    ],
+    "answer": "Nothing to write home about"
+  },
+  {
+    "id": 4,
+    "question": "According to the Section A definitions, a 'hovel' is:",
+    "options": [
+      "A luxury flat at the top of a building",
+      "An empty building used without permission",
+      "A very poor, dirty house in bad condition",
+      "A flat provided by the state"
+    ],
+    "answer": "A very poor, dirty house in bad condition"
+  },
+  {
+    "id": 5,
+    "question": "Complete the collocation: 'Nike has become a ... word.'",
+    "options": ["lifestyle", "household", "minimalist", "home"],
+    "answer": "household"
+  },
+  {
+    "id": 6,
+    "question": "If the difficulty of managing a budget is finally being 'fully felt', it is said to be ...",
+    "options": ["hitting home", "a dog's life", "on the house", "a new lease of life"],
+    "answer": "hitting home"
+  },
+  {
+    "id": 7,
+    "question": "What is 'subsistence farming'?",
+    "options": [
+      "Farming using Feng Shui principles",
+      "Growing just enough food for one's own family",
+      "A high-tech industrial farming method",
+      "A style of post-modern architecture"
+    ],
+    "answer": "Growing just enough food for one's own family"
+  },
+  {
+    "id": 8,
+    "question": "A 'granny flat' is typically:",
+    "options": [
+      "In a high-rise building",
+      "A luxury penthouse",
+      "Connected to a relative's house",
+      "A type of council housing"
+    ],
+    "answer": "Connected to a relative's house"
+  },
+  {
+    "id": 9,
+    "question": "When Sue moved jobs, she seemed to get a 'new lease of ...', meaning she became more energetic.",
+    "options": ["home", "lifestyle", "house", "life"],
+    "answer": "life"
+  },
+  {
+    "id": 10,
+    "question": "Which term describes an empty building where people live without the owner's permission?",
+    "options": ["Squat", "Hovel", "Pied à terre", "Penthouse"],
+    "answer": "Squat"
+  }
+]

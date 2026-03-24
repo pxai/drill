@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "question": "If you park in a 'tow-away zone', what is likely to happen to your car?",
+    "options": ["It will be cleaned", "It will be removed by authorities", "It will be sold", "Nothing"],
+    "answer": "It will be removed by authorities"
+  },
+  {
+    "id": 2,
+    "question": "A five-mile line of slow traffic on the motorway is called a ...",
+    "options": ["Tailback", "Pile-up", "Gridlock", "Hit-and-run"],
+    "answer": "Tailback"
+  },
+  {
+    "id": 3,
+    "question": "Which term describes an accident involving 'a number of cars'?",
+    "options": ["Minor bump", "Roadworthy", "Pile-up", "Skid"],
+    "answer": "Pile-up"
+  },
+  {
+    "id": 4,
+    "question": "If a sign tells you to 'give way', you must:",
+    "options": ["Drive faster", "Let other traffic go first", "Stop completely forever", "Turn left only"],
+    "answer": "Let other traffic go first"
+  },
+  {
+    "id": 5,
+    "question": "What test might the police give a driver suspected of drinking alcohol?",
+    "options": ["Vision test", "Breathalyser test", "Hearing test", "Emissions test"],
+    "answer": "Breathalyser test"
+  },
+  {
+    "id": 6,
+    "question": "Violent behavior by drivers who get frustrated in traffic is known as ...",
+    "options": ["Road race", "Road rage", "Driving fury", "Traffic temper"],
+    "answer": "Road rage"
+  },
+  {
+    "id": 7,
+    "question": "If there is ice on the road, your car might ... (lose control and slide).",
+    "options": ["Conk out", "Skid", "Pull over", "Give way"],
+    "answer": "Skid"
+  },
+  {
+    "id": 8,
+    "question": "A passenger who constantly criticizes your driving is called a ... driver.",
+    "options": ["Behind-the-wheel", "Front-seat", "Back-seat", "Side-car"],
+    "answer": "Back-seat"
+  },
+  {
+    "id": 9,
+    "question": "What happened if you came out to your car and saw a 'big metal thing' on your wheels?",
+    "options": ["They were painted", "They were stolen", "They were clamped", "They were replaced"],
+    "answer": "They were clamped"
+  },
+  {
+    "id": 10,
+    "question": "A crash where two lorries come straight at each other front-to-front is a:",
+    "options": ["Side-swipe", "Head-on collision", "Minor bump", "Total gridlock"],
+    "answer": "Head-on collision"
+  },
+  {
+    "id": 11,
+    "question": "If a car is in a 'fit condition to be driven legally', it is said to be ...",
+    "options": ["Roadworthy", "Road-ready", "Legal-drive", "Car-safe"],
+    "answer": "Roadworthy"
+  },
+  {
+    "id": 12,
+    "question": "When accidents in the city center cause traffic to stop for hours, it is a ...",
+    "options": ["Total gridlock", "Tailback", "Minor bump", "Give way"],
+    "answer": "Total gridlock"
+  },
+  {
+    "id": 13,
+    "question": "If a driver is 'behind the wheel', what are they doing?",
+    "options": ["Repairing the car", "Driving the car", "Cleaning the car", "Pushing the car"],
+    "answer": "Driving the car"
+  },
+  {
+    "id": 14,
+    "question": "What is the phrase for when your car's engine suddenly stops working?",
+    "options": ["Conked out", "Pulled over", "Gave way", "Skidded"],
+    "answer": "Conked out"
+  },
+  {
+    "id": 15,
+    "question": "If a police car makes you 'pull over', they want you to:",
+    "options": ["Drive faster", "Stop at the side of the road", "Turn the car around", "Follow them to the station"],
+    "answer": "Stop at the side of the road"
+  }
+]
