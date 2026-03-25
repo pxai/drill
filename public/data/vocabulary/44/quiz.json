@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "question": "What is a 'regent'?",
+    "options": ["A king's son", "A person governing because the monarch is too young", "A soldier on horseback", "An entertainer"],
+    "answer": "A person governing because the monarch is too young"
+  },
+  {
+    "id": 2,
+    "question": "If someone 'usurps' power, they take it ...",
+    "options": ["legally", "by force or illegally", "temporarily for a child", "to give it to the poor"],
+    "answer": "by force or illegally"
+  },
+  {
+    "id": 3,
+    "question": "Which term describes soldiers who fight on horseback?",
+    "options": ["Infantry", "Cavalry", "Serfs", "Legion"],
+    "answer": "Cavalry"
+  },
+  {
+    "id": 4,
+    "question": "What does the idiom 'putting the cart before the horse' mean?",
+    "options": ["Traveling fast", "Doing things in the wrong order", "Being very wealthy", "Robbing travelers"],
+    "answer": "Doing things in the wrong order"
+  },
+  {
+    "id": 5,
+    "question": "A 'pretender' to the throne is someone who:",
+    "options": ["Is the rightful king", "Claims a right to the throne that belongs to another", "Entertains the king", "Protects the king's children"],
+    "answer": "Claims a right to the throne that belongs to another"
+  },
+  {
+    "id": 6,
+    "question": "If your reasons for an action are 'legion', there are ... of them.",
+    "options": ["very few", "a vast number", "no clear", "only two"],
+    "answer": "a vast number"
+  },
+  {
+    "id": 7,
+    "question": "A 'serf' in the feudal system was someone who:",
+    "options": ["Owned a large ship", "Worked on land and belonged to a master", "Robbed people on roads", "Sang poetry for the court"],
+    "answer": "Worked on land and belonged to a master"
+  },
+  {
+    "id": 8,
+    "question": "The 'heir apparent' is the person who:",
+    "options": ["Is currently the king", "Is first in line to the throne", "Is a secret rebel", "Has been deposed"],
+    "answer": "Is first in line to the throne"
+  },
+  {
+    "id": 9,
+    "question": "What is a 'galleon'?",
+    "options": ["A two-wheeled vehicle", "A large sailing ship", "A protective suit of metal", "A medieval period"],
+    "answer": "A large sailing ship"
+  },
+  {
+    "id": 10,
+    "question": "If a person is described as 'like a galleon in full sail', they are:",
+    "options": ["Small and fast", "Large and stately", "Aggressive and rude", "Poor and dirty"],
+    "answer": "Large and stately"
+  },
+  {
+    "id": 11,
+    "question": "To 'depose' a king means to:",
+    "options": ["Crown him", "Remove him from power", "Support his policies", "Give him more taxes"],
+    "answer": "Remove him from power"
+  },
+  {
+    "id": 12,
+    "question": "Which historical period (1837–1901) is associated with hard work and loyalty?",
+    "options": ["Medieval", "Renaissance", "Victorian", "Feudal"],
+    "answer": "Victorian"
+  },
+  {
+    "id": 13,
+    "question": "A 'highwayman' was a person who:",
+    "options": ["Built roads", "Robbed travellers on horseback", "Entertained the court with jokes", "Led the infantry"],
+    "answer": "Robbed travellers on horseback"
+  },
+  {
+    "id": 14,
+    "question": "In a metaphorical sense, a 'renaissance of interest' means interest has:",
+    "options": ["Stopped completely", "Decreased slightly", "Increased or seen new growth", "Become illegal"],
+    "answer": "Increased or seen new growth"
+  },
+  {
+    "id": 15,
+    "question": "The protective metal clothing worn by soldiers in the past is called ...",
+    "options": ["armour", "chariot", "stagecoach", "regent"],
+    "answer": "armour"
+  }
+]

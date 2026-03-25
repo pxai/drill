@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "question": "What does it mean to 'cement' a partnership?",
+    "options": ["To end it", "To make it stronger", "To make it more expensive", "To hide it"],
+    "answer": "To make it stronger"
+  },
+  {
+    "id": 2,
+    "question": "If you 'come up against a brick wall' in an investigation, you have:",
+    "options": ["Found a new house", "Encountered a barrier", "Completed the task", "Met a supportive friend"],
+    "answer": "Encountered a barrier"
+  },
+  {
+    "id": 3,
+    "question": "Which term describes an invisible barrier to career promotion?",
+    "options": ["Lead ceiling", "Brick wall", "Glass ceiling", "Ivory tower"],
+    "answer": "Glass ceiling"
+  },
+  {
+    "id": 4,
+    "question": "What happens if prices 'go through the roof'?",
+    "options": ["They fall quickly", "They stay the same", "They increase very rapidly", "They become illegal"],
+    "answer": "They increase very rapidly"
+  },
+  {
+    "id": 5,
+    "question": "If a teacher 'hits the roof', they are:",
+    "options": ["Very happy", "Very angry", "Repairing the school", "Exhausted"],
+    "answer": "Very angry"
+  },
+  {
+    "id": 6,
+    "question": "Academics are often criticized for living in an '... tower', away from reality.",
+    "options": ["Iron", "Ivory", "Eiffel", "Open"],
+    "answer": "Ivory"
+  },
+  {
+    "id": 7,
+    "question": "A person who is 'extremely supportive' is called a:",
+    "options": ["Tower of strength", "Key player", "Brick wall", "Back door"],
+    "answer": "Tower of strength"
+  },
+  {
+    "id": 8,
+    "question": "If a degree is described as a 'gateway to' a job, it:",
+    "options": ["Prevents you from working", "Provides access to it", "Is very expensive", "Is the final step"],
+    "answer": "Provides access to it"
+  },
+  {
+    "id": 9,
+    "question": "Doing something 'through the back door' implies it is done:",
+    "options": ["Officially", "Unofficially", "Very loudly", "By a professional builder"],
+    "answer": "Unofficially"
+  },
+  {
+    "id": 10,
+    "question": "Which adjective means 'extremely important' in terms of success?",
+    "options": ["Key", "Roof", "Ruined", "Cemented"],
+    "answer": "Key"
+  },
+  {
+    "id": 11,
+    "question": "When a speaker's request for questions is met with a 'wall of silence', people:",
+    "options": ["Applaud loudly", "Refuse to speak", "Ask too many questions", "Leave the room"],
+    "answer": "Refuse to speak"
+  },
+  {
+    "id": 12,
+    "question": "If you 'lay the foundations' for a relationship, you are:",
+    "options": ["Ending it", "Providing the basis for its future", "Criticizing it", "Hiding it from others"],
+    "answer": "Providing the basis for its future"
+  },
+  {
+    "id": 13,
+    "question": "A marriage that has completely failed is said to be 'in ...'.",
+    "options": ["ruins", "foundations", "gateways", "ceilings"],
+    "answer": "ruins"
+  },
+  {
+    "id": 14,
+    "question": "What does it mean to 'clean up your own back yard'?",
+    "options": ["To garden", "To fix your own problems before criticizing others", "To build a new house", "To hide your mistakes"],
+    "answer": "To fix your own problems before criticizing others"
+  },
+  {
+    "id": 15,
+    "question": "If someone 'towers above' their classmates, they are:",
+    "options": ["Much taller or much better", "Very shy", "Always late", "Living in an ivory tower"],
+    "answer": "Much taller or much better"
+  }
+]

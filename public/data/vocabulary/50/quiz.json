@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "question": "Which informal word is a synonym for 'broke'?",
+    "options": ["Skint", "Rolling", "Tight", "Bounced"],
+    "answer": "Skint"
+  },
+  {
+    "id": 2,
+    "question": "If you have 'a lot of money', you are ... in it.",
+    "options": ["strapping", "rolling", "making", "bouncing"],
+    "answer": "rolling"
+  },
+  {
+    "id": 3,
+    "question": "What does it mean to 'make ends meet'?",
+    "options": ["To earn a lot of money", "To survive financially", "To lose all your savings", "To buy a new house"],
+    "answer": "To survive financially"
+  },
+  {
+    "id": 4,
+    "question": "A cheque that the bank refuses to pay is said to have ...",
+    "options": ["charged", "bounced", "strapped", "expired"],
+    "answer": "bounced"
+  },
+  {
+    "id": 5,
+    "question": "What is a 'golden handshake'?",
+    "options": ["A way to greet a boss", "A large payment on leaving a job", "An illegal bribe", "A type of credit card"],
+    "answer": "A large payment on leaving a job"
+  },
+  {
+    "id": 6,
+    "question": "Which card requires the user to pay the 'whole debt' each month?",
+    "options": ["Credit card", "Store card", "Charge card", "Debit card"],
+    "answer": "Charge card"
+  },
+  {
+    "id": 7,
+    "question": "If you are 'strapped for cash', you:",
+    "options": ["Have plenty of money", "Need cash and have very little", "Are working in a bank", "Have a large share portfolio"],
+    "answer": "Need cash and have very little"
+  },
+  {
+    "id": 8,
+    "question": "A 'lump sum' refers to:",
+    "options": ["Small monthly payments", "A single, large payment", "Interest rates", "The price of shares"],
+    "answer": "A single, large payment"
+  },
+  {
+    "id": 9,
+    "question": "What do we call a person who lends money at 'extremely high interest rates'?",
+    "options": ["Civil servant", "Loan shark", "MP", "Lobbyist"],
+    "answer": "Loan shark"
+  },
+  {
+    "id": 10,
+    "question": "Money borrowed to 'buy a house' is called a ...",
+    "options": ["premium", "mortgage", "lump sum", "endowment"],
+    "answer": "mortgage"
+  },
+  {
+    "id": 11,
+    "question": "An 'endowment' is a combined insurance and ... plan.",
+    "options": ["spending", "savings", "tax", "poverty"],
+    "answer": "savings"
+  },
+  {
+    "id": 12,
+    "question": "If 'money is tight', it means:",
+    "options": ["You are very rich", "There is not much money available", "You have just won the lottery", "Your bank account is closed"],
+    "answer": "There is not much money available"
+  },
+  {
+    "id": 13,
+    "question": "What is the 'premium' in the context of insurance?",
+    "options": ["The total value of the house", "The payment for the policy", "The age of the person", "The location of the office"],
+    "answer": "The payment for the policy"
+  },
+  {
+    "id": 14,
+    "question": "A 'share portfolio' is a combination of different ...",
+    "options": ["credit cards", "stocks and shares", "store cards", "coins and notes"],
+    "answer": "stocks and shares"
+  },
+  {
+    "id": 15,
+    "question": "According to the unit, what increases if you don't pay your credit card in full?",
+    "options": ["APR", "Expiry date", "Lump sum", "Golden handshake"],
+    "answer": "APR"
+  }
+]

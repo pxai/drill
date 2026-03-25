@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "question": "In a story, which tense is used for the main sequence of events?",
+    "options": ["Present continuous", "Present simple", "Past perfect", "Future simple"],
+    "answer": "Present simple"
+  },
+  {
+    "id": 2,
+    "question": "Which tense would you use for a background event in a joke?",
+    "options": ["Present simple", "Present continuous", "Present perfect", "Past simple"],
+    "answer": "Present continuous"
+  },
+  {
+    "id": 3,
+    "question": "Complete the sports commentary: 'Adams ... a wonderful return.'",
+    "options": ["is making", "makes", "has made", "was making"],
+    "answer": "makes"
+  },
+  {
+    "id": 4,
+    "question": "Which phrase is used to introduce news you have read in a newspaper?",
+    "options": ["It says here", "It's saying here", "It told here", "It gathers here"],
+    "answer": "It says here"
+  },
+  {
+    "id": 5,
+    "question": "What tense is standard for news headlines like 'SCIENTISTS FIND ICE ON THE MOON'?",
+    "options": ["Present continuous", "Present perfect", "Present simple", "Past continuous"],
+    "answer": "Present simple"
+  },
+  {
+    "id": 6,
+    "question": "If you are annoyed that someone loses their keys every day, you say: 'You are ... losing your keys!'",
+    "options": ["constantly", "rarely", "sometimes", "usually"],
+    "answer": "constantly"
+  },
+  {
+    "id": 7,
+    "question": "To describe the plot of a film, we use the ...",
+    "options": ["present continuous", "past simple", "present simple", "present perfect"],
+    "answer": "present simple"
+  },
+  {
+    "id": 8,
+    "question": "Complete: 'At eight o'clock I'm usually ... to work.'",
+    "options": ["drive", "driving", "drives", "driven"],
+    "answer": "driving"
+  },
+  {
+    "id": 9,
+    "question": "In the sentence 'I gather you're worried about Pedro', 'gather' means:",
+    "options": ["I am collecting people", "I understand from what I've heard", "I am worried too", "I see him now"],
+    "answer": "I understand from what I've heard"
+  },
+  {
+    "id": 10,
+    "question": "Which adverb can be used with the present continuous to indicate disapproval?",
+    "options": ["Forever", "Seldom", "Never", "Occasionally"],
+    "answer": "Forever"
+  },
+  {
+    "id": 11,
+    "question": "In a narrative, the present simple is often used after past tenses and with phrases like ...",
+    "options": ["gradually", "all of a sudden", "slowly", "eventually"],
+    "answer": "all of a sudden"
+  },
+  {
+    "id": 12,
+    "question": "How do we report what a professor says at a conference if we heard it?",
+    "options": ["I'm hearing", "I hear", "I've heard", "I would hear"],
+    "answer": "I hear"
+  },
+  {
+    "id": 13,
+    "question": "'Seven o'clock is a bit early. We're generally eating then.' Why is present continuous used?",
+    "options": ["It's a main event", "It's a temporary action", "It's a regular action at a specific time", "It's a news headline"],
+    "answer": "It's a regular action at a specific time"
+  },
+  {
+    "id": 14,
+    "question": "Which sentence about a book is correct according to the source?",
+    "options": ["In the film, Loni Baranski is taking the role...", "In the film, Loni Baranski takes the role...", "In the film, Loni Baranski has taken the role...", "In the film, Loni Baranski took the role..."],
+    "answer": "In the film, Loni Baranski takes the role..."
+  },
+  {
+    "id": 15,
+    "question": "If 'Jacob is always offering to help', it means offering help is ...",
+    "options": ["a rare event", "a characteristic of him", "happening only once", "annoying to the speaker"],
+    "answer": "a characteristic of him"
+  }
+]

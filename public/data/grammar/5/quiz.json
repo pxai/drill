@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "question": "Which tense is used for a sequence of past events in chronological order?",
+    "options": ["Past perfect", "Past simple", "Present perfect", "Past continuous"],
+    "answer": "Past simple"
+  },
+  {
+    "id": 2,
+    "question": "Choose the correct reporting of: 'I have met him before.'",
+    "options": ["I was sure I met him before.", "I was sure I had met him before.", "I was sure I have met him before.", "I was sure I meeting him before."],
+    "answer": "I was sure I had met him before."
+  },
+  {
+    "id": 3,
+    "question": "If the order of events is clear (e.g. using 'after'), which tenses can you use?",
+    "options": ["Only past perfect", "Only past simple", "Either past perfect or past simple", "Past continuous"],
+    "answer": "Either past perfect or past simple"
+  },
+  {
+    "id": 4,
+    "question": "Complete the intention: 'I ... to visit the gallery before I left Florence, but it was closed.'",
+    "options": ["have hoped", "had hoped", "hope", "am hoping"],
+    "answer": "had hoped"
+  },
+  {
+    "id": 5,
+    "question": "In the sentence 'I realised that I ... a mistake', which tense is necessary for the mistake?",
+    "options": ["made", "have made", "had made", "am making"],
+    "answer": "had made"
+  },
+  {
+    "id": 6,
+    "question": "When we report a past simple event like 'I stole the watch', we often use:",
+    "options": ["Present simple", "Past simple", "Past perfect", "Future perfect"],
+    "answer": "Past perfect"
+  },
+  {
+    "id": 7,
+    "question": "Is 'After Ivan finished reading, he put out the light' correct?",
+    "options": ["Yes", "No, it must be 'had finished'", "No, it must be 'was finishing'", "No, it must be 'has finished'"],
+    "answer": "Yes"
+  },
+  {
+    "id": 8,
+    "question": "We use the past perfect to refer to an event that happened ... the last event in a sequence.",
+    "options": ["after", "at the same time as", "before", "instead of"],
+    "answer": "before"
+  },
+  {
+    "id": 9,
+    "question": "Report this: 'The village hasn't changed much.'",
+    "options": ["I found the village didn't change much.", "I found the village hasn't changed much.", "I found the village hadn't changed much.", "I found the village doesn't change."],
+    "answer": "I found the village hadn't changed much."
+  },
+  {
+    "id": 10,
+    "question": "Which verb is NOT typically used to talk about unfulfilled intentions in the past perfect?",
+    "options": ["Hope", "Plan", "Intend", "Cook"],
+    "answer": "Cook"
+  },
+  {
+    "id": 11,
+    "question": "'We'd driven my parents' car for ages, but it started to fall apart.' Why is 'started' in past simple?",
+    "options": ["It happened before driving", "The order is already clear from 'driven'", "It's a future event", "It's a mistake"],
+    "answer": "The order is already clear from 'driven'"
+  },
+  {
+    "id": 12,
+    "question": "Complete the report: 'Police said that 225 people ... in the recent floods.'",
+    "options": ["drown", "had drowned", "have drowned", "were drowning"],
+    "answer": "had drowned"
+  },
+  {
+    "id": 13,
+    "question": "To show that a decision was made *before* the current past time in a story, we use:",
+    "options": ["Past simple", "Past perfect", "Past continuous", "Present perfect"],
+    "answer": "Past perfect"
+  },
+  {
+    "id": 14,
+    "question": "Can we use past simple for unfulfilled intentions?",
+    "options": ["Yes, for example: 'I hoped to see you'", "No, only past perfect", "No, only past continuous", "Yes, but only with the verb 'wish'"],
+    "answer": "Yes, for example: 'I hoped to see you'"
+  },
+  {
+    "id": 15,
+    "question": "What is the function of the past perfect in reporting speech?",
+    "options": ["To show the action is happening now", "To report what was originally in past simple or present perfect", "To show a future plan", "To describe a repetitive habit"],
+    "answer": "To report what was originally in past simple or present perfect"
+  }
+]

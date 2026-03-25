@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "question": "Which verb means 'to bring a law or treaty to an official end'?",
+    "options": ["Bend", "Abrogate", "Infringe", " lodge"],
+    "answer": "Abrogate"
+  },
+  {
+    "id": 2,
+    "question": "If a person in public office is formally accused of a serious offence, they are ...",
+    "options": ["annulled", "impeached", "quashed", "perverted"],
+    "answer": "impeached"
+  },
+  {
+    "id": 3,
+    "question": "What is the term for stealing money that belongs to the company you work for?",
+    "options": ["Money laundering", "Embezzlement", "Insider trading", "Joyriding"],
+    "answer": "Embezzlement"
+  },
+  {
+    "id": 4,
+    "question": "If you lie while under oath in court, you have committed ...",
+    "options": ["perjury", "harassment", "trespass", "discrimination"],
+    "answer": "perjury"
+  },
+  {
+    "id": 5,
+    "question": "A decision that must be followed in future cases is said to 'set a ...'.",
+    "options": ["verdict", "precedent", "custody", "statute"],
+    "answer": "precedent"
+  },
+  {
+    "id": 6,
+    "question": "Which adjective describes a serious crime tried in a higher level of court?",
+    "options": ["Summary", "Indictable", "Binding", "Discretionary"],
+    "answer": "Indictable"
+  },
+  {
+    "id": 7,
+    "question": "If an arbitrator's decision is 'binding on both sides', it means:",
+    "options": ["They can ignore it", "They must both obey it", "It is only a suggestion", "It is not official yet"],
+    "answer": "They must both obey it"
+  },
+  {
+    "id": 8,
+    "question": "What is 'money laundering'?",
+    "options": ["Cleaning dirty cash", "Moving illegal money to hide its origin", "Paying a fine in the spot", "Stealing from a bank"],
+    "answer": "Moving illegal money to hide its origin"
+  },
+  {
+    "id": 9,
+    "question": "To 'quash' a conviction means to:",
+    "options": ["Confirm it", "Cancel or change it", "Avoid it", "Delay it"],
+    "answer": "Cancel or change it"
+  },
+  {
+    "id": 10,
+    "question": "Going onto someone else's land without permission is the crime of ...",
+    "options": ["joyriding", "trespass", "harassment", "perjury"],
+    "answer": "trespass"
+  },
+  {
+    "id": 11,
+    "question": "If a judge 'overturns' a verdict, they are saying the previous decision was ...",
+    "options": ["correct", "incorrect", "binding", "statutory"],
+    "answer": "incorrect"
+  },
+  {
+    "id": 12,
+    "question": "What are 'statutory rights'?",
+    "options": ["Rights you have in your head", "Rights established by law", "Rights given by a boss", "Rights that can be broken anytime"],
+    "answer": "Rights established by law"
+  },
+  {
+    "id": 13,
+    "question": "A less serious crime that can be tried in a lower level of court is a ... offence.",
+    "options": ["summary", "indictable", "discretionary", "statutory"],
+    "answer": "summary"
+  },
+  {
+    "id": 14,
+    "question": "To 'award custody' of a child means to:",
+    "options": ["Kidnap them", "Give responsibility for them to an adult", "Send them to school", "Take them to court"],
+    "answer": "Give responsibility for them to an adult"
+  },
+  {
+    "id": 15,
+    "question": "If you 'pervert the course of justice', you are:",
+    "options": ["Helping the police", "Obstructing justice from being done", "Following all laws", "Paying your taxes"],
+    "answer": "Obstructing justice from being done"
+  }
+]

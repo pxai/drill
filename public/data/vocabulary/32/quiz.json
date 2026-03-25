@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "question": "What is the meaning of 'wander off the beaten track'?",
+    "options": ["To get lost in a forest", "To visit popular resorts", "To go to places tourists don't normally go", "To follow a map strictly"],
+    "answer": "To go to places tourists don't normally go"
+  },
+  {
+    "id": 2,
+    "question": "Which word is used in tourism (formal) to list the good qualities of a place?",
+    "options": ["Boast", "Horde", "Unwind", "Tract"],
+    "answer": "Boast"
+  },
+  {
+    "id": 3,
+    "question": "The term 'hordes of people' has a ... connotation.",
+    "options": ["positive", "neutral", "negative", "scientific"],
+    "answer": "negative"
+  },
+  {
+    "id": 4,
+    "question": "What does 'virgin' imply when describing a rainforest?",
+    "options": ["It is very small", "It is original and natural", "It has many flowers", "It is open to all tourists"],
+    "answer": "It is original and natural"
+  },
+  {
+    "id": 5,
+    "question": "What is the fixed Latin phrase for 'plants and animals'?",
+    "options": ["Flora and fauna", "Bush and nature", "Tracts and hordes", "Savour and recharge"],
+    "answer": "Flora and fauna"
+  },
+  {
+    "id": 6,
+    "question": "If you want to 'unwind' in a stunning location, you want to:",
+    "options": ["Work harder", "Relax and reduce stress", "Find a new job", "Spend all your money"],
+    "answer": "Relax and reduce stress"
+  },
+  {
+    "id": 7,
+    "question": "A 'discerning traveller' is one who:",
+    "options": ["Always chooses the cheapest option", "Doesn't care about quality", "Knows what they want in terms of quality", "Only travels alone"],
+    "answer": "Knows what they want in terms of quality"
+  },
+  {
+    "id": 8,
+    "question": "Which of these is the most demanding physical activity?",
+    "options": ["A ramble", "A hike", "A trek", "A stroll"],
+    "answer": "A trek"
+  },
+  {
+    "id": 9,
+    "question": "In the context of Africa or Australia, what is 'the bush'?",
+    "options": ["A manicured garden", "Wild, tree- or grass-covered areas", "A city park", "A desert"],
+    "answer": "Wild, tree- or grass-covered areas"
+  },
+  {
+    "id": 10,
+    "question": "If something is 'awe-inspiring', it fills you with a sense of ...",
+    "options": ["boredom", "fear", "power and beauty", "confusion"],
+    "answer": "power and beauty"
+  },
+  {
+    "id": 11,
+    "question": "What does 'unrivalled' mean in a travel advertisement?",
+    "options": ["Very cheap", "No other program can match it", "Highly dangerous", "Commonly found"],
+    "answer": "No other program can match it"
+  },
+  {
+    "id": 12,
+    "question": "To 'savour' the renowned landscapes means to:",
+    "options": ["Enjoy them (formal)", "Destroy them", "Ignore them", "Paint them"],
+    "answer": "Enjoy them (formal)"
+  },
+  {
+    "id": 13,
+    "question": "According to Exercise 32.1, what is the 'tourism sector'?",
+    "options": ["A part of a map", "The tourism industry", "A group of tourists", "A specific hotel"],
+    "answer": "The tourism industry"
+  },
+  {
+    "id": 14,
+    "question": "The 'heartland' refers to:",
+    "options": ["The coastline", "Areas furthest from the sea or borders", "The city centre", "A hospital for travellers"],
+    "answer": "Areas furthest from the sea or borders"
+  },
+  {
+    "id": 15,
+    "question": "Complete the phrase: 'Large ... of land are still covered by rainforest.'",
+    "options": ["hordes", "tracts", "sectors", "hikes"],
+    "answer": "tracts"
+  }
+]

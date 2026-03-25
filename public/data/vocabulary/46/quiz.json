@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "question": "What is the specific title of the finance minister in the UK?",
+    "options": ["Prime Minister", "Chancellor of the Exchequer", "Civil Servant", "Lobbyist"],
+    "answer": "Chancellor of the Exchequer"
+  },
+  {
+    "id": 2,
+    "question": "The people who elect a Member of Parliament are called his or her ...",
+    "options": ["lobbyists", "legislators", "constituents", "civil servants"],
+    "answer": "constituents"
+  },
+  {
+    "id": 3,
+    "question": "What is 'legislation' according to the source?",
+    "options": ["A formal request", "Law-making", "A reduction in taxes", "A financial plan"],
+    "answer": "Law-making"
+  },
+  {
+    "id": 4,
+    "question": "Which term describes groups that try to influence MPs in private?",
+    "options": ["Civil Service", "Lobbies", "Constituencies", "Petitions"],
+    "answer": "Lobbies"
+  },
+  {
+    "id": 5,
+    "question": "People working in government departments are known as ...",
+    "options": ["producers", "paid-up members", "civil servants", "deputations"],
+    "answer": "civil servants"
+  },
+  {
+    "id": 6,
+    "question": "A formal request signed by thousands of people is a ...",
+    "options": ["budget", "concession", "grievance", "petition"],
+    "answer": "petition"
+  },
+  {
+    "id": 7,
+    "question": "If an organization is 'close-knit', it has:",
+    "options": ["Many different branches", "No funding", "Close ties between members", "A fragmented structure"],
+    "answer": "Close ties between members"
+  },
+  {
+    "id": 8,
+    "question": "What does 'well-funded' mean in the context of political lobbying?",
+    "options": ["Having many members", "Having plenty of financial support", "Operating in many countries", "Being part of the government"],
+    "answer": "Having plenty of financial support"
+  },
+  {
+    "id": 9,
+    "question": "According to the text, 'producers' is another word for:",
+    "options": ["Consumers", "Manufacturers", "MPs", "Lobbyists"],
+    "answer": "Manufacturers"
+  },
+  {
+    "id": 10,
+    "question": "If the government 'concedes' a tax reduction, they:",
+    "options": ["Increase it", "Allow it", "Cancel it", "Lobby for it"],
+    "answer": "Allow it"
+  },
+  {
+    "id": 11,
+    "question": "A 'deputation' consists of people sent to:",
+    "options": ["Vote in an election", "Speak for a group", "Collect taxes", "Join the Civil Service"],
+    "answer": "Speak for a group"
+  },
+  {
+    "id": 12,
+    "question": "What are 'grievances'?",
+    "options": ["Financial plans", "Complaints about unfair treatment", "New laws", "Membership fees"],
+    "answer": "Complaints about unfair treatment"
+  },
+  {
+    "id": 13,
+    "question": "An organization that is NOT concentrated in one unit is described as ...",
+    "options": ["centralised", "fragmented", "close-knit", "well-funded"],
+    "answer": "fragmented"
+  },
+  {
+    "id": 14,
+    "question": "Which verb is used for trying to force someone to do something (formed from 'pressure')?",
+    "options": ["Legislate", "Lobby", "Pressurise", "Petition"],
+    "answer": "Pressurise"
+  },
+  {
+    "id": 15,
+    "question": "What is the 'annual budget'?",
+    "options": ["A list of MPs", "A law-making body", "A yearly financial plan", "A group of constituents"],
+    "answer": "A yearly financial plan"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "question": "Which collocation describes a field used to grow rice?",
+    "options": ["Wheat field", "Paddy field", "Sugar plantation", "Fertile land"],
+    "answer": "Paddy field"
+  },
+  {
+    "id": 2,
+    "question": "What is the term for a forest where trees lose their leaves every year?",
+    "options": ["Coniferous forest", "Deciduous forest", "Tropical rainforest", "Dense forest"],
+    "answer": "Deciduous forest"
+  },
+  {
+    "id": 3,
+    "question": "If you are talking about the remote, dry inland areas of Australia, you are referring to the ...",
+    "options": ["peninsula", "outback", "coastline", "oases"],
+    "answer": "outback"
+  },
+  {
+    "id": 4,
+    "question": "Which word describes a nation that is 'independent and governs itself'?",
+    "options": ["Sovereign", "Industrial", "Civilised", "Remote"],
+    "answer": "Sovereign"
+  },
+  {
+    "id": 5,
+    "question": "People who 'leave' their own country to live elsewhere are called ...",
+    "options": ["migrants", "immigrants", "emigrants", "ancestors"],
+    "answer": "emigrants"
+  },
+  {
+    "id": 6,
+    "question": "A 'sugar ...' is a large farm where sugar is grown.",
+    "options": ["field", "plantation", "industry", "forest"],
+    "answer": "plantation"
+  },
+  {
+    "id": 7,
+    "question": "What is the term for people from whom you are descended, such as your great-grandparents?",
+    "options": ["Descendants", "Ancestors", "Migrants", "Sovereigns"],
+    "answer": "Ancestors"
+  },
+  {
+    "id": 8,
+    "question": "Which industry is specifically concerned with 'making medicines and drugs'?",
+    "options": ["Chemical industry", "Textile industry", "Pharmaceutical industry", "Oil industry"],
+    "answer": "Pharmaceutical industry"
+  },
+  {
+    "id": 9,
+    "question": "Land that is 'fertile' is land where:",
+    "options": ["Nothing can grow", "Plants grow very well", "There is only sand", "The ground is flooded"],
+    "answer": "Plants grow very well"
+  },
+  {
+    "id": 10,
+    "question": "A piece of land almost surrounded by water (like Florida or Italy) is a ...",
+    "options": ["peninsula", "island", "remote area", "farmland"],
+    "answer": "peninsula"
+  },
+  {
+    "id": 11,
+    "question": "In the phrase 'the country is dotted with ...', what are small water-filled areas in a desert called?",
+    "options": ["oases", "peninsulas", "paddy fields", "farmlands"],
+    "answer": "oases"
+  },
+  {
+    "id": 12,
+    "question": "Which term describes a forest of trees with needle-like leaves and cones?",
+    "options": ["Deciduous", "Coniferous", "Fertile", "Farmland"],
+    "answer": "Coniferous"
+  },
+  {
+    "id": 13,
+    "question": "What do we call the 'people who come after you' in your family tree?",
+    "options": ["Ancestors", "Descendants", "Emigrants", "Immigrants"],
+    "answer": "Descendants"
+  },
+  {
+    "id": 14,
+    "question": "The 'textile industry' is concerned with making ...",
+    "options": ["cars", "cloth and clothing", "medicines", "sugar"],
+    "answer": "cloth and clothing"
+  },
+  {
+    "id": 15,
+    "question": "If land is 'flooded', it is:",
+    "options": ["Completely dry", "Covered with water", "Very high up", "Full of volcanoes"],
+    "answer": "Covered with water"
+  }
+]

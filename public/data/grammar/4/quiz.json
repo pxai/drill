@@ -1,32 +1,92 @@
 [
   {
     "id": 1,
-    "question": "Which tense is correct? 'Just as I ... into the bath, all the lights ... off.'",
-    "options": ["got / went", "was getting / were going", "was getting / went", "got / was going"],
-    "answer": "was getting / went"
+    "question": "Just as I ... into the bath all the lights went off.",
+    "options": ["was getting", "got", "had got", "am getting"],
+    "answer": "was getting"
   },
   {
     "id": 2,
-    "question": "To describe a background situation in a story (e.g., what someone was wearing when they left), you should use:",
-    "options": ["Past Simple", "Past Continuous", "Past Perfect", "Present Perfect"],
-    "answer": "Past Continuous"
+    "question": "I ... to go away this weekend, but my boss gave me some work to finish.",
+    "options": ["went", "was going", "had gone", "go"],
+    "answer": "was going"
   },
   {
     "id": 3,
-    "question": "Complete the intention: 'We ... wondering about inviting Eva over tomorrow.' (Indicates a less definite plan)",
-    "options": ["are", "were", "had been", "will be"],
-    "answer": "were"
+    "question": "I bumped into Lena last week. She ... a lot better than when I last saw her.",
+    "options": ["was looking", "looked", "looks", "had looked"],
+    "answer": "looked"
   },
   {
     "id": 4,
-    "question": "In the sentence 'The smoke alarm ... when she ... a candle underneath it', both verbs should be:",
-    "options": ["Past Continuous", "Past Simple", "Past Perfect", "Present Simple"],
-    "answer": "Past Simple"
+    "question": "My boss ... into the office just as I was showing everyone my holiday photos.",
+    "options": ["was coming", "came", "has come", "comes"],
+    "answer": "came"
   },
   {
     "id": 5,
-    "question": "If you say 'I was having to bring work home every night', the Past Continuous suggests:",
-    "options": ["It was a permanent habit", "It happened surprisingly often", "It was a one-time event", "It never actually happened"],
-    "answer": "It happened surprisingly often"
+    "question": "I ... badminton four times a week before I broke my ankle.",
+    "options": ["was playing", "played", "play", "had played"],
+    "answer": "played"
+  },
+  {
+    "id": 6,
+    "question": "The smoke alarm ... when he lit a candle underneath it.",
+    "options": ["was going off", "went off", "goes off", "had gone off"],
+    "answer": "went off"
+  },
+  {
+    "id": 7,
+    "question": "She added more salt to the soup, and then it ... much better.",
+    "options": ["was tasting", "tasted", "tastes", "had tasted"],
+    "answer": "tasted"
+  },
+  {
+    "id": 8,
+    "question": "Which sentence describes an activity in progress at a specific time in the past?",
+    "options": ["Mia read to the children.", "Mia was reading to the children.", "Mia reads to the children.", "Mia has read to the children."],
+    "answer": "Mia was reading to the children."
+  },
+  {
+    "id": 9,
+    "question": "Identify the 'less definite' future plan:",
+    "options": ["I'm thinking of going to China.", "I was thinking of going to China.", "I think of going to China.", "I will go to China."],
+    "answer": "I was thinking of going to China."
+  },
+  {
+    "id": 10,
+    "question": "We use the past continuous for repeated actions that happened ...",
+    "options": ["only once", "regularly over many years", "surprisingly often or for a temporary period", "at a specific point in history"],
+    "answer": "surprisingly often or for a temporary period"
+  },
+  {
+    "id": 11,
+    "question": "In the story of the theft, I actually ... somebody shoplifting.",
+    "options": ["was seeing", "saw", "see", "had seen"],
+    "answer": "saw"
+  },
+  {
+    "id": 12,
+    "question": "The woman ... an expensive-looking watch a number of times before she dropped it into her bag.",
+    "options": ["picked up", "was picking up", "picks up", "had picked up"],
+    "answer": "picked up"
+  },
+  {
+    "id": 13,
+    "question": "I ... that nobody was looking.",
+    "options": ["was thinking", "thought", "think", "had thought"],
+    "answer": "thought"
+  },
+  {
+    "id": 14,
+    "question": "Two police officers ... past just at that moment.",
+    "options": ["walked", "were walking", "walk", "had walked"],
+    "answer": "walked"
+  },
+  {
+    "id": 15,
+    "question": "She ... straight into them after she tried to run away.",
+    "options": ["was running", "ran", "runs", "had run"],
+    "answer": "ran"
   }
 ]

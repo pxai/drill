@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "question": "What is the meaning of 'encouraging signs' in an economic context?",
+    "options": ["Signs of total failure", "Signs that suggest improvement", "Signs of high taxes", "Signs of new laws"],
+    "answer": "Signs that suggest improvement"
+  },
+  {
+    "id": 2,
+    "question": "Which phrase is a common synonym for 'abject poverty'?",
+    "options": ["Relative poverty", "Deep poverty", "Development grants", "Fiscal measures"],
+    "answer": "Deep poverty"
+  },
+  {
+    "id": 3,
+    "question": "To 'alleviate' a debt burden means to:",
+    "options": ["Increase the debt", "Make it less severe", "Ignore the debt", "Double the interest"],
+    "answer": "Make it less severe"
+  },
+  {
+    "id": 4,
+    "question": "What are 'development grants' used for?",
+    "options": ["To pay for luxury items", "To help economic development in poor regions", "To increase national debt", "To buy military weapons"],
+    "answer": "To help economic development in poor regions"
+  },
+  {
+    "id": 5,
+    "question": "According to Section B, 'restrictive practices' involve:",
+    "options": ["Encouraging all imports", "Placing unfair restrictions on trade", "Creating a single currency", "Abolishing all taxes"],
+    "answer": "Placing unfair restrictions on trade"
+  },
+  {
+    "id": 6,
+    "question": "Total prohibitions on importing or exporting certain goods are called ...",
+    "options": ["sanctions", "grants", "embargoes", "devaluations"],
+    "answer": "embargoes"
+  },
+  {
+    "id": 7,
+    "question": "If several countries agree to use a 'single currency', they have entered a ...",
+    "options": ["monetary union", "trade war", "slump", "recession"],
+    "answer": "monetary union"
+  },
+  {
+    "id": 8,
+    "question": "An economy described as 'ailing' is one that is:",
+    "options": ["Extremely successful", "In a very bad state", "Recovering quickly", "Based only on farming"],
+    "answer": "In a very bad state"
+  },
+  {
+    "id": 9,
+    "question": "What happens during a 'slump in prices'?",
+    "options": ["Prices rise slightly", "Prices stay the same", "Prices fall seriously or collapse", "Prices become illegal"],
+    "answer": "Prices fall seriously or collapse"
+  },
+  {
+    "id": 10,
+    "question": "To 'emerge from' a recession means to:",
+    "options": ["Enter a recession", "Stay in it for years", "Come out of it", "Start a war"],
+    "answer": "Come out of it"
+  },
+  {
+    "id": 11,
+    "question": "What are 'fiscal measures' typically used for?",
+    "options": ["To boost the economy", "To start a trade war", "To cancel a currency", "To prevent health care access"],
+    "answer": "To boost the economy"
+  },
+  {
+    "id": 12,
+    "question": "A 'war-torn' economy is one that:",
+    "options": ["Is winning a war", "Has been badly affected by war", "Has no army", "Is very peaceful"],
+    "answer": "Has been badly affected by war"
+  },
+  {
+    "id": 13,
+    "question": "Which verb is used with 'sanctions' or 'embargoes' to mean they have been removed?",
+    "options": ["Dropped", "Lifted", "Incurred", "Alleviated"],
+    "answer": "Lifted"
+  },
+  {
+    "id": 14,
+    "question": "To 'incur' a debt means to ... money.",
+    "options": ["give away", "borrow", "save", "lose"],
+    "answer": "borrow"
+  },
+  {
+    "id": 15,
+    "question": "Complete the phrase from Exercise 49.2: 'Over a period of five years, the country ... huge debts.'",
+    "options": ["repaid", "got", "revalued", "emerged"],
+    "answer": "got"
+  }
+]

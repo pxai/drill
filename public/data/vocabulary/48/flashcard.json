@@ -1,0 +1,77 @@
+[
+  {
+    "id": 1,
+    "front": "deterrent",
+    "back": "Something that makes someone less likely to do something (e.g., nuclear weapons as a deterrent)."
+  },
+  {
+    "id": 2,
+    "front": "warfare",
+    "back": "The activity of fighting a war (e.g., biological or guerrilla warfare)."
+  },
+  {
+    "id": 3,
+    "front": "annihilation",
+    "back": "Total and complete destruction of something or someone."
+  },
+  {
+    "id": 4,
+    "front": "revulsion",
+    "back": "A strong feeling of shock, fear, or disgust towards something like war."
+  },
+  {
+    "id": 5,
+    "front": "truce",
+    "back": "An agreement between enemies to stop fighting for a specific period of time."
+  },
+  {
+    "id": 6,
+    "front": "ambush",
+    "back": "A sudden attack by people who have been hiding and waiting for their enemy."
+  },
+  {
+    "id": 7,
+    "front": "siege",
+    "back": "A military operation in which an army surrounds a place and cuts off all its supplies."
+  },
+  {
+    "id": 8,
+    "front": "hostilities",
+    "back": "Acts of fighting and weapons use in a war situation."
+  },
+  {
+    "id": 9,
+    "front": "outlaw (verb)",
+    "back": "To make something officially illegal or banned by law."
+  },
+  {
+    "id": 10,
+    "front": "biological warfare",
+    "back": "The use of living organisms or toxins to kill or injure humans, animals, or plants as an act of war."
+  },
+  {
+    "id": 11,
+    "front": "explode",
+    "back": "To burst or make something burst with great force and a loud noise."
+  },
+  {
+    "id": 12,
+    "front": "peacekeeping role",
+    "back": "The activity of preventing or ending fighting in a conflict area (often by the UN)."
+  },
+  {
+    "id": 13,
+    "front": "bomb (verb)",
+    "back": "To attack a place using explosive devices."
+  },
+  {
+    "id": 14,
+    "front": "nuclear power",
+    "back": "A country that possesses nuclear weapons."
+  },
+  {
+    "id": 15,
+    "front": "Peace Prize",
+    "back": "An award (like the Nobel Peace Prize) given to those who work for global harmony."
+  }
+]

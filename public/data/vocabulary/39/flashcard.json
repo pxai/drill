@@ -1,0 +1,77 @@
+[
+  {
+    "id": 1,
+    "front": "prompt",
+    "back": "Quick and without delay (e.g., 'a prompt reply to a query') [2]."
+  },
+  {
+    "id": 2,
+    "front": "query",
+    "back": "A question or enquiry about a service [2]."
+  },
+  {
+    "id": 3,
+    "front": "responsive",
+    "back": "Taking complaints seriously and being helpful in solving them [2]."
+  },
+  {
+    "id": 4,
+    "front": "accommodating",
+    "back": "Willing to understand and help the customer's needs [2]."
+  },
+  {
+    "id": 5,
+    "front": "impeccable",
+    "back": "100% perfect; service that cannot be faulted [2]."
+  },
+  {
+    "id": 6,
+    "front": "obliging",
+    "back": "Willing and happy to do things for the customer [2]."
+  },
+  {
+    "id": 7,
+    "front": "incompetent",
+    "back": "Failing through insufficient skill, knowledge, or training [2]."
+  },
+  {
+    "id": 8,
+    "front": "shoddy",
+    "back": "Poor quality of service or goods (e.g., 'shoddy repair work') [2]."
+  },
+  {
+    "id": 9,
+    "front": "substandard",
+    "back": "Below the standard expected; often used about actions or performance [2]."
+  },
+  {
+    "id": 10,
+    "front": "uncooperative",
+    "back": "Not supportive and unwilling to work together with the customer [2]."
+  },
+  {
+    "id": 11,
+    "front": "backlog",
+    "back": "A large number of orders or requests waiting to be dealt with [2]."
+  },
+  {
+    "id": 12,
+    "front": "put someone on hold",
+    "back": "To make a caller wait during a telephone conversation [2]."
+  },
+  {
+    "id": 13,
+    "front": "FAQ",
+    "back": "Frequently Asked Questions; a list of answers to common inquiries [2]."
+  },
+  {
+    "id": 14,
+    "front": "immediate dispatch",
+    "back": "When goods are sent to the customer as soon as they are ordered [2]."
+  },
+  {
+    "id": 15,
+    "front": "under guarantee / warranty",
+    "back": "Having a written promise from a company to repair or replace a faulty product for free [2]."
+  }
+]

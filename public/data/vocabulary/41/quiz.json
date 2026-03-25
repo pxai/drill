@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "question": "What is an 'adherent' of a political party?",
+    "options": ["A follower or supporter", "A leader", "An opponent", "A random voter"],
+    "answer": "A follower or supporter"
+  },
+  {
+    "id": 2,
+    "question": "If you take a story with a 'pinch of salt', you ...",
+    "options": ["believe it completely", "don't believe it completely", "add salt to your food", "tell it to others"],
+    "answer": "don't believe it completely"
+  },
+  {
+    "id": 3,
+    "question": "Which word describes a person who is intolerant of those who hold different opinions?",
+    "options": ["Convert", "Adherent", "Bigot", "Agnostic"],
+    "answer": "Bigot"
+  },
+  {
+    "id": 4,
+    "question": "A 'tenet' of a philosophy refers to:",
+    "options": ["A basic principle or belief", "The end of the theory", "The physical building of the school", "The founder"],
+    "answer": "A basic principle or belief"
+  },
+  {
+    "id": 5,
+    "question": "If an explanation is described as 'plausible', it is:",
+    "options": ["Seemingly likely to be true", "Obviously a lie", "Completely impossible", "Extremely long"],
+    "answer": "Seemingly likely to be true"
+  },
+  {
+    "id": 6,
+    "question": "To 'postulate' a theory means to:",
+    "options": ["Prove it wrong", "Suggest it as a basis for reasoning", "Forget it immediately", "Publish it in a newspaper"],
+    "answer": "Suggest it as a basis for reasoning"
+  },
+  {
+    "id": 7,
+    "question": "If you give someone the 'benefit of the doubt', you are:",
+    "options": ["Punishing them for a mistake", "Believing them because you can't prove otherwise", "Giving them financial aid", "Asking them to leave the group"],
+    "answer": "Believing them because you can't prove otherwise"
+  },
+  {
+    "id": 8,
+    "question": "What is the meaning of 'credence' according to the exercises?",
+    "options": ["Acceptance of something as true", "A type of medicine", "A scientific experiment", "A religious ceremony"],
+    "answer": "Acceptance of something as true"
+  },
+  {
+    "id": 9,
+    "question": "To 'ascribe' the origins of a philosophy to a specific era means to:",
+    "options": ["Ignore the origins", "Regard the origins as belonging to that era", "Move the origins elsewhere", "Teach the origins in school"],
+    "answer": "Regard the origins as belonging to that era"
+  },
+  {
+    "id": 10,
+    "question": "Which verb means to get rid of something (like poverty or a disease) completely?",
+    "options": ["Eradicate", "Evolve", "Enforce", "Enable"],
+    "answer": "Eradicate"
+  },
+  {
+    "id": 11,
+    "question": "A 'credulous' person is someone who is:",
+    "options": ["Very suspicious", "Too willing to believe things", "Highly intelligent", "Always angry"],
+    "answer": "Too willing to believe things"
+  },
+  {
+    "id": 12,
+    "question": "What is a 'convert' in a religious or political context?",
+    "options": ["Someone who has newly joined a group", "A priest or leader", "An atheist", "A sacred book"],
+    "answer": "Someone who has newly joined a group"
+  },
+  {
+    "id": 13,
+    "question": "If you describe someone as 'ingenuous', they are:",
+    "options": ["Extremely clever", "Innocent and unsuspecting", "Rude and bold", "Very wealthy"],
+    "answer": "Innocent and unsuspecting"
+  },
+  {
+    "id": 14,
+    "question": "If an explanation for a crime is 'implausible', it is:",
+    "options": ["Easy to believe", "Unlikely to be true", "Very short", "Correct and final"],
+    "answer": "Unlikely to be true"
+  },
+  {
+    "id": 15,
+    "question": "Which of these is the term for 'something accepted as true without proof'?",
+    "options": ["Assumption", "Adherent", "Tenet", "Eradication"],
+    "answer": "Assumption"
+  }
+]

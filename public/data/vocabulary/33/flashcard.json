@@ -1,0 +1,77 @@
+[
+  {
+    "id": 1,
+    "front": "paddy field",
+    "back": "A flooded field where rice is grown (common in countries like Vietnam)."
+  },
+  {
+    "id": 2,
+    "front": "coniferous forest",
+    "back": "A forest consisting of trees that produce cones and have needle-like leaves (e.g., pine trees)."
+  },
+  {
+    "id": 3,
+    "front": "deciduous forest",
+    "back": "A forest of trees that lose their leaves every year (opposite of evergreen/coniferous)."
+  },
+  {
+    "id": 4,
+    "front": "sugar / coffee plantation",
+    "back": "A large estate or farm where crops like sugar or coffee are grown for sale."
+  },
+  {
+    "id": 5,
+    "front": "industrial nation",
+    "back": "A country whose economy is based on manufacturing and industry rather than agriculture."
+  },
+  {
+    "id": 6,
+    "front": "sovereign nation",
+    "back": "A country that has the power to govern itself without outside interference."
+  },
+  {
+    "id": 7,
+    "front": "ancestors",
+    "back": "People from whom you are descended (e.g., your great-great-grandparents)."
+  },
+  {
+    "id": 8,
+    "front": "descendants",
+    "back": "The people who come after you in your family line (e.g., your children and grandchildren)."
+  },
+  {
+    "id": 9,
+    "front": "migrants",
+    "back": "People who move from one place to another, often to find work or better living conditions."
+  },
+  {
+    "id": 10,
+    "front": "emigrants",
+    "back": "People who leave their own country to go and live in another one."
+  },
+  {
+    "id": 11,
+    "front": "immigrants",
+    "back": "People who come to live permanently in a foreign country."
+  },
+  {
+    "id": 12,
+    "front": "outback",
+    "back": "The remote, dry, and sparsely populated inland areas of Australia."
+  },
+  {
+    "id": 13,
+    "front": "peninsula",
+    "back": "A piece of land that is almost entirely surrounded by water but connected to the mainland."
+  },
+  {
+    "id": 14,
+    "front": "fertile / oases",
+    "back": "'Fertile' describes land where plants grow well; 'oases' are areas in a desert where water is found."
+  },
+  {
+    "id": 15,
+    "front": "pharmaceutical industry",
+    "back": "The industry concerned with the discovery, development, and manufacture of drugs and medicines."
+  }
+]

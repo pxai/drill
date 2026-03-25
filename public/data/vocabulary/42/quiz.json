@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "question": "¿Cuál es la forma sustantiva del verbo 'celebrate'?",
+    "options": ["Celebratory", "Celebration", "Celebrities", "Celebrated"],
+    "answer": "Celebration"
+  },
+  {
+    "id": 2,
+    "question": "Si un evento es 'sombre', ¿cómo se describe su ambiente?",
+    "options": ["Colorido y alegre", "Muy ruidoso", "Serio, pesado y triste", "Extremadamente dramático"],
+    "answer": "Serio, pesado y triste"
+  },
+  {
+    "id": 3,
+    "question": "¿Qué término describe el 200.º aniversario de un evento?",
+    "options": ["Centenary", "Bi-centenary", "Centurion", "Anniversary"],
+    "answer": "Bi-centenary"
+  },
+  {
+    "id": 4,
+    "question": "Un carnaval que es 'extremadamente colorido y exagerado' es ...",
+    "options": ["Raucous", "Flamboyant", "Sombre", "Pagan"],
+    "answer": "Flamboyant"
+  },
+  {
+    "id": 5,
+    "question": "¿Cuál es la forma verbal asociada con 'renewal'?",
+    "options": ["Renew", "Renewed", "Renewing", "Renovate"],
+    "answer": "Renew"
+  },
+  {
+    "id": 6,
+    "question": "'Fasting' consiste en:",
+    "options": ["Comer alimentos específicos", "No comer por un periodo largo", "Caminar en procesión", "Hacer ruidos fuertes"],
+    "answer": "No comer por un periodo largo"
+  },
+  {
+    "id": 7,
+    "question": "¿Qué adjetivo describe algo que 'te llena con el sentido de la belleza y el poder' de lo que ves?",
+    "options": ["Spectacular", "Atmospheric", "Festive", "Ceremonial"],
+    "answer": "Spectacular"
+  },
+  {
+    "id": 8,
+    "question": "Si alguien tiene creencias ilógicas sobre los colores, se dice que es ...",
+    "options": ["Superstitious", "Flamboyant", "Pagan", "Raucous"],
+    "answer": "Superstitious"
+  },
+  {
+    "id": 9,
+    "question": "Recordar y respetar oficialmente a los que murieron en una guerra se llama:",
+    "options": ["Celebrate", "Commemorate", "Renew", "Fast"],
+    "answer": "Commemorate"
+  },
+  {
+    "id": 10,
+    "question": "Las acciones para mostrar que te arrepientes de tus 'malas acciones' se llaman ...",
+    "options": ["Penance", "Fasting", "Renewal", "Festivities"],
+    "answer": "Penance"
+  },
+  {
+    "id": 11,
+    "question": "Muchos festivales y costumbres tienen su origen en ceremonias ...",
+    "options": ["Modernas", "Sombrías", "Paganas", "Ruidosas"],
+    "answer": "Paganas"
+  },
+  {
+    "id": 12,
+    "question": "¿Qué adjetivo está relacionado con el sustantivo 'festivity'?",
+    "options": ["Festival", "Festive", "Festoon", "Festering"],
+    "answer": "Festive"
+  },
+  {
+    "id": 13,
+    "question": "Un evento con un 'sentimiento o clima especial' se describe como ...",
+    "options": ["Atmospheric", "Spectacular", "Raucous", "Sombre"],
+    "answer": "Atmospheric"
+  },
+  {
+    "id": 14,
+    "question": "Complete la frase: 'The festival ... the national spirit of the people.'",
+    "options": ["celebrates", "renews", "is festive", "is spectacular"],
+    "answer": "renews"
+  },
+  {
+    "id": 15,
+    "question": "¿Qué palabra describe un evento que es 'muy ruidoso'?",
+    "options": ["Sombre", "Flamboyant", "Raucous", "Atmospheric"],
+    "answer": "Raucous"
+  }
+]

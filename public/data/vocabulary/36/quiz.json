@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "question": "If an ambitious plan was 'nipped in the bud', what does that mean?",
+    "options": ["It became very successful", "It was stopped before it could develop", "It was supported by the grass roots", "It cost a lot of money"],
+    "answer": "It was stopped before it could develop"
+  },
+  {
+    "id": 2,
+    "question": "The 'grass roots' of a political party refers to:",
+    "options": ["The top leaders", "The founding members from 100 years ago", "The ordinary people in the organization", "The financial investors"],
+    "answer": "The ordinary people in the organization"
+  },
+  {
+    "id": 3,
+    "question": "What is the meaning of 'flourishing' in the context of a new business?",
+    "options": ["It is failing", "It is doing very well", "It is just starting to develop", "It is being sold"],
+    "answer": "It is doing very well"
+  },
+  {
+    "id": 4,
+    "question": "If a manager wants to 'weed out' the least effective workers, they want to:",
+    "options": ["Train them", "Hire more of them", "Get rid of them", "Give them a promotion"],
+    "answer": "Get rid of them"
+  },
+  {
+    "id": 5,
+    "question": "Complete the sentence from Section A: 'Her discontent ... from a traumatic experience she had last year.'",
+    "options": ["stems", "roots", "reaps", "seeds"],
+    "answer": "stems"
+  },
+  {
+    "id": 6,
+    "question": "If an idea has 'taken root', it has:",
+    "options": ["Been forgotten", "Been proven wrong", "Become known or accepted", "Been stopped early"],
+    "answer": "Become known or accepted"
+  },
+  {
+    "id": 7,
+    "question": "What kind of look is a 'withering look'?",
+    "options": ["A look of great happiness", "A look that makes the recipient feel scorned", "A look of confusion", "A look that shows secret love"],
+    "answer": "A look that makes the recipient feel scorned"
+  },
+  {
+    "id": 8,
+    "question": "If you are 'reaping the reward' of all your years of study, you are:",
+    "options": ["Starting your studies", "Getting good results from your efforts", "Failing your exams", "Quitting university"],
+    "answer": "Getting good results from your efforts"
+  },
+  {
+    "id": 9,
+    "question": "According to the metaphors in Section B, 'shrivelling' savings are savings that:",
+    "options": ["Are growing rapidly", "Are being spent on luxury items", "Are becoming less or smaller", "Are being kept in a bank"],
+    "answer": "Are becoming less or smaller"
+  },
+  {
+    "id": 10,
+    "question": "A 'budding' poet is someone who:",
+    "options": ["Is very old and famous", "Shows promise of future development", "Hates writing poetry", "Only writes about nature"],
+    "answer": "Shows promise of future development"
+  },
+  {
+    "id": 11,
+    "question": "What does it mean if someone is 'putting down roots' in a new city?",
+    "options": ["They are leaving the city", "They are visiting for a weekend", "They are settling down and making it their home", "They are planting trees in a park"],
+    "answer": "They are settling down and making it their home"
+  },
+  {
+    "id": 12,
+    "question": "According to Exercise 36.6, what is happening if new houses are 'mushrooming'?",
+    "options": ["They are being destroyed", "They are appearing/growing very rapidly", "They are very small", "They are shaped like vegetables"],
+    "answer": "They are appearing/growing very rapidly"
+  },
+  {
+    "id": 13,
+    "question": "If you are the 'apple of your teacher's eye', you are:",
+    "options": ["The teacher's favourite student", "The student who gets the worst grades", "A very loud student", "The teacher's secret enemy"],
+    "answer": "The teacher's favourite student"
+  },
+  {
+    "id": 14,
+    "question": "If students are 'wilting' in a hot classroom, they are:",
+    "options": ["Studying harder", "Losing energy", "Becoming more interested", "Leaving the room"],
+    "answer": "Losing energy"
+  },
+  {
+    "id": 15,
+    "question": "What does it mean to 'prune back' government proposals?",
+    "options": ["To accept all of them", "To make them more expensive", "To cut or limit them", "To introduce them for the first time"],
+    "answer": "To cut or limit them"
+  }
+]

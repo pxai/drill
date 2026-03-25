@@ -1,0 +1,77 @@
+[
+  {
+    "id": 1,
+    "front": "shrinking habitats",
+    "back": "Places where animals live and breed which are decreasing in size."
+  },
+  {
+    "id": 2,
+    "front": "endangered species",
+    "back": "Types of animals or plants which are in danger of no longer existing."
+  },
+  {
+    "id": 3,
+    "front": "global warming",
+    "back": "A steady rise in average world temperatures."
+  },
+  {
+    "id": 4,
+    "front": "climatic changes",
+    "back": "Changes in the weather/climate conditions over time."
+  },
+  {
+    "id": 5,
+    "front": "carbon dioxide emissions",
+    "back": "Carbon dioxide gas released from factories, cars, and other industrial sources."
+  },
+  {
+    "id": 6,
+    "front": "fossil fuels",
+    "back": "Energy sources like coal and oil whose burning contributes to environmental issues."
+  },
+  {
+    "id": 7,
+    "front": "greenhouse effect",
+    "back": "The warming of the Earth's surface caused by pollution."
+  },
+  {
+    "id": 8,
+    "front": "finite resources",
+    "back": "Limited resources that will eventually be exhausted."
+  },
+  {
+    "id": 9,
+    "front": "ecological balance",
+    "back": "The balance of natural relationships and interactions in the environment."
+  },
+  {
+    "id": 10,
+    "front": "deforestation",
+    "back": "The destruction or clearing of forests by human activity."
+  },
+  {
+    "id": 11,
+    "front": "demographic projections",
+    "back": "Forecasts and predictions about future population growth."
+  },
+  {
+    "id": 12,
+    "front": "worst case scenarios",
+    "back": "The worst possible outcomes or possibilities for the future."
+  },
+  {
+    "id": 13,
+    "front": "pristine environments",
+    "back": "Areas of land that are perfectly clean, untouched, or unspoilt."
+  },
+  {
+    "id": 14,
+    "front": "green credentials",
+    "back": "A reputation for positive and active support of environmental protection."
+  },
+  {
+    "id": 15,
+    "front": "sustainable development",
+    "back": "Development that meets needs without threatening environmental or social stability."
+  }
+]

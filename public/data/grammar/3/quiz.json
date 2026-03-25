@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "question": "Maria ... to go swimming since she fell in the river.",
+    "options": ["was able", "has been able", "is able", "could"],
+    "answer": "has been able"
+  },
+  {
+    "id": 2,
+    "question": "I ... three lectures today and I still have two more later this afternoon.",
+    "options": ["read", "have read", "am reading", "was reading"],
+    "answer": "have read"
+  },
+  {
+    "id": 3,
+    "question": "It was so hot today that I ... shorts and a T-shirt at work.",
+    "options": ["have worn", "wore", "wear", "am wearing"],
+    "answer": "wore"
+  },
+  {
+    "id": 4,
+    "question": "We ... £200 on food this month and there's another week to go before I get paid.",
+    "options": ["spent", "have spent", "spend", "were spending"],
+    "answer": "have spent"
+  },
+  {
+    "id": 5,
+    "question": "I ... much of the report yet, but I have to finish it by the weekend.",
+    "options": ["haven't read", "didn't read", "don't read", "wasn't reading"],
+    "answer": "haven't read"
+  },
+  {
+    "id": 6,
+    "question": "Complete the news report: 'The rate of inflation ... to 4.8%.'",
+    "options": ["dropped", "has dropped", "drops", "is dropping"],
+    "answer": "has dropped"
+  },
+  {
+    "id": 7,
+    "question": "Since he ... the girl from a house fire, he has been on TV almost every day.",
+    "options": ["rescued", "has rescued", "rescues", "was rescuing"],
+    "answer": "rescued"
+  },
+  {
+    "id": 8,
+    "question": "A lot ... since I last spoke to you.",
+    "options": ["happened", "has happened", "happens", "is happening"],
+    "answer": "has happened"
+  },
+  {
+    "id": 9,
+    "question": "Stefan's reading ... enormously since he started at school.",
+    "options": ["improved", "has improved", "improves", "was improving"],
+    "answer": "has improved"
+  },
+  {
+    "id": 10,
+    "question": "I ... her the moment I heard her laugh.",
+    "options": ["recognised", "have recognised", "recognise", "am recognising"],
+    "answer": "recognised"
+  },
+  {
+    "id": 11,
+    "question": "The Victoria Hospital in Milltown ... to new patients after more cases of food poisoning.",
+    "options": ["closed", "has closed", "closes", "is closing"],
+    "answer": "has closed"
+  },
+  {
+    "id": 12,
+    "question": "Since I ... to drive I am much more independent.",
+    "options": ["learned", "have learned", "learn", "am learning"],
+    "answer": "learned"
+  },
+  {
+    "id": 13,
+    "question": "I ... this morning because my alarm clock didn't go off.",
+    "options": ["have overslept", "overslept", "oversleep", "was oversleeping"],
+    "answer": "overslept"
+  },
+  {
+    "id": 14,
+    "question": "Identify the correct detail in news: 'Three elderly patients ... last week in the outbreak.'",
+    "options": ["have died", "died", "die", "were dying"],
+    "answer": "died"
+  },
+  {
+    "id": 15,
+    "question": "Remember that after you ... the contract you won't be able to change your mind.",
+    "options": ["signed", "have signed", "sign", "will sign"],
+    "answer": "signed"
+  }
+]

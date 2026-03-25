@@ -1,0 +1,17 @@
+[
+  { "id": 1, "front": "landing card", "back": "Formulario con datos personales y fecha de llegada que se entrega al entrar en algunos países. [1]" },
+  { "id": 2, "front": "customs declaration form", "back": "Formulario que indica cuánto dinero y qué bienes llevas contigo al cruzar una frontera. [1]" },
+  { "id": 3, "front": "vaccination certificate", "back": "Documento que prueba que has recibido las vacunas necesarias para entrar en un país. [1]" },
+  { "id": 4, "front": "entry restrictions", "back": "Reglas sobre quién puede entrar en un país y por cuánto tiempo. [1]" },
+  { "id": 5, "front": "spot checks / random checks", "back": "Controles realizados de forma aleatoria y sin previo aviso por las autoridades. [1]" },
+  { "id": 6, "front": "sniffer dogs", "back": "Perros especialmente entrenados para detectar drogas y explosivos mediante el olfato. [1]" },
+  { "id": 7, "front": "clear customs", "back": "Pasar el control de aduanas con el equipaje tras la llegada. [1]" },
+  { "id": 8, "front": "port of entry", "back": "El puerto o aeropuerto por el que se ingresa por primera vez a un país. [1]" },
+  { "id": 9, "front": "political asylum", "back": "Permiso para permanecer en otro país para evitar persecución política en el país de origen. [1]" },
+  { "id": 10, "front": "economic migrants", "back": "Personas que intentan entrar en un país más rico buscando trabajo y mejores condiciones. [1]" },
+  { "id": 11, "front": "fixed penalty", "back": "Una multa de una cantidad fija por una infracción específica (ej. tráfico). [1]" },
+  { "id": 12, "front": "on-the-spot fine", "back": "Multa que se debe pagar en el mismo momento y lugar de la infracción. [1]" },
+  { "id": 13, "front": "breathalyser", "back": "Instrumento en el que se sopla para medir el nivel de alcohol consumido. [1]" },
+  { "id": 14, "front": "make a statement", "back": "Declarar formalmente lo ocurrido ante la policía y firmar una copia de la declaración. [1]" },
+  { "id": 15, "front": "search warrant", "back": "Permiso oficial de un juez para que la policía pueda registrar una propiedad privada. [1]" }
+]

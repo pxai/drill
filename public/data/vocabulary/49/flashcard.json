@@ -1,0 +1,77 @@
+[
+  {
+    "id": 1,
+    "front": "encouraging signs",
+    "back": "Signs that suggest something (like an economy) is starting to improve."
+  },
+  {
+    "id": 2,
+    "front": "deep poverty / abject poverty",
+    "back": "The state of being extremely poor."
+  },
+  {
+    "id": 3,
+    "front": "debt burden",
+    "back": "The total amount of debt that a country or person has to pay back."
+  },
+  {
+    "id": 4,
+    "front": "alleviate debt",
+    "back": "To make a debt situation less severe or difficult to manage."
+  },
+  {
+    "id": 5,
+    "front": "incur debt",
+    "back": "To get into debt or borrow money that must be repaid."
+  },
+  {
+    "id": 6,
+    "front": "development grants",
+    "back": "Money given to poor regions specifically to help with economic development."
+  },
+  {
+    "id": 7,
+    "front": "sustainable development",
+    "back": "Economic development that does not destroy the environment or the economy's future."
+  },
+  {
+    "id": 8,
+    "front": "restrictive practices",
+    "back": "The placing of unfair restrictions on trade, such as limiting imports."
+  },
+  {
+    "id": 9,
+    "front": "sanctions",
+    "back": "Official restrictions placed on what a country may import or export."
+  },
+  {
+    "id": 10,
+    "front": "embargoes",
+    "back": "Total prohibitions on importing or exporting certain goods to/from a country."
+  },
+  {
+    "id": 11,
+    "front": "monetary union",
+    "back": "An agreement between different countries to share a single currency."
+  },
+  {
+    "id": 12,
+    "front": "war-torn economy",
+    "back": "An economy that has been badly affected or destroyed by war."
+  },
+  {
+    "id": 13,
+    "front": "ailing economies",
+    "back": "Economies that are in a very bad or weak state."
+  },
+  {
+    "id": 14,
+    "front": "devaluation / revaluation",
+    "back": "The reduction / increase in the value of a currency against other currencies."
+  },
+  {
+    "id": 15,
+    "front": "slump in prices",
+    "back": "A serious and sudden fall or collapse in the prices of goods."
+  }
+]

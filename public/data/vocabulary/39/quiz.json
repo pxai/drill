@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "question": "What is a 'prompt reply' according to Section A?",
+    "options": ["A very long reply", "A quick reply without delay", "An angry reply", "A reply sent by mail"],
+    "answer": "A quick reply without delay"
+  },
+  {
+    "id": 2,
+    "question": "If a company is 'responsive to complaints', it means they:",
+    "options": ["Ignore the customers", "Take complaints seriously and help", "Charge extra for complaints", "Never receive complaints"],
+    "answer": "Take complaints seriously and help"
+  },
+  {
+    "id": 3,
+    "question": "Which adjective describes service that is '100% perfect'?",
+    "options": ["Substandard", "Impersonal", "Impeccable", "Shoddy"],
+    "answer": "Impeccable"
+  },
+  {
+    "id": 4,
+    "question": "An 'obliging' staff member is one who is:",
+    "options": ["Willing and happy to do things for you", "Rude and quick", "Incompetent", "Too busy to help"],
+    "answer": "Willing and happy to do things for you"
+  },
+  {
+    "id": 5,
+    "question": "If service fails because of 'insufficient skill or training', it is described as:",
+    "options": ["Uncooperative", "Incompetent", "Impersonal", "Prompt"],
+    "answer": "Incompetent"
+  },
+  {
+    "id": 6,
+    "question": "What does 'shoddy' refer to in a service encounter?",
+    "options": ["High price", "Poor quality of goods or service", "Fast delivery", "Friendly atmosphere"],
+    "answer": "Poor quality of goods or service"
+  },
+  {
+    "id": 7,
+    "question": "Service that 'lacks a personal element' (like in some supermarkets) is called:",
+    "options": ["Impeccable", "Impersonal", "Accommodating", "Responsive"],
+    "answer": "Impersonal"
+  },
+  {
+    "id": 8,
+    "question": "A 'backlog of orders' means:",
+    "options": ["All orders are finished", "Orders are being returned", "A large number of orders are waiting to be dealt with", "There are no orders"],
+    "answer": "A large number of orders are waiting to be dealt with"
+  },
+  {
+    "id": 9,
+    "question": "If you are 'under guarantee', what happens if your TV breaks down?",
+    "options": ["You have to buy a new one", "You don't have to pay to get it repaired", "You must pay for parts only", "The company ignores you"],
+    "answer": "You don't have to pay to get it repaired"
+  },
+  {
+    "id": 10,
+    "question": "What is a 'secure site' on the Internet?",
+    "options": ["A site with no products", "A web address where details are protected from outside people", "A site that is always closed", "A site with many advertisements"],
+    "answer": "A web address where details are protected from outside people"
+  },
+  {
+    "id": 11,
+    "question": "On a website, what does 'FAQ' stand for?",
+    "options": ["Fast Answer Quality", "Frequently Asked Questions", "Firm Agreement Quote", "Frequently Acquired Quantities"],
+    "answer": "Frequently Asked Questions"
+  },
+  {
+    "id": 12,
+    "question": "If an online shop offers 'immediate dispatch', when will they send your goods?",
+    "options": ["Next month", "After three weeks", "As soon as you order them", "Only on weekends"],
+    "answer": "As soon as you order them"
+  },
+  {
+    "id": 13,
+    "question": "Complete the sentence from Exercise 39.1: 'I rang to complain and they put me ... for about 15 minutes.'",
+    "options": ["on call", "on hold", "on line", "on wait"],
+    "answer": "on hold"
+  },
+  {
+    "id": 14,
+    "question": "A 'nationwide service' is one that:",
+    "options": ["Operates only in one city", "Is closed to the public", "Covers the whole country", "Is only for international tourists"],
+    "answer": "Covers the whole country"
+  },
+  {
+    "id": 15,
+    "question": "If you have a 'query', you have a(n):",
+    "options": ["Answer", "Question or enquiry", "Faulty product", "Discount code"],
+    "answer": "Question or enquiry"
+  }
+]

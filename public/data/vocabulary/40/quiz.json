@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "question": "¿Qué documento muestra cuánto dinero y qué mercancías llevas al entrar a un país? [1]",
+    "options": ["Landing card", "Customs declaration form", "Vaccination certificate", "Search warrant"],
+    "answer": "Customs declaration form"
+  },
+  {
+    "id": 2,
+    "question": "Los controles que se hacen 'sin previo aviso' se denominan: [1]",
+    "options": ["Entry restrictions", "Fixed penalties", "Spot checks", "Statements"],
+    "answer": "Spot checks"
+  },
+  {
+    "id": 3,
+    "question": "¿Cómo se llama al permiso para quedarse en un país y evitar la persecución política? [1]",
+    "options": ["Economic migration", "Political asylum", "Clear customs", "Port of entry"],
+    "answer": "Political asylum"
+  },
+  {
+    "id": 4,
+    "question": "Un 'breathalyser' se utiliza para medir: [1]",
+    "options": ["La velocidad del coche", "El nivel de alcohol consumido", "El peso de la carga", "La validez del pasaporte"],
+    "answer": "El nivel de alcohol consumido"
+  },
+  {
+    "id": 5,
+    "question": "¿Qué necesita la policía para entrar legalmente a registrar una casa contra el deseo del dueño? [1]",
+    "options": ["Fixed penalty", "Search warrant", "On-the-spot fine", "Landing card"],
+    "answer": "Search warrant"
+  },
+  {
+    "id": 6,
+    "question": "Las personas que se mudan de países pobres a otros más ricos buscando empleo son: [1]",
+    "options": ["Political refugees", "Economic migrants", "Security forces", "Traffic wardens"],
+    "answer": "Economic migrants"
+  },
+  {
+    "id": 7,
+    "question": "¿Qué término describe el acto de pasar oficialmente tus maletas por la aduana? [1]",
+    "options": ["Clear customs", "Enter restriction", "Make a statement", "Spot check"],
+    "answer": "Clear customs"
+  },
+  {
+    "id": 8,
+    "question": "Una 'fixed penalty' es: [1]",
+    "options": ["Una advertencia verbal", "Una suma fija a pagar por una infracción", "Una pena de prisión", "Un examen médico"],
+    "answer": "Una suma fija a pagar por una infracción"
+  },
+  {
+    "id": 9,
+    "question": "¿Cuál es la función de la 'drug squad'? [1]",
+    "options": ["Controlar el tráfico", "Combatir el comercio ilegal de drogas", "Revisar pasaportes", "Vigilar embajadas"],
+    "answer": "Combatir el comercio ilegal de drogas"
+  },
+  {
+    "id": 10,
+    "question": "Si recibes una multa y debes pagarla 'en el acto', has recibido una: [1]",
+    "options": ["Fixed penalty", "On-the-spot fine", "Penalty point", "Parking ticket"],
+    "answer": "On-the-spot fine"
+  },
+  {
+    "id": 11,
+    "question": "¿Qué usan las autoridades para detectar drogas o explosivos en el equipaje? [1]",
+    "options": ["Surveillance cameras", "Sniffer dogs", "Landing cards", "Breathalysers"],
+    "answer": "Sniffer dogs"
+  },
+  {
+    "id": 12,
+    "question": "El puerto o aeropuerto por donde se ingresa a un país se llama: [1]",
+    "options": ["Point of entry", "Port of entry", "Border zone", "Customs house"],
+    "answer": "Port of entry"
+  },
+  {
+    "id": 13,
+    "question": "Al ser testigo de un accidente, la policía puede pedirte que: [1]",
+    "options": ["Make a statement", "Clear customs", "A search warrant", "An on-the-spot fine"],
+    "answer": "Make a statement"
+  },
+  {
+    "id": 14,
+    "question": "Las reglas que dictan quién puede entrar al país y por cuánto tiempo son: [1]",
+    "options": ["Entry restrictions", "Customs declarations", "Spot checks", "Security forces"],
+    "answer": "Entry restrictions"
+  },
+  {
+    "id": 15,
+    "question": "La unidad policial que investiga sobornos y corrupción es: [1]",
+    "options": ["Drug squad", "Anti-corruption squad", "Paramilitary police", "Security forces"],
+    "answer": "Anti-corruption squad"
+  }
+]

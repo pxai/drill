@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "question": "Which informal word describes weather that is 'a bit chilly'?",
+    "options": ["Sweltering", "Nippy", "Sultry", "Muggy"],
+    "answer": "Nippy"
+  },
+  {
+    "id": 2,
+    "question": "What does a 'frosty reception' imply metaphorically?",
+    "options": ["A very cold room", "An unfriendly welcome", "A surprise party", "A formal meeting"],
+    "answer": "An unfriendly welcome"
+  },
+  {
+    "id": 3,
+    "question": "If you are 'snowed under with work', you ...",
+    "options": ["are on holiday", "have very little to do", "have too much work to deal with", "are working in the mountains"],
+    "answer": "have too much work to deal with"
+  },
+  {
+    "id": 4,
+    "question": "Which of these terms describes 'hot and uncomfortably damp' weather?",
+    "options": ["Breezy", "Muggy", "Deluge", "Freeze"],
+    "answer": "Muggy"
+  },
+  {
+    "id": 5,
+    "question": "A 'sunny disposition' refers to someone who is:",
+    "options": ["Always unhappy", "Nearly always happy", "Very wealthy", "Physically warm"],
+    "answer": "Nearly always happy"
+  },
+  {
+    "id": 6,
+    "question": "What is a 'deluge' according to the source?",
+    "options": ["A light breeze", "Very heavy rain", "A small cloud", "A heatwave"],
+    "answer": "Very heavy rain"
+  },
+  {
+    "id": 7,
+    "question": "If it is 'chucking it down', what is happening?",
+    "options": ["It is very windy", "It is snowing", "It is raining heavily", "It is very foggy"],
+    "answer": "It is raining heavily"
+  },
+  {
+    "id": 8,
+    "question": "What does it mean if an idea is 'hazy'?",
+    "options": ["It is brilliant", "It is very clear", "It is vague or not clear", "It is illegal"],
+    "answer": "It is vague or not clear"
+  },
+  {
+    "id": 9,
+    "question": "A 'whirlwind romance' is a relationship that:",
+    "options": ["Develops very slowly", "Happens very quickly", "Ends in a storm", "Is very boring"],
+    "answer": "Happens very quickly"
+  },
+  {
+    "id": 10,
+    "question": "Which adjective describes hot weather where you feel there is 'no air'?",
+    "options": ["Stifling", "Breezy", "Nippy", "Freezing"],
+    "answer": "Stifling"
+  },
+  {
+    "id": 11,
+    "question": "If someone is under a 'cloud of suspicion', people think they ...",
+    "options": ["are very talented", "have done something wrong", "need a holiday", "are very happy"],
+    "answer": "have done something wrong"
+  },
+  {
+    "id": 12,
+    "question": "Complete the metaphor: 'Thunderous ... followed his speech.'",
+    "options": ["rain", "applause", "reception", "disposition"],
+    "answer": "applause"
+  },
+  {
+    "id": 13,
+    "question": "What kind of weather is 'oppressive'?",
+    "options": ["Cold and windy", "Unpleasantly hot and still", "Perfect for swimming", "Light rain"],
+    "answer": "Unpleasantly hot and still"
+  },
+  {
+    "id": 14,
+    "question": "In metaphors, 'a hail of abuse' means:",
+    "options": ["A polite conversation", "A lot of insults directed at someone", "A weather warning", "A cold winter"],
+    "answer": "A lot of insults directed at someone"
+  },
+  {
+    "id": 15,
+    "question": "If you describe an argument as being in 'the mists of history', you mean it is:",
+    "options": ["Happening now", "Very clear to everyone", "Unclear because it happened long ago", "A very loud argument"],
+    "answer": "Unclear because it happened long ago"
+  }
+]

@@ -1,0 +1,77 @@
+[
+  {
+    "id": 1,
+    "front": "syntax",
+    "back": "The technical term for grammar and word order [1]."
+  },
+  {
+    "id": 2,
+    "front": "lexicon",
+    "back": "The technical term for vocabulary [1]."
+  },
+  {
+    "id": 3,
+    "front": "phonemes",
+    "back": "Different sounds that distinguish meanings in a language [1]."
+  },
+  {
+    "id": 4,
+    "front": "diphthongs",
+    "back": "Sounds made by combining vowels, such as æ and ei [1]."
+  },
+  {
+    "id": 5,
+    "front": "orthography",
+    "back": "The technical term for writing systems [1]."
+  },
+  {
+    "id": 6,
+    "front": "pictograms",
+    "back": "Characters representing pictures [1]."
+  },
+  {
+    "id": 7,
+    "front": "ideograms",
+    "back": "Characters representing ideas or concepts [1]."
+  },
+  {
+    "id": 8,
+    "front": "morphology",
+    "back": "The study of how words are formed [1]."
+  },
+  {
+    "id": 9,
+    "front": "morphemes",
+    "back": "The smallest units of meaning (e.g., 'un-', 'think', and 'able' in 'unthinkable') [1]."
+  },
+  {
+    "id": 10,
+    "front": "inflected",
+    "back": "Describing languages where words have endings to show tense, person, etc. (e.g., Romance languages) [1]."
+  },
+  {
+    "id": 11,
+    "front": "isolating",
+    "back": "Describing languages where each word has only one morpheme (e.g., Chinese) [1]."
+  },
+  {
+    "id": 12,
+    "front": "cedilla",
+    "back": "The accent used in the Portuguese word 'embaraçar' (ç) [1]."
+  },
+  {
+    "id": 13,
+    "front": "umlaut",
+    "back": "The accent used in the German word 'für' (ü) [1]."
+  },
+  {
+    "id": 14,
+    "front": "Germanic family",
+    "back": "The language family that includes Swedish, English, and Dutch [1]."
+  },
+  {
+    "id": 15,
+    "front": "Austronesian family",
+    "back": "The family that includes Malay, Tagalog, and Maori [1]."
+  }
+]

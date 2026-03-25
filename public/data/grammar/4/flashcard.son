@@ -1,27 +1,77 @@
 [
   {
     "id": 1,
-    "front": "Past Continuous (Emphasis)",
-    "back": "Used to emphasize that an event or activity was in progress during a past period (e.g., 'I was learning to drive')."
+    "front": "Past continuous vs. simple (Simultaneous events)",
+    "back": "The continuous emphasizes the event was in progress ('was reading'); the simple can emphasize completion ('read') [1]."
   },
   {
     "id": 2,
-    "front": "Past Simple (Sequence)",
-    "back": "Used to talk about two or more past completed events that followed one another (e.g., 'She got up when the alarm went off')."
+    "front": "Sequential events in the past",
+    "back": "We use the past simple for two or more completed events that followed one another (e.g., 'She got up when the alarm went off') [1]."
   },
   {
     "id": 3,
-    "front": "Repeated Past Actions",
-    "back": "Usually use Past Simple. However, Past Continuous is used in spoken English for temporary actions or things that happened surprisingly often."
+    "front": "Repeated past actions (General)",
+    "back": "We usually use the past simple (e.g., 'We went to Spain three times last year') [1]."
   },
   {
     "id": 4,
-    "front": "Background in Narrative",
-    "back": "Past Continuous is often used to describe the situation that existed at the time a single complete event (Past Simple) occurred."
+    "front": "Repeated actions (Temporary period)",
+    "back": "The past continuous can emphasize that actions went on for a limited or temporary period (e.g., 'we were visiting her twice a day') [1]."
   },
   {
     "id": 5,
-    "front": "Verbs of Intention",
-    "back": "Verbs like 'consider', 'expect', or 'plan' in Past Continuous report a future intention that is less definite than the Past Simple form."
+    "front": "Actions happening 'surprisingly often'",
+    "back": "The past continuous is used for frequent actions that might surprise or annoy (e.g., 'the builders were making them cups of tea all the time') [1]."
+  },
+  {
+    "id": 6,
+    "front": "Background in narratives",
+    "back": "The past continuous describes the situation that existed at the time of a main event (e.g., 'She was shaking with anger as she left') [1]."
+  },
+  {
+    "id": 7,
+    "front": "Single complete past event",
+    "back": "Often expressed with the past simple in narratives or reports [1]."
+  },
+  {
+    "id": 8,
+    "front": "Intentions that didn't happen (Verbs)",
+    "back": "Verbs like 'consider', 'expect', 'hope', 'intend', 'plan', 'think', 'want', 'wonder' can use past continuous for things we intended to do but didn't [1]."
+  },
+  {
+    "id": 9,
+    "front": "Less definite future plans",
+    "back": "The past continuous can report future plans in a less definite way than the present continuous (e.g., 'I was thinking of going to China next year') [1]."
+  },
+  {
+    "id": 10,
+    "front": "Was learning vs. Learned",
+    "back": "'Was learning' emphasizes the activity was in progress; 'learned' emphasizes completion or passing a test [1]."
+  },
+  {
+    "id": 11,
+    "front": "Sudden events in narratives",
+    "back": "Main events that interrupt a background situation are usually in the past simple (e.g., 'Erika dropped her bag while she was getting into her car') [1]."
+  },
+  {
+    "id": 12,
+    "front": "Verbs of thinking/planning + -ing",
+    "back": "Used in past continuous to talk about intentions (e.g., 'we were meaning to call in and see you') [1]."
+  },
+  {
+    "id": 13,
+    "front": "Past Simple for permanent habits",
+    "back": "Used for actions that were always true or happened regularly over a long period (e.g., 'Did you drive past her house every day?') [1]."
+  },
+  {
+    "id": 14,
+    "front": "Wondering about the future",
+    "back": "Using 'were wondering' makes a report of a future plan less definite than 'are wondering' [1]."
+  },
+  {
+    "id": 15,
+    "front": "While + Past Continuous",
+    "back": "Often used to show one action was in progress while another happened (e.g., 'while Ben was washing up') [1]."
   }
 ]

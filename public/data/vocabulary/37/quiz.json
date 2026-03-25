@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "question": "According to Section A, which type of animal gives birth to live babies rather than eggs?",
+    "options": ["Reptile", "Mammal", "Bird", "Amphibian"],
+    "answer": "Mammal"
+  },
+  {
+    "id": 2,
+    "question": "What is the collective term for animals like mice and rats?",
+    "options": ["Carnivores", "Rodents", "Domesticated", "Predators"],
+    "answer": "Rodents"
+  },
+  {
+    "id": 3,
+    "question": "An animal that eats only grass and vegetation is a:",
+    "options": ["Herbivore", "Carnivore", "Savage", "Docile"],
+    "answer": "Herbivore"
+  },
+  {
+    "id": 4,
+    "question": "Which adjective describes an animal that 'is not afraid of humans'?",
+    "options": ["Savage", "Fierce", "Tame", "Wild"],
+    "answer": "Tame"
+  },
+  {
+    "id": 5,
+    "question": "If an animal behaves 'very gently', it is described as ...",
+    "options": ["docile", "fierce", "wild", "savage"],
+    "answer": "docile"
+  },
+  {
+    "id": 6,
+    "question": "What do we call the 'preferred natural place' for animals to live and breed?",
+    "options": ["Game reserve", "Animal shelter", "Natural habitat", "Ivory trade"],
+    "answer": "Natural habitat"
+  },
+  {
+    "id": 7,
+    "question": "According to Section D, people who hunt animals illegally are called ...",
+    "options": ["detractors", "poachers", "philistines", "migrants"],
+    "answer": "poachers"
+  },
+  {
+    "id": 8,
+    "question": "What is a 'bird sanctuary'?",
+    "options": ["A place where birds are hunted", "A protected area where birds can live and breed", "A type of cage for pets", "A restaurant that serves poultry"],
+    "answer": "A protected area where birds can live and breed"
+  },
+  {
+    "id": 9,
+    "question": "Sports whose purpose is to kill or injure animals are known as ...",
+    "options": ["blood sports", "game parks", "fur trade", "ivory trade"],
+    "answer": "blood sports"
+  },
+  {
+    "id": 10,
+    "question": "An animal that 'hunts and eats other animals' is classified as a ...",
+    "options": ["herbivore", "predator", "docile", "rodent"],
+    "answer": "predator"
+  },
+  {
+    "id": 11,
+    "question": "What is the meaning of the adjective 'fierce'?",
+    "options": ["Behaving gently", "Behaving aggressively", "Living with humans", "Eating only plants"],
+    "answer": "Behaving aggressively"
+  },
+  {
+    "id": 12,
+    "question": "A place where cats, dogs, or horses with no home are given food and care is a(n) ...",
+    "options": ["animal shelter", "game reserve", "natural habitat", "bird sanctuary"],
+    "answer": "animal shelter"
+  },
+  {
+    "id": 13,
+    "question": "The 'ivory trade' specifically involves the illegal buying and selling of:",
+    "options": ["Animal furs", "Meat", "Elephants' tusks", "Pet birds"],
+    "answer": "Elephants' tusks"
+  },
+  {
+    "id": 14,
+    "question": "Which word is the opposite of 'domesticated'?",
+    "options": ["Tame", "Wild", "Docile", "Herbivore"],
+    "answer": "Wild"
+  },
+  {
+    "id": 15,
+    "question": "Complete the sentence from Exercise 37.1: 'Dolphins are very ... and will swim along with human beings.'",
+    "options": ["tame", "fierce", "savage", "carnivores"],
+    "answer": "tame"
+  }
+]

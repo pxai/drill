@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "question": "Which sentence emphasizes a temporary situation?",
+    "options": ["Ella loves having her here.", "Ella is loving having her here.", "Ella always love having her here.", "Ella has loved having her here."],
+    "answer": "Ella is loving having her here."
+  },
+  {
+    "id": 2,
+    "question": "Which verb is rarely used in the continuous form?",
+    "options": ["Look", "Like", "Own", "Attract"],
+    "answer": "Own"
+  },
+  {
+    "id": 3,
+    "question": "What does 'appear' mean in: 'Carley Robb is currently appearing in a musical'?",
+    "options": ["To seem", "To be visible", "To take part", "To look like"],
+    "answer": "To take part"
+  },
+  {
+    "id": 4,
+    "question": "If you are 'increasingly aware that you made the wrong decision', you would say:",
+    "options": ["I regret my decision.", "I'm regretting my decision.", "I always regret my decision.", "I have regretted my decision."],
+    "answer": "I'm regretting my decision."
+  },
+  {
+    "id": 5,
+    "question": "Complete the sentence: 'He's ... taking early retirement.' (meaning he is thinking carefully about it)",
+    "options": ["consider", "considers", "considering", "considered"],
+    "answer": "considering"
+  },
+  {
+    "id": 6,
+    "question": "Which of these is a performative verb?",
+    "options": ["Believe", "Apologise", "Know", "Consist of"],
+    "answer": "Apologise"
+  },
+  {
+    "id": 7,
+    "question": "In affirmative performative sentences, which tense is used?",
+    "options": ["Present continuous", "Present simple", "Present perfect", "Past simple"],
+    "answer": "Present simple"
+  },
+  {
+    "id": 8,
+    "question": "Choose the correct negative performative sentence:",
+    "options": ["I'm not denying taking the books.", "I don't deny taking the books.", "Both are correct.", "Neither is correct."],
+    "answer": "Both are correct."
+  },
+  {
+    "id": 9,
+    "question": "Why would someone say 'I must beg you to keep this a secret' instead of 'I beg you'?",
+    "options": ["To show anger", "To be more polite/tentative", "Because it's a permanent state", "To show it is happening right now"],
+    "answer": "To be more polite/tentative"
+  },
+  {
+    "id": 10,
+    "question": "Which sentence is correct for a preference?",
+    "options": ["I'm believing you now.", "I believe you now.", "I am knowing the truth.", "I'm preferring coffee."],
+    "answer": "I believe you now."
+  },
+  {
+    "id": 11,
+    "question": "If 'the app doesn't appear to work', it ...",
+    "options": ["takes part in something", "seems not to work", "is currently broken", "is being fixed"],
+    "answer": "seems not to work"
+  },
+  {
+    "id": 12,
+    "question": "We use 'realise' in the continuous form to show ...",
+    "options": ["a permanent fact", "we have recently started to think about it", "a long-term habit", "we are 100% certain"],
+    "answer": "we have recently started to think about it"
+  },
+  {
+    "id": 13,
+    "question": "Complete: 'I ... that the company will have to be sold.' (meaning the decision is made and I'm sorry)",
+    "options": ["regret", "am regretting", "regretting", "am regret"],
+    "answer": "regret"
+  },
+  {
+    "id": 14,
+    "question": "Which of these performatives is NOT mentioned in Unit 1?",
+    "options": ["Predict", "Guarantee", "Dance", "Warn"],
+    "answer": "Dance"
+  },
+  {
+    "id": 15,
+    "question": "Which tense is preferred for: 'We ... that you read the terms and conditions carefully'?",
+    "options": ["are requesting", "request", "requesting", "have requested"],
+    "answer": "request"
+  }
+]

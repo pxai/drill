@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "question": "¿Cómo se define un 'scheduled flight' según el texto?",
+    "options": ["Un vuelo para un grupo específico", "Un vuelo normal y regular", "Un vuelo privado de lujo", "Un vuelo sin escalas"],
+    "answer": "Un vuelo normal y regular"
+  },
+  {
+    "id": 2,
+    "question": "Si una tarifa aérea requiere reserva con antelación para ser económica, se llama tarifa ...",
+    "options": ["Apex", "Charter", "Standard", "Refundable"],
+    "answer": "Apex"
+  },
+  {
+    "id": 3,
+    "question": "¿Qué significa que un billete sea 'non-refundable'?",
+    "options": ["Que se puede cambiar gratis", "Que no te devuelven el dinero si cancelas", "Que incluye el seguro de viaje", "Que es de primera clase"],
+    "answer": "Que no te devuelven el dinero si cancelas"
+  },
+  {
+    "id": 4,
+    "question": "La 'escala' que permite pasar la noche en una ciudad antes de seguir el viaje es un ...",
+    "options": ["Transfer", "Stopover", "Crossing", "Package"],
+    "answer": "Stopover"
+  },
+  {
+    "id": 5,
+    "question": "¿Qué suelen incluir los 'all-in packages' además del alojamiento?",
+    "options": ["Coche propio", "Traslados (transfers)", "Vuelos ilimitados", "Guía personal"],
+    "answer": "Traslados (transfers)"
+  },
+  {
+    "id": 6,
+    "question": "En un viaje por mar, una cama en una cabina se denomina:",
+    "options": ["Berth", "Deck", "Chalet", "Inn"],
+    "answer": "Berth"
+  },
+  {
+    "id": 7,
+    "question": "Si quieres escapar de tu rutina diaria, buscas ...",
+    "options": ["get away from it all", "get around", "unlimited mileage", "self-catering"],
+    "answer": "get away from it all"
+  },
+  {
+    "id": 8,
+    "question": "¿Qué ventaja ofrece el 'unlimited mileage' al alquilar un coche?",
+    "options": ["Gasolina gratis", "Seguro total", "Conducir los kilómetros que quieras por el mismo precio", "Poder devolver el coche en otra ciudad"],
+    "answer": "Conducir los kilómetros que quieras por el mismo precio"
+  },
+  {
+    "id": 9,
+    "question": "El alojamiento donde tú mismo cocinas se llama ...",
+    "options": ["Full board", "Half board", "Self-catering", "Guest house"],
+    "answer": "Self-catering"
+  },
+  {
+    "id": 10,
+    "question": "En el Reino Unido, ¿qué término se usa para edificios similares a pubs que ofrecen alojamiento?",
+    "options": ["Chalets", "Inns", "Berths", "Apex"],
+    "answer": "Inns"
+  },
+  {
+    "id": 11,
+    "question": "¿Qué incluye el régimen de 'half board'?",
+    "options": ["Solo desayuno", "Todas las comidas", "Desayuno y otra comida", "Solo alojamiento"],
+    "answer": "Desayuno y otra comida"
+  },
+  {
+    "id": 12,
+    "question": "Un camarote de lujo ('deluxe cabin') suele estar situado en la ...",
+    "options": ["Upper deck", "Lower deck", "Main deck", "Berth"],
+    "answer": "Upper deck"
+  },
+  {
+    "id": 13,
+    "question": "¿Cómo se llama el transporte desde el aeropuerto hasta tu hotel?",
+    "options": ["Transfer", "Scheduled", "Charter", "Apex"],
+    "answer": "Transfer"
+  },
+  {
+    "id": 14,
+    "question": "Si el hotel te ofrece 'full board', significa que tienes incluidas ...",
+    "options": ["todas las comidas", "solo las bebidas", "dos comidas al día", "ninguna comida"],
+    "answer": "todas las comidas"
+  },
+  {
+    "id": 15,
+    "question": "Un viaje en ferry por mar se conoce normalmente como ...",
+    "options": ["A crossing", "A scheduled flight", "A transfer", "A stopover"],
+    "answer": "A crossing"
+  }
+]

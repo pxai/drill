@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "question": "Which of these languages belongs to the Germanic family?",
+    "options": ["Russian", "English", "French", "Welsh"],
+    "answer": "English"
+  },
+  {
+    "id": 2,
+    "question": "What is the technical term for 'grammar and word order'?",
+    "options": ["Phonology", "Orthography", "Syntax", "Lexicon"],
+    "answer": "Syntax"
+  },
+  {
+    "id": 3,
+    "question": "How are sounds that distinguish meanings called?",
+    "options": ["Diphthongs", "Phonemes", "Morphemes", "Characters"],
+    "answer": "Phonemes"
+  },
+  {
+    "id": 4,
+    "question": "Which term refers to characters that represent 'ideas or concepts' rather than pictures?",
+    "options": ["Pictograms", "Ideograms", "Compounds", "Accents"],
+    "answer": "Ideograms"
+  },
+  {
+    "id": 5,
+    "question": "The study of how words are formed is known as ...",
+    "options": ["Lexicon", "Phonology", "Morphology", "Syntax"],
+    "answer": "Morphology"
+  },
+  {
+    "id": 6,
+    "question": "What is a 'morpheme'?",
+    "options": ["A type of accent", "A unit of meaning", "A writing system", "A language family"],
+    "answer": "A unit of meaning"
+  },
+  {
+    "id": 7,
+    "question": "In an 'isolating' language like Chinese, each word has:",
+    "options": ["Many endings", "Only one morpheme", "At least three syllables", "No vowels"],
+    "answer": "Only one morpheme"
+  },
+  {
+    "id": 8,
+    "question": "What is the name of the accent used in the Spanish letter 'ñ'?",
+    "options": ["Cedilla", "Umlaut", "Tilde", "Acute"],
+    "answer": "Tilde"
+  },
+  {
+    "id": 9,
+    "question": "Languages like Spanish and French, which use endings to show tense and person, are:",
+    "options": ["Isolating", "Inflected", "Semitic", "Slavic"],
+    "answer": "Inflected"
+  },
+  {
+    "id": 10,
+    "question": "Which language family includes Arabic and Hebrew?",
+    "options": ["Romance", "Indo-Aryan", "Semitic", "Austronesian"],
+    "answer": "Semitic"
+  },
+  {
+    "id": 11,
+    "question": "A sound made by 'combining vowels' is a ...",
+    "options": ["Phoneme", "Diphthong", "Morpheme", "Lexicon"],
+    "answer": "Diphthong"
+  },
+  {
+    "id": 12,
+    "question": "What is the name of the accent in the French word 'être' (ê)?",
+    "options": ["Grave", "Acute", "Circumflex", "Umlaut"],
+    "answer": "Circumflex"
+  },
+  {
+    "id": 13,
+    "question": "Which term is the technical name for 'vocabulary'?",
+    "options": ["Orthography", "Lexicon", "Syntax", "Phonology"],
+    "answer": "Lexicon"
+  },
+  {
+    "id": 14,
+    "question": "Farsi is a language that belongs to which family?",
+    "options": ["Indo-Aryan", "Germanic", "Celtic", "Austronesian"],
+    "answer": "Indo-Aryan"
+  },
+  {
+    "id": 15,
+    "question": "The English alphabet has 26 ... (letters or symbols).",
+    "options": ["characters", "morphemes", "ideograms", "compounds"],
+    "answer": "characters"
+  }
+]

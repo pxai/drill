@@ -1,0 +1,77 @@
+[
+  {
+    "id": 1,
+    "front": "mammal",
+    "back": "Animal that gives birth to live babies, not eggs, and feeds them on its own milk (e.g. cat, cow, kangaroo) [1]."
+  },
+  {
+    "id": 2,
+    "front": "rodent",
+    "back": "An animal like a mouse or a rat [1]."
+  },
+  {
+    "id": 3,
+    "front": "reptile",
+    "back": "An animal like a snake or a lizard [1]."
+  },
+  {
+    "id": 4,
+    "front": "carnivore",
+    "back": "An animal that eats meat (e.g. lion, tiger) [1]."
+  },
+  {
+    "id": 5,
+    "front": "herbivore",
+    "back": "An animal that eats grass or vegetation (e.g. deer, cow) [1]."
+  },
+  {
+    "id": 6,
+    "front": "predator",
+    "back": "An animal that hunts and eats other animals (e.g. eagle, lion, shark) [1]."
+  },
+  {
+    "id": 7,
+    "front": "docile",
+    "back": "Describing an animal that behaves very gently [1]."
+  },
+  {
+    "id": 8,
+    "front": "tame",
+    "back": "Describing an animal that is not afraid of humans [1]."
+  },
+  {
+    "id": 9,
+    "front": "domesticated",
+    "back": "Animals that live with or are used by humans (e.g. dogs or cats) [1]."
+  },
+  {
+    "id": 10,
+    "front": "savage",
+    "back": "Extremely violent or wild (e.g. a wolf) [1]."
+  },
+  {
+    "id": 11,
+    "front": "fierce",
+    "back": "Behaving aggressively [1]."
+  },
+  {
+    "id": 12,
+    "front": "natural habitat",
+    "back": "The preferred natural place for an animal to live and breed [1]."
+  },
+  {
+    "id": 13,
+    "front": "game reserves / game parks",
+    "back": "Areas of land where animals are protected from hunting [1]."
+  },
+  {
+    "id": 14,
+    "front": "poachers",
+    "back": "People who hunt animals illegally [1]."
+  },
+  {
+    "id": 15,
+    "front": "blood sports",
+    "back": "Sports whose purpose is to kill or injure animals (e.g. bullfighting) [1]."
+  }
+]

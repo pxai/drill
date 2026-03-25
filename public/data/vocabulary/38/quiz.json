@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "question": "What does the term 'shrinking habitats' refer to in Section A?",
+    "options": ["Growth of forests", "Places where animals live that are decreasing in size", "New urban parks", "Artificial animal shelters"],
+    "answer": "Places where animals live that are decreasing in size"
+  },
+  {
+    "id": 2,
+    "question": "Animals or plants in danger of no longer existing are classified as ...",
+    "options": ["Pristine species", "Endangered species", "Finite species", "Sovereign species"],
+    "answer": "Endangered species"
+  },
+  {
+    "id": 3,
+    "question": "Which term describes the steady rise in average world temperatures?",
+    "options": ["Greenhouse effect", "Deforestation", "Global warming", "Climatic changes"],
+    "answer": "Global warming"
+  },
+  {
+    "id": 4,
+    "question": "According to the vocabulary list, what are 'fossil fuels'?",
+    "options": ["Solar and wind power", "Coal, oil, etc.", "Recycled materials", "Pristine resources"],
+    "answer": "Coal, oil, etc."
+  },
+  {
+    "id": 5,
+    "question": "The 'greenhouse effect' is defined as the warming of the Earth's surface caused by:",
+    "options": ["Volcanic activity", "Pollution", "Heavy rain", "Deforestation"],
+    "answer": "Pollution"
+  },
+  {
+    "id": 6,
+    "question": "Resources that are limited in quantity are known as:",
+    "options": ["Endangered resources", "Finite resources", "Pristine resources", "Sustainable resources"],
+    "answer": "Finite resources"
+  },
+  {
+    "id": 7,
+    "question": "What is the meaning of 'ecological balance'?",
+    "options": ["Economic stability", "Balance of natural relationships in the environment", "Population control", "The cost of green energy"],
+    "answer": "Balance of natural relationships in the environment"
+  },
+  {
+    "id": 8,
+    "question": "The destruction or clearing of forests is called ...",
+    "options": ["Deforestation", "Piecemeal conservation", "Sustainable development", "Demographic projection"],
+    "answer": "Deforestation"
+  },
+  {
+    "id": 9,
+    "question": "Forecasts about the growth and changes in the population are:",
+    "options": ["Worst case scenarios", "Demographic projections", "Green credentials", "Climatic changes"],
+    "answer": "Demographic projections"
+  },
+  {
+    "id": 10,
+    "question": "Which phrase describes the 'worst possibilities for the future'?",
+    "options": ["Prophets of doom", "Worst case scenarios", "Green credentials", "Piecemeal conservation"],
+    "answer": "Worst case scenarios"
+  },
+  {
+    "id": 11,
+    "question": "An area that is 'perfectly clean/untouched/unspoilt' is called ...",
+    "options": ["Sustainable", "Pristine", "Finite", "Ecological"],
+    "answer": "Pristine"
+  },
+  {
+    "id": 12,
+    "question": "What are 'green credentials' according to Section B?",
+    "options": ["Official government IDs", "Reputation for positive support of the environment", "Bank loans for conservation", "Degrees in environmental science"],
+    "answer": "Reputation for positive support of the environment"
+  },
+  {
+    "id": 13,
+    "question": "Industrial development that does not threaten environmental or social stability is ...",
+    "options": ["Piecemeal conservation", "Sustainable development", "Demographic growth", "Finite industry"],
+    "answer": "Sustainable development"
+  },
+  {
+    "id": 14,
+    "question": "The phrase 'prophets of doom and gloom' refers to people who:",
+    "options": ["Always make pessimistic forecasts", "Work in conservation", "Lead environmental protests", "Study demographic growth"],
+    "answer": "Always make pessimistic forecasts"
+  },
+  {
+    "id": 15,
+    "question": "According to Exercise 38.1, what happens if 'the way things balance one another in nature' is upset?",
+    "options": ["Ecological balance is disturbed", "Deforestation stops", "Sustainable development begins", "Pristine environments grow"],
+    "answer": "Ecological balance is disturbed"
+  }
+]

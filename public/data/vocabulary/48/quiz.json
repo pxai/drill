@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "question": "Which term describes something that prevents an action by making it too dangerous or difficult?",
+    "options": ["Truce", "Deterrent", "Ambush", "Siege"],
+    "answer": "Deterrent"
+  },
+  {
+    "id": 2,
+    "question": "What is the meaning of 'annihilation' in a military context?",
+    "options": ["A temporary stop in fighting", "A surprise attack", "Total destruction", "A religious ceremony"],
+    "answer": "Total destruction"
+  },
+  {
+    "id": 3,
+    "question": "If two enemies agree to stop fighting for a while, they have called a ...",
+    "options": ["siege", "truce", "revulsion", "warfare"],
+    "answer": "truce"
+  },
+  {
+    "id": 4,
+    "question": "Which word refers to 'the activity of fighting a war'?",
+    "options": ["Warfare", "Outlaw", "Hostility", "Ambush"],
+    "answer": "Warfare"
+  },
+  {
+    "id": 5,
+    "question": "An 'ambush' is defined as:",
+    "options": ["A formal declaration of peace", "A surprise attack from a hidden position", "A long military trial", "The use of nuclear energy"],
+    "answer": "A surprise attack from a hidden position"
+  },
+  {
+    "id": 6,
+    "question": "When an army surrounds a town and prevents food or medicine from entering, it is a ...",
+    "options": ["truce", "siege", "deterrent", "Peace Prize"],
+    "answer": "siege"
+  },
+  {
+    "id": 7,
+    "question": "To 'outlaw' biological weapons means to:",
+    "options": ["Buy them in large quantities", "Use them only in emergencies", "Make them illegal", "Improve their power"],
+    "answer": "Make them illegal"
+  },
+  {
+    "id": 8,
+    "question": "A strong feeling of shock or disgust toward the horrors of war is called ...",
+    "options": ["deterrent", "revulsion", "annihilation", "truce"],
+    "answer": "revulsion"
+  },
+  {
+    "id": 9,
+    "question": "Complete the sentence from Exercise 48.5: 'The winning football team have been under ... from photographers.'",
+    "options": ["truce", "ambush", "siege", "annihilation"],
+    "answer": "siege"
+  },
+  {
+    "id": 10,
+    "question": "If you hear that a bomb is about to 'explode', it is about to:",
+    "options": ["Be defused", "Burst with force", "Be moved elsewhere", "Be hidden"],
+    "answer": "Burst with force"
+  },
+  {
+    "id": 11,
+    "question": "The United Nations often plays a ... role in conflict zones.",
+    "options": ["hostile", "peacekeeping", "annihilating", "sieging"],
+    "answer": "peacekeeping"
+  },
+  {
+    "id": 12,
+    "question": "According to the sources, Alfred Nobel was the inventor of ...",
+    "options": ["nuclear power", "dynamite", "tanks", "rifles"],
+    "answer": "dynamite"
+  },
+  {
+    "id": 13,
+    "question": "Which phrase refers to the use of bacteria or viruses in war?",
+    "options": ["Guerrilla warfare", "Nuclear warfare", "Biological warfare", "Chemical deterrent"],
+    "answer": "Biological warfare"
+  },
+  {
+    "id": 14,
+    "question": "Complete the collocation: 'The reasons for the conflict ... from ancient history.'",
+    "options": ["annihilate", "outlaw", "stem", "ambush"],
+    "answer": "stem"
+  },
+  {
+    "id": 15,
+    "question": "A 'nuclear power' is a country that:",
+    "options": ["Has no army", "Possesses nuclear weapons", "Has signed a truce", "Only uses solar energy"],
+    "answer": "Possesses nuclear weapons"
+  }
+]

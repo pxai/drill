@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "question": "What is the term for the 'absolute minimum standard' of income?",
+    "options": ["Relative poverty", "Poverty line", "Debt servicing", "Sanitation"],
+    "answer": "Poverty line"
+  },
+  {
+    "id": 2,
+    "question": "If someone is 'destitute', they are without:",
+    "options": ["A job only", "Luxury items", "Money, food, or a home", "A secondary education"],
+    "answer": "Money, food, or a home"
+  },
+  {
+    "id": 3,
+    "question": "Which economic indicator includes money earned from abroad by national companies?",
+    "options": ["GDP", "GNP", "Relative poverty", "Absolute poverty"],
+    "answer": "GNP"
+  },
+  {
+    "id": 4,
+    "question": "The state of being 'extremely poor' is often called ...",
+    "options": ["Penury", "Servicing", "Alleviation", "Sanitation"],
+    "answer": "Penury"
+  },
+  {
+    "id": 5,
+    "question": "What does 'poverty alleviation' mean?",
+    "options": ["Paying back loans", "Increasing debt", "Reducing the level of poverty", "Providing luxury goods"],
+    "answer": "Reducing the level of poverty"
+  },
+  {
+    "id": 6,
+    "question": "If you have 'just enough money to live without suffering', you are living ...",
+    "options": ["in penury", "hand to mouth", "on a golden handshake", "in the lap of luxury"],
+    "answer": "hand to mouth"
+  },
+  {
+    "id": 7,
+    "question": "What is 'illiteracy'?",
+    "options": ["Ill health from bad food", "Inability to read or write", "Lack of clean water", "Failure to pay debts"],
+    "answer": "Inability to read or write"
+  },
+  {
+    "id": 8,
+    "question": "Which word describes regions that are very poor and lack resources?",
+    "options": ["Impoverished", "Sanitary", "Abundant", "Pristine"],
+    "answer": "Impoverished"
+  },
+  {
+    "id": 9,
+    "question": "Being 'on the breadline' means your income is:",
+    "options": ["Average", "Extremely low", "Increasing", "Non-existent"],
+    "answer": "Extremely low"
+  },
+  {
+    "id": 10,
+    "question": "What is 'malnutrition' caused by?",
+    "options": ["Lack of education", "Inadequate food", "Poor sanitation", "High GDP"],
+    "answer": "Inadequate food"
+  },
+  {
+    "id": 11,
+    "question": "According to the source, what does 'debt servicing' involve?",
+    "options": ["Borrowing more money", "Cancelling all debts", "Paying back money owed on loans", "Moving to a rich country"],
+    "answer": "Paying back money owed on loans"
+  },
+  {
+    "id": 12,
+    "question": "If 'money has been tight' lately, it means you have:",
+    "options": ["A lot of savings", "Very little money", "A new job", "No debts"],
+    "answer": "Very little money"
+  },
+  {
+    "id": 13,
+    "question": "What are 'economic migrants'?",
+    "options": ["People moving for political reasons", "People moving to find work and better conditions", "Wealthy tourists", "Government officials"],
+    "answer": "People moving to find work and better conditions"
+  },
+  {
+    "id": 14,
+    "question": "'Deprived' children are those who lack:",
+    "options": ["The latest technology", "Things necessary for a pleasant life", "Private tutors", "A television"],
+    "answer": "Things necessary for a pleasant life"
+  },
+  {
+    "id": 15,
+    "question": "The total value of goods and services produced *within* a country is the:",
+    "options": ["GNP", "GDP", "Poverty line", "Relative debt"],
+    "answer": "GDP"
+  }
+]

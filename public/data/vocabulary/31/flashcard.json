@@ -1,0 +1,77 @@
+[
+  {
+    "id": 1,
+    "front": "vuelo regular (scheduled flight)",
+    "back": "Un vuelo normal y regular operado por una aerolínea [1]."
+  },
+  {
+    "id": 2,
+    "front": "vuelo chárter (charter flight)",
+    "back": "Vuelo especial contratado para un grupo, usualmente hacia el mismo destino vacacional [1]."
+  },
+  {
+    "id": 3,
+    "front": "tarifas Apex (Apex fares)",
+    "back": "Tarifas con descuento que deben reservarse con un número fijo de días de antelación [1]."
+  },
+  {
+    "id": 4,
+    "front": "no reembolsable (non-refundable)",
+    "back": "Un billete o reserva cuyo importe no se devuelve si el pasajero cancela [1]."
+  },
+  {
+    "id": 5,
+    "front": "escala (stopover)",
+    "back": "Permanecer en un lugar una noche antes de continuar el viaje hacia el destino final [1]."
+  },
+  {
+    "id": 6,
+    "front": "paquetes todo incluido (all-in packages)",
+    "back": "Ofertas de vacaciones que suelen incluir alojamiento y traslados [1]."
+  },
+  {
+    "id": 7,
+    "front": "traslados (transfers)",
+    "back": "Transporte (como un autobús o autocar) proporcionado entre el aeropuerto y el hotel [1]."
+  },
+  {
+    "id": 8,
+    "front": "el viaje de tu vida (holiday of a lifetime)",
+    "back": "Unas vacaciones excepcionalmente especiales y memorables que siempre recordarás [1]."
+  },
+  {
+    "id": 9,
+    "front": "litera/camarote (berth)",
+    "back": "Una cama en un camarote de un barco, a menudo compartido con otros [1]."
+  },
+  {
+    "id": 10,
+    "front": "cubierta superior (upper deck)",
+    "back": "La parte más alta de un barco, donde suelen ubicarse los camarotes más cómodos [1]."
+  },
+  {
+    "id": 11,
+    "front": "alejarse de todo (get away from it all)",
+    "back": "Expresión que significa escapar de la rutina diaria y el estrés mediante unas vacaciones [1]."
+  },
+  {
+    "id": 12,
+    "front": "kilometraje ilimitado (unlimited mileage)",
+    "back": "Opción en el alquiler de coches que permite conducir cualquier distancia por el mismo precio [1]."
+  },
+  {
+    "id": 13,
+    "front": "alojamiento independiente (self-catering)",
+    "back": "Tipo de alojamiento donde el viajero dispone de cocina para preparar sus propias comidas [1]."
+  },
+  {
+    "id": 14,
+    "front": "media pensión (half board)",
+    "back": "Alojamiento que incluye el desayuno y otra comida principal, normalmente la cena [1]."
+  },
+  {
+    "id": 15,
+    "front": "pensión completa (full board)",
+    "back": "Alojamiento que incluye todas las comidas del día [1]."
+  }
+]
