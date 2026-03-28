@@ -1,0 +1,17 @@
+[
+  { "id": 1, "front": "obituaries", "back": "Descriptions of the lives of famous people who have just died [1]." },
+  { "id": 2, "front": "leader / editorial", "back": "An article giving the newspaper editor's opinion on things [1]." },
+  { "id": 3, "front": "classified ads", "back": "Pages of advertisements in different categories (e.g., cars, houses) [1]." },
+  { "id": 4, "front": "supplements", "back": "Separate magazines included with the newspaper [1]." },
+  { "id": 5, "front": "feature", "back": "An article or set of articles devoted to a particular topic [1]." },
+  { "id": 6, "front": "agony column", "back": "Section in a paper or magazine that deals with readers' private emotional problems [1]." },
+  { "id": 7, "front": "agony aunt", "back": "Typically a woman who answers letters in the agony column [1]." },
+  { "id": 8, "front": "pamphlet", "back": "Small book with a soft cover, dealing with a specific topic, often political [1]." },
+  { "id": 9, "front": "leaflet", "back": "Single sheet or folded sheets of paper giving information about something [1]." },
+  { "id": 10, "front": "brochure", "back": "Small, thin book-like magazine, often about travel, or a company [1]." },
+  { "id": 11, "front": "prospectus", "back": "Small, thin book-like magazine giving information about a school or company [1]." },
+  { "id": 12, "front": "flyer", "back": "Single sheet giving information about some event, given out in the street [1]." },
+  { "id": 13, "front": "booklet", "back": "Small thin book with a soft cover, often giving information (e.g., local walks) [1]." },
+  { "id": 14, "front": "manual", "back": "Book of detailed instructions on how to use something [1]." },
+  { "id": 15, "front": "facsimile", "back": "An exact reproduction in every detail [2]." }
+]

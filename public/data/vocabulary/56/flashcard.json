@@ -1,0 +1,17 @@
+[
+  { "id": 1, "front": "hurt", "back": "To give pain caused by an injury (e.g., 'My arm hurts where I banged it'). [1]" },
+  { "id": 2, "front": "ache", "back": "To feel continuous pain (e.g., 'My wrists ache from too much typing'). [1]" },
+  { "id": 3, "front": "stinging", "back": "Sudden, burning pain (e.g., 'My hand is stinging since I touched that plant'). [1]" },
+  { "id": 4, "front": "throbbing", "back": "Beating with pain (e.g., 'My head is throbbing'). [1]" },
+  { "id": 5, "front": "stiff neck", "back": "Pain and difficulty in moving your neck round. [1]" },
+  { "id": 6, "front": "dizzy", "back": "A feeling that you are spinning round and can't balance. [1]" },
+  { "id": 7, "front": "feverish", "back": "Having a high temperature. [1]" },
+  { "id": 8, "front": "nauseous", "back": "Feeling that you want to vomit. [1]" },
+  { "id": 9, "front": "trembling", "back": "Shaking all over (e.g., 'He was trembling all over; he knew it was something serious'). [1]" },
+  { "id": 10, "front": "bunged up", "back": "Blocked (referring to a nose with a cold). [1]" },
+  { "id": 11, "front": "off-colour", "back": "Not well, but not seriously ill. [1]" },
+  { "id": 12, "front": "under the weather", "back": "Feeling slightly unwell. [1]" },
+  { "id": 13, "front": "out of sorts", "back": "Nothing to worry about, feeling slightly ill. [1]" },
+  { "id": 14, "front": "acupuncture", "back": "Alternative medicine using needles to stick into specific parts of your body. [1]" },
+  { "id": 15, "front": "chiropractic", "back": "Manipulating your spine and bones to ease backache. [1, 2]" }
+]

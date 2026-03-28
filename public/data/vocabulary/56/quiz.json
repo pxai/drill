@@ -1,0 +1,17 @@
+[
+  { "id": 1, "question": "What is the difference between 'hurt' and 'ache'?", "options": ["Hurt is for injury; ache is for continuous pain", "Hurt is continuous; ache is for injury", "They are exactly the same", "Hurt is for bones; ache is for skin"], "answer": "Hurt is for injury; ache is for continuous pain" },
+  { "id": 2, "question": "Which word describes a 'beating' pain in the head?", "options": ["Stinging", "Throbbing", "Bunged up", "Feverish"], "answer": "Throbbing" },
+  { "id": 3, "question": "If you feel that you are spinning and cannot balance, you are ...", "options": ["nauseous", "dizzy", "trembling", "stiff"], "answer": "dizzy" },
+  { "id": 4, "question": "What does 'bunged up' mean?", "options": ["Having a high temperature", "Shaking all over", "A blocked nose", "Vomiting"], "answer": "A blocked nose" },
+  { "id": 5, "question": "Which alternative medicine uses needles?", "options": ["Aromatherapy", "Homeopathy", "Acupuncture", "Chiropractic"], "answer": "Acupuncture" },
+  { "id": 6, "question": "If you are 'under the weather', you are ...", "options": ["extremely healthy", "seriously ill", "slightly unwell", "under a cloud"], "answer": "slightly unwell" },
+  { "id": 7, "question": "Which word means 'feeling that you want to vomit'?", "options": ["Nauseous", "Feverish", "Throbbing", "Stinging"], "answer": "Nauseous" },
+  { "id": 8, "question": "Alternative medicine using oils that smell nice is called ...", "options": ["Acupuncture", "Aromatherapy", "Homeopathy", "Chiropractic"], "answer": "Aromatherapy" },
+  { "id": 9, "question": "If your hand is 'stinging', it feels a ...", "options": ["beating pain", "dull ache", "sudden burning pain", "numb sensation"], "answer": "sudden burning pain" },
+  { "id": 10, "question": "Which adjective means having a high temperature?", "options": ["Feverish", "Dizzy", "Stiff", "Trembling"], "answer": "Feverish" },
+  { "id": 11, "question": "Shaking all over is described as ...", "options": ["throbbing", "trembling", "stinging", "aching"], "answer": "trembling" },
+  { "id": 12, "question": "What is the focus of chiropractic treatment?", "options": ["Natural plants", "Oils and massage", "Spine and bones", "Needles"], "answer": "Spine and bones" },
+  { "id": 13, "question": "If you have a 'stiff neck', it is ...", "options": ["blocked", "spinning", "difficult to move round", "trembling"], "answer": "difficult to move round" },
+  { "id": 14, "question": "Someone who is 'off-colour' is ...", "options": ["wearing bright clothes", "not well, but not seriously ill", "recovering from surgery", "highly contagious"], "answer": "not well, but not seriously ill" },
+  { "id": 15, "question": "Which of these is an alternative medicine involving tiny amounts of natural substances?", "options": ["Aromatherapy", "Homeopathy", "Chiropractic", "Acupuncture"], "answer": "Homeopathy" }
+]

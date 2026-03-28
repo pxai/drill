@@ -1,0 +1,17 @@
+[
+  { "id": 1, "front": "low-tech", "back": "Not using advanced technology. [5]" },
+  { "id": 2, "front": "subsidies", "back": "Money given by the government to support an industry. [5, 6]" },
+  { "id": 3, "front": "lame duck", "back": "A weak industry that is losing money and cannot be rescued. [5, 6]" },
+  { "id": 4, "front": "bureaucracy", "back": "Rules and regulations that can restrict industry. [6]" },
+  { "id": 5, "front": "privatisation", "back": "Selling state-owned industries off. [6]" },
+  { "id": 6, "front": "nationalisation", "back": "When industries are owned by the government. [6]" },
+  { "id": 7, "front": "inward investment", "back": "Investment in a country by foreign companies. [6]" },
+  { "id": 8, "front": "heavy industry", "back": "Industries producing things like steel and coal. [6]" },
+  { "id": 9, "front": "light industry", "back": "Industries making consumer goods like bicycles and furniture. [6]" },
+  { "id": 10, "front": "service industry", "back": "Industries providing services like restaurants and hotels. [6]" },
+  { "id": 11, "front": "black market", "back": "Illegal trade of goods. [6]" },
+  { "id": 12, "front": "copyright infringement", "back": "Producing illegal copies of books or software. [6]" },
+  { "id": 13, "front": "industrial piracy", "back": "Producing illegal copies of top brand names. [6]" },
+  { "id": 14, "front": "industrial espionage", "back": "Stealing industrial secrets from a rival company. [6]" },
+  { "id": 15, "front": "money laundering", "back": "Tracing and hiding money from illegal trades like drugs. [6]" }
+]

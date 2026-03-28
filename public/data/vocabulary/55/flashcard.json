@@ -1,0 +1,17 @@
+[
+  { "id": 1, "front": "fight off", "back": "Trying to get rid of (e.g., a cold) [6]." },
+  { "id": 2, "front": "go down with", "back": "Has caught, usually a non-serious illness (e.g., flu) [6]." },
+  { "id": 3, "front": "get over", "back": "Got better / recovered [6]." },
+  { "id": 4, "front": "suffer from", "back": "Used for more long-term health problems [6]." },
+  { "id": 5, "front": "healthcare", "back": "General expression for services offered by hospitals, doctors, etc. [6]." },
+  { "id": 6, "front": "National Health Service (NHS)", "back": "British name for the service that covers hospitals, clinics, etc. [6]." },
+  { "id": 7, "front": "GP", "back": "General Practitioner; a doctor who looks after people's general health [6]." },
+  { "id": 8, "front": "surgery", "back": "In UK, a small centre with just two or three doctors [6]." },
+  { "id": 9, "front": "prescription charge", "back": "Charge for the medication the doctor prescribes [6]." },
+  { "id": 10, "front": "go private", "back": "To choose private healthcare instead of state services [6]." },
+  { "id": 11, "front": "diabetes", "back": "Disease where the body does not properly absorb sugar and starch [6]." },
+  { "id": 12, "front": "bronchitis", "back": "Inflammation in the breathing system, causing cough [6]." },
+  { "id": 13, "front": "TB (tuberculosis)", "back": "Infectious disease in the lungs [6]." },
+  { "id": 14, "front": "cholera", "back": "An intestinal disease that can be caused by bad drinking water [6]." },
+  { "id": 15, "front": "hepatitis", "back": "Inflammation of the liver [6]." }
+]

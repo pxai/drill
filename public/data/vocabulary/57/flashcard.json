@@ -1,0 +1,17 @@
+[
+  { "id": 1, "front": "dehydration", "back": "Not having enough water in your body. [3]" },
+  { "id": 2, "front": "ulcer", "back": "A painful infected area on the skin or inside your body. [3]" },
+  { "id": 3, "front": "side effects", "back": "Unwanted effects in addition to the intended one from medicine. [3]" },
+  { "id": 4, "front": "symptom", "back": "A sign of an illness or a deeper problem in society. [3]" },
+  { "id": 5, "front": "diagnosed", "back": "Identified the cause of a problem or illness. [3]" },
+  { "id": 6, "front": "prognosis", "back": "The outlook for a situation or an illness. [3]" },
+  { "id": 7, "front": "ailing", "back": "An organisation or economy that has a lot of problems. [3]" },
+  { "id": 8, "front": "rash", "back": "A number of similar things happening at the same time (e.g., 'a rash of burglaries'). [3]" },
+  { "id": 9, "front": "fever", "back": "Great excitement (e.g., 'World Cup fever'). [3]" },
+  { "id": 10, "front": "fever pitch", "back": "A point of very high intensity. [3]" },
+  { "id": 11, "front": "jaundiced", "back": "Unenthusiastic or sceptical due to previous bad experiences. [3]" },
+  { "id": 12, "front": "carry the scars", "back": "To be permanently affected by a negative experience. [3]" },
+  { "id": 13, "front": "sensitive to", "back": "Allergic to any of the ingredients in a medicine. [3]" },
+  { "id": 14, "front": "dose", "back": "The specified amount of medicine to be taken. [3]" },
+  { "id": 15, "front": "haemorrhage", "back": "The medical term for heavy bleeding or vomiting of blood. [3]" }
+]

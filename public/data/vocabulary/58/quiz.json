@@ -1,0 +1,17 @@
+[
+  { "id": 1, "question": "What substance in food helps digestion and moves as waste?", "options": ["Plaque", "Fibre", "Insulin", "Glucose"], "answer": "Fibre" },
+  { "id": 2, "question": "Fatty production that clogs arteries is called ...", "options": ["serotonin", "plaque", "insulin", "glucose"], "answer": "plaque" },
+  { "id": 3, "question": "Which hormone makes you feel happier?", "options": ["Insulin", "Cholesterol", "Mood enhancer", "Plaque"], "answer": "Mood enhancer" },
+  { "id": 4, "question": "If you 'scored an own goal', you ...", "options": ["helped your team", "made things worse for yourself", "won the competition", "changed the rules"], "answer": "made things worse for yourself" },
+  { "id": 5, "question": "What organs like heart and kidneys eaten as food are called?", "options": ["Offal", "Plaque", "Glucose", "Fibre"], "answer": "Offal" },
+  { "id": 6, "question": "A 'fair situation' is a ...", "options": ["level playing field", "neck and neck", "skating around", "moving goalpost"], "answer": "level playing field" },
+  { "id": 7, "question": "Which term describes 'affecting heart and blood circulation'?", "options": ["Digestive", "Cardiovascular", "Metaphorical", "Excreted"], "answer": "Cardiovascular" },
+  { "id": 8, "question": "If two parties are 'level' in polls, they are ...", "options": ["in the running", "neck and neck", "skating around", "moving goalposts"], "answer": "neck and neck" },
+  { "id": 9, "question": "To 'change the rules' is to ...", "options": ["score an own goal", "move the goalposts", "level the field", "skate around"], "answer": "move the goalposts" },
+  { "id": 10, "question": "What hormone controls the level of sugar in the body?", "options": ["Serotonin", "Mood enhancer", "Insulin", "Plaque"], "answer": "Insulin" },
+  { "id": 11, "question": "If someone 'skates around a subject', they ...", "options": ["talk very fast", "avoid talking directly about it", "explain it clearly", "lie about it"], "answer": "avoid talking directly about it" },
+  { "id": 12, "question": "Being 'seriously considered' for a job is being ...", "options": ["neck and neck", "in the running", "skating around", "moving goalposts"], "answer": "in the running" },
+  { "id": 13, "question": "Waste getting rid of from the body is ...", "options": ["excreted", "clogged", "enhanced", "buffered"], "answer": "excreted" },
+  { "id": 14, "question": "What is the medical term for sugar?", "options": ["Insulin", "Glucose", "Plaque", "Fibre"], "answer": "Glucose" },
+  { "id": 15, "question": "Serotonin is an example of a(n) ...", "options": ["plaque", "mood enhancer", "offal", "fibre"], "answer": "mood enhancer" }
+]

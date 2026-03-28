@@ -1,0 +1,17 @@
+[
+  { "id": 1, "question": "What is the computer part used to move the cursor on a laptop?", "options": ["Screensaver", "Trackpad", "Icon", "Thumbnail"], "answer": "Trackpad" },
+  { "id": 2, "question": "A person who loves new technology is a ...", "options": ["PDA", "Millennium Techie", "GPS", "Ergonomic"], "answer": "Millennium Techie" },
+  { "id": 3, "question": "Desk space a computer takes up is its ...", "options": ["footprint", "icon", "thumbnail", "screensaver"], "answer": "footprint" },
+  { "id": 4, "question": "Genetic modification of plants is part of ...", "options": ["ergonomics", "biotechnology", "AI", "GPS"], "answer": "biotechnology" },
+  { "id": 5, "question": "Satellite navigation is known as ...", "options": ["PDA", "GPS", "AI", "Techie"], "answer": "GPS" },
+  { "id": 6, "question": "Efficient design of car seats is an example of ...", "options": ["biotechnology", "ergonomics", "analogue", "PDA"], "answer": "ergonomics" },
+  { "id": 7, "question": "A small picture you click to open a program is an ...", "options": ["icon", "thumbnail", "footprint", "screensaver"], "answer": "icon" },
+  { "id": 8, "question": "A handheld computer is often called a ...", "options": ["notebook", "screensaver", "palmtop", "footprint"], "answer": "palmtop" },
+  { "id": 9, "question": "Which term means 'non-digital'?", "options": ["AI", "GPS", "Analogue", "Ergonomic"], "answer": "Analogue" },
+  { "id": 10, "question": "A small version of a picture on a sports website is a ...", "options": ["screensaver", "icon", "thumbnail", "pager"], "answer": "thumbnail" },
+  { "id": 11, "question": "What device is used for contacting someone away from their desk?", "options": ["Pager", "Screensaver", "Trackpad", "Thumbnail"], "answer": "Pager" },
+  { "id": 12, "question": "Computers that can 'make decisions for themselves' use ...", "options": ["GPS", "AI", "Ergonomics", "Biotechnology"], "answer": "AI" },
+  { "id": 13, "question": "What appears on your laptop screen when you aren't using it?", "options": ["Trackpad", "Screensaver", "Footprint", "Thumbnail"], "answer": "Screensaver" },
+  { "id": 14, "question": "A small hand-held computer used to store phone numbers is a ...", "options": ["GPS", "PDA", "Millennium Techie", "Footprint"], "answer": "PDA" },
+  { "id": 15, "question": "A card used for entering a building is a ... card.", "options": ["thumbnail", "trackpad", "smart ID", "GPS"], "answer": "smart ID" }
+]

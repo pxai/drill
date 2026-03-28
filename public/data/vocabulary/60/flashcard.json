@@ -1,0 +1,17 @@
+[
+  { "id": 1, "front": "PDA", "back": "Personal Digital Assistant; a small handheld computer. [5, 7]" },
+  { "id": 2, "front": "biotechnology", "back": "Technology involving genetic modification of plants or organisms. [5, 7]" },
+  { "id": 3, "front": "ergonomics", "back": "Efficient design of human environments (e.g., car seats). [5, 7]" },
+  { "id": 4, "front": "Millennium Techie", "back": "A person who loves acquiring all the new technology. [7]" },
+  { "id": 5, "front": "palmtop / handheld", "back": "A very small computer that fits in your hand. [7]" },
+  { "id": 6, "front": "pager", "back": "A device that tells you when someone wants to contact you. [7]" },
+  { "id": 7, "front": "smart ID card", "back": "A card for entering buildings and using facilities. [7]" },
+  { "id": 8, "front": "screensaver", "back": "A picture displayed on a computer screen when not in use. [8]" },
+  { "id": 9, "front": "trackpad", "back": "The part of a laptop used as a mouse. [8]" },
+  { "id": 10, "front": "icon", "back": "A small picture on a screen to open a program. [8]" },
+  { "id": 11, "front": "thumbnail", "back": "A small version of a larger picture or file. [8]" },
+  { "id": 12, "front": "footprint", "back": "The amount of desk space a computer takes up. [8]" },
+  { "id": 13, "front": "analogue", "back": "Non-digital technology (e.g., an analogue tape recorder). [7, 8]" },
+  { "id": 14, "front": "GPS", "back": "Global Positioning System; uses satellite navigation. [7]" },
+  { "id": 15, "front": "AI", "back": "Artificial Intelligence; computer systems that can make decisions. [7]" }
+]

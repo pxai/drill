@@ -1,0 +1,17 @@
+[
+  { "id": 1, "question": "If an advertisement says a product is 'unsurpassed', it means it is ...", "options": ["very expensive", "the best there is", "cheaper than others", "new on the market"], "answer": "the best there is" },
+  { "id": 2, "question": "Which expression means a product is much better than its competitors?", "options": ["Leave others standing", "Put in the shade", "In the lap of luxury", "Rock-bottom"], "answer": "Leave others standing" },
+  { "id": 3, "question": "What do we call prices that are extremely low?", "options": ["Slashed", "Rock-bottom", "Opulent", "Sumptuous"], "answer": "Rock-bottom" },
+  { "id": 4, "question": "If prices have been 'slashed', they have been ...", "options": ["increased slightly", "dramatically reduced", "kept the same", "cancelled"], "answer": "dramatically reduced" },
+  { "id": 5, "question": "What does 'bargains galore' mean?", "options": ["No products available", "Expensive items only", "A huge number of products at low prices", "Limited edition items"], "answer": "A huge number of products at low prices" },
+  { "id": 6, "question": "The words 'sumptuous' and 'opulent' both describe ... surroundings.", "options": ["poor and dirty", "simple and plain", "rich and special/luxurious", "modern and digital"], "answer": "rich and special/luxurious" },
+  { "id": 7, "question": "To live 'in the lap of luxury' means to live in a ... way.", "options": ["very luxurious", "very careful", "very poor", "very busy"], "answer": "very luxurious" },
+  { "id": 8, "question": "Something that is 'state-of-the-art' uses the ...", "options": ["oldest technology", "cheapest materials", "very latest technology", "traditional methods"], "answer": "very latest technology" },
+  { "id": 9, "question": "If a product is 'tantalisingly' appealing, it is appealing in a ... way.", "options": ["boring", "tempting", "confusing", "scary"], "answer": "tempting" },
+  { "id": 10, "question": "Which two adjectives are used to mean 'attractive' in advertisements?", "options": ["Sumptuous and opulent", "Fetching and alluring", "Rock-bottom and slashed", "Unsurpassed and innovative"], "answer": "Fetching and alluring" },
+  { "id": 11, "question": "What are the very large boards used for advertising called?", "options": ["Trailers", "Billboards", "Pamphlets", "Brochures"], "answer": "Billboards" },
+  { "id": 12, "question": "Brief excerpts from a film or TV programme used to advertise it are ...", "options": ["features", "manuals", "trailers", "leaders"], "answer": "trailers" },
+  { "id": 13, "question": "Informally, when a person promotes a new book or film on a TV interview, they are ... it.", "options": ["plugging", "slashing", "alluring", "tantalising"], "answer": "plugging" },
+  { "id": 14, "question": "Which term refers to words written in the sky using smoke from a plane?", "options": ["Billboards", "Trailers", "Sky-writing", "Sandwich boards"], "answer": "Sky-writing" },
+  { "id": 15, "question": "What are the advertising posters hung at the back and front of a person walking around?", "options": ["Flyers", "Sandwich boards", "Classified ads", "Classified boards"], "answer": "Sandwich boards" }
+]

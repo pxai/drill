@@ -1,0 +1,17 @@
+[
+  { "id": 1, "question": "A kind of e-mail where both people are online at the same time is ...", "options": ["chat rooms", "instant messaging", "newsgroups", "e-commerce"], "answer": "instant messaging" },
+  { "id": 2, "question": "What is the term for doing all kinds of business on the Internet, such as banking or booking?", "options": ["Browsing", "Surfing", "E-commerce", "Downloading"], "answer": "E-commerce" },
+  { "id": 3, "question": "Files sent at the same time as e-mail messages are called ...", "options": ["attachments", "cookies", "bookmarks", "ISPs"], "answer": "attachments" },
+  { "id": 4, "question": "The activity of looking at different websites with no particular goal is ...", "options": ["surfing", "browsing", "uploading", "bookmarking"], "answer": "browsing" },
+  { "id": 5, "question": "What does ISP stand for?", "options": ["Internet System Provider", "Internet Service Protocol", "Internet Service Provider", "Integrated System Program"], "answer": "Internet Service Provider" },
+  { "id": 6, "question": "Programs sent to your computer that track your web activities are ...", "options": ["spam", "cookies", "attachments", "anti-virus"], "answer": "cookies" },
+  { "id": 7, "question": "Unwanted advertisements sent by e-mail from companies are called ...", "options": ["junk mail", "spam", "offensive material", "bounced mail"], "answer": "spam" },
+  { "id": 8, "question": "If an e-mail you sent is returned because the address was wrong, it has ...", "options": ["hacked", "garbled", "bounced", "screened"], "answer": "bounced" },
+  { "id": 9, "question": "What word describes an unreadable e-mail attachment consisting of meaningless letters and numbers?", "options": ["Bounced", "Garbled", "Hacked", "Bookmarked"], "answer": "Garbled" },
+  { "id": 10, "question": "To put a website address in a list so you can access it immediately later is to ... it.", "options": ["screen", "upload", "download", "bookmark"], "answer": "bookmark" },
+  { "id": 11, "question": "What do we call the act of entering a computer server illegally?", "options": ["Hacking into", "Screening out", "Surfing", "Browsing"], "answer": "Hacking into" },
+  { "id": 12, "question": "Many ISPs allow you to 'screen out' unwanted mail. What does this mean?", "options": ["To read it later", "To prevent it from reaching you", "To forward it to others", "To send it back"], "answer": "To prevent it from reaching you" },
+  { "id": 13, "question": "Moving from one website or web page to another, usually looking for something, is ...", "options": ["browsing", "e-commerce", "surfing the Web", "uploading"], "answer": "surfing the Web" },
+  { "id": 14, "question": "Graphic images refers to ...", "options": ["sound files", "pictures and diagrams", "unreadable text", "e-mail accounts"], "answer": "pictures and diagrams" },
+  { "id": 15, "question": "What is the opposite of 'uploading' a file?", "options": ["Downloading", "Bookmarking", "Garbling", "Bouncing"], "answer": "Downloading" }
+]

@@ -1,0 +1,17 @@
+[
+  { "id": 1, "question": "What is the term for government money used to support industry?", "options": ["Subsidies", "Privatisation", "Bureaucracy", "Lame duck"], "answer": "Subsidies" },
+  { "id": 2, "question": "An industry that is failing and cannot be saved is a ...", "options": ["service industry", "lame duck", "heavy industry", "low-tech"], "answer": "lame duck" },
+  { "id": 3, "question": "Selling off government industries is ...", "options": ["nationalisation", "subsidisation", "privatisation", "infringement"], "answer": "privatisation" },
+  { "id": 4, "question": "Investment by foreign companies is ...", "options": ["industrial espionage", "money laundering", "inward investment", "bureaucracy"], "answer": "inward investment" },
+  { "id": 5, "question": "Which industry produces steel and coal?", "options": ["Light industry", "Heavy industry", "Service industry", "Low-tech"], "answer": "Heavy industry" },
+  { "id": 6, "question": "Tracing money from illegal drug trade is ...", "options": ["money laundering", "copyright infringement", "industrial piracy", "espionage"], "answer": "money laundering" },
+  { "id": 7, "question": "Producing illegal copies of top brand names is ...", "options": ["copyright infringement", "industrial piracy", "nationalisation", "espionage"], "answer": "industrial piracy" },
+  { "id": 8, "question": "A hotel is part of the ...", "options": ["heavy industry", "light industry", "service industry", "black market"], "answer": "service industry" },
+  { "id": 9, "question": "What restricts industry through excessive rules?", "options": ["Subsidies", "Bureaucracy", "Privatisation", "Lame duck"], "answer": "Bureaucracy" },
+  { "id": 10, "question": "Stealing secrets from a rival company is ...", "options": ["industrial espionage", "piracy", "laundering", "infringement"], "answer": "industrial espionage" },
+  { "id": 11, "question": "Industry making bicycles and furniture is ...", "options": ["heavy", "service", "light", "low-tech"], "answer": "light" },
+  { "id": 12, "question": "Illegal trade is often called the ...", "options": ["privatisation", "black market", "nationalisation", "service industry"], "answer": "black market" },
+  { "id": 13, "question": "When industries are owned by the government, it is ...", "options": ["privatisation", "nationalisation", "espionage", "piracy"], "answer": "nationalisation" },
+  { "id": 14, "question": "Producing illegal copies of books is ...", "options": ["copyright infringement", "espionage", "lame duck", "low-tech"], "answer": "copyright infringement" },
+  { "id": 15, "question": "An industry not using advanced technology is ...", "options": ["lame duck", "low-tech", "service", "heavy"], "answer": "low-tech" }
+]

@@ -1,0 +1,17 @@
+[
+  { "id": 1, "question": "Groups of people trying to influence what others think about a particular issue are ...", "options": ["glossies", "rags", "pressure groups", "scoops"], "answer": "pressure groups" },
+  { "id": 2, "question": "To express one's opinions in public is to ...", "options": ["seek publicity", "air one's views", "tap a source", "muck-rake"], "answer": "air one's views" },
+  { "id": 3, "question": "A short, memorable sentence or phrase repeated in news bulletins is a ...", "options": ["column inch", "sound bite", "story break", "back copy"], "answer": "sound bite" },
+  { "id": 4, "question": "What is the 'silly season' in the UK media?", "options": ["The Christmas holidays", "The election period", "The summer period with trivial stories", "The winter sports season"], "answer": "The summer period with trivial stories" },
+  { "id": 5, "question": "Collecting scandal about famous people is often disapprovingly called ...", "options": ["copy-writing", "muck-raking", "exclusive reporting", "libel"], "answer": "muck-raking" },
+  { "id": 6, "question": "A 'rag' is an informal word for a newspaper that is ...", "options": ["of very high quality", "of very low quality", "printed in color", "available for free"], "answer": "of very low quality" },
+  { "id": 7, "question": "The 'gutter press' refers to newspapers that are more interested in ... than serious news.", "options": ["politics", "economy", "crime and sex", "sports"], "answer": "crime and sex" },
+  { "id": 8, "question": "Material produced by journalists that must be ready for a deadline is called ...", "options": ["copy", "glossy", "column", "bite"], "answer": "copy" },
+  { "id": 9, "question": "When a newspaper is 'ready to go to press', it is ready to be ...", "options": ["written", "edited", "printed", "sold"], "answer": "printed" },
+  { "id": 10, "question": "What is a 'scoop'?", "options": ["A very old story", "A story discovered and published by only one newspaper", "A story about the weather", "A legal complaint"], "answer": "A story discovered and published by only one newspaper" },
+  { "id": 11, "question": "When a major story is published on a certain day, it ...", "options": ["hits the headlines", "goes to press", "is a column inch", "is a sound bite"], "answer": "hits the headlines" },
+  { "id": 12, "question": "What is 'libel'?", "options": ["Collecting gossip", "Expressing views in public", "Publishing an untrue story that harms a reputation", "Working under a deadline"], "answer": "Publishing an untrue story that harms a reputation" },
+  { "id": 13, "question": "The space in a newspaper is often measured in ...", "options": ["deadlines", "sound bites", "column inches", "scandal"], "answer": "column inches" },
+  { "id": 14, "question": "An expensive magazine printed on good quality paper is a ...", "options": ["rag", "glossy", "copy", "supplement"], "answer": "glossy" },
+  { "id": 15, "question": "If a story is 'hot off the press', it is ...", "options": ["very old", "very new", "untrue", "illegal"], "answer": "very new" }
+]

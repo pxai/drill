@@ -1,0 +1,17 @@
+[
+  { "id": 1, "question": "If you are trying to get rid of a cold, you are trying to ... it.", "options": ["go down with", "suffer from", "fight off", "get over"], "answer": "fight off" },
+  { "id": 2, "question": "What expression is used for catching a non-serious illness like the flu?", "options": ["Go down with", "Recover from", "Fight off", "Prescribe"], "answer": "Go down with" },
+  { "id": 3, "question": "To 'get over' an illness means to ...", "options": ["catch it", "suffer long-term", "get better or recover", "die from it"], "answer": "get better or recover" },
+  { "id": 4, "question": "We use the expression 'suffer from' for ...", "options": ["sudden accidents", "minor colds", "long-term health problems", "temporary fevers"], "answer": "long-term health problems" },
+  { "id": 5, "question": "In Britain, what is a GP?", "options": ["General Practitioner", "Global Physician", "General Pharmacist", "Group Patient"], "answer": "General Practitioner" },
+  { "id": 6, "question": "What is the British term for a small health centre with two or three doctors?", "options": ["Hospital", "Surgery", "Pharmacy", "Consultancy"], "answer": "Surgery" },
+  { "id": 7, "question": "The amount you pay for the medication the doctor prescribes is the ...", "options": ["healthcare tax", "insurance fee", "prescription charge", "surgery bill"], "answer": "prescription charge" },
+  { "id": 8, "question": "Choosing to pay for your own healthcare instead of using state services is to ...", "options": ["go private", "go down with it", "go to surgery", "get over it"], "answer": "go private" },
+  { "id": 9, "question": "Which disease involves the body failing to properly absorb sugar and starch?", "options": ["Bronchitis", "Hepatitis", "Diabetes", "Cholera"], "answer": "Diabetes" },
+  { "id": 10, "question": "What is bronchitis?", "options": ["Inflammation of the liver", "Inflammation in the breathing system", "Failure of the heart", "Infectious disease in the lungs"], "answer": "Inflammation in the breathing system" },
+  { "id": 11, "question": "What is the common abbreviation for tuberculosis?", "options": ["GP", "TB", "NHS", "Hepa"], "answer": "TB" },
+  { "id": 12, "question": "Which disease is an intestinal one often caused by bad drinking water?", "options": ["Typhoid", "Diabetes", "Cholera", "Hepatitis"], "answer": "Cholera" },
+  { "id": 13, "question": "Hepatitis is an inflammation of the ...", "options": ["lungs", "heart", "liver", "stomach"], "answer": "liver" },
+  { "id": 14, "question": "A fever with red spots on the chest and abdomen is typical of ...", "options": ["bronchitis", "typhoid", "diabetes", "skin cancer"], "answer": "typhoid" },
+  { "id": 15, "question": "According to the source, when the heart fails, it is called a ...", "options": ["heart attack/failure", "heart bronchitis", "heart hepatitis", "heart TB"], "answer": "heart attack/failure" }
+]

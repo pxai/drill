@@ -1,0 +1,17 @@
+[
+  { "id": 1, "front": "instant messaging", "back": "A kind of e-mail where both people are online at the same time [3]." },
+  { "id": 2, "front": "chat room", "back": "An online conversation between a group on topics chosen by them [3]." },
+  { "id": 3, "front": "newsgroups", "back": "Websites where people with shared interests get news and info [3]." },
+  { "id": 4, "front": "e-commerce", "back": "All kinds of business done on the Internet (e.g., banking, booking) [3]." },
+  { "id": 5, "front": "attachments", "back": "Files you send at the same time as e-mail messages [3]." },
+  { "id": 6, "front": "browsing", "back": "Looking at different websites, with no particular goal [3]." },
+  { "id": 7, "front": "surfing the Web", "back": "Moving from one website or web page to another, usually looking for something [3]." },
+  { "id": 8, "front": "ISP", "back": "Internet Service Provider; company that offers users access to the Internet [3]." },
+  { "id": 9, "front": "downloading", "back": "Bringing files to your computer from the Internet [3]." },
+  { "id": 10, "front": "spam", "back": "Unwanted advertisements and other material sent by e-mail [3]." },
+  { "id": 11, "front": "cookies", "back": "Programs sent to your computer without your knowledge that track your web activities [3]." },
+  { "id": 12, "front": "offensive material", "back": "Material such as pornography, extreme political views, or hate material [3]." },
+  { "id": 13, "front": "garbled", "back": "A series of meaningless letters and numbers (often because an attachment is unreadable) [3]." },
+  { "id": 14, "front": "hacked into", "back": "Entered a computer server illegally [3]." },
+  { "id": 15, "front": "screen out", "back": "To prevent unwanted mail from reaching you [3]." }
+]

@@ -1,0 +1,17 @@
+[
+  { "id": 1, "question": "What section of the newspaper contains descriptions of the lives of famous people who have just died?", "options": ["Leaders", "Obituaries", "Classified ads", "Agony columns"], "answer": "Obituaries" },
+  { "id": 2, "question": "An article giving the newspaper editor’s opinion on a news item is called a(n) ...", "options": ["feature", "editorial", "supplement", "facsimile"], "answer": "editorial" },
+  { "id": 3, "question": "Where would you look in a local paper if you wanted to sell your car?", "options": ["Classified ads", "Agony columns", "Supplements", "Features"], "answer": "Classified ads" },
+  { "id": 4, "question": "Separate magazines that come free with the newspaper are known as ...", "options": ["booklets", "leaflets", "supplements", "flyers"], "answer": "supplements" },
+  { "id": 5, "question": "An article or set of articles devoted to a particular topic (e.g. new technology) is a ...", "options": ["leader", "feature", "manual", "prospectus"], "answer": "feature" },
+  { "id": 6, "question": "What is the name of the section where readers discuss private emotional problems?", "options": ["Agony column", "Obituary", "Classified section", "Feature article"], "answer": "Agony column" },
+  { "id": 7, "question": "A small book with a soft cover, often dealing with a specific political topic, is a ...", "options": ["brochure", "pamphlet", "manual", "prospectus"], "answer": "pamphlet" },
+  { "id": 8, "question": "What do we call a single sheet of paper giving information about something?", "options": ["Booklet", "Leaflet", "Manual", "Supplement"], "answer": "Leaflet" },
+  { "id": 9, "question": "A small, thin book-like magazine often used to advertise travel or a company is a ...", "options": ["manual", "facsimile", "brochure", "pamphlet"], "answer": "brochure" },
+  { "id": 10, "question": "A small, thin book-like magazine giving information about a school, college, or company is a ...", "options": ["prospectus", "flyer", "booklet", "manual"], "answer": "prospectus" },
+  { "id": 11, "question": "What is a single sheet giving information about some event, typically given out in the street?", "options": ["Leaflet", "Flyer", "Supplement", "Leader"], "answer": "Flyer" },
+  { "id": 12, "question": "A small thin book with a soft cover, often giving information like 'local walks', is a ...", "options": ["manual", "brochure", "booklet", "prospectus"], "answer": "booklet" },
+  { "id": 13, "question": "A book of detailed instructions on how to use something, like a computer, is a ...", "options": ["manual", "leaflet", "pamphlet", "flyer"], "answer": "manual" },
+  { "id": 14, "question": "Which term describes an exact reproduction of a document in every detail?", "options": ["Facsimile", "Supplement", "Feature", "Classified"], "answer": "Facsimile" },
+  { "id": 15, "question": "A person who writes an autobiography for a famous person using that person's name is a ...", "options": ["ghost writer", "agony aunt", "editor", "journalist"], "answer": "ghost writer" }
+]

@@ -1,0 +1,17 @@
+[
+  { "id": 1, "question": "What is the medical term for 'not having enough water in your body'?", "options": ["Haemophilia", "Dehydration", "Haemorrhage", "Bronchiospasm"], "answer": "Dehydration" },
+  { "id": 2, "question": "Medicine 'unwanted effects' are called ...", "options": ["symptoms", "prognosis", "side effects", "ulcers"], "answer": "side effects" },
+  { "id": 3, "question": "If you are 'jaundiced' about something, you are ...", "options": ["very sick", "yellow in color", "sceptical due to bad experience", "highly excited"], "answer": "sceptical due to bad experience" },
+  { "id": 4, "question": "An economy with 'a lot of problems' is described as ...", "options": ["feverish", "ailing", "scarred", "diagnosed"], "answer": "ailing" },
+  { "id": 5, "question": "What is the 'outlook' for a situation called in medical terms?", "options": ["Diagnosis", "Prognosis", "Symptom", "Scar"], "answer": "Prognosis" },
+  { "id": 6, "question": "A 'rash' of burglaries means they are ...", "options": ["very slow", "occurring at the same time", "highly violent", "never solved"], "answer": "occurring at the same time" },
+  { "id": 7, "question": "Excitement reaching 'fever pitch' means it is ...", "options": ["very low", "at high intensity", "finished", "illegal"], "answer": "at high intensity" },
+  { "id": 8, "question": "A stomach ... is a painful infected area inside the body.", "options": ["scar", "rash", "ulcer", "fever"], "answer": "ulcer" },
+  { "id": 9, "question": "The act of identifying the cause of a problem is ...", "options": ["prognosis", "symptom", "diagnosis", "ailing"], "answer": "diagnosis" },
+  { "id": 10, "question": "To be 'permanently affected by a negative experience' is to ...", "options": ["carry the scars", "have a fever", "be ailing", "be jaundiced"], "answer": "carry the scars" },
+  { "id": 11, "question": "A patient with 'asthma' is described as ...", "options": ["haemophilic", "prognostic", "asthmatic", "ulcerous"], "answer": "asthmatic" },
+  { "id": 12, "question": "If you are allergic to medicine ingredients, you are ... them.", "options": ["diagnosed with", "sensitive to", "jaundiced by", "ailing for"], "answer": "sensitive to" },
+  { "id": 13, "question": "Which word is a medical metaphor for a 'sign' of a deeper problem?", "options": ["Prognosis", "Dose", "Symptom", "Scar"], "answer": "Symptom" },
+  { "id": 14, "question": "The specified amount of medicine is the ...", "options": ["symptom", "side effect", "dose", "scar"], "answer": "dose" },
+  { "id": 15, "question": "Vomiting of blood is a ...", "options": ["haemorrhage", "dehydration", "asthma", "fever"], "answer": "haemorrhage" }
+]
