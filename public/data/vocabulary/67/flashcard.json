@@ -1,0 +1,17 @@
+[
+  { "id": 1, "front": "weighty", "back": "Adjective for abstract or physical things, implying seriousness (e.g., 'a weighty tome')." },
+  { "id": 2, "front": "unwieldy", "back": "Difficult to move or handle because of size, shape, or weight." },
+  { "id": 3, "front": "cumbersome", "back": "Used for machines or procedures that are awkward and difficult to handle." },
+  { "id": 4, "front": "burdensome", "back": "Describes something that causes worry, hard work, or difficulty (e.g., a duty)." },
+  { "id": 5, "front": "ponderous", "back": "Serious and dull (e.g., 'a ponderous thesis') or slow and clumsy." },
+  { "id": 6, "front": "lumbering", "back": "Moving in a slow, heavy, and awkward way (e.g., 'a lumbering truck')." },
+  { "id": 7, "front": "weigh down", "back": "To make someone feel tired or worried (e.g., 'weighed down with problems')." },
+  { "id": 8, "front": "weigh up", "back": "To consider and compare different aspects of a situation." },
+  { "id": 9, "front": "thicken", "back": "To make a liquid or substance less fluid (e.g., 'thicken the soup')." },
+  { "id": 10, "front": "congealed", "back": "Having become thick and solid (often used for fat or blood)." },
+  { "id": 11, "front": "solidified", "back": "Changed from a liquid to a solid state." },
+  { "id": 12, "front": "dilute", "back": "To make a liquid weaker by adding water or another solvent." },
+  { "id": 13, "front": "thin out", "back": "To become less dense or crowded (e.g., 'the traffic began to thin out')." },
+  { "id": 14, "front": "impenetrable", "back": "Impossible to pass through (e.g., a thick jungle)." },
+  { "id": 15, "front": "impermeable", "back": "Not allowing liquid or gas to pass through (e.g., a barrier)." }
+]

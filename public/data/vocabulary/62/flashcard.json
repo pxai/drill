@@ -1,0 +1,17 @@
+[
+  { "id": 1, "front": "extensive", "back": "Covering a wide area (e.g., traffic-free routes)." },
+  { "id": 2, "front": "spacious", "back": "Having a lot of room (e.g., a garden)." },
+  { "id": 3, "front": "roomy", "back": "Having plenty of space inside (e.g., a car or house)." },
+  { "id": 4, "front": "rambling", "back": "A large building with many rooms and passages." },
+  { "id": 5, "front": "wide open spaces", "back": "Large areas without buildings or trees." },
+  { "id": 6, "front": "scattered", "back": "Occurring in small amounts over a wide area." },
+  { "id": 7, "front": "spread out", "back": "Not close to one another." },
+  { "id": 8, "front": "cramped", "back": "Small and crowded (e.g., hotel rooms)." },
+  { "id": 9, "front": "poky", "back": "Informal word for a very small room or flat." },
+  { "id": 10, "front": "congested", "back": "Full of traffic or people, making movement difficult." },
+  { "id": 11, "front": "compact", "back": "Small but organized to use space efficiently." },
+  { "id": 12, "front": "hemmed in", "back": "Surrounded by people and not able to move." },
+  { "id": 13, "front": "packed like sardines", "back": "Informal for too many people in a small space." },
+  { "id": 14, "front": "claustrophobia", "back": "Fear of confined or small spaces." },
+  { "id": 15, "front": "agoraphobia", "back": "Fear of open spaces." }
+]

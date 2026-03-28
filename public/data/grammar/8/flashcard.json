@@ -1,0 +1,17 @@
+[
+  { "id": 1, "front": "Review: Present continuous", "back": "Used for activities currently in progress (e.g., 'I am writing this blog')." },
+  { "id": 2, "front": "Review: Past simple", "back": "Used for completed past events (e.g., 'I arrived here two hours ago')." },
+  { "id": 3, "front": "Review: Present perfect", "back": "Used for past events with present relevance (e.g., 'Aston United have sacked their manager')." },
+  { "id": 4, "front": "Review: Past perfect continuous", "back": "Describes an activity in progress before another past point (e.g., 'He had been suffering from stress')." },
+  { "id": 5, "front": "Review: State verbs", "back": "Verbs like 'know' or 'seem' usually take simple forms (e.g., 'it seems a wonderful place')." },
+  { "id": 6, "front": "Complaining with continuous", "back": "Used for annoying habits (e.g., 'they are constantly complaining')." },
+  { "id": 7, "front": "Narrative: I (1) ... this blog in a hotel room.", "back": "am writing." },
+  { "id": 8, "front": "Narrative: I (2) ... here a couple of hours ago.", "back": "arrived." },
+  { "id": 9, "front": "Narrative: I (3) ... pretty tired.", "back": "feel / felt." },
+  { "id": 10, "front": "News: Aston United (1) ... their manager.", "back": "have sacked." },
+  { "id": 11, "front": "News: He (4) ... from a three-week holiday.", "back": "returned." },
+  { "id": 12, "front": "Interview: Well, he (2) ... from stress for some time.", "back": "has been / had been suffering." },
+  { "id": 13, "front": "Interview: The doctors (9) ... him over.", "back": "have checked." },
+  { "id": 14, "front": "Interview: (10) ... saying it's not serious.", "back": "had been." },
+  { "id": 15, "front": "News: Neil's attitude (12) ... us recently.", "back": "has disappointed." }
+]

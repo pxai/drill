@@ -1,0 +1,17 @@
+[
+  { "id": 1, "question": "To walk unevenly because your leg hurts is to ...", "options": ["Stride", "Limp", "Amble", "Strut"], "answer": "Limp" },
+  { "id": 2, "question": "Which verb describes walking unsteadily, perhaps because of illness?", "options": ["Stamp", "Stagger", "Chase", "Strut"], "answer": "Stagger" },
+  { "id": 3, "question": "Walking on your toes to be quiet is walking on ...", "options": ["Stride", "Tramp", "Tiptoe", "Trudge"], "answer": "Tiptoe" },
+  { "id": 4, "question": "A proud walk with the chest held out is a ...", "options": ["Limp", "Hobble", "Strut", "Trudge"], "answer": "Strut" },
+  { "id": 5, "question": "To walk with slow, heavy steps because you are tired is to ...", "options": ["Chase", "Trudge", "Amble", "Stride"], "answer": "Trudge" },
+  { "id": 6, "question": "What do we call pressing repeatedly with feet, perhaps to destroy something?", "options": ["Trample", "Stamp", "Stride", "Meander"], "answer": "Trample" },
+  { "id": 7, "question": "To walk with long, purposeful steps is to ...", "options": ["Stride", "Amble", "Lurch", "Hobble"], "answer": "Stride" },
+  { "id": 8, "question": "A gentle walk for pleasure is a(n) ...", "options": ["Chase", "Amble", "Stamp", "Tramp"], "answer": "Amble" },
+  { "id": 9, "question": "If you almost fall on an uneven surface, you ...", "options": ["Strut", "Stumble", "Stride", "Amble"], "answer": "Stumble" },
+  { "id": 10, "question": "To run quickly to catch someone is to ...", "options": ["Chase", "Meander", "Trudge", "Strut"], "answer": "Chase" },
+  { "id": 11, "question": "Movement that is sudden and irregular, like on a ship, is a ...", "options": ["Stride", "Lurch", "Tramp", "Amble"], "answer": "Lurch" },
+  { "id": 12, "question": "People who walk with firm, heavy steps for a long time are ...", "options": ["Tramping", "Tiptoeing", "Limping", "Ambling"], "answer": "Tramping" },
+  { "id": 13, "question": "Which verb can describe both a winding river and people wandering?", "options": ["Chase", "Meander", "Lurch", "Stride"], "answer": "Meander" },
+  { "id": 14, "question": "To push your foot down heavily in anger is to ...", "options": ["Stamp", "Amble", "Limp", "Tiptoe"], "answer": "Stamp" },
+  { "id": 15, "question": "Tourists exploring in a relaxed way are most likely to ...", "options": ["Strut", "Meander", "Chase", "Trudge"], "answer": "Meander" }
+]

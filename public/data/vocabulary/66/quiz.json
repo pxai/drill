@@ -1,0 +1,17 @@
+[
+  { "id": 1, "question": "Which verb describes the sound of wood floorboards moving?", "options": ["Slam", "Creak", "Sizzle", "Toot"], "answer": "Creak" },
+  { "id": 2, "question": "An 'eerie' silence is one that is:", "options": ["Very loud", "Peaceful", "Strange and scary", "Musical"], "answer": "Strange and scary" },
+  { "id": 3, "question": "What sound does a car horn make?", "options": ["Wail", "Pound", "Toot", "Sizzle"], "answer": "Toot" },
+  { "id": 4, "question": "If a noise is 'deafening', it is:", "options": ["Very quiet", "Extremely loud", "Pleasant", "High-pitched"], "answer": "Extremely loud" },
+  { "id": 5, "question": "Which verb describes the sound of bacon frying?", "options": ["Crash", "Ring out", "Sizzle", "Pound"], "answer": "Sizzle" },
+  { "id": 6, "question": "A voice described as 'grating' is:", "options": ["Soft", "Melodious", "Harsh and irritating", "Very low"], "answer": "Harsh and irritating" },
+  { "id": 7, "question": "To 'slam' a door means to shut it:", "options": ["Quietly", "With great force", "Slowly", "Automatically"], "answer": "With great force" },
+  { "id": 8, "question": "What is a 'piercing' noise?", "options": ["A low hum", "A noise that hurts the ears", "A funny sound", "A soft whisper"], "answer": "A noise that hurts the ears" },
+  { "id": 9, "question": "Which word describes a long, high crying sound from a siren?", "options": ["Squeak", "Wail", "Pound", "Slam"], "answer": "Wail" },
+  { "id": 10, "question": "If you 'pound' on a door, you are:", "options": ["Touching it lightly", "Opening it slowly", "Hitting it repeatedly", "Painting it"], "answer": "Hitting it repeatedly" },
+  { "id": 11, "question": "A 'soundless' movement is one that is:", "options": ["Very loud", "Without any noise", "Musical", "Rhythmic"], "answer": "Without any noise" },
+  { "id": 12, "question": "Complete: 'A shot ... across the lake.'", "options": ["sizzled", "rang out", "tooted", "creaked"], "answer": "rang out" },
+  { "id": 13, "question": "Which adjective describes a very high-pitched voice?", "options": ["Deafening", "Piercing", "High-pitched", "Grating"], "answer": "High-pitched" },
+  { "id": 14, "question": "What sound does a rusty hinge make?", "options": ["Squeak", "Sizzle", "Pound", "Toot"], "answer": "Squeak" },
+  { "id": 15, "question": "The sound of waves can be described as:", "options": ["Sizzling", "Crashing", "Tooting", "Squeaking"], "answer": "Crashing" }
+]

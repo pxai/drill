@@ -1,0 +1,17 @@
+[
+  { "id": 1, "front": "Present perfect continuous use", "back": "Describes an activity in progress until recently or the time of speaking." },
+  { "id": 2, "front": "State verbs exception", "back": "Verbs like belong, know, and understand are typically not used in the continuous." },
+  { "id": 3, "front": "Process vs. Result", "back": "Continuous focuses on the process of the activity; simple focuses on the result." },
+  { "id": 4, "front": "Ongoing vs. Finished", "back": "Continuous emphasizes ongoing/repeated activity; simple suggests the activity is finished." },
+  { "id": 5, "front": "Complaints/Criticisms", "back": "The continuous is often used to complain about something evident (e.g., 'Who's been messing with my papers?')." },
+  { "id": 6, "front": "General situations", "back": "Both forms can often be used for general characteristics or circumstances." },
+  { "id": 7, "front": "Martina Gonzalez ... in a flat.", "back": "has been staying (emphasizing a temporary stay)." },
+  { "id": 8, "front": "We ... at this hotel before.", "back": "have stayed (emphasizing a completed experience)." },
+  { "id": 9, "front": "I ... any of Dickens' novels.", "back": "haven't read (stating a finished state/fact)." },
+  { "id": 10, "front": "I ... this book for hours.", "back": "have been reading (emphasizing the ongoing process)." },
+  { "id": 11, "front": "Mr Sato ... nearly £1 million.", "back": "has given (focusing on the total result)." },
+  { "id": 12, "front": "I ... and I feel exhausted.", "back": "have been swimming (recent activity with present effect)." },
+  { "id": 13, "front": "Dr Petra Adams says influenza ...", "back": "has been claiming more than 50,000 lives." },
+  { "id": 14, "front": "Progress in medicine", "back": "The government has been making massive progress (ongoing)." },
+  { "id": 15, "front": "Recent price changes", "back": "Prices have been decreasing recently (ongoing trend)." }
+]

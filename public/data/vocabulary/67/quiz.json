@@ -1,0 +1,17 @@
+[
+  { "id": 1, "question": "What is the synonym for heavy when referring to a serious, large book?", "options": ["Lumbering", "Weighty", "Thin", "Dilute"], "answer": "Weighty" },
+  { "id": 2, "question": "If a procedure is 'cumbersome', it is:", "options": ["Quick and easy", "Difficult and awkward to handle", "Very small", "Solidified"], "answer": "Difficult and awkward to handle" },
+  { "id": 3, "question": "To 'dilute' a juice means to:", "options": ["Make it thicker", "Add water to make it weaker", "Freeze it", "Boil it"], "answer": "Add water to make it weaker" },
+  { "id": 4, "question": "Fat that has become thick and solid is described as ...", "options": ["thin", "diluted", "congealed", "unwieldy"], "answer": "congealed" },
+  { "id": 5, "question": "Which verb means to consider different options before deciding?", "options": ["Weigh up", "Weigh down", "Thicken", "Thin out"], "answer": "Weigh up" },
+  { "id": 6, "question": "A truck moving in a slow and heavy way is ...", "options": ["solidified", "lumbering", "impermeable", "weighty"], "answer": "lumbering" },
+  { "id": 7, "question": "If a jungle is 'impenetrable', it is:", "options": ["Easy to walk through", "Full of water", "Impossible to move through", "Very dry"], "answer": "Impossible to move through" },
+  { "id": 8, "question": "To 'thicken' a soup, you might add:", "options": ["Water", "Flour", "Ice", "Air"], "answer": "Flour" },
+  { "id": 9, "question": "A duty that causes a lot of worry and hard work is ...", "options": ["burdensome", "noiseless", "lumpy", "thin"], "answer": "burdensome" },
+  { "id": 10, "question": "What does a hairdresser use 'thinning-out' scissors for?", "options": ["To make hair longer", "To make hair less dense", "To change hair color", "To clean the hair"], "answer": "To make hair less dense" },
+  { "id": 11, "question": "Which word describes a barrier that doesn't let radiation or liquid through?", "options": ["Unwieldy", "Ponderous", "Impermeable", "Lumbering"], "answer": "Impermeable" },
+  { "id": 12, "question": "If you are 'weighed down' by suitcases, you are:", "options": ["Carrying very light things", "Strong and happy", "Struggling with heavy bags", "Looking for your luggage"], "answer": "Struggling with heavy bags" },
+  { "id": 13, "question": "A 'ponderous' tone of voice is usually:", "options": ["Cheerful and fast", "Serious and dull", "High-pitched", "Squeaky"], "answer": "Serious and dull" },
+  { "id": 14, "question": "When traffic 'thins out', it becomes:", "options": ["Heavier", "Less dense", "Faster", "Frozen"], "answer": "Less dense" },
+  { "id": 15, "question": "Something that is 'unwieldy' is difficult to move because it is:", "options": ["Too small", "Liquid", "Awkward in size or shape", "Broken"], "answer": "Awkward in size or shape" }
+]

@@ -1,0 +1,17 @@
+[
+  { "id": 1, "question": "Which verb describes a car moving rapidly and out of control?", "options": ["Zip", "Career", "Dawdle", "Creep"], "answer": "Career" },
+  { "id": 2, "question": "To 'pop' into a shop means to go there:", "options": ["Slowly", "Quickly for a short time", "With a loud noise", "On a bicycle"], "answer": "Quickly for a short time" },
+  { "id": 3, "question": "What is the opposite of 'rocket' or 'soar' in a financial context?", "options": ["Plunge", "Slump", "Whizz", "Dash"], "answer": "Slump" },
+  { "id": 4, "question": "Animals like mice '... away' when they are scared.", "options": ["dawdle", "sidle", "scamper", "accelerate"], "answer": "scamper" },
+  { "id": 5, "question": "If traffic is 'crawling', it is moving:", "options": ["Extremely fast", "Extremely slowly", "Normally", "Not at all"], "answer": "Extremely slowly" },
+  { "id": 6, "question": "To 'plummet' means to:", "options": ["Rise quickly", "Fall downwards very fast", "Move sideways", "Stay the same"], "answer": "Fall downwards very fast" },
+  { "id": 7, "question": "What does 'dawdle' mean?", "options": ["To move fast", "To waste time by moving slowly", "To jump", "To increase speed"], "answer": "To waste time by moving slowly" },
+  { "id": 8, "question": "A person who walks nervously up to someone is ... up to them.", "options": ["bolting", "dashing", "sidling", "tearing"], "answer": "sidling" },
+  { "id": 9, "question": "If you 'dash' to the station, you are:", "options": ["Running slowly", "In a great hurry", "Walking for pleasure", "Waiting for a bus"], "answer": "In a great hurry" },
+  { "id": 10, "question": "The verb 'bolt' suggests movement that is:", "options": ["Slow and unsteady", "Fast and often running away", "Careful and planned", "Loud and noisy"], "answer": "Fast and often running away" },
+  { "id": 11, "question": "Which word describes a rapid increase in speed?", "options": ["Accelerate", "Slump", "Creep", "Totter"], "answer": "Accelerate" },
+  { "id": 12, "question": "If your heart 'soared', you felt a sudden sense of:", "options": ["Fear", "Sadness", "Happiness and carefreeness", "Anger"], "answer": "Happiness and carefreeness" },
+  { "id": 13, "question": "To move in a shaky and unsteady way is to:", "options": ["Rocket", "Totter", "Plunge", "Dart"], "answer": "Totter" },
+  { "id": 14, "question": "Complete: 'The company seems to be ... into financial ruin.'", "options": ["dawdling", "careering", "scutling", "whizzing"], "answer": "careering" },
+  { "id": 15, "question": "Which verb is used for small animals moving quickly into cracks?", "options": ["Plunge", "Plummet", "Scuttle", "Career"], "answer": "Scuttle" }
+]

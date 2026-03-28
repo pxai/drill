@@ -1,0 +1,17 @@
+[
+  { "id": 1, "front": "Present simple for future", "back": "Used for events that are part of a timetable, programmed arrangement, or routine." },
+  { "id": 2, "front": "Fixed events (Nature)", "back": "We prefer present simple for fixed events beyond human control like 'The sun rises at 5:16'." },
+  { "id": 3, "front": "Avoiding present simple", "back": "Avoid for personal arrangements or predictions; use 'will' or 'be going to'." },
+  { "id": 4, "front": "Present simple in time clauses", "back": "Use after 'after', 'as soon as', 'before', 'by the time', 'when', 'while', 'until'." },
+  { "id": 5, "front": "Present simple in conditional clauses", "back": "Use in clauses with 'if', 'in case', 'provided', and 'unless'." },
+  { "id": 6, "front": "Future events with 'suppose'", "back": "Use present simple (e.g., 'Suppose we miss the bus')." },
+  { "id": 7, "front": "Present continuous for future", "back": "Used for planned future events where a firm intention or decision exists." },
+  { "id": 8, "front": "Continuous vs. Simple future", "back": "Simple is for timetables; continuous is for personal arrangements." },
+  { "id": 9, "front": "No control predictions", "back": "Do NOT use continuous for predictions beyond our control." },
+  { "id": 10, "front": "Permanent future situations", "back": "Use 'will' or 'be going to', NOT present continuous." },
+  { "id": 11, "front": "Go and come exception", "back": "People avoid 'going to go/come' and use present continuous forms instead." },
+  { "id": 12, "front": "Ex 10.1 (1): We ... our exam results on Aug 20.", "back": "get (timetable)." },
+  { "id": 13, "front": "Ex 10.1 (2): Alex ... our cats next week.", "back": "is looking after / is going to look after." },
+  { "id": 14, "front": "Ex 10.1 (6): The concert ... at 7:30.", "back": "starts (timetable)." },
+  { "id": 15, "front": "Ex 10.1 (14): By the time you ... this letter...", "back": "read (time clause)." }
+]

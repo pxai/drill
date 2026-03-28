@@ -1,0 +1,17 @@
+[
+  { "id": 1, "front": "mind your Ps and Qs", "back": "To make an effort to be polite." },
+  { "id": 2, "front": "etiquette", "back": "Formal rules of behaviour." },
+  { "id": 3, "front": "courtesy", "back": "Politeness (adjective: courteous)." },
+  { "id": 4, "front": "prim / starchy", "back": "Very formal and correct; without humour." },
+  { "id": 5, "front": "strait-laced / prissy", "back": "Overly formal and easily shocked (negative associations)." },
+  { "id": 6, "front": "ladylike / gentlemanly", "back": "Polite in a rather formal way." },
+  { "id": 7, "front": "social graces", "back": "Polite behaviour in social situations." },
+  { "id": 8, "front": "oiling the wheels", "back": "Making social interaction easier." },
+  { "id": 9, "front": "offhand", "back": "Casual, slightly rude or indifferent behaviour." },
+  { "id": 10, "front": "flutter your eyelashes", "back": "A flirting gesture towards a man." },
+  { "id": 11, "front": "raise your eyebrows", "back": "Indicating surprise or shock." },
+  { "id": 12, "front": "twitch", "back": "Repeated small movements indicating nervousness." },
+  { "id": 13, "front": "squirm", "back": "To move from side to side due to embarrassment." },
+  { "id": 14, "front": "smirk", "back": "A smile that indicates self-satisfaction (negative association)." },
+  { "id": 15, "front": "beam", "back": "A broad, happy smile (positive association)." }
+]

@@ -1,0 +1,17 @@
+[
+  { "id": 1, "question": "Why not come over at the weekend? The children ... enjoy seeing you.", "options": ["will", "are going to", "Both are correct", "Neither"], "answer": "will" },
+  { "id": 2, "question": "What's the matter with her? It looks like she ...", "options": ["will faint", "is going to faint", "faints", "is fainting"], "answer": "is going to faint" },
+  { "id": 3, "question": "I imagine the stadium ... full for the match on Saturday.", "options": ["will be", "is going to be", "is being", "is"], "answer": "will be" },
+  { "id": 4, "question": "When I've saved up enough money, I ... a smartphone.", "options": ["will buy", "am going to buy", "buy", "am buying"], "answer": "am going to buy" },
+  { "id": 5, "question": "The meeting ... at 9 a.m. (Formal notice)", "options": ["is going to begin", "will begin", "begins", "is beginning"], "answer": "will begin" },
+  { "id": 6, "question": "You'll / You're going to knock that glass over if you ...", "options": ["won't be careful", "aren't careful", "don't be careful", "not careful"], "answer": "aren't careful" },
+  { "id": 7, "question": "I ... a bottle of lemonade if you want some. (= offer)", "options": ["am going to open", "will open", "open", "am opening"], "answer": "will open" },
+  { "id": 8, "question": "If you look to your left, you ... the lake. (= you'll be able to see)", "options": ["will see", "are going to see", "see", "can see"], "answer": "will see" },
+  { "id": 9, "question": "If you press the red button, the machine ...", "options": ["is going to start", "will start", "starts", "is starting"], "answer": "will start" },
+  { "id": 10, "question": "Have you seen Nadia recently? She ... another baby.", "options": ["will have", "is going to have", "has", "is having"], "answer": "is going to have" },
+  { "id": 11, "question": "Jamie says he ... a politician when he grows up.", "options": ["will be", "is going to be", "is", "becomes"], "answer": "is going to be" },
+  { "id": 12, "question": "I've been offered a new job, so I ... Camco.", "options": ["will leave", "am going to leave", "leave", "am leaving"], "answer": "will leave" },
+  { "id": 13, "question": "If you want me to, I ... how the equipment works.", "options": ["am going to explain", "will explain", "explain", "can explain"], "answer": "will explain" },
+  { "id": 14, "question": "If you listen carefully, you ... an owl in the trees.", "options": ["will hear", "are going to hear", "hear", "can hear"], "answer": "will hear" },
+  { "id": 15, "question": "Pineapples are on special offer. In that case, I ... two.", "options": ["am going to buy", "will buy", "buy", "am buying"], "answer": "will buy" }
+]

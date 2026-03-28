@@ -1,0 +1,17 @@
+[
+  { "id": 1, "question": "Which verb is most commonly used with negative words like 'disaster' or 'illness'?", "options": ["Produce", "Cause", "Generate", "Give"], "answer": "Cause" },
+  { "id": 2, "question": "In a formal context, scientists ... statistics and figures.", "options": ["cause", "produce", "give", "spark off"], "answer": "produce" },
+  { "id": 3, "question": "To 'generate' often refers to creating things like:", "options": ["Sadness", "Revenue and income", "A disaster", "An illness"], "answer": "Revenue and income" },
+  { "id": 4, "question": "The news '...' a feeling of despair in everyone.", "options": ["incited", "provoked", "produced", "bred"], "answer": "provoked" },
+  { "id": 5, "question": "Events that cause a political crisis to happen suddenly '...' it.", "options": ["bring about", "result in", "spark off", "generate"], "answer": "spark off" },
+  { "id": 6, "question": "What does 'brought about' mean in 'it brought about great changes'?", "options": ["Caused changes to happen", "Prevented changes", "Stopped the changes", "Ignored the changes"], "answer": "Caused changes to happen" },
+  { "id": 7, "question": "To 'incite' people often means encouraging them to do something ...", "options": ["Good", "Bad or violent", "Funny", "Boring"], "answer": "Bad or violent" },
+  { "id": 8, "question": "Which verb is used in the expression 'familiarity ... contempt'?", "options": ["causes", "breeds", "gives", "prompts"], "answer": "breeds" },
+  { "id": 9, "question": "If your action 'resulted in' a complaint, it:", "options": ["Prevented the complaint", "Achieved the complaint as a result", "Ignored the complaint", "Delayed the complaint"], "answer": "Achieved the complaint as a result" },
+  { "id": 10, "question": "To 'prompt' someone to take a job means to:", "options": ["Cause or encourage them to do it", "Forbid them from doing it", "Pay them for doing it", "Forget about them"], "answer": "Cause or encourage them to do it" },
+  { "id": 11, "question": "Which collocation is correct for 'produce'?", "options": ["Produce trouble", "Produce statistics", "Produce sadness", "Produce a political crisis"], "answer": "Produce statistics" },
+  { "id": 12, "question": "Complete: 'The government will have to ... the extra funds somehow.'", "options": ["cause", "generate", "provoke", "spark off"], "answer": "generate" },
+  { "id": 13, "question": "A presentation that 'generated a lot of interest' was:", "options": ["Very boring", "Very successful in getting attention", "Very expensive", "Illegal"], "answer": "Very successful in getting attention" },
+  { "id": 14, "question": "To 'induce' someone to do something is to:", "options": ["Persuade or lead them to it", "Hit them", "Call them", "Help them for free"], "answer": "Persuade or lead them to it" },
+  { "id": 15, "question": "Which verb means to cause a sudden reaction like a 'political crisis'?", "options": ["Brought about", "Precipitate", "Breed", "Give"], "answer": "Precipitate" }
+]

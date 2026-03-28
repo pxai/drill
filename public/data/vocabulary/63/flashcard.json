@@ -1,0 +1,17 @@
+[
+  { "id": 1, "front": "once in a blue moon", "back": "Very infrequently." },
+  { "id": 2, "front": "for donkey's years", "back": "For a very long time." },
+  { "id": 3, "front": "since the year dot", "back": "For a very long time (from the beginning)." },
+  { "id": 4, "front": "till the cows come home", "back": "For a very long time (indefinitely)." },
+  { "id": 5, "front": "in the nick of time", "back": "Only just in time." },
+  { "id": 6, "front": "over the hill / past it", "back": "Too old (often referring to athletes)." },
+  { "id": 7, "front": "has-been", "back": "A person who was once famous but is no longer." },
+  { "id": 8, "front": "in a flash / at a rate of knots", "back": "Very quickly." },
+  { "id": 9, "front": "fleeting", "back": "Brief or quick (e.g., a fleeting glimpse/smile)." },
+  { "id": 10, "front": "transient", "back": "Lasting for only a short time (formal)." },
+  { "id": 11, "front": "persistent", "back": "Lasting for a long time or hard to stop (e.g., a cough)." },
+  { "id": 12, "front": "inexorable", "back": "Continuing without hope of being stopped (formal)." },
+  { "id": 13, "front": "incipient", "back": "Just beginning (formal) (e.g., incipient frustration)." },
+  { "id": 14, "front": "pristine", "back": "Unchanged from its original condition (formal)." },
+  { "id": 15, "front": "protracted", "back": "Lasting for a long time or made to last longer (formal)." }
+]

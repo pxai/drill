@@ -1,0 +1,17 @@
+[
+  { "id": 1, "front": "pitch black", "back": "Intensely black, often used to describe darkness or night." },
+  { "id": 2, "front": "scarlet / crimson", "back": "Types of bright and deep red." },
+  { "id": 3, "front": "shocking pink", "back": "An extremely bright shade of pink." },
+  { "id": 4, "front": "navy", "back": "A very dark blue color." },
+  { "id": 5, "front": "auburn / chestnut", "back": "Reddish-brown colors, usually used to describe hair." },
+  { "id": 6, "front": "pastel colours", "back": "Pale, soft shades of a color (e.g., mauve, pale pink)." },
+  { "id": 7, "front": "monochrome", "back": "Using only one color or shades of one color (e.g., black and white)." },
+  { "id": 8, "front": "blue (metaphor)", "back": "Refers to depression ('feeling blue') or indecent films." },
+  { "id": 9, "front": "red-letter day", "back": "A day of special importance or happiness." },
+  { "id": 10, "front": "green with envy", "back": "Being extremely jealous of someone." },
+  { "id": 11, "front": "black sheep", "back": "A person considered a disgrace to their family or group." },
+  { "id": 12, "front": "grey area", "back": "A situation that lacks clarity or where there are no clear rules." },
+  { "id": 13, "front": "white-collar workers", "back": "Office workers or professionals (compared to manual 'blue-collar' workers)." },
+  { "id": 14, "front": "magnolia / beige", "back": "Light, creamy-white or brownish-white colors." },
+  { "id": 15, "front": "cornflower", "back": "A type of bright blue color (named after a flower)." }
+]

@@ -1,0 +1,17 @@
+[
+  { "id": 1, "question": "What is the informal word for a very small flat?", "options": ["Spacious", "Roomy", "Poky", "Extensive"], "answer": "Poky" },
+  { "id": 2, "question": "If people are 'packed like ...', there is too little space.", "options": ["Sardines", "Cows", "Sweets", "Genes"], "answer": "Sardines" },
+  { "id": 3, "question": "Which term describes a large house with many rooms and corridors?", "options": ["Compact", "Rambling", "Congested", "Poky"], "answer": "Rambling" },
+  { "id": 4, "question": "Fear of confined spaces is ...", "options": ["Agoraphobia", "Claustrophobia", "Labyrinth", "Congestion"], "answer": "Claustrophobia" },
+  { "id": 5, "question": "Large areas without buildings or trees are '... open spaces'.", "options": ["Roomy", "Wide", "Compact", "Extensive"], "answer": "Wide" },
+  { "id": 6, "question": "If you are 'hemmed in' at a carnival, you are:", "options": ["Alone", "In a large room", "Surrounded and unable to move", "In a maze"], "answer": "Surrounded and unable to move" },
+  { "id": 7, "question": "A small but efficiently designed refrigerator is ...", "options": ["Spacious", "Compact", "Rambling", "Cramped"], "answer": "Compact" },
+  { "id": 8, "question": "Traffic on a waterway that is too full is ...", "options": ["Congested", "Scattered", "Roomy", "Wide"], "answer": "Congested" },
+  { "id": 9, "question": "What do we call a vast and complex office building?", "options": ["A labyrinth", "A poky flat", "A compact house", "A scattered area"], "answer": "A labyrinth" },
+  { "id": 10, "question": "To manage to fit into a small space between two people is to ... in.", "options": ["Squeeze", "Spread", "Scatter", "Ramble"], "answer": "Squeeze" },
+  { "id": 11, "question": "If buildings are 'spread out', they are:", "options": ["Too small", "Not close to each other", "In a complex maze", "Cramped together"], "answer": "Not close to each other" },
+  { "id": 12, "question": "A 'roomy' car has:", "options": ["No engine", "A lot of space inside", "No windows", "A very small size"], "answer": "A lot of space inside" },
+  { "id": 13, "question": "People who feel as if they are in prison are '...'.", "options": ["Incarcerated", "Scattered", "Roomy", "Spacious"], "answer": "Incarcerated" },
+  { "id": 14, "question": "Small pieces of paper all over the floor are '...'.", "options": ["Spread out", "Scattered", "Extensive", "Compact"], "answer": "Scattered" },
+  { "id": 15, "question": "A city with many wide open squares is '...'.", "options": ["Poky", "Cramped", "Spaciously designed", "Congested"], "answer": "Spaciously designed" }
+]

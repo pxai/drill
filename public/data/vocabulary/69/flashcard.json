@@ -1,0 +1,17 @@
+[
+  { "id": 1, "front": "dash / race / tear", "back": "To go somewhere very quickly on foot or by transport." },
+  { "id": 2, "front": "nip / pop", "back": "To go quickly for a short distance (e.g., 'pop into the post office')." },
+  { "id": 3, "front": "bolt", "back": "Fast movement, often suggesting running away from something." },
+  { "id": 4, "front": "career", "back": "To move rapidly and out of control (e.g., 'the car careered down a bank')." },
+  { "id": 5, "front": "whizz / dart / zip", "back": "Other verbs suggesting very fast movement over short distances." },
+  { "id": 6, "front": "scamper / scuttle", "back": "To move with small, rapid steps (often of animals like mice or cockroaches)." },
+  { "id": 7, "front": "speed up / accelerate", "back": "To increase speed." },
+  { "id": 8, "front": "plunge / plummet", "back": "To move or fall downwards very fast." },
+  { "id": 9, "front": "soar / rocket", "back": "To move upwards very fast (often used for prices or hopes)." },
+  { "id": 10, "front": "slump / tumble", "back": "A rapid downward movement (often in financial contexts)." },
+  { "id": 11, "front": "crawl / creep", "back": "To move extremely slowly (e.g., 'traffic was crawling')." },
+  { "id": 12, "front": "totter", "back": "To move in an unsteady or shaky way." },
+  { "id": 13, "front": "sidle", "back": "To walk anxiously and nervously (e.g., 'sidled up to the desk')." },
+  { "id": 14, "front": "dawdle", "back": "To move more slowly than is necessary; to waste time." },
+  { "id": 15, "front": "taking a giant step", "back": "A metaphorical expression for making a major development." }
+]

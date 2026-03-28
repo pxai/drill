@@ -1,0 +1,17 @@
+[
+  { "id": 1, "question": "Which tense focuses on the process of an activity?", "options": ["Present perfect simple", "Present perfect continuous", "Past simple", "Present simple"], "answer": "Present perfect continuous" },
+  { "id": 2, "question": "I ... this book for hours and I'm still only on page six.", "options": ["read", "have read", "have been reading", "am reading"], "answer": "have been reading" },
+  { "id": 3, "question": "We ... at this hotel a couple of times before.", "options": ["stayed", "have stayed", "have been staying", "are staying"], "answer": "have stayed" },
+  { "id": 4, "question": "Which verb is rarely used in the continuous form?", "options": ["Work", "Stay", "Know", "Read"], "answer": "Know" },
+  { "id": 5, "question": "You've been eating chocolate, ... you? There's some on your shirt.", "options": ["haven't", "don't", "didn't", "weren't"], "answer": "haven't" },
+  { "id": 6, "question": "Miguel ... a football against the wall all day.", "options": ["kicks", "has kicked", "has been kicking", "was kicking"], "answer": "has been kicking" },
+  { "id": 7, "question": "He ... for the national team in 65 matches so far.", "options": ["has played", "has been playing", "plays", "is playing"], "answer": "has played" },
+  { "id": 8, "question": "Prices ... by 7% recently.", "options": ["decreased", "have decreased", "have been decreasing", "decrease"], "answer": "have decreased" },
+  { "id": 9, "question": "Who's ... around with my papers? They're all over the place.", "options": ["mess", "messed", "messing", "been messing"], "answer": "been messing" },
+  { "id": 10, "question": "I ... 20 lengths of the pool today.", "options": ["swum", "have swum", "have been swimming", "swim"], "answer": "have swum" },
+  { "id": 11, "question": "An important file ... from my office.", "options": ["disappears", "has disappeared", "has been disappearing", "was disappeared"], "answer": "has disappeared" },
+  { "id": 12, "question": "Since 1950, influenza ... more than 50,000 lives.", "options": ["claims", "has claimed", "has been claiming", "claimed"], "answer": "has claimed" },
+  { "id": 13, "question": "The government ... massive progress in understanding the illness.", "options": ["made", "has made", "has been making", "makes"], "answer": "has made" },
+  { "id": 14, "question": "They ... producing over a hundred books.", "options": ["are", "have", "have been", "were"], "answer": "have been" },
+  { "id": 15, "question": "It is a tragedy that the government ... this decision now.", "options": ["is making", "has been making", "makes", "has made"], "answer": "has been making" }
+]

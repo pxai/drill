@@ -1,0 +1,17 @@
+[
+  { "id": 1, "front": "cause", "back": "Verb that usually collocates with negative results (e.g., cause trouble, illness, or disaster)." },
+  { "id": 2, "front": "produce", "back": "A neutral verb used in formal contexts (e.g., produce a report, statistics, or results)." },
+  { "id": 3, "front": "generate", "back": "Often used for things like revenue, income, complaints, or interest." },
+  { "id": 4, "front": "provoke", "back": "To cause a strong reaction, like a feeling of despair or anger." },
+  { "id": 5, "front": "precipitate / sparked off", "back": "To cause something (like a crisis) to happen suddenly or quickly." },
+  { "id": 6, "front": "brought about", "back": "To cause a change to happen gradually (e.g., 'brought about great changes')." },
+  { "id": 7, "front": "resulted in", "back": "Led to a formal outcome or a specific situation (e.g., resulted in a complaint)." },
+  { "id": 8, "front": "incite", "back": "To encourage someone to do something bad or violent (e.g., incite a riot)." },
+  { "id": 9, "front": "prompt", "back": "To cause or encourage someone to do something (e.g., 'prompted a response')." },
+  { "id": 10, "front": "induce", "back": "To persuade or lead someone to do something (formal)." },
+  { "id": 11, "front": "breed", "back": "To cause something to develop or increase (e.g., 'familiarity breeds contempt')." },
+  { "id": 12, "front": "cause trouble/problems", "back": "A very common negative collocation for 'cause'." },
+  { "id": 13, "front": "generate interest", "back": "To create a lot of attention or enthusiasm for something." },
+  { "id": 14, "front": "produce results", "back": "To achieve a positive or desired outcome." },
+  { "id": 15, "front": "give a reason", "back": "A less formal alternative to 'provide a reason'." }
+]

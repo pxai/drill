@@ -1,0 +1,17 @@
+[
+  { "id": 1, "question": "Which term describes intensely black darkness?", "options": ["Pastel", "Pitch black", "Shocking black", "Crimson"], "answer": "Pitch black" },
+  { "id": 2, "question": "A 'red-letter day' is a day that is:", "options": ["Angry", "Very important and happy", "Boring", "Sad"], "answer": "Very important and happy" },
+  { "id": 3, "question": "What does it mean to be 'green with envy'?", "options": ["To be sick", "To be extremely jealous", "To be eco-friendly", "To be inexperienced"], "answer": "To be extremely jealous" },
+  { "id": 4, "question": "Which color is typically used to describe office workers?", "options": ["Blue", "Grey", "White", "Scarlet"], "answer": "White" },
+  { "id": 5, "question": "A 'black sheep' of the family is someone who:", "options": ["Is very wealthy", "Is considered a disgrace", "Has dark hair", "Is very helpful"], "answer": "Is considered a disgrace" },
+  { "id": 6, "question": "If a situation is a 'grey area', it:", "options": ["Is very clear", "Is related to science", "Lacks clarity", "Is very old"], "answer": "Lacks clarity" },
+  { "id": 7, "question": "Which two colors describe reddish-brown hair?", "options": ["Navy and Turquoise", "Auburn and Chestnut", "Magnolia and Beige", "Scarlet and Crimson"], "answer": "Auburn and Chestnut" },
+  { "id": 8, "question": "Pastel colors are described as ...", "options": ["Vivid and bright", "Dark and intense", "Pale shades", "Neon shades"], "answer": "Pale shades" },
+  { "id": 9, "question": "What is the meaning of 'feeling blue'?", "options": ["Feeling happy", "Feeling depressed", "Feeling angry", "Feeling sick"], "answer": "Feeling depressed" },
+  { "id": 10, "question": "A 'monochrome' picture uses:", "options": ["Many different colors", "Only shades of one color", "No colors at all", "Primary colors only"], "answer": "Only shades of one color" },
+  { "id": 11, "question": "Which of these is a bright shade of red?", "options": ["Navy", "Scarlet", "Mousy", "Beige"], "answer": "Scarlet" },
+  { "id": 12, "question": "If someone turns 'green' after a boat trip, they are:", "options": ["Jealous", "Angry", "Nauseous", "Happy"], "answer": "Nauseous" },
+  { "id": 13, "question": "A 'black mark' against someone's name indicates:", "options": ["A high score", "Disapproval or a mistake", "A royal title", "A new job"], "answer": "Disapproval or a mistake" },
+  { "id": 14, "question": "Which color refers to intelligence or 'brains'?", "options": ["Grey matter", "Red matter", "Blue matter", "White matter"], "answer": "Grey matter" },
+  { "id": 15, "question": "A 'white-knuckle' ride is one that is:", "options": ["Very slow", "Terrifying", "Boring", "Professional"], "answer": "Terrifying" }
+]

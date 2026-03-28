@@ -1,0 +1,17 @@
+[
+  { "id": 1, "front": "Past perfect continuous use", "back": "Used for an activity in progress before a particular point in the past." },
+  { "id": 2, "front": "Achievement vs. Process", "back": "Simple for achievement (worked her way up); continuous for duration (working for months)." },
+  { "id": 3, "front": "Unfulfilled intentions", "back": "Either simple or continuous can be used (e.g., 'had been looking forward')." },
+  { "id": 4, "front": "Duration of state/belief", "back": "Use past perfect simple for states or long-held beliefs." },
+  { "id": 5, "front": "Result of past action", "back": "Past perfect simple focuses on the specific result of an action." },
+  { "id": 6, "front": "Ex 7.1 (1a): She ... for the company for months.", "back": "had only been working (duration)." },
+  { "id": 7, "front": "Ex 7.1 (1b): She ... her way up to management.", "back": "had finally worked (achievement)." },
+  { "id": 8, "front": "Ex 7.1 (2a): The avalanche ... them 500 metres.", "back": "had carried (result)." },
+  { "id": 9, "front": "Ex 7.1 (2b): She ... a bottle from the bag.", "back": "had been carrying (duration)." },
+  { "id": 10, "front": "Ex 7.1 (3a): We ... for visas early.", "back": "had been applying (process)." },
+  { "id": 11, "front": "Ex 7.1 (3b): She ... for jobs without success.", "back": "had applied (repeated attempts)." },
+  { "id": 12, "front": "Ex 7.1 (4a): He ... from NY for the meeting.", "back": "had flown (achievement)." },
+  { "id": 13, "front": "Ex 7.1 (4b): The plane ... when diverted.", "back": "had been flying (activity in progress)." },
+  { "id": 14, "front": "Repeating late arrival", "back": "It was the third time I had arrived late." },
+  { "id": 15, "front": "Background in narrative", "back": "They had been complaining of a headache most of yesterday." }
+]

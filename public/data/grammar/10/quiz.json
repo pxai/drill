@@ -1,0 +1,17 @@
+[
+  { "id": 1, "question": "Does the sale ... on Thursday or Friday?", "options": ["finish", "is finishing", "will finish", "is going to finish"], "answer": "finish" },
+  { "id": 2, "question": "Are you ... to watch TV tonight, or are you coming dancing?", "options": ["stay", "staying", "will stay", "going to stay"], "answer": "staying" },
+  { "id": 3, "question": "I should be finished by the time you ... back.", "options": ["will get", "get", "are getting", "are going to get"], "answer": "get" },
+  { "id": 4, "question": "Provided the right software ... available, I should be able to solve it.", "options": ["will be", "is", "is going to be", "be"], "answer": "is" },
+  { "id": 5, "question": "Suppose we ... the bus - how will we get home?", "options": ["miss", "will miss", "are missing", "missed"], "answer": "miss" },
+  { "id": 6, "question": "Are you ... the doctor again next week?", "options": ["see", "seeing", "will see", "saw"], "answer": "seeing" },
+  { "id": 7, "question": "Scientists say that the satellite ... any damage when it falls.", "options": ["isn't causing", "won't cause", "doesn't cause", "not causing"], "answer": "won't cause" },
+  { "id": 8, "question": "Her new house ... three floors.", "options": ["is having", "is going to have", "will have", "Both 'will' and 'be going to'"], "answer": "Both 'will' and 'be going to'" },
+  { "id": 9, "question": "I ... to town on Saturday. (Preferred over 'going to go')", "options": ["am going", "go", "will go", "am going to go"], "answer": "am going" },
+  { "id": 10, "question": "The new drug ... on sale in the USA next year.", "options": ["is", "will be", "Both", "None"], "answer": "is" },
+  { "id": 11, "question": "Tonight France ... Germany in an important match.", "options": ["plays", "is playing", "play", "will play"], "answer": "play" },
+  { "id": 12, "question": "It's not a deep cut, but it ... a scar.", "options": ["will leave", "is going to leave", "is leaving", "Both 'will' and 'be going to'"], "answer": "Both 'will' and 'be going to'" },
+  { "id": 13, "question": "Did you know I ... a new car next week?", "options": ["buy", "am going to buy", "am buying", "Both 'be going to' and continuous"], "answer": "Both 'be going to' and continuous" },
+  { "id": 14, "question": "I have to go now. I ... you back later today.", "options": ["will call", "am going to call", "am calling", "call"], "answer": "will call" },
+  { "id": 15, "question": "Unless help arrives within days, thousands ...", "options": ["will starve", "are going to starve", "are starving", "Both 'will' and 'be going to'"], "answer": "Both 'will' and 'be going to'" }
+]

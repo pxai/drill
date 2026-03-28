@@ -1,0 +1,17 @@
+[
+  { "id": 1, "question": "What does 'once in a blue moon' mean?", "options": ["Every week", "Very infrequently", "At night", "Never"], "answer": "Very infrequently" },
+  { "id": 2, "question": "If you have worked somewhere for 'donkey's years', you have been there for:", "options": ["A few days", "A very long time", "Ten months", "Since yesterday"], "answer": "A very long time" },
+  { "id": 3, "question": "A person who is no longer famous is a ...", "options": ["Has-been", "Pristine", "Mo", "flash"], "answer": "Has-been" },
+  { "id": 4, "question": "Which adjective means 'lasting for only a short time'?", "options": ["Persistent", "Fleeting", "Protracted", "Inexorable"], "answer": "Fleeting" },
+  { "id": 5, "question": "If something is in its original, unchanged condition, it is ...", "options": ["Transient", "Persistent", "Pristine", "Fleeting"], "answer": "Pristine" },
+  { "id": 6, "question": "Doing homework 'in a flash' means doing it ...", "options": ["Very slowly", "Very quickly", "Poorly", "Late"], "answer": "Very quickly" },
+  { "id": 7, "question": "Being 'over the hill' means someone is considered:", "options": ["Very young", "Too old", "Very healthy", "A champion"], "answer": "Too old" },
+  { "id": 8, "question": "If a headache is 'incipient', it is ...", "options": ["Finishing", "Just beginning", "Extremely painful", "Permanent"], "answer": "Just beginning" },
+  { "id": 9, "question": "Arriving 'in the nick of time' means:", "options": ["Late", "Too early", "Only just in time", "At the wrong place"], "answer": "Only just in time" },
+  { "id": 10, "question": "Which term describes 'continuing without hope of being stopped'?", "options": ["Inexorable", "Transient", "Pristine", " Fleeting"], "answer": "Inexorable" },
+  { "id": 11, "question": "Peace negotiations that take a very long time are ...", "options": ["Fleeting", "Protracted", "Pristine", "Incipient"], "answer": "Protracted" },
+  { "id": 12, "question": "A 'transient' feeling lasts for:", "options": ["A short time", "A whole year", "A lifetime", "Five minutes exactly"], "answer": "A short time" },
+  { "id": 13, "question": "What is the meaning of 'since the year dot'?", "options": ["Since last year", "For a very long time", "Since the future", "Since 1900"], "answer": "For a very long time" },
+  { "id": 14, "question": "If you are 'lingering', you are:", "options": ["Taking a long time to leave", "Leaving instantly", "Moving fast", "Not there at all"], "answer": "Taking a long time to leave" },
+  { "id": 15, "question": "Which animal is mentioned in a phrase meaning 'forever'?", "options": ["Donkey", "Cow", "Bird", "Mouse"], "answer": "Cow" }
+]

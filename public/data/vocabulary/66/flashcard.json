@@ -1,0 +1,17 @@
+[
+  { "id": 1, "front": "silent", "back": "Complete absence of sound (e.g., 'The room was silent')." },
+  { "id": 2, "front": "noiseless", "back": "Without any noise; often describes machines or movement." },
+  { "id": 3, "front": "slam", "back": "To shut a door or window with great force and noise." },
+  { "id": 4, "front": "pound", "back": "To hit or beat something repeatedly with a lot of force." },
+  { "id": 5, "front": "creak", "back": "A high-pitched noise made by wood, like a door or floorboard." },
+  { "id": 6, "front": "crash", "back": "A sudden, loud noise like something breaking or falling." },
+  { "id": 7, "front": "sizzle", "back": "The sound of something cooking in hot fat (e.g., bacon in a pan)." },
+  { "id": 8, "front": "ring out", "back": "A loud, clear sound that is heard suddenly (e.g., a shot)." },
+  { "id": 9, "front": "toot", "back": "The sound made by a car horn." },
+  { "id": 10, "front": "squeak", "back": "A short, high-pitched sound (e.g., from a mouse or rusty hinge)." },
+  { "id": 11, "front": "wail", "back": "A long, high, crying sound (e.g., police sirens or a person in grief)." },
+  { "id": 12, "front": "deafening", "back": "Extremely loud noise that makes it hard to hear anything else." },
+  { "id": 13, "front": "eerie", "back": "A strange, mysterious, and almost scary kind of silence." },
+  { "id": 14, "front": "piercing", "back": "A high-pitched noise that is so loud it hurts your ears." },
+  { "id": 15, "front": "grating", "back": "A harsh, unpleasant, and irritating kind of voice or sound." }
+]

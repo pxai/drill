@@ -1,0 +1,17 @@
+[
+  { "id": 1, "question": "What do we call food grown by interfering with plant genes?", "options": ["Virtual food", "GM food", "Smart food", "Global food"], "answer": "GM food" },
+  { "id": 2, "question": "An exact genetic copy of something is a ...", "options": ["Genome", "Clone", "Designer", "Therapy"], "answer": "Clone" },
+  { "id": 3, "question": "The index of all human genes is the ...", "options": ["Global village", "Human genome", "Genetic modification", "Nuclear family"], "answer": "Human genome" },
+  { "id": 4, "question": "Which term describes traffic that cannot move at all?", "options": ["Gridlocked", "Interactive", "Interplanetary", "Smart"], "answer": "Gridlocked" },
+  { "id": 5, "question": "Treating defective genes to get rid of diseases is ...", "options": ["E-commerce", "Gene therapy", "Genetic engineering", "Cloning"], "answer": "Gene therapy" },
+  { "id": 6, "question": "Doing business via computer is called ...", "options": ["Virtual reality", "E-commerce", "Interactive TV", "Smart building"], "answer": "E-commerce" },
+  { "id": 7, "question": "What is a 'nuclear family'?", "options": ["A family with many relatives", "Father, mother and 2.4 children", "A single-parent family", "A group of friends living together"], "answer": "Father, mother and 2.4 children" },
+  { "id": 8, "question": "Travel to planets in outer space is ... travel.", "options": ["Interplanetary", "Interactive", "Global", "Smart"], "answer": "Interplanetary" },
+  { "id": 9, "question": "The world becoming a very small place in terms of economics is the ...", "options": ["Global village", "Designer baby", "Gulf", "E-commerce"], "answer": "Global village" },
+  { "id": 10, "question": "The gap between rich and poor nations is often called the ...", "options": ["Labyrinth", "Gulf", "Village", "Genome"], "answer": "Gulf" },
+  { "id": 11, "question": "Computer-controlled buildings are known as ... buildings.", "options": ["Smart", "Virtual", "Genetically modified", "Nuclear"], "answer": "Smart" },
+  { "id": 12, "question": "Babies with genetic features chosen by parents are ...", "options": ["GM babies", "Designer babies", "Global babies", "Nuclear babies"], "answer": "Designer babies" },
+  { "id": 13, "question": "TV that allows two-way communication is ... TV.", "options": ["Smart", "Interactive", "Virtual", "E-commerce"], "answer": "Interactive" },
+  { "id": 14, "question": "Changing the genetic structure of organisms is genetic ...", "options": ["Therapy", "Engineering", "Modification", "Cloning"], "answer": "Engineering" },
+  { "id": 15, "question": "Genetic modification is often used to make crops ...", "options": ["Disease-resistant", "Gridlocked", "Poky", "Fleet"], "answer": "Disease-resistant" }
+]

@@ -1,0 +1,17 @@
+[
+  { "id": 1, "question": "What does 'mind your Ps and Qs' mean?", "options": ["Work hard", "Be polite", "Speak fast", "Dress well"], "answer": "Be polite" },
+  { "id": 2, "question": "Which verb describes repeated small movements due to nervousness?", "options": ["Twitch", "Beam", "Smirk", "Offhand"], "answer": "Twitch" },
+  { "id": 3, "question": "A smile of self-satisfaction with a negative connotation is a ...", "options": ["Beam", "Smirk", "Snort", "Titter"], "answer": "Smirk" },
+  { "id": 4, "question": "To move from side to side because you are embarrassed is to ...", "options": ["Raise eyebrows", "Flutter eyelashes", "Squirm", "Twitch"], "answer": "Squirm" },
+  { "id": 5, "question": "Being 'strait-laced' is generally considered:", "options": ["A positive trait", "A negative/neutral trait meaning very formal", "A sign of a good athlete", "A way to walk"], "answer": "A negative/neutral trait meaning very formal" },
+  { "id": 6, "question": "Formal rules of behaviour are known as ...", "options": ["Etiquette", "Ps and Qs", "Social graces", "Courtesy"], "answer": "Etiquette" },
+  { "id": 7, "question": "A broad, happy smile is a ...", "options": ["Twitch", "Smirk", "Beam", "Sniff"], "answer": "Beam" },
+  { "id": 8, "question": "If you are 'offhand' with someone, you are being:", "options": ["Extremely polite", "Casual and slightly rude", "Very formal", "Flirty"], "answer": "Casual and slightly rude" },
+  { "id": 9, "question": "Which gesture indicates flirting with a man?", "options": ["Raising eyebrows", "Twitching", "Fluttering eyelashes", "Flinching"], "answer": "Fluttering eyelashes" },
+  { "id": 10, "question": "Someone who is 'prim' is:", "options": ["Humorous", "Formal and without humour", "Dirty", "Rude"], "answer": "Formal and without humour" },
+  { "id": 11, "question": "To 'raise your eyebrows' indicates ...", "options": ["Happiness", "Surprise or shock", "Nervousness", "Boredom"], "answer": "Surprise or shock" },
+  { "id": 12, "question": "What is the positive alternative to 'starchy'?", "options": ["Prissy", "Gentlemanly/Ladylike", "Offhand", "Strait-laced"], "answer": "Gentlemanly/Ladylike" },
+  { "id": 13, "question": "A sudden small movement due to pain or fear is a ...", "options": ["Flinch", "Beam", "Smirk", "Snort"], "answer": "Flinch" },
+  { "id": 14, "question": "Making an explosive sound through the nose in amusement is to ...", "options": ["Titter", "Snort", "Beam", "Flutter"], "answer": "Snort" },
+  { "id": 15, "question": "A small, nervous laugh is a ...", "options": ["Snort", "Smirk", "Titter", "Flinch"], "answer": "Titter" }
+]

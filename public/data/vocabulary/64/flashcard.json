@@ -1,0 +1,17 @@
+[
+  { "id": 1, "front": "limp", "back": "To walk unevenly because one leg hurts." },
+  { "id": 2, "front": "hobble", "back": "To walk awkwardly (e.g., shoes too tight or feet hurt)." },
+  { "id": 3, "front": "stagger", "back": "To walk unsteadily (e.g., if drunk or ill)." },
+  { "id": 4, "front": "stumble", "back": "To walk nearly falling on an uneven surface." },
+  { "id": 5, "front": "lurch", "back": "To make sudden or irregular movements (e.g., on a moving ship)." },
+  { "id": 6, "front": "tiptoe", "back": "To walk quietly and on toes not to be heard." },
+  { "id": 7, "front": "amble", "back": "To walk at an easy, gentle pace for pleasure." },
+  { "id": 8, "front": "stride", "back": "To walk with long, purposeful steps." },
+  { "id": 9, "front": "strut", "back": "To walk in a proud way, chest held out, to look important." },
+  { "id": 10, "front": "tramp", "back": "To walk with firm, heavy steps for a long time." },
+  { "id": 11, "front": "trample", "back": "To walk pressing repeatedly with feet (often to destroy)." },
+  { "id": 12, "front": "stamp", "back": "To push the foot down heavily (e.g., in anger)." },
+  { "id": 13, "front": "trudge", "back": "To walk with heavy, slow steps when tired or with difficulty." },
+  { "id": 14, "front": "chase", "back": "To run or move quickly to catch someone or something." },
+  { "id": 15, "front": "meander", "back": "To walk or flow in a winding way (often of water or people)." }
+]

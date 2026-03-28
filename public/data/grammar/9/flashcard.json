@@ -1,0 +1,17 @@
+[
+  { "id": 1, "front": "Future plans (Neutral)", "back": "Both 'will' and 'be going to' can often be used for planned events." },
+  { "id": 2, "front": "Prediction based on Opinion", "back": "We prefer 'will' for predictions based on experience or opinion." },
+  { "id": 3, "front": "Prediction based on Evidence", "back": "We prefer 'be going to' when there is present evidence (e.g., 'the sky's gone dark')." },
+  { "id": 4, "front": "I bet, I expect, I hope", "back": "These introductory phrases usually collocate with 'will'." },
+  { "id": 5, "front": "Moment of speaking decisions", "back": "Use 'will' when making a decision right now (e.g., 'I'll pick him up')." },
+  { "id": 6, "front": "Previously made decisions", "back": "Use 'be going to' for decisions already made." },
+  { "id": 7, "front": "Formal arrangements", "back": "In formal notices, 'will' is preferred for arranged future events." },
+  { "id": 8, "front": "If-sentences (Conditional outcome)", "back": "Use 'will' or 'be going to' with little difference in meaning in the main clause." },
+  { "id": 9, "front": "Logical consequence", "back": "Use 'will' when one thing is the inevitable result of another." },
+  { "id": 10, "front": "Ex 9.1 (1): Nadia recently ... another baby.", "back": "is going to have (based on evidence)." },
+  { "id": 11, "front": "Ex 9.1 (10b): She ... better with some fresh air.", "back": "will feel (opinion)." },
+  { "id": 12, "front": "Offer/Promise status", "back": "Use 'will', not 'be going to', for offers and promises." },
+  { "id": 13, "front": "Expectation of ability", "back": "If you look left, you will see the lake (expecting ability)." },
+  { "id": 14, "front": "Ex 9.2 (1): I ... how the equipment works.", "back": "will explain (offer/promise)." },
+  { "id": 15, "front": "Dark sky sign", "back": "There is going to be a storm (present evidence)." }
+]

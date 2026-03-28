@@ -1,0 +1,17 @@
+[
+  { "id": 1, "front": "smart buildings", "back": "Computer-controlled buildings where lighting and heating are automatic." },
+  { "id": 2, "front": "virtual reality", "back": "Computer-generated experiences that feel like the real thing." },
+  { "id": 3, "front": "interactive TV", "back": "TV where you choose what to watch and the communication is two-way." },
+  { "id": 4, "front": "e-commerce", "back": "The activity of doing business via the Internet." },
+  { "id": 5, "front": "gridlocked", "back": "Describes traffic that is unable to move at all." },
+  { "id": 6, "front": "genetic modification", "back": "Changing genes in plants or animals so they grow better." },
+  { "id": 7, "front": "GM food", "back": "Food created by changing the genes of the ingredients." },
+  { "id": 8, "front": "genetic engineering", "back": "Making artificial changes to the genetic structure of organisms." },
+  { "id": 9, "front": "gene therapy", "back": "Changing genes in order to prevent or treat disease." },
+  { "id": 10, "front": "human genome", "back": "The 'map' or index of all the genes in a human being." },
+  { "id": 11, "front": "designer babies", "back": "Babies whose genetic characteristics are artificially created." },
+  { "id": 12, "front": "cloning", "back": "The process of making a genetically identical copy of an organism." },
+  { "id": 13, "front": "nuclear family", "back": "A traditional family structure with father, mother, and children." },
+  { "id": 14, "front": "global village", "back": "The concept of the whole world becoming a single community." },
+  { "id": 15, "front": "the gulf", "back": "The gap or difference between rich and poor nations." }
+]

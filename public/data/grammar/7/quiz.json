@@ -1,0 +1,17 @@
+[
+  { "id": 1, "question": "She ... for the company for a couple of months when she left.", "options": ["worked", "had been working", "was working", "has worked"], "answer": "had been working" },
+  { "id": 2, "question": "The avalanche ... them 500 metres down the mountain.", "options": ["carried", "was carrying", "had carried", "had been carrying"], "answer": "had carried" },
+  { "id": 3, "question": "Mrs Bishop ... to have children for years before she became pregnant.", "options": ["tried", "had been trying", "was trying", "has been trying"], "answer": "had been trying" },
+  { "id": 4, "question": "It was the third time I ... late for school that week.", "options": ["was", "had been", "arrived", "had arrived"], "answer": "had arrived" },
+  { "id": 5, "question": "We ... about Sarah when she walked through the door.", "options": ["talked", "were talking", "had been talking", "had talked"], "answer": "were talking" },
+  { "id": 6, "question": "Which form focuses on the completion of an achievement?", "options": ["Past perfect continuous", "Past perfect simple", "Past simple", "Past continuous"], "answer": "Past perfect simple" },
+  { "id": 7, "question": "Identify the error in this report: 'She had just been hearing that he had been flown by helicopter.'", "options": ["'had just been hearing' is correct", "'had just been hearing' should be 'had just heard'", "'had been flown' should be 'flew'", "No error"], "answer": "'had just been hearing' should be 'had just heard'" },
+  { "id": 8, "question": "I ... forward to a relaxing couple of days but it went wrong.", "options": ["looked", "was looking", "had really been looking", "have looked"], "answer": "had really been looking" },
+  { "id": 9, "question": "Daniel ... about passing the exams before he decided to change course.", "options": ["worried", "was worrying", "had been worrying", "had worried"], "answer": "had been worrying" },
+  { "id": 10, "question": "Emma Willems ... novels for ten years before her first book was published.", "options": ["wrote", "was writing", "had been writing", "has been writing"], "answer": "had been writing" },
+  { "id": 11, "question": "My teacher was really annoyed. It was the third time I ... late.", "options": ["was", "had been", "arrived", "had arrived"], "answer": "had arrived" },
+  { "id": 12, "question": "She ... her way up from trainee to management.", "options": ["worked", "was working", "had worked", "has worked"], "answer": "had worked" },
+  { "id": 13, "question": "When the plane was diverted, it ... from London to Frankfurt.", "options": ["flew", "was flying", "had been flying", "flown"], "answer": "had been flying" },
+  { "id": 14, "question": "He ... all the way from New York to be at the meeting.", "options": ["flew", "was flying", "had flown", "flown"], "answer": "had flown" },
+  { "id": 15, "question": "I ... it would be easy to get a job.", "options": ["always believed", "had always been believing", "had always believed", "believed"], "answer": "had always believed" }
+]

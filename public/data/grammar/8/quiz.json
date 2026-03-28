@@ -1,0 +1,17 @@
+[
+  { "id": 1, "question": "I (1) ... this blog in a hotel room in Perth.", "options": ["write", "am writing", "wrote", "have written"], "answer": "am writing" },
+  { "id": 2, "question": "I (3) ... pretty tired so this will only be a short post.", "options": ["feel", "am feeling", "felt", "have felt"], "answer": "feel / felt" },
+  { "id": 3, "question": "I (9) ... there for the first few days I (10) ... quite jet-lagged.", "options": ["stayed / was", "am staying / was", "stay / was", "stayed / am"], "answer": "stayed / was" },
+  { "id": 4, "question": "Apparently they constantly (16) ... about the working conditions.", "options": ["complain", "are complaining", "complained", "were complaining"], "answer": "complain / are complaining" },
+  { "id": 5, "question": "Aston United (1) ... their manager, Neil Ronson.", "options": ["sacked", "have sacked", "are sacking", "had sacked"], "answer": "have sacked" },
+  { "id": 6, "question": "Ronson (11) ... of lack of commitment to the club.", "options": ["accused", "was accused", "has been accused", "is accused"], "answer": "accused" },
+  { "id": 7, "question": "Neil's attitude (12) ... us recently.", "options": ["disappoints", "disappointed", "has disappointed", "is disappointing"], "answer": "has disappointed" },
+  { "id": 8, "question": "Did he (1) ... any health problems recently?", "options": ["have", "had", "has", "having"], "answer": "have" },
+  { "id": 9, "question": "Well, he (2) ... suffering from stress for some time.", "options": ["was", "is", "has been", "had been"], "answer": "has been / had been" },
+  { "id": 10, "question": "He (4) ... too hard for months.", "options": ["worked", "has worked", "has been working", "was working"], "answer": "worked" },
+  { "id": 11, "question": "So (6) ... you gone up to Scotland when you (7) ...?", "options": ["did / heard", "have / heard", "had / heard", "do / hear"], "answer": "have / heard" },
+  { "id": 12, "question": "The doctors (9) ... him over and (10) ... saying it's not too serious.", "options": ["checked / were", "have checked / have been", "checked / have been", "have checked / had been"], "answer": "have checked / had been" },
+  { "id": 13, "question": "They (11) ... him some medicine to bring down his blood pressure.", "options": ["give", "gave", "have given", "had given"], "answer": "gave" },
+  { "id": 14, "question": "The doctor (12) ... him that he needs complete rest.", "options": ["tells", "told", "has told", "had told"], "answer": "told" },
+  { "id": 15, "question": "I (19) ... forward to exploring Perth.", "options": ["look", "am looking", "looked", "have looked"], "answer": "look" }
+]
