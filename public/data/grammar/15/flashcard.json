@@ -1,0 +1,17 @@
+[
+  { "id": 1, "front": "Ability: be able to vs can", "back": "Avoid 'be able to' for things happening as we speak; use 'can' instead [7]." },
+  { "id": 2, "front": "Can/Be able to in Passives", "back": "Prefer 'can' (e.g., 'Films can now easily be streamed') [7]." },
+  { "id": 3, "front": "Ability: 'Know how to'", "back": "Prefer 'can' over 'are you able to' (e.g., 'Can you cook?') [7]." },
+  { "id": 4, "front": "Single past achievement", "back": "Use 'was able to' (not 'could') for specific successful attempts [7]." },
+  { "id": 5, "front": "Negative past ability", "back": "'Could not' is usually more natural than 'was not able to' [7]." },
+  { "id": 6, "front": "Senses and thinking verbs", "back": "Use 'could' (e.g., feel, hear, see, smell, taste, believe, remember) [7]." },
+  { "id": 7, "front": "Theoretical possibility", "back": "Use 'could' (e.g., 'It could be expensive') [7]." },
+  { "id": 8, "front": "Actually happening possibility", "back": "Use 'can' (e.g., 'It can be expensive') [7]." },
+  { "id": 9, "front": "Impossible present", "back": "Use 'can't' (e.g., 'The doctor can’t see you') [7]." },
+  { "id": 10, "front": "Future event possibility", "back": "Use 'can' for very real possibility; 'could' suggests less likely or doubt [7]." },
+  { "id": 11, "front": "General past permission", "back": "Use 'could' or 'was/were allowed to' [7]." },
+  { "id": 12, "front": "Particular past action permission", "back": "Use 'was/were allowed to' (not 'could') [7]." },
+  { "id": 13, "front": "She swam strongly and ... cross the river.", "back": "was able to (single achievement) [7]." },
+  { "id": 14, "front": "All we ... see were his feet.", "back": "could (after 'the only thing/place/time') [7]." },
+  { "id": 15, "front": "I ... touch the ceiling.", "back": "could nearly (to suggest something almost happened) [7]." }
+]

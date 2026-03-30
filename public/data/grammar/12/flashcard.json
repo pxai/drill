@@ -1,0 +1,17 @@
+[
+  { "id": 1, "front": "Be to + infinitive (News)", "back": "Used in news reports for events likely to happen in the near future [2]." },
+  { "id": 2, "front": "Be to + infinitive (Formal)", "back": "Used for formal arrangements, instructions, and orders [2]." },
+  { "id": 3, "front": "Control limitation of 'be to'", "back": "Only used for future events that CAN be controlled by people [2]." },
+  { "id": 4, "front": "Be to + infinitive (Past)", "back": "Refers to what actually happened to someone later (e.g., 'he was to be a further 30 years...') [2]." },
+  { "id": 5, "front": "Be to + have + past participle", "back": "Used for things that were expected but DID NOT happen [2, 3]." },
+  { "id": 6, "front": "Be to in if-clauses", "back": "Means something MUST happen first before another thing can happen [2]." },
+  { "id": 7, "front": "Be about to + infinitive", "back": "Used mainly in conversation for things that will happen in the very near future [2]." },
+  { "id": 8, "front": "Order of cause/effect in if-clauses", "back": "'If Lopez is to win (effect), he needs to work (cause)' [2]." },
+  { "id": 9, "front": "The President ... Brazil later today.", "back": "is to return (formal announcement) [2]." },
+  { "id": 10, "front": "Children ... unsupervised in the museum.", "back": "are not to be left (formal instruction) [2]." },
+  { "id": 11, "front": "We ... eat. Do you want to join us?", "back": "are about to (very near future) [2]." },
+  { "id": 12, "front": "The comet ... in 500 years.", "back": "will return (NOT 'is to return' because it's uncontrollable) [2]." },
+  { "id": 13, "front": "Clare Atkins ... two more books but died in 1997.", "back": "was to write (intended, but didn't happen) [2]." },
+  { "id": 14, "front": "If the human race ... , we must look at environmental problems.", "back": "is to survive (necessity for future outcome) [2]." },
+  { "id": 15, "front": "The railway ... reopened today.", "back": "is to be (passive news report) [2]." }
+]

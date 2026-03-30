@@ -1,0 +1,17 @@
+[
+  { "id": 1, "question": "Which modal is used for a present characteristic habit?", "options": ["Would", "Will", "Used to", "Should"], "answer": "Will" },
+  { "id": 2, "question": "At school she ... always sit quietly and pay attention.", "options": ["will", "would", "used to", "Both would and used to"], "answer": "would / used to" },
+  { "id": 3, "question": "Each time I gave him a problem he ... solve it for me.", "options": ["would", "will", "used to", "All are correct"], "answer": "would" },
+  { "id": 4, "question": "Last night I gave him a problem and he ... it for me.", "options": ["would solve", "solved", "will solve", "used to solve"], "answer": "solved" },
+  { "id": 5, "question": "If you ... eat so much, I'm not surprised you feel sick.", "options": ["will", "would", "shall", "must"], "answer": "will" },
+  { "id": 6, "question": "Martina ... at home by now. Let's go see her.", "options": ["will be", "would be", "is", "was"], "answer": "will be" },
+  { "id": 7, "question": "We ... Switzerland four times during the 1990s.", "options": ["would visit", "used to visit", "visited", "had visited"], "answer": "visited" },
+  { "id": 8, "question": "She ... to Jamaica last month.", "options": ["would go", "used to go", "went", "had gone"], "answer": "went" },
+  { "id": 9, "question": "The factory ... be over there.", "options": ["would", "used to", "will", "is"], "answer": "used to" },
+  { "id": 10, "question": "I would ... to see him, but I didn't have time.", "options": ["be happy", "have been happy", "will have been happy", "was happy"], "answer": "have been happy" },
+  { "id": 11, "question": "As it was cloudy, few people ... last night's eclipse.", "options": ["would have seen", "will have seen", "saw", "had seen"], "answer": "will have seen" },
+  { "id": 12, "question": "You ... that Ewan and Lucy are engaged. (Assumption)", "options": ["will know", "would know", "know", "shall know"], "answer": "will know" },
+  { "id": 13, "question": "He ... walk the five miles to his place of work. (Past habit)", "options": ["would", "will", "uses to", "must"], "answer": "would" },
+  { "id": 14, "question": "She ... do the washing up when I ask her. (Criticism)", "options": ["just won't", "just wouldn't", "don't", "can't"], "answer": "just won't" },
+  { "id": 15, "question": "We ... to play in the garden. (No time reference given)", "options": ["would", "used", "will", "must"], "answer": "used" }
+]

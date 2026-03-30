@@ -1,0 +1,17 @@
+[
+  { "id": 1, "front": "tally with", "back": "To match or agree with (e.g., 'Her complaints tally with the comments we received')." },
+  { "id": 2, "front": "concur with", "back": "To share or agree with an idea or opinion." },
+  { "id": 3, "front": "in full accord with", "back": "To be in complete agreement with something." },
+  { "id": 4, "front": "coincide with", "back": "To be the same as (e.g., 'Your views coincide with mine')." },
+  { "id": 5, "front": "conform to", "back": "To fit in with or match a general standard or definition." },
+  { "id": 6, "front": "approve of", "back": "To think something is right or good." },
+  { "id": 7, "front": "dissent", "back": "Opposition to the accepted way of thinking." },
+  { "id": 8, "front": "discord", "back": "Lack of agreement or harmony (suggests arguments)." },
+  { "id": 9, "front": "rift", "back": "A disagreement that divides people or groups." },
+  { "id": 10, "front": "split", "back": "When a larger group breaks up into smaller groups due to disagreement." },
+  { "id": 11, "front": "division", "back": "A more abstract/formal disagreement (e.g., 'a major division in the party')." },
+  { "id": 12, "front": "concession", "back": "Something given up to reach an agreement (e.g., 'make several concessions')." },
+  { "id": 13, "front": "settlement", "back": "Reaching a formal decision or agreement after a dispute." },
+  { "id": 14, "front": "exercise discretion", "back": "To use one's judgement and be sensitive in a situation." },
+  { "id": 15, "front": "agree to differ", "back": "Expression used when people continue to hold different opinions but stop arguing." }
+]

@@ -1,0 +1,17 @@
+[
+  { "id": 1, "front": "went like clockwork", "back": "The whole thing went perfectly as planned." },
+  { "id": 2, "front": "worked like a dream", "back": "The whole thing worked very successfully." },
+  { "id": 3, "front": "go according to plan", "back": "Used with 'not' to mean something failed (e.g., 'things don't always go according to plan')." },
+  { "id": 4, "front": "fall through", "back": "When a plan or arrangement fails (e.g., 'plans are beginning to fall through')." },
+  { "id": 5, "front": "up in the air", "back": "Something is uncertain or not yet decided." },
+  { "id": 6, "front": "a complete shambles", "back": "A situation that is completely disorganized and chaotic." },
+  { "id": 7, "front": "clear as mud", "back": "Irony: Very unclear and confusing." },
+  { "id": 8, "front": "out of the blue", "back": "Suddenly and without warning." },
+  { "id": 9, "front": "last words", "back": "An ironic expression for a situation that turned out differently than expected (e.g., 'famous last words')." },
+  { "id": 10, "front": "storm in a teacup", "back": "A lot of fuss over something unimportant." },
+  { "id": 11, "front": "wires crossed", "back": "To have a misunderstanding (e.g., 'there was a misunderstanding... we got our wires crossed')." },
+  { "id": 12, "front": "blow up in one's face", "back": "When a plan goes wrong and causes trouble for the person who made it." },
+  { "id": 13, "front": "out of the wood(s)", "back": "To be free from a difficult or dangerous situation." },
+  { "id": 14, "front": "red herring", "back": "Something that distracts attention from the main issue." },
+  { "id": 15, "front": "sweep under the carpet", "back": "To ignore or hide a problem instead of dealing with it." }
+]

@@ -1,0 +1,17 @@
+[
+  { "id": 1, "question": "Which modal is preferred for urgency or threats?", "options": ["Should", "Ought to", "Had better", "Must"], "answer": "Had better" },
+  { "id": 2, "question": "It's the third time she’s been skating this week. She ... really enjoy it.", "options": ["should", "must", "Both", "None"], "answer": "must" },
+  { "id": 3, "question": "I should leave early tomorrow, if I ... you.", "options": ["am", "were", "would be", "will be"], "answer": "were" },
+  { "id": 4, "question": "We ... for the rain to stop. (Past regret)", "options": ["should have waited", "ought to have waited", "Both are possible", "Neither"], "answer": "Both are possible" },
+  { "id": 5, "question": " ... I ring you at home?", "options": ["Should", "Ought to", "Had better", "Shall"], "answer": "Should" },
+  { "id": 6, "question": "If the flight was on time, he ... arrived in Jakarta early this morning.", "options": ["should have", "ought to have", "Both are possible", "Neither"], "answer": "Both are possible" },
+  { "id": 7, "question": "If you're not well, you'd ... ask Clare to go instead.", "options": ["should", "better", "best", "ought"], "answer": "better" },
+  { "id": 8, "question": "He'd ... not be late again or he'll be in trouble.", "options": ["better", "should", "ought", "rather"], "answer": "better" },
+  { "id": 9, "question": "Had we ... get a taxi? (Question form)", "options": ["should", "better", "best", "ought"], "answer": "better" },
+  { "id": 10, "question": "A timetable ... be set for withdrawing the army. (Official)", "options": ["should", "must", "Both", "None"], "answer": "Both" },
+  { "id": 11, "question": "If you smell gas, you ... phone the emergency number.", "options": ["should", "must", "Both", "None"], "answer": "must" },
+  { "id": 12, "question": "There's something wrong with David's computer... He ... never bought it.", "options": ["should", "should have", "must have", "must"], "answer": "should have" },
+  { "id": 13, "question": "By four, I think we'd ... get started.", "options": ["should", "better", "best", "ought"], "answer": "better" },
+  { "id": 14, "question": "Well, I ... be revising for my maths exam... but okay.", "options": ["should", "ought to", "Both", "None"], "answer": "should / ought to" },
+  { "id": 15, "question": "I don't think people ... pay to park at work at all.", "options": ["had better", "should", "must", "All"], "answer": "should" }
+]

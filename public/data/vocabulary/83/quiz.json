@@ -1,0 +1,17 @@
+[
+  { "id": 1, "question": "Which verb means to 'repeat' or 'restate' for emphasis?", "options": ["Underscore", "Reiterate", "Posit", "Preface"], "answer": "Reiterate" },
+  { "id": 2, "question": "To 'account for' something in an essay is to:", "options": ["Ignore it", "Explain the cause of it", "Write it in a book", "Agree with it"], "answer": "Explain the cause of it" },
+  { "id": 3, "question": "A perfect example of something '...' it.", "options": ["epitomises", "underscores", "subsumes", "posits"], "answer": "epitomises" },
+  { "id": 4, "question": "What does it mean to 'posit' a principle?", "options": ["To suggest it as a basic fact", "To deny it", "To hide it", "To forget it"], "answer": "To suggest it as a basic fact" },
+  { "id": 5, "question": "If a group 'comprises' five members, it:", "options": ["Hates them", "Consists of them", "Exclude them", "Is new"], "answer": "Consists of them" },
+  { "id": 6, "question": "To 'underscore' a need is to:", "options": ["Emphasize it", "Ignore it", "Delete it", "Draw a line under a word only"], "answer": "Emphasize it" },
+  { "id": 7, "question": "Including several things under one heading is to '...' them.", "options": ["reiterate", "subsume", "posit", "preface"], "answer": "subsume" },
+  { "id": 8, "question": "To 'cite' a writer means to:", "options": ["Criticize them", "Quote or refer to them", "Call them", "Ignore them"], "answer": "Quote or refer to them" },
+  { "id": 9, "question": "Which word describes ordering points from smallest to largest?", "options": ["Descending", "Ascending", "Subsuming", "Positing"], "answer": "Ascending" },
+  { "id": 10, "question": "To 'allude to' a theme means to:", "options": ["Refer to it indirectly", "Explain it fully", "Hide it", "Repeat it exactly"], "answer": "Refer to it indirectly" },
+  { "id": 11, "question": "An argument that 'embraces a number of issues' is one that:", "options": ["Covers or includes them", "Hates them", "Rejects them", "Is short"], "answer": "Covers or includes them" },
+  { "id": 12, "question": "To 'address the question' means to:", "options": ["Write an address", "Focus on the issue", "Ignore the question", "Ask another person"], "answer": "Focus on the issue" },
+  { "id": 13, "question": "If you 'preface' your argument with a story, you:", "options": ["End with it", "Begin with it", "Never tell it", "Lie about it"], "answer": "Begin with it" },
+  { "id": 14, "question": "To 'categorise' poems is to:", "options": ["Read them", "Label them by type/class", "Burn them", "Write them"], "answer": "Label them by type/class" },
+  { "id": 15, "question": "The phrase 'this brings me to' is used for:", "options": ["Beginning a text", "Connecting points", "Drawing conclusions", "Quoting writers"], "answer": "Connecting points" }
+]

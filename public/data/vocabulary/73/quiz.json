@@ -1,0 +1,17 @@
+[
+  { "id": 1, "question": "Which expression means something is 'almost certain to happen'?", "options": ["Optional", "Bound to", "Expedient", "The odds are against"], "answer": "Bound to" },
+  { "id": 2, "question": "What does 'compulsory' mean?", "options": ["You can choose", "You must do it", "It is illegal", "It is funny"], "answer": "You must do it" },
+  { "id": 3, "question": "If 'the odds are against' something, it is:", "options": ["Likely to happen", "Unlikely to happen", "Already happened", "Impossible"], "answer": "Unlikely to happen" },
+  { "id": 4, "question": "Complete the proverb: 'Accidents ... happen.'", "options": ["will", "must", "can", "should"], "answer": "will" },
+  { "id": 5, "question": "To 'aspire to' something means you ... it.", "options": ["hate", "have a strong desire to achieve", "already have", "are forced to do"], "answer": "have a strong desire to achieve" },
+  { "id": 6, "question": "Which of these is used for giving advice?", "options": ["The odds are", "If I were in your shoes", "You must be joking", "It's optional"], "answer": "If I were in your shoes" },
+  { "id": 7, "question": "An 'optional' course is one that:", "options": ["You must take", "You can choose to take or not", "Is free", "Is very difficult"], "answer": "You can choose to take or not" },
+  { "id": 8, "question": "If something is 'essential', it is:", "options": ["Unimportant", "Very necessary", "Boring", "Cheap"], "answer": "Very necessary" },
+  { "id": 9, "question": "What does 'wishful thinking' mean?", "options": ["Scientific facts", "Believing something because you want it to be true", "A type of dream", "Expert advice"], "answer": "Believing something because you want it to be true" },
+  { "id": 10, "question": "If you 'must admit' something, you are:", "options": ["Lying", "Introducing a fact you're not proud of", "Giving an order", "Being polite"], "answer": "Introducing a fact you're not proud of" },
+  { "id": 11, "question": "Which word means 'useful in a situation but not necessarily right'?", "options": ["Essential", "Expedient", "Compulsory", "Optional"], "answer": "Expedient" },
+  { "id": 12, "question": "If someone is 'eager' to help, they:", "options": ["Want to help very much", "Refuse to help", "Help slowly", "Are paid to help"], "answer": "Want to help very much" },
+  { "id": 13, "question": "What is the meaning of 'the odds are'?", "options": ["It is possible", "It is likely", "It is a game", "It is wrong"], "answer": "It is likely" },
+  { "id": 14, "question": "In a school, an 'obligatory' uniform is one that:", "options": ["Students can wear if they want", "Students must wear", "Is forbidden", "Is only for teachers"], "answer": "Students must wear" },
+  { "id": 15, "question": "To be 'resolved' to do something means you are ...", "options": ["bored", "determined", "uncertain", "scared"], "answer": "determined" }
+]

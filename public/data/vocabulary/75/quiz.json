@@ -1,0 +1,17 @@
+[
+  { "id": 1, "question": "Which verb means 'to give official permission'?", "options": ["Authorise", "Condone", "Veto", "Acquiesce"], "answer": "Authorise" },
+  { "id": 2, "question": "If you have 'carte blanche', you have:", "options": ["No power", "Complete freedom to do what's necessary", "A white card", "A final warning"], "answer": "Complete freedom to do what's necessary" },
+  { "id": 3, "question": "What does it mean to 'condone' something?", "options": ["To forbid it", "To allow something most people think is wrong", "To investigate it", "To hide it"], "answer": "To allow something most people think is wrong" },
+  { "id": 4, "question": "The president ... the plan, meaning he used his power to stop it.", "options": ["authorised", "vetoed", "endorsed", "acceded"], "answer": "vetoed" },
+  { "id": 5, "question": "To 'outlaw' something means to:", "options": ["Encourage it", "Make it illegal", "Discuss it", "Export it"], "answer": "Make it illegal" },
+  { "id": 6, "question": "The government decided to ... on illegal immigration.", "options": ["clamp down", "assent", "acquiesce", "countenance"], "answer": "clamp down" },
+  { "id": 7, "question": "If you get the 'green light', you have:", "options": ["A traffic accident", "Permission to start", "A serious illness", "No money left"], "answer": "Permission to start" },
+  { "id": 8, "question": "To 'accede' to a request usually implies you did it:", "options": ["Happily and instantly", "After some initial unwillingness", "Illegally", "Secretly"], "answer": "After some initial unwillingness" },
+  { "id": 9, "question": "Which term describes an official ban on trade with another country?", "options": ["Embargo", "Green light", "Assent", "Veto"], "answer": "Embargo" },
+  { "id": 10, "question": "To 'bar' someone from a library means to:", "options": ["Give them a book", "Forbid them access", "Invite them to a party", "Help them study"], "answer": "Forbid them access" },
+  { "id": 11, "question": "A 'zero-tolerance' policy means:", "options": ["No behavior is allowed", "No exceptions are made for bad behavior", "Everything is allowed", "The policy is not working"], "answer": "No exceptions are made for bad behavior" },
+  { "id": 12, "question": "To 'endorse' a proposal is to:", "options": ["Give it official approval", "Reject it", "Ignore it", "Report it"], "answer": "Give it official approval" },
+  { "id": 13, "question": "The verb 'acquiesce' often suggests that the permission was ...", "options": ["public", "secret or involving conspiracy", "very loud", "temporary"], "answer": "secret or involving conspiracy" },
+  { "id": 14, "question": "If the committee 'assented' to the plan, they ...", "options": ["agreed to it after thinking", "hated it", "ignored it", "delayed it"], "answer": "agreed to it after thinking" },
+  { "id": 15, "question": "Which verb is used when a government says they 'would never consider' a new tax?", "options": ["Outlaw", "Authorise", "Countenance", "Endorse"], "answer": "Countenance" }
+]

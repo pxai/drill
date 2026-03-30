@@ -1,0 +1,17 @@
+[
+  { "id": 1, "question": "I (1) ... the washing, but we'd run out of powder.", "options": ["was going to do", "would do", "did", "have done"], "answer": "was going to do" },
+  { "id": 2, "question": "The concert tonight ... over by about 9:30.", "options": ["is", "will be", "would be", "was"], "answer": "would be" },
+  { "id": 3, "question": "He is supposed to ... here yesterday.", "options": ["be", "have been", "was", "were"], "answer": "be" },
+  { "id": 4, "question": "We ... at seven in the Globe coffee bar. Can you be there, too?", "options": ["meet", "are meeting", "were meeting", "will meet"], "answer": "are meeting / were meeting" },
+  { "id": 5, "question": "The bridge ... this year but accidents led to delays.", "options": ["was to be completed", "was to have been completed", "is to be completed", "would complete"], "answer": "was to have been completed" },
+  { "id": 6, "question": "Later, in Rome, I ... Professor Pearce but he left before I got there.", "options": ["was to meet", "was to have met", "would meet", "met"], "answer": "was to have met" },
+  { "id": 7, "question": "DNA testing ... by police in the search for the schoolboy.", "options": ["was to be used", "was to have used", "would use", "is to be used"], "answer": "was to be used" },
+  { "id": 8, "question": "The construction of the cathedral ... in 1650 and go on for 80 years.", "options": ["was to have begun", "was to begin", "began", "would begin"], "answer": "was to begin" },
+  { "id": 9, "question": "We ... with Rodrigo in Lisbon but he moved to Madrid.", "options": ["were to stay", "were to have stayed", "Both are possible", "stayed"], "answer": "were to have stayed" },
+  { "id": 10, "question": "The twenty police officers who ... at eight went to the party.", "options": ["were to have gone off duty", "were going off duty", "went off duty", "would go off duty"], "answer": "were to have gone off duty" },
+  { "id": 11, "question": "Which form describes an event that was expected but DID NOT happen?", "options": ["was/were to", "was/were to have + past participle", "would have", "was going to"], "answer": "was/were to have + past participle" },
+  { "id": 12, "question": "The new road ... a major impact on traffic.", "options": ["was to have", "was to have had", "Both", "None"], "answer": "was to have" },
+  { "id": 13, "question": "I knew that by morning I ... dancing.", "options": ["would be feeling", "will be feeling", "was feeling", "feel"], "answer": "would be feeling" },
+  { "id": 14, "question": "As the bell ... when all the children started to pack.", "options": ["was about to go", "went", "is about to go", "would go"], "answer": "was about to go" },
+  { "id": 15, "question": "At the time, I thought I ... alone.", "options": ["would be going", "will be going", "was going", "went"], "answer": "would be going" }
+]

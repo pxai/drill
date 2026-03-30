@@ -1,0 +1,17 @@
+[
+  { "id": 1, "question": "Neutral word for 'policeman':", "options": ["Police officer", "Police person", "Guard", "Firefighter"], "answer": "Police officer" },
+  { "id": 2, "question": "Neutral word for 'stewardess':", "options": ["Flight attendant", "Pilot", "Hostess", "Traveler"], "answer": "Flight attendant" },
+  { "id": 3, "question": "What is the neutral alternative to 'humanity'?", "options": ["Mankind", "Men", "People", "Folk"], "answer": "Mankind" },
+  { "id": 4, "question": "Metaphor for barrier to women's promotion:", "options": ["Glass ceiling", "Stone wall", "Iron gate", "Wooden door"], "answer": "Glass ceiling" },
+  { "id": 5, "question": "Neutral word for 'chairman':", "options": ["Chairperson", "Boss", "Manager", "Leader"], "answer": "Chairperson" },
+  { "id": 6, "question": "Which verb means 'to staff'?", "options": ["To man", "To person", "To work", "To head"], "answer": "To man" },
+  { "id": 7, "question": "A girl who acts like a boy is a ...", "options": ["tomboy", "sissy", "butch", "spokesperson"], "answer": "tomboy" },
+  { "id": 8, "question": "Discrimination based on gender is ...", "options": ["sexism", "racism", "ageism", "classism"], "answer": "sexism" },
+  { "id": 9, "question": "A 'synthetic' material is traditionally called ...", "options": ["manmade", "mankind", "manual", "manner"], "answer": "manmade" },
+  { "id": 10, "question": "Which word describes an industry mostly made up of men?", "options": ["Male-dominated", "Glass ceiling", "Manned", "Mankind"], "answer": "Male-dominated" },
+  { "id": 11, "question": "Adjective for a man with 'female' qualities:", "options": ["Effeminate", "Butch", "Tomboy", "Manned"], "answer": "Effeminate" },
+  { "id": 12, "question": "Neutral term for 'fireman':", "options": ["Firefighter", "Fire person", "Extinguisher", "Waterman"], "answer": "Firefighter" },
+  { "id": 13, "question": "Neutral term for 'spokesman':", "options": ["Spokesperson", "Announcer", "Talker", "Voice"], "answer": "Spokesperson" },
+  { "id": 14, "question": "Offensive word for a weak boy:", "options": ["Sissy", "Tomboy", "Effeminate", "Chair"], "answer": "Sissy" },
+  { "id": 15, "question": "Which informal word can be offensive to masculine women?", "options": ["Butch", "Tomboy", "Effeminate", "Sissy"], "answer": "Butch" }
+]

@@ -1,0 +1,17 @@
+[
+  { "id": 1, "front": "mumble / mutter", "back": "To speak quietly and unclearly (negative association)." },
+  { "id": 2, "front": "murmur", "back": "To speak in a quiet, low voice (can be positive, like murmur approval)." },
+  { "id": 3, "front": "raise one's voice", "back": "To speak louder (can indicate anger or hearing difficulties)." },
+  { "id": 4, "front": "yell / shout", "back": "To speak very loudly (can convey urgency, anger, or frustration)." },
+  { "id": 5, "front": "shriek", "back": "To make a very loud and high-pitched noise." },
+  { "id": 6, "front": "roar", "back": "To speak or laugh with a very loud, deep sound (like a lion)." },
+  { "id": 7, "front": "chatter away", "back": "To talk continuously and in a light-hearted way." },
+  { "id": 8, "front": "nag", "back": "To criticize someone's faults or duties continuously." },
+  { "id": 9, "front": "gossip", "back": "To talk about other people, often spreading rumours." },
+  { "id": 10, "front": "bicker", "back": "To argue in an irritated way about unimportant things." },
+  { "id": 11, "front": "slag off", "back": "Informal: To criticize someone, especially behind their back." },
+  { "json": 12, "front": "butter up", "back": "To say nice things to someone to get a favour (negative association)." },
+  { "id": 13, "front": "whine / whinge", "back": "Informal: To complain in an annoying way." },
+  { "id": 14, "front": "stammer / stutter", "back": "Speech problems involving abnormal pauses or repetition of sounds." },
+  { "id": 15, "front": "tongue-tied", "back": "Being unable to say what you want to say (e.g., due to nervousness)." }
+]

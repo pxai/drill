@@ -1,0 +1,17 @@
+[
+  { "id": 1, "question": "Headlines word for 'investigation':", "options": ["Probe", "Axe", "Bid", "Plea"], "answer": "Probe" },
+  { "id": 2, "question": "Headlines word for 'attempt':", "options": ["Bid", "Back", "Clash", "Vow"], "answer": "Bid" },
+  { "id": 3, "question": "What is a 'crackdown'?", "options": ["Strong action to stop crime", "A new law", "A small fire", "A peace treaty"], "answer": "Strong action to stop crime" },
+  { "id": 4, "question": "What are 'louts'?", "options": ["Aggressive young men", "Moneylenders", "Police officers", "Politicians"], "answer": "Aggressive young men" },
+  { "id": 5, "question": "Headlines word for 'cut/remove':", "options": ["Axe", "Curb", "Back", "Probe"], "answer": "Axe" },
+  { "id": 6, "question": "Headlines word for 'serious promise':", "options": ["Vow", "Plea", "Envoy", "Bid"], "answer": "Vow" },
+  { "id": 7, "question": "What does it mean to 'besiege' someone?", "options": ["To surround them", "To help them", "To arrest them", "To fire them"], "answer": "To surround them" },
+  { "id": 8, "question": "Headlines word for 'support':", "options": ["Back", "Ban", "Axe", "Clash"], "answer": "Back" },
+  { "id": 9, "question": "A 'plea' is a(n) ...", "options": ["urgent request", "long speech", "formal law", "fight"], "answer": "urgent request" },
+  { "id": 10, "question": "A 'blaze' in a headline is a ...", "options": ["large fire", "bright light", "party", "storm"], "answer": "large fire" },
+  { "id": 11, "question": "Headlines word for 'prohibit':", "options": ["Ban", "Curb", "Back", "Probe"], "answer": "Ban" },
+  { "id": 12, "question": "Headlines word for 'limit/control':", "options": ["Curb", "Axe", "Bid", "Back"], "answer": "Curb" },
+  { "id": 13, "question": "The 'death ...' is the number of victims.", "options": ["toll", "clash", "bid", "probe"], "answer": "toll" },
+  { "id": 14, "question": "What is a 'peace envoy'?", "options": ["A messenger", "A soldier", "A king", "A priest"], "answer": "A messenger" },
+  { "id": 15, "question": "Headlines word for 'fight or argue':", "options": ["Clash", "Vow", "Bid", "Back"], "answer": "Clash" }
+]

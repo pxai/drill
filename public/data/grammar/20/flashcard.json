@@ -1,0 +1,17 @@
+[
+  { "id": 1, "front": "Should vs Ought to", "back": "Usually interchangeable for obligations/recommendations; 'should' is more frequent [13]." },
+  { "id": 2, "front": "Probability with Should/Ought to", "back": "Used when evidence suggests something is certain or very likely [13]." },
+  { "id": 3, "front": "Outside authority", "back": "Prefer 'should' when stating what an outside authority recommends (e.g., 'The manual says...') [13]." },
+  { "id": 4, "front": "Advice with 'I'", "back": "Use 'should' (or 'would') (e.g., 'I should leave early if I were you') [13]." },
+  { "id": 5, "front": "Wh-questions advice", "back": "Prefer 'should' (e.g., 'What should I do?') [13]." },
+  { "id": 6, "front": "Past regret/criticism", "back": "Use 'should/ought to have + past participle' for things that DIDN'T happen [13]." },
+  { "id": 7, "front": "Expectation in the past", "back": "Use 'should/ought to have + past participle' to say something happened or will have happened [13]." },
+  { "id": 8, "front": "Confirmation/Offers", "back": "Use 'should' in questions (e.g., 'Should I phone for a taxi?') [13]." },
+  { "id": 9, "front": "Had better: Good idea", "back": "Used to say a particular action is a good idea now (esp. in spoken English) [13]." },
+  { "id": 10, "front": "Had better: Urgency/Demands", "back": "Used for urgency, demands, or threats (e.g., 'We'd better call the police') [13]." },
+  { "id": 11, "front": "Had better: Negative form", "back": "The negative is 'had better not' [13]." },
+  { "id": 12, "front": "Thomas is running so well he ... the 800 metres easily.", "back": "should win / ought to win (probability) [14]." },
+  { "id": 13, "front": "Where ... the cheese? In the fridge?", "back": "should I put (advice) [14]." },
+  { "id": 14, "front": "It's important to look smart... You ... a suit.", "back": "should wear / ought to wear [14]." },
+  { "id": 15, "front": "I don't think parents ... give children sweets.", "back": "should / ought to [13]." }
+]

@@ -1,0 +1,17 @@
+[
+  { "id": 1, "question": "What is the informal verb for writing something down quickly?", "options": ["Jot", "Scramble", "Dawdle", "Italicise"], "answer": "Jot" },
+  { "id": 2, "question": "Which term refers to 'small letters'?", "options": ["Upper case", "Lower case", "Block capitals", "Bold"], "answer": "Lower case" },
+  { "id": 3, "question": "Writing in '...' means using only capital letters.", "options": ["Italics", "Bold", "Block capitals", "Lower case"], "answer": "Block capitals" },
+  { "id": 4, "question": "A slanted style of text is known as ...", "options": ["bold", "italics", "typeface", "font size"], "answer": "italics" },
+  { "id": 5, "question": "If you 'scramble a note', you write it:", "options": ["Carefully", "Hurriedly/messily", "With a computer", "In another language"], "answer": "Hurriedly/messily" },
+  { "id": 6, "question": "What do we call a second, smaller name for a book below the main name?", "options": ["Title", "Subtitle", "Chapter", "Section"], "answer": "Subtitle" },
+  { "id": 7, "question": "Which term describes the thickness and darkness of a typeface?", "options": ["Italics", "Bold", "Case", "Size"], "answer": "Bold" },
+  { "id": 8, "question": "Arial and Courier are examples of ...", "options": ["font sizes", "typefaces", "block capitals", "sections"], "answer": "typefaces" },
+  { "id": 9, "question": "A 'chapter' is usually divided into smaller ...", "options": ["titles", "sections", "books", "typefaces"], "answer": "sections" },
+  { "id": 10, "question": "If you 'improve the paragraphing', you are:", "options": ["Organizing the text into better blocks", "Changing the font", "Fixing spelling mistakes", "Deleting the title"], "answer": "Organizing the text into better blocks" },
+  { "id": 11, "question": "Handwriting is the opposite of '...' (printed) text.", "options": ["scrambled", "italics", "typeface/digital", "jotted"], "answer": "typeface/digital" },
+  { "id": 12, "question": "What does 'upper case' mean?", "options": ["Capital letters", "Small letters", "Bold text", "Handwritten text"], "answer": "Capital letters" },
+  { "id": 13, "question": "To spend a long time doing something slowly in a book is to ...", "options": ["jot", "scramble", "dawdle", "bold"], "answer": "dawdle" },
+  { "id": 14, "question": "Identify the 'subtitle' in 'The Last Wilderness: A journey across Siberia'.", "options": ["The Last Wilderness", "A journey across Siberia", "Wanda Allova", "Chapter 8"], "answer": "A journey across Siberia" },
+  { "id": 15, "question": "A document before printing it should look ...", "options": ["bold", "scrambled", "professional", "jotted"], "answer": "professional" }
+]

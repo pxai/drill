@@ -1,0 +1,17 @@
+[
+  { "id": 1, "front": "reiterate", "back": "To repeat or restate something already said (e.g., 'reiterated his concern')." },
+  { "id": 2, "front": "underscore", "back": "To emphasize the importance of something." },
+  { "id": 3, "front": "epitomise", "back": "To be a perfect example of something." },
+  { "id": 4, "front": "posit", "back": "To suggest something as a basic fact or principle." },
+  { "id": 5, "front": "account for", "back": "To explain or find the cause of something." },
+  { "id": 6, "front": "comprise / make up", "back": "To consist of (e.g., 'Japanese visitors comprised 70%')." },
+  { "id": 7, "front": "subsume", "back": "To bring together or include two or more things under one heading." },
+  { "id": 8, "front": "embrace", "back": "To cover or include a number of diverse issues." },
+  { "id": 9, "front": "categorise", "back": "To label something as belonging to a particular type or class." },
+  { "id": 10, "front": "preface", "back": "To begin an argument or speech with specific introductory remarks." },
+  { "id": 11, "front": "return to", "back": "To map out the text by coming back to a point mentioned later." },
+  { "id": 12, "front": "address", "back": "To focus on or deal with a specific question or issue." },
+  { "id": 13, "front": "ascending order", "back": "Ordering points from the smallest/least important to the largest/most important." },
+  { "id": 14, "front": "cite", "back": "To quote or refer to the ideas of several writers as support." },
+  { "id": 15, "front": "allude to", "back": "To refer to several themes or ideas indirectly." }
+]

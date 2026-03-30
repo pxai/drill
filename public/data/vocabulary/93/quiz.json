@@ -1,0 +1,17 @@
+[
+  { "id": 1, "question": "Which verb means 'to defend an idea'?", "options": ["Stand up for", "Stand back from", "Stand in for", "Take in"], "answer": "Stand up for" },
+  { "id": 2, "question": "To deceive someone is to ... them.", "options": ["take in", "take off", "take on", "take out"], "answer": "take in" },
+  { "id": 3, "question": "If a new business is successful, it has ...", "options": ["taken off", "taken in", "taken on", "stood in"], "answer": "taken off" },
+  { "id": 4, "question": "Replacing a sick colleague is '...' them.", "options": ["standing in for", "standing up to", "looking into", "bringing up"], "answer": "standing in for" },
+  { "id": 5, "question": "To 'respect' someone is to ...", "options": ["look up to them", "look down on them", "look into them", "bring them up"], "answer": "look up to them" },
+  { "id": 6, "question": "Which phrasal verb means 'to investigate'?", "options": ["Look into", "Stand up to", "Bring off", "Take on"], "answer": "Look into" },
+  { "id": 7, "question": "To 'cause something to happen' is to ...", "options": ["bring about", "bring up", "bring off", "call off"], "answer": "bring about" },
+  { "id": 8, "question": "If you 'cancel' a meeting, you ...", "options": ["call it off", "bring it up", "stand in for it", "take it on"], "answer": "call it off" },
+  { "id": 9, "question": "To 'mention a subject' is to ...", "options": ["bring it up", "take it in", "look it down", "stand it back"], "answer": "bring it up" },
+  { "id": 10, "question": "What is the meaning of 'stand up to'?", "options": ["Resist a powerful person", "Support a friend", "Admire a leader", "Investigate a crime"], "answer": "Resist a powerful person" },
+  { "id": 11, "question": "If you are angry and treat a friend badly for it, you ... on them.", "options": ["take it out", "take it in", "take it off", "take it on"], "answer": "take it out" },
+  { "id": 12, "question": "To 'accept responsibility' is to ...", "options": ["take it on", "take it in", "look it up", "stand it back"], "answer": "take it on" },
+  { "id": 13, "question": "Succeeding in a difficult task is '...' it.", "options": ["bringing off", "bringing about", "looking down", "standing up"], "answer": "bringing off" },
+  { "id": 14, "question": "To 'despise' someone is to ... them.", "options": ["look down on", "look up to", "stand in for", "take on"], "answer": "look down on" },
+  { "id": 15, "question": "To 'evaluate from a distance' is to ...", "options": ["stand back from", "stand up for", "take in", "look into"], "answer": "stand back from" }
+]

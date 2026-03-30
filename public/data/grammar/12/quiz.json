@@ -1,0 +1,17 @@
+[
+  { "id": 1, "question": "Which structure is best for 'very near future' in conversation?", "options": ["Be to", "Be about to", "Will", "Present continuous"], "answer": "Be about to" },
+  { "id": 2, "question": "Police officers ... every home in the area. (News)", "options": ["visit", "are to visit", "will visit", "are visiting"], "answer": "are to visit" },
+  { "id": 3, "question": "You ... the school without my permission. (Order)", "options": ["don't leave", "are not to leave", "won't leave", "are not leaving"], "answer": "are not to leave" },
+  { "id": 4, "question": "If we ... any chance of passing, we need to work harder.", "options": ["have", "are to have", "will have", "had"], "answer": "are to have" },
+  { "id": 5, "question": "The meeting ... in the hall, but it was cancelled.", "options": ["was to have taken place", "was taking place", "had taken place", "took place"], "answer": "was to have taken place" },
+  { "id": 6, "question": "I was just about to go home. ... I wait until tomorrow?", "options": ["Shall", "Will", "Must", "Should"], "answer": "It'll have to wait (Implied result)" },
+  { "id": 7, "question": "Stafford Boys' School ... with Bicton Girls' School.", "options": ["is to merge", "merges", "will be merging", "is merging"], "answer": "is to merge" },
+  { "id": 8, "question": "Scientists say they can't predict when the disease ... again.", "options": ["is to appear", "will appear", "appears", "is appearing"], "answer": "will appear" },
+  { "id": 9, "question": "Managing Director Lars Lindberg ... this summer a year early.", "options": ["becomes", "retires", "is to retire", "retire"], "answer": "is to retire" },
+  { "id": 10, "question": "The new safety system ... trains automatically if they pass a signal.", "options": ["is to stop", "stops", "will stop", "is stopping"], "answer": "is to stop" },
+  { "id": 11, "question": "If Beckman ... from injury, he will play on Saturday.", "options": ["is to recover", "recovers", "will recover", "is recovering"], "answer": "recovers" },
+  { "id": 12, "question": "Jonas Fischer has denied that he ... as marketing manager.", "options": ["is to resign", "is about to resign", "Both are possible", "resigns"], "answer": "Both are possible" },
+  { "id": 13, "question": "The road was to have a major impact, ... .", "options": ["making life easier", "but crowded roads continued", "Both", "None"], "answer": "making life easier" },
+  { "id": 14, "question": "Seventy new posts ... at the factory following investment.", "options": ["are created", "will be created", "are to be created", "create"], "answer": "are to be created" },
+  { "id": 15, "question": "It started snowing... things ... get a lot worse.", "options": ["are to", "are about to", "will", "go to"], "answer": "are about to" }
+]

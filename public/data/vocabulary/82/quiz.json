@@ -1,0 +1,17 @@
+[
+  { "id": 1, "question": "Which verb means to 'argue in favour of' an idea?", "options": ["Infer", "Advocate", "Distort", "Deduce"], "answer": "Advocate" },
+  { "id": 2, "question": "Knowledge based on observation rather than theory is ...", "options": ["Empirical", "Ambiguous", "Coherent", "Arbitrary"], "answer": "Empirical" },
+  { "id": 3, "question": "To 'infer' something means to reach a conclusion ...", "options": ["directly", "indirectly", "by accident", "falsely"], "answer": "indirectly" },
+  { "id": 4, "question": "If data is 'ambiguous', it is:", "options": ["Very clear", "Open to different interpretations", "100% correct", "Boring"], "answer": "Open to different interpretations" },
+  { "id": 5, "question": "Statistics that give a false impression are being ...", "options": ["complemented", "distorted", "deduced", "overlapped"], "answer": "distorted" },
+  { "id": 6, "question": "A 'coherent' argument is one that is:", "options": ["Random", "Logically structured", "Too long", "Hard to find"], "answer": "Logically structured" },
+  { "id": 7, "question": "Which word describes a decision based on chance?", "options": ["Comprehensive", "Authoritative", "Arbitrary", "Widespread"], "answer": "Arbitrary" },
+  { "id": 8, "question": "To 'deviate from the norm' means to be:", "options": ["Exactly the same", "Different from what is typical", "A scientist", "Very successful"], "answer": "Different from what is typical" },
+  { "id": 9, "question": "The 'incidence' of a disease refers to:", "options": ["Its name", "How often it occurs", "Its cure", "The hospital it's in"], "answer": "How often it occurs" },
+  { "id": 10, "question": "A study that is 'thorough and expert' is ...", "options": ["ambiguous", "authoritative", "arbitrary", "distorted"], "answer": "authoritative" },
+  { "id": 11, "question": "If something is 'predominant', it is:", "options": ["The smallest in number", "The largest in number", "Non-existent", "A new idea"], "answer": "The largest in number" },
+  { "id": 12, "question": "To 'complement' someone else's work is to:", "options": ["Criticize it", "Combine well with it", "Delete it", "Translate it"], "answer": "Combine well with it" },
+  { "id": 13, "question": "What is the everyday verb for 'append'?", "options": ["Think up", "Add at the end", "Show", "Cause"], "answer": "Add at the end" },
+  { "id": 14, "question": "Which academic word is a synonym for 'cause'?", "options": ["Negate", "Utilise", "Trigger", "Convene"], "answer": "Trigger" },
+  { "id": 15, "question": "A 'comprehensive' report covers:", "options": ["Nothing", "All that is relevant", "Only one page", "A secret"], "answer": "All that is relevant" }
+]

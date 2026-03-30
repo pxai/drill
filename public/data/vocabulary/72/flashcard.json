@@ -1,0 +1,17 @@
+[
+  { "id": 1, "front": "glitch", "back": "A technical problem of some kind (e.g., with software) [2, 4]." },
+  { "id": 2, "front": "stumbling block", "back": "Something that prevents action or agreement [2, 4]." },
+  { "id": 3, "front": "pitfall", "back": "An unexpected difficulty (often used in plural) [4]." },
+  { "id": 4, "front": "ordeal", "back": "A severe experience, which is very difficult, painful, or tiring [4]." },
+  { "id": 5, "front": "adversity", "back": "Formal word meaning difficulty or bad luck [4]." },
+  { "id": 6, "front": "abstruse", "back": "Difficult to understand (e.g., a theory or argument) [4]." },
+  { "id": 7, "front": "arduous", "back": "Difficult and tiring, needing much effort (e.g., a climb) [4]." },
+  { "id": 8, "front": "gruelling", "back": "Extremely tiring and difficult (e.g., a journey or match) [2, 4]." },
+  { "id": 9, "front": "insufferable", "back": "Difficult to bear as it is annoying or uncomfortable (e.g., behaviour) [4]." },
+  { "id": 10, "front": "tough", "back": "Difficult to deal with or do (e.g., a job or decision) [4]." },
+  { "id": 11, "front": "hassle", "back": "Colloquial for a situation causing trouble or difficulty [4]." },
+  { "id": 12, "front": "in a fix / in a spot", "back": "Colloquial for being in a difficult situation [2, 4]." },
+  { "id": 13, "front": "off the hook", "back": "Colloquial for being freed from a difficult situation [4]." },
+  { "id": 14, "front": "stiff", "back": "Difficult to beat (e.g., opposition or competition) [4]." },
+  { "id": 15, "front": "convoluted", "back": "Unreasonably long and hard to follow (e.g., an explanation) [4]." }
+]

@@ -1,0 +1,17 @@
+[
+  { "id": 1, "question": "What does it mean to be a 'rough diamond'?", "options": ["A wealthy person", "A good person with abrupt manners", "An expensive jewel", "A dishonest friend"], "answer": "A good person with abrupt manners" },
+  { "id": 2, "question": "If someone is 'at sea' in a new job, they feel ...", "options": ["Happy", "Confused", "Angry", "Tired"], "answer": "Confused" },
+  { "id": 3, "question": "Which idiom describes someone who is 'not influenced by others'?", "options": ["A soft touch", "Their own person", "A dark horse", "A snake in the grass"], "answer": "Their own person" },
+  { "id": 4, "question": "To 'react extremely angrily' is to ...", "options": ["Be full of beans", "Curl up and die", "Go ballistic", "Put a brave face on it"], "answer": "Go ballistic" },
+  { "id": 5, "question": "What is a 'soft touch'?", "options": ["A gentle massage", "Someone easily persuaded", "A very quiet person", "An expert"], "answer": "Someone easily persuaded" },
+  { "id": 6, "question": "Being 'at the end of your tether' means you are:", "options": ["Ready to sleep", "Unable to deal with more annoyance/tiredness", "At the end of a race", "Very happy"], "answer": "Unable to deal with more annoyance/tiredness" },
+  { "id": 7, "question": "If a sight 'turns your stomach', it makes you feel ...", "options": ["Hungry", "Sick/Disgusted", "Excited", "Full of energy"], "answer": "Sick/Disgusted" },
+  { "id": 8, "question": "A 'dark horse' is someone who:", "options": ["Hates animals", "Hides their skills", "Is very famous", "Always loses"], "answer": "Hides their skills" },
+  { "id": 9, "question": "What does 'be full of beans' mean?", "options": ["To be hungry", "To be full of energy", "To be wealthy", "To be ill"], "answer": "To be full of energy" },
+  { "id": 10, "question": "If you are 'at a complete loss for words', you:", "options": ["Are speaking too fast", "Do not know what to say", "Are very loud", "Are teaching English"], "answer": "Do not know what to say" },
+  { "id": 11, "question": "To 'curl up and die' describes extreme ...", "options": ["Anger", "Happiness", "Embarrassment", "Fear"], "answer": "Embarrassment" },
+  { "id": 12, "question": "If someone 'never minces their words', they are:", "options": ["Very quiet", "Very direct and honest", "Lying", "Confused"], "answer": "Very direct and honest" },
+  { "id": 13, "question": "Which expression describes a 'secretly unfriendly person'?", "options": ["A dark horse", "A soft touch", "A snake in the grass", "A rough diamond"], "answer": "A snake in the grass" },
+  { "id": 14, "question": "To 'get the measure of someone' means to:", "options": ["Understand them fully", "Measure their height", "Argue with them", "Give them a job"], "answer": "Understand them fully" },
+  { "id": 15, "question": "Being 'at loggerheads' with someone means:", "options": ["Working together", "Having a strong disagreement", "Being in love", "Playing a game"], "answer": "Having a strong disagreement" }
+]

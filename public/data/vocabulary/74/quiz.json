@@ -1,0 +1,17 @@
+[
+  { "id": 1, "question": "What is an 'aggregate'?", "options": ["A small blip", "The total amount after adding everything up", "A type of statistic", "A random guess"], "answer": "The total amount after adding everything up" },
+  { "id": 2, "question": "A 'blip' in inflation refers to a ... change.", "options": ["permanent", "temporary", "dangerous", "predictable"], "answer": "temporary" },
+  { "id": 3, "question": "If you give a 'ballpark figure', you are giving a(n):", "options": ["Exact number", "Rough estimate", "Lie", "Code"], "answer": "Rough estimate" },
+  { "id": 4, "question": "Interest rates that 'seesaw' are ones that:", "options": ["Stay the same", "Go up and down", "Only go up", "Are cancelled"], "answer": "Go up and down" },
+  { "id": 5, "question": "What does a 'five-fold' increase mean?", "options": ["Increased by five percent", "Multiplied by five", "Five times smaller", "A tiny increase"], "answer": "Multiplied by five" },
+  { "id": 6, "question": "If your estimate is 'conservative', it is:", "options": ["Extremely high", "Cautious and probably low", "A random guess", "Illegal"], "answer": "Cautious and probably low" },
+  { "id": 7, "question": "A 'correlation' exists when two things:", "options": ["Have no connection", "Affect or cause each other", "Are identical", "Are opposites"], "answer": "Affect or cause each other" },
+  { "id": 8, "question": "To 'deviate from the norm' is to:", "options": ["Follow the rules exactly", "Move away from the standard pattern", "Increase in price", "Stop working"], "answer": "Move away from the standard pattern" },
+  { "id": 9, "question": "If sales 'fluctuate' from day to day, they:", "options": ["Stay steady", "Go up and down", "Always increase", "Always decrease"], "answer": "Go up and down" },
+  { "id": 10, "question": "A 'discrepancy' between figures means:", "options": ["They are the same", "There is a difference that shouldn't be there", "They are both very large", "They are correct"], "answer": "There is a difference that shouldn't be there" },
+  { "id": 11, "question": "Which phrase means 'to be extra careful' with an estimate?", "options": ["Err on the side of caution", "Seesaw all year", "Fluctuate wildly", "Aggregate the figures"], "answer": "Err on the side of caution" },
+  { "id": 12, "question": "If one thing is in 'inverse proportion' to another, as one increases, the other ...", "options": ["increases", "decreases", "stays same", "disappears"], "answer": "decreases" },
+  { "id": 13, "question": "A range that has no distinct divisions is a(n) ...", "options": ["aggregate", "continuum", "blip", "ballpark"], "answer": "continuum" },
+  { "id": 14, "question": "If someone's mood is 'erratic', it is:", "options": ["Very calm", "Not regular and changing suddenly", "Always happy", "Easy to predict"], "answer": "Not regular and changing suddenly" },
+  { "id": 15, "question": "Figures that are 'inconsistent' are:", "options": ["Not in agreement", "Perfectly logical", "Very small", "Official"], "answer": "Not in agreement" }
+]

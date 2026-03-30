@@ -1,0 +1,17 @@
+[
+  { "id": 1, "question": "Which word is Irish for 'fun'?", "options": ["Craic", "Lekker", "Bonnie", "Beaut"], "answer": "Craic" },
+  { "id": 2, "question": "Australian for 'excellent' is '...' .", "options": ["beaut", "wee", "shroff", "tiffin"], "answer": "beaut" },
+  { "id": 3, "question": "Where would you find a 'shroff'?", "options": ["Scotland", "Hong Kong", "India", "South Africa"], "answer": "Hong Kong" },
+  { "id": 4, "question": "Australian for 'remote areas':", "options": ["Outback", "Barbie", "Bonnie", "Braai"], "answer": "Outback" },
+  { "id": 5, "question": "What is an Australian 'barbie'?", "options": ["A doll", "A barbecue", "A drink", "A bird"], "answer": "A barbecue" },
+  { "id": 6, "question": "Indian English for 'light meal':", "options": ["Tiffin", "Ladla", "Kopitiam", "Lekker"], "answer": "Tiffin" },
+  { "id": 7, "question": "In Singapore, you get coffee at a ...", "options": ["Kopitiam", "Shroff", "Outback", "Koppie"], "answer": "Kopitiam" },
+  { "id": 8, "question": "Scottish word for 'small':", "options": ["Wee", "Lekker", "Beaut", "Lah"], "answer": "Wee" },
+  { "id": 9, "question": "South African word for 'barbecue':", "options": ["Braai", "Barbie", "Tiffin", "Craic"], "answer": "Braai" },
+  { "id": 10, "question": "Scottish for 'beautiful':", "options": ["Bonnie", "Lekker", "Bonnie", "Wee"], "answer": "Bonnie" },
+  { "id": 11, "question": "What is a 'sheila' in Australian slang?", "options": ["A man", "A woman", "A car", "A house"], "answer": "A woman" },
+  { "id": 12, "question": "South African for 'nice/tasty':", "options": ["Lekker", "Bonnie", "Craic", "Beaut"], "answer": "Lekker" },
+  { "id": 13, "question": "Where is the particle 'lah' used?", "options": ["Scotland", "South Africa", "Singapore/Malaysia", "Australia"], "answer": "Singapore/Malaysia" },
+  { "id": 14, "question": "Scottish for 'outside':", "options": ["Outwith", "Outback", "Outpost", "Outing"], "answer": "Outwith" },
+  { "id": 15, "question": "Indian word for a pampered child:", "options": ["Ladla", "Sheila", "Tiffin", "Beaut"], "answer": "Ladla" }
+]

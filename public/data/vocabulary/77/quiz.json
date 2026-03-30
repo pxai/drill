@@ -1,0 +1,17 @@
+[
+  { "id": 1, "question": "What is a 'cast-iron alibi'?", "options": ["A weak excuse", "A firm and undeniable proof of innocence", "A heavy object", "A type of punishment"], "answer": "A firm and undeniable proof of innocence" },
+  { "id": 2, "question": "Which word means a strong feeling of guilt?", "options": ["Reprieve", "Remorse", "Accord", "Armistice"], "answer": "Remorse" },
+  { "id": 3, "question": "If you are 'acquitted' of a crime, the court says:", "options": ["You are guilty", "You are not guilty", "You must go to prison", "The trial is delayed"], "answer": "You not guilty" },
+  { "id": 4, "question": "An 'armistice' is an agreement to:", "options": ["Start a war", "Stop war while peace discussions happen", "Increase taxes", "Sign a treaty"], "answer": "Stop war while peace discussions happen" },
+  { "id": 5, "question": "What is a 'lame excuse'?", "options": ["A very good reason", "A weak and unconvincing excuse", "A technical term", "A formal apology"], "answer": "A weak and unconvincing excuse" },
+  { "id": 6, "question": "To 'repent' means to:", "options": ["Repeat a mistake", "Ask for forgiveness for a sin", "Accuse someone", "Leave the country"], "answer": "Ask for forgiveness for a sin" },
+  { "id": 7, "question": "A 'reprieve' is an official order that:", "options": ["Increases punishment", "Stops or delays a punishment", "Starts a trial", "Ends a peace treaty"], "answer": "Stops or delays a punishment" },
+  { "id": 8, "question": "Which term describes being declared free of blame?", "options": ["Exonerated", "Reprieved", "Acquitted", "Posthumous"], "answer": "Exonerated" },
+  { "id": 9, "question": "A 'truce' is a period without fighting that is ...", "options": ["permanent", "temporary", "only for kings", "secret"], "answer": "temporary" },
+  { "id": 10, "question": "What is a 'posthumous pardon'?", "options": ["A pardon given by a king", "A pardon issued after someone has died", "A fake pardon", "A very expensive pardon"], "answer": "A pardon issued after someone has died" },
+  { "id": 11, "question": "An 'accord' is an agreement to:", "options": ["Fight", "Work together peacefully", "Buy weapons", "End a meeting"], "answer": "Work together peacefully" },
+  { "id": 12, "question": "If you give a 'flimsy pretext' for being late, your reason is:", "options": ["Strong", "Weak and probably hiding the truth", "Scientific", "None of these"], "answer": "Weak and probably hiding the truth" },
+  { "id": 13, "question": "Which of these is a formal written agreement to end a war?", "options": ["Truce", "Treaty", "Pretext", "Alibi"], "answer": "Treaty" },
+  { "id": 14, "question": "Complete: 'The President granted him a ... just before he was executed.'", "options": ["pardon", "remorse", "alibi", "pretext"], "answer": "pardon" },
+  { "id": 15, "question": "A 'sincere apology' is one that is:", "options": ["Fake", "Truly meant", "Loud", "Written in a book"], "answer": "Truly meant" }
+]

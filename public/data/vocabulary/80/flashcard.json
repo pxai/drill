@@ -1,0 +1,17 @@
+[
+  { "id": 1, "front": "the good old days", "back": "Cliché: A time in the past when life is remembered as being better [2, 15]." },
+  { "id": 2, "front": "reminisce", "back": "To talk or think about enjoyable events in your past [15]." },
+  { "id": 3, "front": "look back", "back": "To think about something that happened in the past [15]." },
+  { "id": 4, "front": "keep in touch", "back": "To maintain contact with people from the past [15]." },
+  { "id": 5, "front": "what became of...?", "back": "Question asking what happened to someone from the past [15]." },
+  { "id": 6, "front": "stands out in my mind", "back": "Expression: Something that is very easy to remember from the past [15]." },
+  { "id": 7, "front": "rose-tinted spectacles", "back": "Cliché: Seeing the past as being much better than it really was [15]." },
+  { "id": 8, "front": "regret", "back": "To feel sorry about something you did or didn't do [2, 15]." },
+  { "id": 9, "front": "lament", "back": "Formal verb: To express sadness and regret about something [2, 15]." },
+  { "id": 10, "front": "rue the day", "back": "Formal/Literary: To regret something very much [15]." },
+  { "id": 11, "front": "remorse", "back": "A feeling of deep regret or guilt [15]." },
+  { "id": 12, "front": "if only...", "back": "Expression used to say you wish something were different [15]." },
+  { "id": 13, "front": "mourn", "back": "To feel and show great sadness, often after someone dies or for lost opportunities [16]." },
+  { "id": 14, "front": "the best/happiest days of your life", "back": "Cliché: Often used to describe school days [15]." },
+  { "id": 15, "front": "things aren't what they used to be", "back": "Cliché expressing that the current situation is worse than the past [15]." }
+]

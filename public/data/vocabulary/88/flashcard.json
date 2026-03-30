@@ -1,0 +1,17 @@
+[
+  { "id": 1, "front": "break the ice", "back": "Idiom (Verb + Object): To create a relaxed social atmosphere." },
+  { "id": 2, "front": "rub someone up the wrong way", "back": "Idiom (Verb + Object): To annoy or irritate someone (often unintentionally)." },
+  { "id": 3, "front": "get the maximum benefit", "back": "Idiom (Verb + Object): To make the most of an opportunity." },
+  { "id": 4, "front": "at cross purposes", "back": "Idiom (Prepositional phrase): Misunderstanding each other's intentions." },
+  { "id": 5, "front": "under the weather", "back": "Idiom (Prepositional phrase): Feeling slightly ill." },
+  { "id": 6, "front": "in the dark", "back": "Idiom (Prepositional phrase): Not knowing the truth about something." },
+  { "id": 7, "front": "out of the blue", "back": "Idiom (Prepositional phrase): Suddenly and unexpectedly." },
+  { "id": 8, "front": "in cold blood", "back": "Idiom (Prepositional phrase): Without any feeling or mercy (often of a killing)." },
+  { "id": 9, "front": "nitty-gritty", "back": "Idiom (Combination): The basic or most important practical details of a subject." },
+  { "id": 10, "front": "make-believe", "back": "Idiom (Combination): Not real; imaginary." },
+  { "id": 11, "front": "half-hearted", "back": "Idiom (Combination): Without enthusiasm or effort." },
+  { "id": 12, "front": "long-winded", "back": "Idiom (Combination): A speech or lecture that is too long and boring." },
+  { "id": 13, "front": "saving grace", "back": "Idiom (Combination): A good quality that redeems a person or thing that is otherwise bad." },
+  { "id": 14, "front": "stand out", "back": "Phrasal verb: To be easily noticed." },
+  { "id": 15, "front": "pull one's weight", "back": "Idiom (Verb + Object): To do one's fair share of work." }
+]

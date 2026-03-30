@@ -1,0 +1,17 @@
+[
+  { "id": 1, "question": "What is the colloquial word for a technical problem?", "options": ["Hassle", "Glitch", "Pitfall", "Ordeal"], "answer": "Glitch" },
+  { "id": 2, "question": "An 'arduous' task is one that:", "options": ["Is very easy", "Is funny", "Requires much effort and is tiring", "Is illegal"], "answer": "Requires much effort and is tiring" },
+  { "id": 3, "question": "If you are 'in a fix', you are:", "options": ["In a good mood", "In a difficult situation", "At home", "Healthy"], "answer": "In a difficult situation" },
+  { "id": 4, "question": "What is a 'stumbling block'?", "options": ["A type of building material", "Something that prevents progress or agreement", "A lucky event", "A quick solution"], "answer": "Something that prevents progress or agreement" },
+  { "id": 5, "question": "Which adjective describes something extremely tiring, like a marathon?", "options": ["Abstruse", "Gruelling", "Insufferable", "Wayward"], "answer": "Gruelling" },
+  { "id": 6, "question": "If you are 'off the hook', you have been:", "options": ["Caught in a trap", "Freed from a difficult situation", "Promoted at work", "Arrested"], "answer": "Freed from a difficult situation" },
+  { "id": 7, "question": "A 'pitfall' is an ... difficulty.", "options": ["expected", "unexpected", "easy", "ignorable"], "answer": "unexpected" },
+  { "id": 8, "question": "Which word means a 'severe and painful experience'?", "options": ["Glitch", "Hassle", "Ordeal", "Snag"], "answer": "Ordeal" },
+  { "id": 9, "question": "An explanation that is 'unreasonably long and hard to follow' is ...", "options": ["convoluted", "abstruse", "stiff", "tough"], "answer": "convoluted" },
+  { "id": 10, "question": "What does 'hassle' mean colloquially?", "options": ["A type of hat", "A situation causing trouble", "A formal meeting", "A quick trip"], "answer": "A situation causing trouble" },
+  { "id": 11, "question": "If behaviour is 'insufferable', it is:", "options": ["Pleasant", "Hard to bear because it's annoying", "Very funny", "Professional"], "answer": "Hard to bear because it's annoying" },
+  { "id": 12, "question": "A 'stiff' competition is one that is ...", "options": ["easy to win", "difficult to beat", "unfair", "boring"], "answer": "difficult to beat" },
+  { "id": 13, "question": "Theory or philosophy that is 'difficult to understand' is ...", "options": ["abstruse", "arduous", "gruelling", "insufferable"], "answer": "abstruse" },
+  { "id": 14, "front": "What does 'setback' mean?", "options": ["A return to home", "A small difficulty that delays progress", "A new computer", "A lucky break"], "answer": "A small difficulty that delays progress" },
+  { "id": 15, "question": "Which expression describes being 'flogged to death' at work?", "options": ["In a fix", "Slogging your guts out", "Off the hook", "Up to one's neck"], "answer": "Slogging your guts out" }
+]

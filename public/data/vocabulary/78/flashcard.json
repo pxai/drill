@@ -1,0 +1,17 @@
+[
+  { "id": 1, "front": "laud", "back": "Formal verb: To praise someone or something highly [2, 13]." },
+  { "id": 2, "front": "extol", "back": "Formal verb: To praise someone or something very much [13]." },
+  { "id": 3, "front": "obsequious", "back": "Adjective: Too eager to praise or obey someone (negative association) [2, 13]." },
+  { "id": 4, "front": "smarmy", "back": "Informal adjective: Too polite or friendly in a way that is not sincere [13]." },
+  { "id": 5, "front": "sucking up to", "back": "Colloquial phrase: Trying to please someone in authority to get an advantage [13]." },
+  { "id": 6, "front": "toast", "back": "The person or thing that is being celebrated (e.g., 'the toast of the tennis world') [13]." },
+  { "id": 7, "front": "standing ovation", "back": "When the audience stands up and claps to show great praise [13]." },
+  { "id": 8, "front": "highest plaudits", "back": "Very high praise or approval from judges or experts [13]." },
+  { "id": 9, "front": "flatter", "back": "To say nice things to someone, often to get something [2, 13]." },
+  { "id": 10, "front": "congratulate", "back": "To tell someone you are happy for their success [13]." },
+  { "id": 11, "front": "praise someone to the skies", "back": "To praise someone extremely highly [13]." },
+  { "id": 12, "front": "pat on the back", "back": "A gesture or comment showing praise for something done well [13]." },
+  { "id": 13, "front": "double-edged compliment", "back": "A compliment that also contains a hidden insult [13]." },
+  { "id": 14, "front": "faint praise", "back": "Praise that is so weak it shows you don't really like something [13]." },
+  { "id": 15, "front": "tribute", "back": "Something done or said to show respect or admiration (e.g., 'pay tribute to') [13]." }
+]

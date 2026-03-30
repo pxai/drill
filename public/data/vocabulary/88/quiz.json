@@ -1,0 +1,17 @@
+[
+  { "id": 1, "question": "What does it mean to 'break the ice'?", "options": ["To freeze water", "To create a relaxed social atmosphere", "To be rude", "To end a party"], "answer": "To create a relaxed social atmosphere" },
+  { "id": 2, "question": "If something happens 'out of the blue', it is:", "options": ["Expected", "Sudden and unexpected", "Sad", "Slow"], "answer": "Sudden and unexpected" },
+  { "id": 3, "question": "Being 'under the weather' means you are:", "options": ["Feeling ill", "Outside in the rain", "Very happy", "In the sun"], "answer": "Feeling ill" },
+  { "id": 4, "question": "What is the 'nitty-gritty'?", "options": ["A type of food", "The basic practical details", "A joke", "A clean room"], "answer": "The basic practical details" },
+  { "id": 5, "question": "If you are 'at cross purposes' with someone, you are:", "options": ["Angry with them", "Misunderstanding each other", "Agreeing fully", "Working together"], "answer": "Misunderstanding each other" },
+  { "id": 6, "question": "A 'saving grace' is:", "options": ["A religious prayer", "A redeeming good quality", "A bank account", "A fast car"], "answer": "A redeeming good quality" },
+  { "id": 7, "question": "To 'rub someone up the wrong way' is to ... them.", "options": ["help", "irritate", "praise", "clean"], "answer": "irritate" },
+  { "id": 8, "question": "If a killer acted 'in cold blood', they acted:", "options": ["With mercy", "Without any feeling or mercy", "Because they were cold", "By accident"], "answer": "Without any feeling or mercy" },
+  { "id": 9, "question": "A 'long-winded' lecture is:", "options": ["Very short", "Too long and boring", "Very exciting", "About the wind"], "answer": "Too long and boring" },
+  { "id": 10, "question": "If you are 'in the dark' about a secret, you:", "options": ["Know everything", "Do not know the truth", "Are in a room without lights", "Are sleeping"], "answer": "Do not know the truth" },
+  { "id": 11, "question": "Something 'make-believe' is:", "options": ["Real", "Imaginary/not real", "Expensive", "Religious"], "answer": "Imaginary/not real" },
+  { "id": 12, "question": "A 'half-hearted' attempt is one made:", "options": ["With great passion", "Without enthusiasm", "By two people", "Quickly"], "answer": "Without enthusiasm" },
+  { "id": 13, "question": "To 'pull your weight' means to:", "options": ["Lose weight", "Do your fair share of work", "Lift heavy objects", "Be lazy"], "answer": "Do your fair share of work" },
+  { "id": 14, "question": "A person who is 'easily noticed' is said to ...", "options": ["stand out", "sit down", "go out", "look in"], "answer": "stand out" },
+  { "id": 15, "question": "If you 'get the maximum benefit' from a course, you:", "options": ["Waste your time", "Make the most of the opportunity", "Hate it", "Fail it"], "answer": "Make the most of the opportunity" }
+]

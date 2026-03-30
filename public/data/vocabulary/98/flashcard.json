@@ -1,0 +1,17 @@
+[
+  { "id": 1, "front": "spokesperson", "back": "Gender-neutral term for spokesman/spokeswoman." },
+  { "id": 2, "front": "firefighter", "back": "Gender-neutral term for fireman/firewoman." },
+  { "id": 3, "front": "flight attendant", "back": "Gender-neutral term for air steward/stewardess." },
+  { "id": 4, "front": "police officer", "back": "Gender-neutral term for policeman/policewoman." },
+  { "id": 5, "front": "mankind", "back": "Traditional term for the human race (often replaced by 'humanity')." },
+  { "id": 6, "front": "manmade", "back": "Traditional term for artificial (often replaced by 'synthetic')." },
+  { "id": 7, "front": "chair / chairperson", "back": "Gender-neutral term for chairman/chairwoman." },
+  { "id": 8, "front": "to man", "back": "Verb meaning to staff or operate (e.g., 'man the desk')." },
+  { "id": 9, "front": "butch", "back": "Informal (can be offensive) term for an aggressively masculine woman." },
+  { "id": 10, "front": "effeminate", "back": "Adjective describing a man who has qualities traditionally associated with women." },
+  { "id": 11, "front": "sissy", "back": "Offensive term for a weak or effeminate man or boy." },
+  { "id": 12, "front": "tomboy", "back": "Informal term for a girl who enjoys activities traditionally associated with boys." },
+  { "id": 13, "front": "sexism", "back": "Prejudice or discrimination based on gender." },
+  { "id": 14, "front": "male-dominated", "back": "Controlled or mostly made up of men (e.g., an industry)." },
+  { "id": 15, "front": "glass ceiling", "back": "Metaphor for an invisible barrier preventing women from rising to top jobs." }
+]

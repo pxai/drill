@@ -1,0 +1,17 @@
+[
+  { "id": 1, "question": "What is the vague word 'thingy' used for?", "options": ["A person", "An object", "A city", "A time"], "answer": "An object" },
+  { "id": 2, "question": "If you have 'oodles of money', you have:", "options": ["No money", "A lot of money", "A specific amount", "Fake money"], "answer": "A lot of money" },
+  { "id": 3, "question": "What does 'get it together' mean?", "options": ["To fall apart", "To organize oneself/take action", "To buy something", "To sleep"], "answer": "To organize oneself/take action" },
+  { "id": 4, "question": "Which expression is used when you don't want to include the listener in a criticism?", "options": ["No offence intended", "Present company excepted", "The thing is", "As things are"], "answer": "Present company excepted" },
+  { "id": 5, "question": "If someone hasn't done 'a scrap of work', they have done:", "options": ["A lot of work", "No work at all", "Very good work", "Secret work"], "answer": "No work at all" },
+  { "id": 6, "question": "A vague word for a person whose name you forgot is:", "options": ["Whatsit", "Whosit", "Thingy", "Umpteen"], "answer": "Whosit" },
+  { "id": 7, "question": "To 'make a big thing of' a mistake means to:", "options": ["Ignore it", "Make too much fuss about it", "Fix it quietly", "Praise it"], "answer": "Make too much fuss about it" },
+  { "id": 8, "question": "What quantifier is common for saying you've tried something 'many times'?", "options": ["A touch of", "Umpteen", "A scrap of", "Thingy"], "answer": "Umpteen" },
+  { "id": 9, "question": "To 'get things sorted out' is to:", "options": ["Solve a problem", "Create a mess", "Lose your keys", "Go on holiday"], "answer": "Solve a problem" },
+  { "id": 10, "question": "If you have 'a touch of flu', you are:", "options": ["Extremely ill", "Slightly ill", "Healthy", "A doctor"], "answer": "Slightly ill" },
+  { "id": 11, "question": "The phrase 'the thing is' is used to:", "options": ["End a conversation", "Introduce a topic/explanation", "Say goodbye", "Agree blindly"], "answer": "Introduce a topic/explanation" },
+  { "id": 12, "question": "Which is more formal in style?", "options": ["Bags of time", "Oodles of money", "A great deal of time", "Umpteen times"], "answer": "A great deal of time" },
+  { "id": 13, "question": "'Don't mind my saying so' is a strategy for:", "options": ["Being rude", "Disagreeing/criticizing politely", "Leaving a room", "Praising someone"], "answer": "Disagreeing/criticizing politely" },
+  { "id": 14, "question": "A 'whatsit' is for:", "options": ["Eating", "An object name forgotten", "Measuring angles", "A person"], "answer": "An object name forgotten" },
+  { "id": 15, "question": "If you have 'a thing about mice', you:", "options": ["Are a mouse", "Really like or dislike them", "Have never seen one", "Are a cat"], "answer": "Really like or dislike them" }
+]

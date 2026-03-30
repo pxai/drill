@@ -1,0 +1,17 @@
+[
+  { "id": 1, "front": "thing (in speech)", "back": "Vague word often meaning 'subject' or 'matter' (e.g., 'the things I want to talk to him about')." },
+  { "id": 2, "front": "a thing about (someone/something)", "back": "To have a specific like or dislike for something." },
+  { "id": 3, "front": "make a big thing of", "back": "To make too much fuss about something." },
+  { "id": 4, "front": "the thing is", "back": "Expression used to introduce a topic or provide an explanation." },
+  { "id": 5, "front": "as things are at present", "back": "As the current situation is." },
+  { "id": 6, "front": "get it together", "back": "To take positive action or organize oneself." },
+  { "id": 7, "front": "get things sorted out", "back": "To organize things so that a problem is solved." },
+  { "id": 8, "front": "thingy / whatsit", "back": "Vague words for objects when you can't remember their name." },
+  { "id": 9, "front": "whatsitname / whosit", "back": "Vague words for people when you can't remember their name." },
+  { "id": 10, "front": "bags of / oodles of", "back": "Vague quantifiers meaning 'a lot of' (common in speaking)." },
+  { "id": 11, "front": "umpteen", "back": "A vague quantifier meaning 'many' (often used for counts of times)." },
+  { "id": 12, "front": "a scrap of / a touch of", "back": "Vague quantifiers meaning 'a little' or 'some'." },
+  { "id": 13, "front": "present company excepted", "back": "Expression meaning 'not including you or me' (used when criticizing a group)." },
+  { "id": 14, "front": "no offence intended", "back": "Polite way to start or end a potentially offensive comment." },
+  { "id": 15, "front": "that's true up to a point", "back": "Strategy to disagree politely by acknowledging partial truth." }
+]

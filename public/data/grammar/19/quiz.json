@@ -1,0 +1,17 @@
+[
+  { "id": 1, "question": "Which form of 'need' acts as a modal verb?", "options": ["Needs", "Needed", "Needn't", "Do need"], "answer": "Needn't" },
+  { "id": 2, "question": " ... you go so soon?", "options": ["Need", "Do you need to", "Both are possible", "Neither"], "answer": "Both are possible" },
+  { "id": 3, "question": "Nobody ever ... know about the money. (Formal)", "options": ["need", "needs", "need to", "is needing"], "answer": "need" },
+  { "id": 4, "question": "You ... cut the grass, I'll do it later.", "options": ["needn't", "don't need to", "Both are possible", "Neither"], "answer": "Both are possible" },
+  { "id": 5, "question": "You ... be over 18 to get into a nightclub.", "options": ["needn't", "don't need to", "Both", "None"], "answer": "don't need to" },
+  { "id": 6, "question": "As you worked late yesterday you ... come in until ten tomorrow.", "options": ["needn't", "don't have to", "Both", "None"], "answer": "needn't" },
+  { "id": 7, "question": "We’ve been told that we ... be at work until ten.", "options": ["needn't", "don't have to", "Both", "None"], "answer": "don't have to" },
+  { "id": 8, "question": "Nowadays it ... cost a fortune to own an e-book reader.", "options": ["needn't", "doesn't have to", "Both", "None"], "answer": "Both" },
+  { "id": 9, "question": "She's thirsty. She ... a drink.", "options": ["need", "needs", "needn't", "is needing"], "answer": "needs" },
+  { "id": 10, "question": "I've already cleaned the car so you ... to do it.", "options": ["needn't", "don't need", "needn't have", "mustn't"], "answer": "don't need" },
+  { "id": 11, "question": "Which phrase is common in written English fiction?", "options": ["We needn't have no fear", "We need have no fear", "We don't need fear", "We must not fear"], "answer": "We need have no fear" },
+  { "id": 12, "question": "The changes need ... be small to be acceptable.", "options": ["to", "only", "must", "should"], "answer": "only" },
+  { "id": 13, "question": "I ... leave early. (Past point as ordinary verb)", "options": ["need", "needed", "needn't", "needs"], "answer": "needed" },
+  { "id": 14, "question": "You ... whisper. Nobody can hear us.", "options": ["needn't", "don't have to", "Both", "None"], "answer": "Both" },
+  { "id": 15, "question": "'I don't want my parents to know.' 'They ... find out.'", "options": ["never need", "need never", "Both", "None"], "answer": "Both" }
+]

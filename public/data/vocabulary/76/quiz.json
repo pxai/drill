@@ -1,0 +1,17 @@
+[
+  { "id": 1, "question": "What is the colloquial word for complaining in an annoying way about unimportant things?", "options": ["Remonstrate", "Whinge", "Authorise", "Endorse"], "answer": "Whinge" },
+  { "id": 2, "question": "If you 'find fault' with everything, you are:", "options": ["Helping people", "Looking for small mistakes to criticize", "Happy", "A manager"], "answer": "Looking for small mistakes to criticize" },
+  { "id": 3, "question": "Which verb is a formal way to say 'complain'?", "options": ["Grouse", "Moan", "Remonstrate", "Whinge"], "answer": "Remonstrate" },
+  { "id": 4, "question": "In British English, if a room is 'stuffy', it:", "options": ["Is full of toys", "Lacks fresh air", "Is very clean", "Is very large"], "answer": "Lacks fresh air" },
+  { "id": 5, "question": "A British person saying a room 'would benefit from a lick of paint' likely means:", "options": ["The room is perfect", "The room is in very poor condition", "The room is the wrong color", "They want to paint a picture"], "answer": "The room is in very poor condition" },
+  { "id": 6, "question": "What does 'I've just about had enough' express?", "options": ["Happiness", "Reaching the limit of patience with someone", "Hunger", "Confusion"], "answer": "Reaching the limit of patience with someone" },
+  { "id": 7, "question": "To 'object to' something means to:", "options": ["Support it", "Disapprove of it", "Ignore it", "Fix it"], "answer": "Disapprove of it" },
+  { "id": 8, "question": "Which informal word means the same as 'complain' and is also the name of a bird?", "options": ["Whinge", "Grouse", "Moan", "Lark"], "answer": "Grouse" },
+  { "id": 9, "question": "Work that is 'unsatisfactory' is:", "options": ["Excellent", "Not good enough", "Finished", "Secret"], "answer": "Not good enough" },
+  { "id": 10, "question": "If a TV is described as 'a bit loud' in British understatement, it is probably:", "options": ["Quiet", "Very loud", "Broken", "New"], "answer": "Very loud" },
+  { "id": 11, "question": "When someone 'whinges' about their flatmates, they are:", "options": ["Praising them", "Complaining about them annoyingly", "Moving out", "Cleaning the house"], "answer": "Complaining about them annoyingly" },
+  { "id": 12, "question": "Which phrase is used for a very formal and serious complaint?", "options": ["Whinge a bit", "Protest in the strongest possible terms", "Find a fault", "Moan a lot"], "answer": "Protest in the strongest possible terms" },
+  { "id": 13, "question": "Complete: 'He's always ... about the working conditions.'", "options": ["remonstrating", "whingeing", "authorising", "endorsing"], "answer": "whingeing" },
+  { "id": 14, "question": "If a task is 'not highest priority', it might actually mean:", "options": ["It is very important", "It is not a priority at all", "It will be done tomorrow", "It is a secret"], "answer": "It is not a priority at all" },
+  { "id": 15, "question": "To 'moan' usually involves complaining in a way that is ...", "options": ["funny", "persistent and low-voiced", "very happy", "polite"], "answer": "persistent and low-voiced" }
+]

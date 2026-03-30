@@ -1,0 +1,17 @@
+[
+  { "id": 1, "front": "I must admit", "back": "Expression used to introduce a fact that you are not very proud of [5]." },
+  { "id": 2, "front": "the odds are", "back": "It is likely (e.g., 'The odds are he'll get the job') [2, 5]." },
+  { "id": 3, "front": "bound to", "back": "Almost certain to happen (e.g., 'They are bound to get married') [5]." },
+  { "id": 4, "front": "accidents will happen", "back": "Proverb meaning that accidents are inevitable [5]." },
+  { "id": 5, "front": "expedient", "back": "Helpful or useful in a particular situation, but not necessarily right [2, 5]." },
+  { "id": 6, "front": "compulsory / obligatory", "back": "Something you must do because of a rule or law [2, 5]." },
+  { "id": 7, "front": "optional", "back": "Something you can choose to do or not [5]." },
+  { "id": 8, "front": "determined / eager", "back": "Having a strong desire to do something [5]." },
+  { "id": 9, "front": "aspire to / ambition", "back": "A strong desire to achieve something high or difficult [5]." },
+  { "id": 10, "front": "it's essential that", "back": "It is very important or necessary [5]." },
+  { "id": 11, "front": "in all probability", "back": "Very likely to happen [5]." },
+  { "id": 12, "front": "there's every likelihood", "back": "It is extremely probable [5]." },
+  { "id": 13, "front": "if I were in your shoes", "back": "Expression for giving advice by imagining being the other person [5]." },
+  { "id": 14, "front": "you must be joking!", "back": "Expression used to show that you find a suggestion ridiculous [5]." },
+  { "id": 15, "front": "wishful thinking", "back": "Believing something will happen just because you want it to [6]." }
+]

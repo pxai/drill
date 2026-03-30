@@ -1,0 +1,17 @@
+[
+  { "id": 1, "front": "Need: Ordinary vs Modal", "back": "Modal 'need' (e.g., 'needn't') doesn't change tense or add '-s' [12]." },
+  { "id": 2, "front": "Needn't vs Don't need to", "back": "Needn't is most common in negative sentences [12]." },
+  { "id": 3, "front": "Need in Questions", "back": "Prefer 'need' as an ordinary verb ('Do you need to go?') over modal 'Need you go?' [12]." },
+  { "id": 4, "front": "Formal negative 'need'", "back": "Used with negative words like 'hardly, never, nobody, only' (e.g., 'Nobody ever need know') [12]." },
+  { "id": 5, "front": "Giving Permission not to do", "back": "Use either 'needn't' or 'don't need to' [12]." },
+  { "id": 6, "front": "General Necessity", "back": "Prefer 'don't need to' (e.g., 'You don't need to be over 18 to get into a nightclub') [12]." },
+  { "id": 7, "front": "Unnecessary: Speaker's choice", "back": "Prefer 'needn't' when the speaker decides something is unnecessary [12]." },
+  { "id": 8, "front": "Unnecessary: External rules", "back": "Prefer 'don't have to' when external rules make it unnecessary [12]." },
+  { "id": 9, "front": "Saying something is not true", "back": "Use 'needn't' or 'don't have to' (NOT 'mustn't') (e.g., 'Volcanoes needn't erupt constantly') [12]." },
+  { "id": 10, "front": "You ... speak so loudly. (Modal)", "back": "needn't [12]." },
+  { "id": 11, "front": "We ... have no fear for Nicole.", "back": "need (rare affirmative use) [12]." },
+  { "id": 12, "front": "The changes ... only be small to be acceptable.", "back": "need (formal style) [12]." },
+  { "id": 13, "front": "I was nervous, but I ... worried - I got the job!", "back": "needn't (speaker reflection) [12]." },
+  { "id": 14, "front": "I ... to leave early. (Ordinary verb)", "back": "needed [12]." },
+  { "id": 15, "front": "You ... cut the grass, I'll do it later.", "back": "needn't / don't need to [12]." }
+]

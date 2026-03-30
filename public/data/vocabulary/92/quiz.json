@@ -1,0 +1,17 @@
+[
+  { "id": 1, "question": "Which idiom means 'unexpectedly'?", "options": ["Small world", "Out of the blue", "Famous last words", "You live and learn"], "answer": "Out of the blue" },
+  { "id": 2, "question": "What do you say when skipping details?", "options": ["I haven't the faintest idea", "To cut a long story short", "You're telling me", "It's not the end of the world"], "answer": "To cut a long story short" },
+  { "id": 3, "question": "If you strongly agree, you say: '...'", "options": ["Famous last words", "You're telling me!", "I'll believe it when I see it", "Small world"], "answer": "You're telling me!" },
+  { "id": 4, "question": "Coincidence is introduced by: '...'", "options": ["As luck would have it", "For all I know", "Easier said than done", "One of those things"], "answer": "As luck would have it" },
+  { "id": 5, "question": "Which idiom expresses doubt?", "options": ["You live and learn", "I'll believe it when I see it", "Small world", "The fact of the matter is"], "answer": "I'll believe it when I see it" },
+  { "id": 6, "question": "A situation that isn't too bad is ...", "options": ["not the end of the world", "one of those things", "out of the blue", "easier said than done"], "answer": "not the end of the world" },
+  { "id": 7, "question": "If you don't know at all, you have ...", "options": ["the faintest idea", "not the faintest idea", "the last word", "one of those things"], "answer": "not the faintest idea" },
+  { "id": 8, "question": "Meeting an old friend in Tokyo is a '...' occasion.", "options": ["famous last word", "small world", "long story", "blue"], "answer": "small world" },
+  { "id": 9, "question": "If a task is difficult despite sounding easy, it's ...", "options": ["out of the blue", "easier said than done", "the fact of the matter", "luck"], "answer": "easier said than done" },
+  { "id": 10, "question": "Ironic comment on a wrong prediction:", "options": ["Famous last words", "Small world", "Live and learn", "Out of the blue"], "answer": "Famous last words" },
+  { "id": 11, "question": "What phrase introduces a sudden turn in a story?", "options": ["Next thing I knew", "One of those things", "The fact of the matter is", "Easier said than done"], "answer": "Next thing I knew" },
+  { "id": 12, "question": "I don't know where he is, '...' .", "options": ["for all I know", "famous last words", "you live and learn", "small world"], "answer": "for all I know" },
+  { "id": 13, "question": "Used when something happens without reason:", "options": ["One of those things", "Out of the blue", "To cut a story short", "I'll believe it when I see it"], "answer": "One of those things" },
+  { "id": 14, "question": "You ... and learn.", "options": ["live", "talk", "move", "eat"], "answer": "live" },
+  { "id": 15, "question": "'...' is that we are broke.", "options": ["The fact of the matter", "Out of the blue", "Famous last words", "Small world"], "answer": "The fact of the matter" }
+]

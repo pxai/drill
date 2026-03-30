@@ -1,0 +1,17 @@
+[
+  { "id": 1, "front": "out of the blue", "back": "Happening suddenly and unexpectedly." },
+  { "id": 2, "front": "the next thing I knew", "back": "Used to describe a sudden event in a story." },
+  { "id": 3, "front": "small world", "back": "An expression of surprise when meeting someone in an unexpected place." },
+  { "id": 4, "front": "famous last words", "back": "Ironic comment when someone says something they think is true but isn't." },
+  { "id": 5, "front": "you're telling me!", "back": "Used to say that you strongly agree with someone." },
+  { "id": 6, "front": "I'll believe it when I see it", "back": "Expressing doubt about a future event." },
+  { "id": 7, "front": "to cut a long story short", "back": "Used when skipping the details of a story to get to the point." },
+  { "id": 8, "front": "as luck would have it", "back": "Used to describe a fortunate or unfortunate coincidence." },
+  { "id": 9, "front": "that's easier said than done", "back": "Used when something sounds simple but is difficult to achieve." },
+  { "id": 10, "front": "it's not the end of the world", "back": "Used to comfort someone by saying a situation isn't that bad." },
+  { "id": 11, "front": "I haven't the faintest idea", "back": "Stronger way of saying 'I don't know'." },
+  { "id": 12, "front": "for all I know", "back": "Used to emphasize that you do not have certain information." },
+  { "id": 13, "front": "the fact of the matter is", "back": "Used to introduce the most important part of a situation." },
+  { "id": 14, "front": "it's just one of those things", "back": "Used to say that an event happened without a clear reason." },
+  { "id": 15, "front": "you live and learn", "back": "Expression of surprise at learning something new." }
+]

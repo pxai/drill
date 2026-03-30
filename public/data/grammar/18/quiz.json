@@ -1,0 +1,17 @@
+[
+  { "id": 1, "question": "Which modal is used for formal rules and regulations?", "options": ["Have to", "Must", "Should", "Need to"], "answer": "Must" },
+  { "id": 2, "question": "I ... often ... work at the weekend to get everything done.", "options": ["must", "have to", "has got to", "need"], "answer": "have to" },
+  { "id": 3, "question": "When ... you ... give it back?", "options": ["must", "did / have to", "did / must", "had / to"], "answer": "did / have to" },
+  { "id": 4, "question": "The government ... be allowed to appoint judges. (Negative rule)", "options": ["must not", "doesn't have to", "shouldn't", "won't"], "answer": "must not" },
+  { "id": 5, "question": "Look at all those birds. There ... be at least a thousand of them.", "options": ["must", "have to", "have got to", "All are possible"], "answer": "must / have got to" },
+  { "id": 6, "question": "Luisa owns a big car and a yacht. She ... incredibly rich.", "options": ["must be", "has to be", "is being", "will be"], "answer": "must be" },
+  { "id": 7, "question": "It is necessary to do all of this photocopying... It ... done before lunchtime.", "options": ["must be", "has to be", "has got to be", "All are possible"], "answer": "All are possible" },
+  { "id": 8, "question": "Was it necessary for Ben to go alone? ... he ... go alone?", "options": ["Must", "Did / have to", "Had / to", "Need"], "answer": "Did / have to" },
+  { "id": 9, "question": "I ... be busy with the new school year just about to start.", "options": ["must", "have to", "Both are correct", "Neither"], "answer": "must" },
+  { "id": 10, "question": "Wait for me! I ... get a new lock for the front door first.", "options": ["must", "have to", "have got to", "All are possible"], "answer": "have to / have got to" },
+  { "id": 11, "question": "You ... been wondering what's been happening. (Conclusion about ongoing state)", "options": ["must have", "must", "Both", "Neither"], "answer": "must have" },
+  { "id": 12, "question": "I always ... pull it very hard to shut it. (Frequency habit)", "options": ["must", "have got to", "All", "None"], "answer": "have got to" },
+  { "id": 13, "question": "They ... come through the house and opened the front door.", "options": ["must have", "must", "had to", "must had"], "answer": "must have" },
+  { "id": 14, "question": "The postman ... disturbed them.", "options": ["must be", "must have", "must had", "has"], "answer": "must have" },
+  { "id": 15, "question": "Jessica ... get ready to go back to university.", "options": ["must", "has to", "needs", "All are possible"], "answer": "must" }
+]

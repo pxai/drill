@@ -1,0 +1,17 @@
+[
+  { "id": 1, "front": "On the verge/brink/point of", "back": "Used for actions/events in the future that will happen soon [4]." },
+  { "id": 2, "front": "Brink/Verge nuance", "back": "Usually refers to something important, exciting, or very bad [4]." },
+  { "id": 3, "front": "Be due to + infinitive", "back": "To say that something is expected to happen at a particular time [4]." },
+  { "id": 4, "front": "Be sure/bound to + infinitive", "back": "To say that something is likely or certain to happen [4]." },
+  { "id": 5, "front": "Be set to + infinitive", "back": "To say that something is ready to happen [4]." },
+  { "id": 6, "front": "Due to + noun", "back": "Used to give a reason for something, not to talk about the future [4]." },
+  { "id": 7, "front": "Verbs with to-infinitive (intentions)", "back": "aim, agree, expect, hope, intend, plan, promise, resolve [4]." },
+  { "id": 8, "front": "Looking + to-infinitive", "back": "Means 'planning a course of action' (common in speech/journalism) [4]." },
+  { "id": 9, "front": "Shall/Shan't use", "back": "Used with 'I' and 'we' in future statements; more common to use 'll/won't [4]." },
+  { "id": 10, "front": "Shall in formal rules", "back": "Used with other subjects to mean 'must' (e.g., 'The match referee shall be...') [4]." },
+  { "id": 11, "front": "People are on the ... of starvation.", "back": "verge (very bad situation) [4]." },
+  { "id": 12, "front": "The company ... retire next year.", "back": "is due to (expected time) [4]." },
+  { "id": 13, "front": "We're ... to create 3,000 jobs.", "back": "looking (planning) [4]." },
+  { "id": 14, "front": "He ... become fluent in Spanish before leaving.", "back": "had resolved (past intention) [4]." },
+  { "id": 15, "front": "Only people over 18 ... be eligible to vote.", "back": "shall (formal rule) [5]." }
+]

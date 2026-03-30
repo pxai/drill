@@ -1,0 +1,17 @@
+[
+  { "id": 1, "question": "Which verb means 'to work hard'?", "options": ["Slog away", "Pelt down", "Bottle out", "Cotton on"], "answer": "Slog away" },
+  { "id": 2, "question": "What does 'pelt down' refer to?", "options": ["Wind", "Heavy rain", "Snow", "Heat"], "answer": "Heavy rain" },
+  { "id": 3, "question": "Losing courage at the last minute is to ...", "options": ["bottle out", "egg on", "dwell on", "buck up"], "answer": "bottle out" },
+  { "id": 4, "question": "To 'begin to understand' (informal) is to ...", "options": ["cotton on", "fizzle out", "hammer out", "jack in"], "answer": "cotton on" },
+  { "id": 5, "question": "Which verb means to 'reduce'?", "options": ["Cut back on", "Knuckle down", "Level with", "Get across"], "answer": "Cut back on" },
+  { "id": 6, "question": "To 'cheer up' or 'hurry' is to ...", "options": ["buck up", "dwell on", "egg on", "fizzle out"], "answer": "buck up" },
+  { "id": 7, "question": "To think about a bad thing for too long is to ... it.", "options": ["dwell on", "pelt down", "slog away", "iron out"], "answer": "dwell on" },
+  { "id": 8, "question": "If a plan fails gradually, it ...", "options": ["fizzles out", "hammers out", "irons out", "cottons on"], "answer": "fizzles out" },
+  { "id": 9, "question": "To 'communicate an idea successfully' is to ...", "options": ["get it across", "jack it in", "egg it on", "level it with"], "answer": "get it across" },
+  { "id": 10, "question": "Reaching an agreement after a long talk is to ...", "options": ["hammer it out", "iron it out", "jack it in", "slog away"], "answer": "hammer it out" },
+  { "id": 11, "question": "To 'solve small problems' is to ... them.", "options": ["iron out", "pelt down", "bottle out", "dwell on"], "answer": "iron out" },
+  { "id": 12, "question": "To 'suddenly quit' a job is to ...", "options": ["jack it in", "knuckle down", "level with it", "buck up"], "answer": "jack it in" },
+  { "id": 13, "question": "To 'start working hard' is to ...", "options": ["knuckle down", "slog away", "fizzle out", "egg on"], "answer": "knuckle down" },
+  { "id": 14, "question": "To 'tell the truth honestly' is to ... someone.", "options": ["level with", "get across", "hammer out", "cut back"], "answer": "level with" },
+  { "id": 15, "question": "Encouraging someone unwise is to ... them.", "options": ["egg on", "buck up", "cotton on", "jack in"], "answer": "egg on" }
+]

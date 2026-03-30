@@ -1,0 +1,17 @@
+[
+  { "id": 1, "question": "Which word is a formal term for a 'bet'?", "options": ["Vow", "Wager", "Flutter", "Pledge"], "answer": "Wager" },
+  { "id": 2, "question": "What do we call the promises made during a wedding ceremony?", "options": ["Pledges", "Vows", "Resolutions", "Stakes"], "answer": "Vows" },
+  { "id": 3, "question": "A 'pledge' of money usually implies:", "options": ["A formal promise to give it", "A secret bet", "A type of tax", "No promise at all"], "answer": "A formal promise to give it" },
+  { "id": 4, "question": "To 'have a flutter' colloquially means:", "options": ["To fly", "To have a small bet", "To be nervous", "To promise the moon"], "answer": "To have a small bet" },
+  { "id": 5, "question": "What is a 'New Year's resolution'?", "options": ["A formal law", "A firm decision to change a habit", "A type of bet", "A wedding promise"], "answer": "A firm decision to change a habit" },
+  { "id": 6, "question": "If you 'swear' on the Bible in court, you promise to:", "options": ["Be angry", "Tell the truth", "Pay money", "Leave the room"], "answer": "Tell the truth" },
+  { "id": 7, "question": "The phrase 'I'd put my money on it' means:", "options": ["I am going to lose money", "I am very sure it will happen", "I am a bank manager", "I am poor"], "answer": "I am very sure it will happen" },
+  { "id": 8, "question": "If someone 'promises the moon', their promise is:", "options": ["Very small", "Extravagant and impossible to keep", "Scientific", "Already kept"], "answer": "Extravagant and impossible to keep" },
+  { "id": 9, "question": "Your 'best bet' to pass an exam is:", "options": ["To gamble", "The most likely successful action", "To sleep", "To pay money"], "answer": "The most likely successful action" },
+  { "id": 10, "question": "A person who risks money on horses is a ...", "options": ["vower", "gambler", "pledger", "wagerer"], "answer": "gambler" },
+  { "id": 11, "question": "To 'take revenge' can be part of a ... (vow/vowed).", "options": ["vow", "stake", "flutter", "resolution"], "answer": "vow" },
+  { "id": 12, "question": "The money risked in a bet is the ...", "options": ["resolution", "stake", "pledge", "vow"], "answer": "stake" },
+  { "id": 13, "question": "Which verb is used with 'a resolution'?", "options": ["Take", "Make", "Do", "Give"], "answer": "Make" },
+  { "id": 14, "question": "If you 'opt to swear', you ... to do it.", "options": ["refuse", "choose", "fear", "hate"], "answer": "choose" },
+  { "id": 15, "question": "In betting, 'odds' refer to the ... of an event.", "options": ["price", "probability", "secrecy", "formality"], "answer": "probability" }
+]

@@ -1,0 +1,17 @@
+[
+  { "id": 1, "front": "faucet", "back": "American English for 'tap'." },
+  { "id": 2, "front": "sidewalk", "back": "American English for 'pavement'." },
+  { "id": 3, "front": "trunk", "back": "American English for 'boot' (of a car)." },
+  { "id": 4, "front": "apartment", "back": "American English for 'flat'." },
+  { "id": 5, "front": "first floor", "back": "In American English, the floor at ground level (BrE: ground floor)." },
+  { "id": 6, "front": "cookies", "back": "American English for 'biscuits'." },
+  { "id": 7, "front": "candy", "back": "American English for 'sweets'." },
+  { "id": 8, "front": "trash / garbage", "back": "American English for 'rubbish'." },
+  { "id": 9, "front": "vacation", "back": "American English for 'holiday'." },
+  { "id": 10, "front": "subway", "back": "American English for 'underground/tube'." },
+  { "id": 11, "front": "kitty-corner", "back": "American English for 'diagonally opposite'." },
+  { "id": 12, "front": "deplane", "back": "American formal word for 'get off a plane'." },
+  { "id": 13, "front": "fringe benefits", "back": "American term for 'perks'." },
+  { "id": 14, "front": "gas", "back": "American English for 'petrol'." },
+  { "id": 15, "front": "elevator", "back": "American English for 'lift'." }
+]

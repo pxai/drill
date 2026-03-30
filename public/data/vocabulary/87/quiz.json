@@ -1,0 +1,17 @@
+[
+  { "id": 1, "question": "Which formal expression means 'more than'?", "options": ["In the region of", "In excess of", "Give or take", "Or something"], "answer": "In excess of" },
+  { "id": 2, "question": "If something costs 'in the region of £500', it costs:", "options": ["Exactly £500", "About £500", "More than £1000", "Nothing"], "answer": "About £500" },
+  { "id": 3, "question": "What is the meaning of 'give or take'?", "options": ["Exactly", "Approximately", "Increasingly", "Never"], "answer": "Approximately" },
+  { "id": 4, "question": "A 'smattering' of people is:", "options": ["A large crowd", "A small number", "A secret group", "Exactly ten people"], "answer": "A small number" },
+  { "id": 5, "question": "Which word describes a 'very large quantity' of food?", "options": ["Dash", "Dollop", "Lashings", "Smattering"], "answer": "Lashings" },
+  { "id": 6, "question": "If you have 'a bit of a headache', you are:", "options": ["In severe pain", "Softening the description of your pain", "Completely healthy", "A doctor"], "answer": "Softening the description of your pain" },
+  { "id": 7, "question": "The expression 'or whatever' is used to suggest ...", "options": ["specific dates", "similar activities", "the end of a book", "angry feelings"], "answer": "similar activities" },
+  { "id": 8, "question": "What is a 'dash' of sauce?", "options": ["A bottle", "A very small quantity", "A large amount", "A type of vegetable"], "answer": "A very small quantity" },
+  { "id": 9, "question": "If something is 'more or less' solved, it is:", "options": ["Completely solved", "Not solved at all", "Mostly solved but with some vagueness", "A new problem"], "answer": "Mostly solved but with some vagueness" },
+  { "id": 10, "question": "What does 'quite a few' students mean?", "options": ["Zero students", "One or two", "A surprisingly large number", "A small proportion"], "answer": "A surprisingly large number" },
+  { "id": 11, "question": "A 'dollop' of cream is usually:", "options": ["A thin liquid", "A small/medium amount of soft food", "A dry powder", "A gallon"], "answer": "A small/medium amount of soft food" },
+  { "id": 12, "question": "The phrase 'something along those lines' means:", "options": ["Something fitting that description", "A straight line", "A new topic", "A total lie"], "answer": "Something fitting that description" },
+  { "id": 13, "question": "Which quantifier means 'very large quantities' (synonym of lashings)?", "options": ["Oodles", "Dash", "Smattering", "Bit"], "answer": "Oodles" },
+  { "id": 14, "question": "What does 'approximately' mean?", "options": ["Exactly", "Roughly/around", "Never", "Always"], "answer": "Roughly/around" },
+  { "id": 15, "question": "The expression 'words to that effect' means:", "options": ["Exactly those words", "Other words expressing the same meaning", "Silent words", "Angry words"], "answer": "Other words expressing the same meaning" }
+]

@@ -1,0 +1,17 @@
+[
+  { "id": 1, "front": "in excess of", "back": "Formal expression meaning 'more than' (e.g., 'in excess of $1 million')." },
+  { "id": 2, "front": "in the region of", "back": "Formal expression meaning 'around' or 'about' (e.g., 'in the region of £600')." },
+  { "id": 3, "front": "give or take", "back": "Informal expression for an approximate number (e.g., 'five hours give or take')." },
+  { "id": 4, "front": "a week or so", "back": "Informal for 'more than a week, but unclear how much more'." },
+  { "id": 5, "front": "quite a few", "back": "A surprisingly or undesirably large number." },
+  { "id": 6, "front": "a smattering", "back": "A small proportion or number (e.g., 'a smattering of women')." },
+  { "id": 7, "front": "a dash", "back": "A very small quantity (usually of a liquid like chilli sauce)." },
+  { "id": 8, "front": "a dollop", "back": "A small amount, but can also mean 'a large dollop' (usually of soft food like cream)." },
+  { "id": 9, "front": "lashings / oodles", "back": "Very large quantities (usually of food)." },
+  { "id": 10, "front": "more or less", "back": "Used with verbs and adverbs to make things more vague (e.g., 'more or less solved')." },
+  { "id": 11, "front": "a bit of / a bit of a", "back": "Used with adjectives and nouns to soften the meaning (e.g., 'a bit fed up')." },
+  { "id": 12, "front": "or whatever", "back": "Used for similar activities or things (e.g., 'museums or whatever')." },
+  { "id": 13, "front": "or something", "back": "Used for any other kind of similar thing (e.g., 'lemonade or something')." },
+  { "id": 14, "front": "things like that / that kind of thing", "back": "Used for different kinds of entertaining or similar activities." },
+  { "id": 15, "front": "something along those lines", "back": "Something that fits a general description or idea." }
+]

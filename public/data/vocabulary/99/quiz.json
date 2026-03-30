@@ -1,0 +1,17 @@
+[
+  { "id": 1, "question": "Old-fashioned word for 'radio':", "options": ["Wireless", "Luncheon", "Establishment", "Oik"], "answer": "Wireless" },
+  { "id": 2, "question": "Formal word for 'lunch':", "options": ["Luncheon", "Posh", "Craic", "Tiffin"], "answer": "Luncheon" },
+  { "id": 3, "question": "A polite term for 'old people':", "options": ["The elderly", "The elite", "OAPs", "Pensioners"], "answer": "The elderly" },
+  { "id": 4, "question": "What is an 'OAP'?", "options": ["A child", "A teenager", "An old age pensioner", "A student"], "answer": "An old age pensioner" },
+  { "id": 5, "question": "Informal word for 'high-class':", "options": ["Posh", "Common", "Oik", "Chav"], "answer": "Posh" },
+  { "id": 6, "question": "Offensive term for uneducated 'low-class' person:", "options": ["Oik", "Elite", "Toddler", "Establishment"], "answer": "Oik" },
+  { "id": 7, "question": "People with high power/status are '...' .", "options": ["the elite", "the Establishments", "posh", "common"], "answer": "the elite" },
+  { "id": 8, "question": "What is a child who just learned to walk?", "options": ["Toddler", "Adolescent", "Middle-aged", "Pensioner"], "answer": "Toddler" },
+  { "id": 9, "question": "Disapproving word for low-class behavior:", "options": ["Common", "Privileged", "Elite", "Posh"], "answer": "Common" },
+  { "id": 10, "question": "People controlling society are 'the ...'.", "options": ["Establishment", "Oiks", "Wireless", "Toddlers"], "answer": "Establishment" },
+  { "id": 11, "question": "A person aged 50 is ...", "options": ["middle-aged", "adolescent", "elderly", "toddler"], "answer": "middle-aged" },
+  { "id": 12, "question": "Lacking rights and money means you are ...", "options": ["underprivileged", "privileged", "posh", "common"], "answer": "underprivileged" },
+  { "id": 13, "question": "Formal term for 'teenager':", "options": ["Adolescent", "Oik", "Toddler", "OAP"], "answer": "Adolescent" },
+  { "id": 14, "question": "Having special rights due to wealth is being ...", "options": ["privileged", "underprivileged", "common", "middle-aged"], "answer": "privileged" },
+  { "id": 15, "question": "Offensive British slang for low-class young people:", "options": ["Chav", "Posh", "Elite", "Wireless"], "answer": "Chav" }
+]

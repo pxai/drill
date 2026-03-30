@@ -1,0 +1,17 @@
+[
+  { "id": 1, "front": "Must: Formal rules", "back": "Used in formal regulations and warnings (e.g., 'Bookings must be made') [11]." },
+  { "id": 2, "front": "Must: Reminding self", "back": "Used to remind ourselves to do something [11]." },
+  { "id": 3, "front": "Conclusion about past: Must have", "back": "Use 'must have + past participle' (e.g., 'She must have borrowed it') [11]." },
+  { "id": 4, "front": "Conclusion about present: Must be", "back": "Use 'must be + -ing' (e.g., 'You must be imagining things') [11]." },
+  { "id": 5, "front": "Conclusion about future: Must be", "back": "Use 'must be going to' or 'must be + -ing' [11]." },
+  { "id": 6, "front": "Informal state conclusion", "back": "Use 'has got to be' (e.g., 'He has got to be at least two metres tall!') [11]." },
+  { "id": 7, "front": "Concluding from knowledge", "back": "Use 'must have to' or 'must have had to' (e.g., 'You must have to put in a password') [11]." },
+  { "id": 8, "front": "Must vs Have (got) to (Questions)", "back": "Prefer 'have (got) to' in questions for hope/negative answer expect [11]." },
+  { "id": 9, "front": "Have to with Frequency Adverbs", "back": "Use 'have to' (not must) with adverbs like 'often, always, never' [11]." },
+  { "id": 10, "front": "Have to with Past Simple", "back": "Use 'had to' especially in questions and negative sentences [11]." },
+  { "id": 11, "front": "Have to with Modal Verbs", "back": "Do NOT use 'have got to' with other modals (e.g., 'Motorists will have to wait') [11]." },
+  { "id": 12, "front": "Bookings ... made at least seven days before departure.", "back": "must be (formal rule) [11]." },
+  { "id": 13, "front": "I ... my phone. I meant to do it yesterday.", "back": "must charge (reminding self) [11]." },
+  { "id": 14, "front": "Matt wasn't at home. He ... go out unexpectedly.", "back": "must have had to [11]." },
+  { "id": 15, "front": "Do you ... play your trumpet here? It’s deafening!", "back": "have to (implying criticism) [11]." }
+]

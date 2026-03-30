@@ -1,0 +1,17 @@
+[
+  { "id": 1, "front": "crackdown", "back": "Serious action to stop something illegal (e.g., crackdown on crime)." },
+  { "id": 2, "front": "louts", "back": "Rude, aggressive, and often violent young men." },
+  { "id": 3, "front": "besiege", "back": "To surround a place (or person) with a large number of people." },
+  { "id": 4, "front": "vow", "back": "To make a serious promise (common in headlines)." },
+  { "id": 5, "front": "axe", "back": "To cut or remove (e.g., '100 jobs axed')." },
+  { "id": 6, "front": "probe", "back": "An investigation (e.g., 'police probe into theft')." },
+  { "id": 7, "front": "plea", "back": "An urgent request for help (e.g., 'kidnap victim's plea')." },
+  { "id": 8, "front": "bid", "back": "An attempt to do something (e.g., 'bid for power')." },
+  { "id": 9, "front": "clash", "back": "To argue or fight (e.g., 'protesters clash with police')." },
+  { "id": 10, "front": "back", "back": "To support someone or something (e.g., 'PM backs new tax')." },
+  { "id": 11, "front": "blaze", "back": "A large fire." },
+  { "id": 12, "front": "ban", "back": "An official prohibition (e.g., 'ban on smoking')." },
+  { "id": 13, "front": "curb", "back": "To limit or control something (e.g., 'curb inflation')." },
+  { "id": 14, "front": "toll", "back": "The number of deaths or victims (e.g., 'death toll rises')." },
+  { "id": 15, "front": "envoy", "back": "A messenger or representative (e.g., 'peace envoy')." }
+]

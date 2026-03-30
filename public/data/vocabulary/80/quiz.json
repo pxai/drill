@@ -1,0 +1,17 @@
+[
+  { "id": 1, "question": "What does the cliché 'the good old days' refer to?", "options": ["The future", "A time in the past remembered as better", "The current week", "A type of movie"], "answer": "A time in the past remembered as better" },
+  { "id": 2, "question": "To 'reminisce' is to:", "options": ["Forget everything", "Think or talk about enjoyable past events", "Predict the future", "Buy old furniture"], "answer": "Think or talk about enjoyable past events" },
+  { "id": 3, "question": "Seeing the past through 'rose-tinted spectacles' means you see it:", "options": ["In pink color", "Better than it really was", "Exactly as it was", "Worse than it was"], "answer": "Better than it really was" },
+  { "id": 4, "question": "Which formal verb means to 'regret very much'?", "options": ["Rue", "Reminisce", "Stand out", "Touch"], "answer": "Rue" },
+  { "id": 5, "question": "If you 'lament' the passing of time, you are:", "options": ["Happy it's moving fast", "Feeling sad and regretful about it", "Stopping time", "Using a clock"], "answer": "Feeling sad and regretful about it" },
+  { "id": 6, "question": "Complete the cliché: 'Schooldays are the ... days of your life.'", "options": ["worst", "best/happiest", "longest", "shortest"], "answer": "best/happiest" },
+  { "id": 7, "question": "To 'keep in touch' with old teachers is to:", "options": ["Never see them", "Maintain contact with them", "Hit them", "Forget their names"], "answer": "Maintain contact with them" },
+  { "id": 8, "question": "If an event 'stands out in your mind', it is:", "options": ["Forgotten", "Very easy to remember", "A secret", "Boring"], "answer": "Very easy to remember" },
+  { "id": 9, "question": "What is the meaning of 'mourn' in a context of opportunities?", "options": ["To celebrate them", "To feel sad about lost opportunities", "To find new ones", "To ignore them"], "answer": "To feel sad about lost opportunities" },
+  { "id": 10, "question": "To 'regret' spending too much money is to:", "options": ["Feel happy about it", "Feel sorry about it", "Earn more", "Lose more"], "answer": "Feel sorry about it" },
+  { "id": 11, "question": "The question 'What became of him?' asks:", "options": ["Who is he?", "What happened to him?", "Where is he from?", "Is he rich?"], "answer": "What happened to him?" },
+  { "id": 12, "question": "Which cliché is used to say the current situation is worse than before?", "options": ["The good old days", "Things aren't what they used to be", "I wish I'd known", "If only"], "answer": "Things aren't what they used to be" },
+  { "id": 13, "question": "To 'look back' on your childhood is to:", "options": ["Turn your head", "Think about it", "Visit your old house", "Hate it"], "answer": "Think about it" },
+  { "id": 14, "question": "If you show 'no sign of remorse', you:", "options": ["Are very sorry", "Do not feel guilty or regretful", "Are crying", "Are in prison"], "answer": "Do not feel guilty or regretful" },
+  { "id": 15, "question": "The phrase 'if only' is used to express:", "options": ["Facts", "Wishes that things were different", "Future plans", "Scientific theories"], "answer": "Wishes that things were different" }
+]

@@ -1,0 +1,17 @@
+[
+  { "id": 1, "front": "May/Might Possibility", "back": "Often have similar meaning, but 'may' is preferred in academic/formal language [9]." },
+  { "id": 2, "front": "Future Possibility in Speech", "back": "We prefer 'might' (e.g., 'I might paint the kitchen purple') [9]." },
+  { "id": 3, "front": "Asking about Possibility", "back": "Do NOT use 'may'; use 'Could it be...?' or 'Are you likely to...?' [9]." },
+  { "id": 4, "front": "Formal Asking Permission", "back": "Use 'may' (e.g., 'May I leave now?') [9]." },
+  { "id": 5, "front": "Typically Past: Might + base", "back": "Formal/Literary for what was typical (e.g., 'children might be sent down mines') [9]." },
+  { "id": 6, "front": "Past Ability alternative", "back": "Use 'could + bare infinitive' (e.g., 'the police could arrest you') [9]." },
+  { "id": 7, "front": "Compensating limitation", "back": "Pattern: 'may/might not... but...' (e.g., 'The painting may not be a masterpiece, but the colours are remarkable') [9]." },
+  { "id": 8, "front": "Past events: May/Might have", "back": "Use 'may/might have + past participle' for past possibilities [9]." },
+  { "id": 9, "front": "Ongoing past events", "back": "Use 'may/might have been + -ing' (e.g., 'he might have been playing') [9]." },
+  { "id": 10, "front": "The seeds from the plant ... grow up to 20 cm.", "back": "may (formal characteristic) [9]." },
+  { "id": 11, "front": "Might they be ... to change their minds?", "back": "persuaded (very formal question) [9]." },
+  { "id": 12, "front": "Do you think Laura ... the report by now?", "back": "may / might have completed (could is also possible) [9]." },
+  { "id": 13, "front": "We ... go to Majorca for our holiday this summer.", "back": "may / might (less likely) [10]." },
+  { "id": 14, "front": "Dr Carter ... be coming over this evening.", "back": "might (possibility) [10]." },
+  { "id": 15, "front": "Left-handed children ... punished in the past.", "back": "might be (typical past) [10]." }
+]

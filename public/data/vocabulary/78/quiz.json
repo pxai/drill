@@ -1,0 +1,17 @@
+[
+  { "id": 1, "question": "Which formal verb means 'to praise someone highly'?", "options": ["Laud", "Smarmy", "Suck up", "Moan"], "answer": "Laud" },
+  { "id": 2, "question": "If someone is 'obsequious', their praise is:", "options": ["Sincere", "Too eager and probably insincere", "Quiet", "Illegal"], "answer": "Too eager and probably insincere" },
+  { "id": 3, "question": "What is a 'standing ovation'?", "options": ["A formal letter", "When the audience stands and claps", "A type of dinner", "A quiet criticism"], "answer": "When the audience stands and claps" },
+  { "id": 4, "question": "If you 'suck up' to the boss, you are:", "options": ["Being rude", "Trying to please them for an advantage", "Cleaning the office", "Hiring them"], "answer": "Trying to please them for an advantage" },
+  { "id": 5, "question": "Which informal word describes someone being too polite in an insincere way?", "options": ["Laud", "Smarmy", "Extol", "Congratulate"], "answer": "Smarmy" },
+  { "id": 6, "question": "Being 'the toast of' a city means you are:", "options": ["Eating breakfast", "Very famous and celebrated there", "Burnt out", "A secret agent"], "answer": "Very famous and celebrated there" },
+  { "id": 7, "question": "What are 'plaudits'?", "options": ["Criticisms", "Praise or approval", "Formal warnings", "Types of awards"], "answer": "Praise or approval" },
+  { "id": 8, "question": "A 'pat on the back' is a sign of:", "options": ["Anger", "Praise", "Illness", "Confusion"], "answer": "Praise" },
+  { "id": 9, "question": "To 'extol' something is to:", "options": ["Praise it very much", "Criticize it", "Sell it", "Forget it"], "answer": "Praise it very much" },
+  { "id": 10, "question": "If you 'praise someone to the skies', your praise is:", "options": ["Weak", "Extremely high", "Non-existent", "Only for children"], "answer": "Extremely high" },
+  { "id": 11, "question": "What is 'faint praise'?", "options": ["Greatest possible praise", "Praise so weak it's almost an insult", "Praise for a quiet person", "Illegal praise"], "answer": "Praise so weak it's almost an insult" },
+  { "id": 12, "question": "A 'double-edged' compliment is one that:", "options": ["Is from two people", "Is very long", "Also contains a hidden insult", "Is about two subjects"], "answer": "Also contains a hidden insult" },
+  { "id": 13, "question": "To 'congratulate' someone is to:", "options": ["Say nice things about their success", "Give them a job", "Invite them to dinner", "Ask for a favor"], "answer": "Say nice things about their success" },
+  { "id": 14, "question": "In a speech, you might 'pay ...' to your predecessor.", "options": ["plaudits", "tribute", "toast", "ovation"], "answer": "tribute" },
+  { "id": 15, "question": "The verb 'flatter' often has a connotation of being ...", "options": ["honest", "insincere", "angry", "scientific"], "answer": "insincere" }
+]

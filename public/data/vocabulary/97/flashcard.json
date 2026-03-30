@@ -1,0 +1,17 @@
+[
+  { "id": 1, "front": "craic", "back": "Irish English for 'fun' or 'enjoyable conversation'." },
+  { "id": 2, "front": "beaut", "back": "Australian English for 'something excellent/beautiful'." },
+  { "id": 3, "front": "shroff", "back": "Hong Kong English for an office where you pay for parking." },
+  { "id": 4, "front": "outback", "back": "Australian English for the remote, dry inland areas." },
+  { "id": 5, "front": "barbie", "back": "Australian English for 'barbecue'." },
+  { "id": 6, "front": "ladla", "back": "Indian English for 'beloved/pampered' (child)." },
+  { "id": 7, "front": "tiffin", "back": "Indian English for a light meal or snack." },
+  { "id": 8, "front": "kopitiam", "back": "Singapore/Malaysia English for a traditional coffee shop." },
+  { "id": 9, "front": "lah", "back": "Singapore/Malaysia particle used at the end of sentences for emphasis." },
+  { "id": 10, "front": "sheila", "back": "Australian slang for 'woman' (old-fashioned)." },
+  { "id": 11, "front": "braai", "back": "South African English for 'barbecue'." },
+  { "id": 12, "front": "lekker", "back": "South African English for 'nice' or 'tasty'." },
+  { "id": 13, "front": "wee", "back": "Scottish English for 'small'." },
+  { "id": 14, "front": "bonnie", "back": "Scottish English for 'beautiful'." },
+  { "id": 15, "front": "to outwith", "back": "Scottish English for 'outside'." }
+]

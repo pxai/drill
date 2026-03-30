@@ -1,0 +1,17 @@
+[
+  { "id": 1, "question": "What does it mean if two people 'get on like a house on fire'?", "options": ["They argue a lot", "They get on very well", "Their house is burning", "They never speak"], "answer": "They get on very well" },
+  { "id": 2, "question": "A person who is 'thick as two short planks' is:", "options": ["Very strong", "Extremely stupid", "Very tall", "An expert"], "answer": "Extremely stupid" },
+  { "id": 3, "question": "Someone with the 'gift of the gab' is good at:", "options": ["Cooking", "Talking persuasively", "Running", "Keeping secrets"], "answer": "Talking persuasively" },
+  { "id": 4, "question": "If you are 'on cloud nine', you are:", "options": ["In a plane", "Extremely happy", "Depressed", "Confused"], "answer": "Extremely happy" },
+  { "id": 5, "question": "To 'pull the wool over someone's eyes' is to:", "options": ["Buy them a sweater", "Deceive them", "Help them see", "Make them laugh"], "answer": "Deceive them" },
+  { "id": 6, "question": "A person who is 'nobody's fool' is:", "options": ["Very stupid", "Very clever and hard to trick", "Always joking", "Alone"], "answer": "Very clever and hard to trick" },
+  { "id": 7, "question": "What is a 'mine of information'?", "options": ["A type of bomb", "A person who knows a lot of things", "A library building", "A computer"], "answer": "A person who knows a lot of things" },
+  { "id": 8, "question": "If someone 'gets on your nerves', they:", "options": ["Help you", "Annoy you", "Make you happy", "Are related to you"], "answer": "Annoy you" },
+  { "id": 9, "question": "Being 'slow on the uptake' means you:", "options": ["Run slowly", "Take a long time to understand things", "Are very fast at learning", "Are a doctor"], "answer": "Take a long time to understand things" },
+  { "id": 10, "question": "The 'brains behind' a project is the person who:", "options": ["Does the physical work", "Is the most intelligent and plans it", "Paid for it", "Hates it"], "answer": "Is the most intelligent and plans it" },
+  { "id": 11, "question": "If you 'only have eyes for' one person, you are:", "options": ["Blind", "Only attracted to them", "Angry with them", "Looking at them only"], "answer": "Only attracted to them" },
+  { "id": 12, "question": "To be 'in the know' means having ...", "options": ["inside knowledge", "no friends", "a big house", "a headache"], "answer": "inside knowledge" },
+  { "id": 13, "question": "What does it mean to 'fall head over heels in love'?", "options": ["To trip while running", "To fall deeply in love", "To hate someone", "To get married quickly"], "answer": "To fall deeply in love" },
+  { "id": 14, "question": "If you have a 'soft spot for' someone, you:", "options": ["Hate them", "Are fond of them", "Are afraid of them", "Work with them"], "answer": "Are fond of them" },
+  { "id": 15, "question": "To 'know what's what' means to be a(n) ...", "options": ["beginner", "expert", "liar", "child"], "answer": "expert" }
+]

@@ -1,0 +1,17 @@
+[
+  { "id": 1, "question": "Watch me, Mum; I ... stand on one leg.", "options": ["am able to", "can", "could", "was able to"], "answer": "can" },
+  { "id": 2, "question": "Valuables ... be left in the hotel safe.", "options": ["can", "are able to", "could", "Both can and are able to"], "answer": "can / are able to" },
+  { "id": 3, "question": "We ... finish the match before it started snowing too heavily.", "options": ["could", "were able to", "can", "are able to"], "answer": "could / were able to" },
+  { "id": 4, "question": "The air was so polluted, I ... breathe.", "options": ["could hardly", "was hardly able to", "Both are possible", "Neither"], "answer": "could hardly / was hardly able to" },
+  { "id": 5, "question": "She looked all over the house, but ... find her keys.", "options": ["couldn't", "wasn't able to", "Both are possible", "Neither"], "answer": "couldn't / wasn't able to" },
+  { "id": 6, "question": "Anyone ... to fish in the lake when the council owned it. (General)", "options": ["could", "was allowed", "Both are possible", "Neither"], "answer": "Both are possible" },
+  { "id": 7, "question": "Although he didn't have a ticket, Ned ... come in.", "options": ["could", "was allowed to", "is allowed to", "can"], "answer": "was allowed to" },
+  { "id": 8, "question": "I ... smell the paint when I came in.", "options": ["can", "could", "am able to", "was able to"], "answer": "could / was able to" },
+  { "id": 9, "question": "Can you / Are you able to ... without your glasses?", "options": ["drive", "driving", "to drive", "driven"], "answer": "drive" },
+  { "id": 10, "question": "There ... be many people who haven't watched television.", "options": ["can't", "couldn't", "aren't able to", "don't"], "answer": "can't" },
+  { "id": 11, "question": "I ... untie the ropes without the guards noticing.", "options": ["could", "was able to", "can", "Both could and was able to"], "answer": "could / was able to" },
+  { "id": 12, "question": "We ... stay with Jake in Oslo. (= it's possible if he's there)", "options": ["can", "could", "will", "are able to"], "answer": "could" },
+  { "id": 13, "question": "No changes ... to this rail ticket after purchase.", "options": ["can be made", "are able to be made", "Both are possible", "Neither"], "answer": "can / are able to be made" },
+  { "id": 14, "question": "When the firefighters arrived they ... put out the flames.", "options": ["could", "were able to", "Both are possible", "Neither"], "answer": "could / were able to" },
+  { "id": 15, "question": "I ... have a couple of days off last week.", "options": ["could", "was able to", "can", "am able to"], "answer": "could / was able to" }
+]

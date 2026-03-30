@@ -1,0 +1,17 @@
+[
+  { "id": 1, "question": "Which is more formal for expressing possibility?", "options": ["Might", "May", "Could", "Can"], "answer": "May" },
+  { "id": 2, "question": "I ... paint the kitchen purple. (In speech)", "options": ["may", "might", "could", "Both may and might"], "answer": "might" },
+  { "id": 3, "question": " ... it be that you don't want to leave?", "options": ["May", "Might", "Could", "Can"], "answer": "Could" },
+  { "id": 4, "question": " ... I help you? (Offering help formally)", "options": ["Can", "May", "Might", "Shall"], "answer": "May" },
+  { "id": 5, "question": "The planet Venus ... be seen clearly in the night sky this month.", "options": ["may", "might", "can", "Both may and might"], "answer": "may / might" },
+  { "id": 6, "question": "Exceeding the dose ... cause drowsiness.", "options": ["may", "might", "can", "Both may and might"], "answer": "may / might" },
+  { "id": 7, "question": "He may not be the best singer, ...", "options": ["but he has a lot of energy", "but he works very hard", "Both are possible", "Neither"], "answer": "Both are possible" },
+  { "id": 8, "question": "She ... have been exaggerating about being in pain.", "options": ["may", "might", "could", "Both may and might"], "answer": "may / might" },
+  { "id": 9, "question": "Employers ... requiring a woman to leave her job when she got married.", "options": ["might be", "might require", "may require", "Both might be and might require"], "answer": "might require" },
+  { "id": 10, "question": "I ... be moving or I ... have moved to Dubai.", "options": ["may / may", "might / might", "Both are correct", "Neither"], "answer": "Both are correct" },
+  { "id": 11, "question": "The weather ... by then. (Possibility in the future)", "options": ["may have improved", "might have improved", "Both are correct", "Neither"], "answer": "Both are correct" },
+  { "id": 12, "question": "During the 1960s, people ... simply for being on the streets.", "options": ["might be imprisoned", "may be imprisoned", "Both are correct", "Neither"], "answer": "might be imprisoned" },
+  { "id": 13, "question": "His maths ... by the time the exam comes round.", "options": ["may have improved", "might have improved", "Both are correct", "Neither"], "answer": "Both are correct" },
+  { "id": 14, "question": "Marco isn't in his office. He ... at home.", "options": ["may be working", "might be working", "Both are correct", "Neither"], "answer": "Both are correct" },
+  { "id": 15, "question": "When I go to Vienna I ... with Max.", "options": ["may be staying", "might be staying", "Both are correct", "Neither"], "answer": "Both are correct" }
+]

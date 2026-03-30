@@ -1,0 +1,17 @@
+[
+  { "id": 1, "question": "American word for 'tap':", "options": ["Faucet", "Spigot", "Handle", "Sink"], "answer": "Faucet" },
+  { "id": 2, "question": "American word for 'petrol':", "options": ["Fuel", "Gas", "Oil", "Benzine"], "answer": "Gas" },
+  { "id": 3, "question": "What is 'sidewalk' in British English?", "options": ["Path", "Road", "Pavement", "Lane"], "answer": "Pavement" },
+  { "id": 4, "question": "In the US, the floor at ground level is the ... floor.", "options": ["ground", "first", "zero", "base"], "answer": "first" },
+  { "id": 5, "question": "What is 'biscuits' in American English?", "options": ["Cookies", "Scones", "Crackers", "Buns"], "answer": "Cookies" },
+  { "id": 6, "question": "American English for 'lift':", "options": ["Elevator", "Stair", "Escalator", "Booster"], "answer": "Elevator" },
+  { "id": 7, "question": "What is the 'boot' of a car in American English?", "options": ["Hood", "Trunk", "Bonnet", "Tire"], "answer": "Trunk" },
+  { "id": 8, "question": "American for 'sweets':", "options": ["Sugar", "Candy", "Chocolate", "Gum"], "answer": "Candy" },
+  { "id": 9, "question": "American for 'rubbish':", "options": ["Trash/Garbage", "Scrap", "Waste", "Litter"], "answer": "Trash/Garbage" },
+  { "id": 10, "question": "What is a 'holiday' called in American English?", "options": ["Break", "Vacation", "Recess", "Leave"], "answer": "Vacation" },
+  { "id": 11, "question": "American English for 'underground':", "options": ["Metro", "Subway", "Tunnel", "Tube"], "answer": "Subway" },
+  { "id": 12, "question": "What does 'kitty-corner' mean?", "options": ["Diagonally opposite", "Next door", "Far away", "Around the corner"], "answer": "Diagonally opposite" },
+  { "id": 13, "question": "Formal US word for 'get off a plane':", "options": ["Deplane", "Landing", "Exit", "Disembark"], "answer": "Deplane" },
+  { "id": 14, "question": "US term for 'perks':", "options": ["Fringe benefits", "Extras", "Tips", "Bonuses"], "answer": "Fringe benefits" },
+  { "id": 15, "question": "American for 'flat':", "options": ["House", "Studio", "Apartment", "Suite"], "answer": "Apartment" }
+]

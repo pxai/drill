@@ -1,0 +1,17 @@
+[
+  { "id": 1, "question": "If a meeting 'went like clockwork', it:", "options": ["Was very late", "Went perfectly as planned", "Was boring", "Was cancelled"], "answer": "Went perfectly as planned" },
+  { "id": 2, "question": "A situation described as 'clear as mud' is actually:", "options": ["Very clear", "Very unclear and confusing", "Clean", "Simple"], "answer": "Very unclear and confusing" },
+  { "id": 3, "question": "What does 'up in the air' mean?", "options": ["High up", "Uncertain or undecided", "Finished", "Flying"], "answer": "Uncertain or undecided" },
+  { "id": 4, "question": "A 'complete shambles' is a situation that is:", "options": ["Very organized", "Completely disorganized and chaotic", "A new house", "A successful party"], "answer": "Completely disorganized and chaotic" },
+  { "id": 5, "question": "If your 'wires got crossed', you:", "options": ["Had a misunderstanding", "Fixed a computer", "Were angry", "Lost your keys"], "answer": "Had a misunderstanding" },
+  { "id": 6, "question": "A 'storm in a teacup' refers to:", "options": ["A natural disaster", "A lot of fuss over something unimportant", "A cup of tea", "A very large argument"], "answer": "A lot of fuss over something unimportant" },
+  { "id": 7, "question": "If a plan 'worked like a dream', it was:", "options": ["Only a dream", "Very successful", "A failure", "Scary"], "answer": "Very successful" },
+  { "id": 8, "question": "What is a 'red herring'?", "options": ["A type of fish", "Something that distracts from the main issue", "A lucky sign", "A final warning"], "answer": "Something that distracts from the main issue" },
+  { "id": 9, "question": "To 'sweep a problem under the carpet' is to:", "options": ["Clean the house", "Ignore or hide the problem", "Solve it quickly", "Report it"], "answer": "Ignore or hide the problem" },
+  { "id": 10, "question": "If a plan 'falls through', it:", "options": ["Succeeds", "Fails", "Starts late", "Is secret"], "answer": "Fails" },
+  { "id": 11, "question": "Being 'out of the woods' means you are:", "options": ["Lost in a forest", "Free from a difficult situation", "Camping", "Looking for trees"], "answer": "Free from a difficult situation" },
+  { "id": 12, "question": "If something 'blows up in your face', it:", "options": ["Is a surprise party", "Goes wrong and causes you trouble", "Makes you look beautiful", "Is a loud noise only"], "answer": "Goes wrong and causes you trouble" },
+  { "id": 13, "question": "The phrase 'famous last words' is usually:", "options": ["Sincere", "Ironic", "Scientific", "Short"], "answer": "Ironic" },
+  { "id": 14, "question": "If someone arrived 'out of the blue', they arrived:", "options": ["In a blue car", "Suddenly and without warning", "Late", "By boat"], "answer": "Suddenly and without warning" },
+  { "id": 15, "question": "When things don't 'go according to plan', they ...", "options": ["fail", "succeed", "disappear", "wait"], "answer": "fail" }
+]

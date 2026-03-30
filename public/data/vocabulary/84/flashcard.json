@@ -1,0 +1,17 @@
+[
+  { "id": 1, "front": "jot", "back": "To write something quickly (e.g., 'jot in your e-mail address')." },
+  { "id": 2, "front": "scramble", "back": "To write a note hurriedly or in a messy way (e.g., 'scramble a note')." },
+  { "id": 3, "front": "dawdle", "back": "To spend too much time or move slowly (metaphorically used for slow progress in an exercise book)." },
+  { "id": 4, "front": "lower case", "back": "Small letters (opposite of upper case)." },
+  { "id": 5, "front": "upper case", "back": "Capital letters (e.g., NAME)." },
+  { "id": 6, "front": "bold", "back": "Thicker, darker typeface used for emphasis." },
+  { "id": 7, "front": "italics", "back": "Slanted typeface often used for titles or emphasis." },
+  { "id": 8, "front": "font size", "back": "The size of the letters in a digital document." },
+  { "id": 9, "front": "typeface", "back": "A particular design of type (e.g., Arial, Times New Roman)." },
+  { "id": 10, "front": "block capitals", "back": "Handwriting using only large, unconnected capital letters." },
+  { "id": 11, "front": "title", "back": "The name of a book or essay." },
+  { "id": 12, "front": "subtitle", "back": "A second, explanatory title." },
+  { "id": 13, "front": "chapter", "back": "A main division of a book." },
+  { "id": 14, "front": "section", "back": "A specific part of a chapter or article (e.g., 8.1)." },
+  { "id": 15, "front": "paragraphing", "back": "The way an essay or text is organized into paragraphs." }
+]

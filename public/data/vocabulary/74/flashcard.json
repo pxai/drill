@@ -1,0 +1,17 @@
+[
+  { "id": 1, "front": "aggregate", "back": "The total amount when different amounts are added up [2, 7]." },
+  { "id": 2, "front": "blip", "back": "A temporary change or deviation from a general trend [2, 7]." },
+  { "id": 3, "front": "continuum", "back": "Something that changes gradually without distinct divisions [7]." },
+  { "id": 4, "front": "correlation", "back": "A connection between two things that cause or affect each other [7]." },
+  { "id": 5, "front": "deviate from the norm", "back": "To move away from the standard or accepted pattern [7]." },
+  { "id": 6, "front": "discrepancy", "back": "A difference between two things that should be the same [7]." },
+  { "id": 7, "front": "erratic", "back": "Not regular and often changing suddenly [7]." },
+  { "id": 8, "front": "fluctuate", "back": "To go up and down repeatedly (e.g., sales or interest rates) [7]." },
+  { "id": 9, "front": "five-fold increase", "back": "An increase multiplied by five [7]." },
+  { "id": 10, "front": "in inverse proportion to", "back": "When one thing increases, the other decreases in a related way [7]." },
+  { "id": 11, "front": "inconsistent", "back": "Not in agreement or not following a logical pattern [7]." },
+  { "id": 12, "front": "seesaw", "back": "To go up and down continuously (like the playground toy) [7]." },
+  { "id": 13, "front": "ballpark figure", "back": "A guess or estimate believed to be accurate [2, 7]." },
+  { "id": 14, "front": "err on the side of caution", "back": "To be more careful than necessary in an estimate [7]." },
+  { "id": 15, "front": "conservative estimate", "back": "A cautious estimate, often lower than the actual figure might be [7]." }
+]

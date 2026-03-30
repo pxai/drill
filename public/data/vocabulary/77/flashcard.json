@@ -1,0 +1,17 @@
+[
+  { "id": 1, "front": "cast-iron alibi", "back": "A firm and undeniable reason/proof why someone is innocent [2, 12]." },
+  { "id": 2, "front": "lame excuse", "back": "A weak and unconvincing excuse [12]." },
+  { "id": 3, "front": "flimsy pretext", "back": "A weak or false reason given to hide the real purpose of an action [12]." },
+  { "id": 4, "front": "remorse", "back": "A strong feeling of guilt or regret for something wrong you have done [12]." },
+  { "id": 5, "front": "acquitted", "back": "Formally declared not guilty in a court of law [12]." },
+  { "id": 6, "front": "repent", "back": "To say you are sorry and ask for forgiveness for a sin or crime [12]." },
+  { "id": 7, "front": "reprieve", "back": "An official order stopping or delaying a punishment [12]." },
+  { "id": 8, "front": "posthumous pardon", "back": "An official forgiveness issued after someone's death [12]." },
+  { "id": 9, "front": "exonerated", "back": "Declared to be free of blame for something [2, 12]." },
+  { "id": 10, "front": "armistice", "back": "An agreement to stop war while peace discussions take place [2, 12]." },
+  { "id": 11, "front": "truce", "back": "A declaration that fighting will stop for a specific period [2, 12]." },
+  { "id": 12, "front": "accord", "back": "An agreement not to fight, or to work together peacefully [2, 12]." },
+  { "id": 13, "front": "treaty", "back": "A formal written agreement between countries to end a war [2, 12]." },
+  { "id": 14, "front": "sincere apology", "back": "An apology that is truly meant [12]." },
+  { "id": 15, "front": "acquit someone of a crime", "back": "Common collocation for when a court decides someone is not guilty [12]." }
+]

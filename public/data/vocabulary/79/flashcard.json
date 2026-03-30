@@ -1,0 +1,17 @@
+[
+  { "id": 1, "front": "vow", "back": "A serious promise, often for life (e.g., marriage vows) [2, 14]." },
+  { "id": 2, "front": "pledge", "back": "A formal promise, especially to give money or support [2, 14]." },
+  { "id": 3, "front": "wager", "back": "Formal word for a bet [14]." },
+  { "id": 4, "front": "resolution", "back": "A firm decision to do or not to do something (e.g., New Year's resolution) [14]." },
+  { "id": 5, "front": "have a flutter", "back": "Colloquial: To have a small bet on something [2, 14]." },
+  { "id": 6, "front": "swear", "back": "To make a formal promise to tell the truth (e.g., in a court of law) [14]." },
+  { "id": 7, "front": "stake", "back": "The amount of money you risk in a bet." },
+  { "id": 8, "front": "odds", "back": "The probability that something will happen, often used in betting [14]." },
+  { "id": 9, "front": "bet", "back": "To risk money on the result of an event." },
+  { "id": 10, "front": "I'd put my money on it", "back": "Expression showing you are very sure something will happen [14]." },
+  { "id": 11, "front": "best bet", "back": "The most likely successful action to take [14]." },
+  { "id": 12, "front": "wager a lot of money", "back": "Formal way to say 'bet a lot of money' [14]." },
+  { "id": 13, "front": "make a resolution", "back": "To decide firmly on a course of action [14]." },
+  { "id": 14, "front": "promise the moon", "back": "To make extravagant promises that are impossible to keep [14]." },
+  { "id": 15, "front": "not a real gambler", "back": "Someone who doesn't normally bet money [14]." }
+]

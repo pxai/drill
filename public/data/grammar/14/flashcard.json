@@ -1,0 +1,17 @@
+[
+  { "id": 1, "front": "Future from the past", "back": "Uses past tenses of future forms (e.g., 'will' becomes 'would') [3]." },
+  { "id": 2, "front": "Would vs was going to", "back": "Eleni decided that she would stay (would = will) / Eleni wasn't going to say (was going to = am going to) [3]." },
+  { "id": 3, "front": "Was/Were to + infinitive", "back": "Used for things that actually happened in the future from that past point [3]." },
+  { "id": 4, "front": "Was/Were to have + past participle", "back": "Used for things that were expected but DID NOT happen [3]." },
+  { "id": 5, "front": "Be supposed to", "back": "More natural than 'was to have + past participle' in informal contexts [3]." },
+  { "id": 6, "front": "Uncertain outcomes", "back": "We use past continuous (e.g., 'we were seeing each other later') when we don't know if the event happened [3]." },
+  { "id": 7, "front": "The exam ... after 30 minutes.", "back": "would have finished (prediction from past) [3]." },
+  { "id": 8, "front": "It was announced that there ... a meeting.", "back": "was to be (formal arrangement) [3]." },
+  { "id": 9, "front": "As the bell ... , pack your books.", "back": "was about to go (immediate past-future) [3]." },
+  { "id": 10, "front": "The boat, which ... them to the island, failed to arrive.", "back": "was to have taken (expected but didn't happen) [3]." },
+  { "id": 11, "front": "I ... help, but I was ill.", "back": "was supposed to (unfulfilled obligation/plan) [3]." },
+  { "id": 12, "front": "I didn't phone because I ... him when I'd finished work.", "back": "was going to see [6]." },
+  { "id": 13, "front": "The meeting ... in the hall but was cancelled.", "back": "was to have taken place [6]." },
+  { "id": 14, "front": "She ... with Heath Ledger but the part went to her sister.", "back": "was to have appeared [6]." },
+  { "id": 15, "front": "After the war he ... at London University for ten years.", "back": "was to teach (fact that actually happened) [6]." }
+]

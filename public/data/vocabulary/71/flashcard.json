@@ -1,0 +1,17 @@
+[
+  { "id": 1, "front": "affinity", "back": "A natural liking for or identification with someone or something (e.g., 'a close affinity between Singapore and Hong Kong') [1]." },
+  { "id": 2, "front": "akin to", "back": "Similar in spirit or character to something (e.g., 'His life story is akin to a novel') [1]." },
+  { "id": 3, "front": "correspond to", "back": "To be similar to or the same as something else in another situation [1]." },
+  { "id": 4, "front": "disparate", "back": "Very different and not related to each other (e.g., 'disparate tribes') [1, 2]." },
+  { "id": 5, "front": "discrete", "back": "Independent of other things; separate (e.g., 'discrete categories') [1, 2]." },
+  { "id": 6, "front": "divergent", "back": "Different from each other or from a standard (e.g., 'divergent viewpoints') [1]." },
+  { "id": 7, "front": "indistinguishable", "back": "So similar that you cannot see any differences [1]." },
+  { "id": 8, "front": "diverse", "back": "Including many different types of people or things (e.g., 'a diverse selection of music') [1]." },
+  { "id": 9, "front": "dissimilar", "back": "Not the same as something else [1]." },
+  { "id": 10, "front": "tantamount to", "back": "Being almost the same as something, usually something bad (e.g., 'tantamount to a lie') [1]." },
+  { "id": 11, "front": "distinct", "back": "Clearly different or belonging to a different type [1]." },
+  { "id": 12, "front": "discrepancy", "back": "A difference between two things that should be the same [3]." },
+  { "id": 13, "front": "equivalence", "back": "The state of being equal or having the same value." },
+  { "id": 14, "front": "resemble", "back": "To look like or be similar to another person or thing." },
+  { "id": 15, "front": "contrast", "back": "A clear difference between two things when compared." }
+]

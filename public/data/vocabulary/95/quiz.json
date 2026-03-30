@@ -1,0 +1,17 @@
+[
+  { "id": 1, "question": "Which verb means 'to choose for special attention'?", "options": ["Single out", "Phase out", "Play down", "Miss out"], "answer": "Single out" },
+  { "id": 2, "question": "To 'fail to use an opportunity' is to ...", "options": ["miss out on", "branch out", "gloss over", "mull over"], "answer": "miss out on" },
+  { "id": 3, "question": "A business doing new things is ...", "options": ["branching out", "dying down", "falling back", "pulling through"], "answer": "branching out" },
+  { "id": 4, "question": "If you are 'full of excitement', you ... it.", "options": ["bubble over with", "run up against", "single out", "get bogged down"], "answer": "bubble over with" },
+  { "id": 5, "question": "To 'abolish' something is to ...", "options": ["do away with it", "phase it out", "mull it over", "gloss it over"], "answer": "do away with it" },
+  { "id": 6, "question": "Using a backup plan is '...' it.", "options": ["falling back on", "getting bogged down in", "measuring up to", "pulling through"], "answer": "falling back on" },
+  { "id": 7, "question": "To 'think carefully' is to ...", "options": ["mull over", "play down", "die down", "branch out"], "answer": "mull over" },
+  { "id": 8, "question": "If standards are met, they ... expectations.", "options": ["measure up to", "gloss over", "single out", "miss out on"], "answer": "measure up to" },
+  { "id": 9, "question": "To 'stop using something gradually' is to ...", "options": ["phase it out", "do away with it", "die down", "play down"], "answer": "phase it out" },
+  { "id": 10, "question": "What is the meaning of 'gloss over'?", "options": ["Avoid unpleasant details", "Increase importance", "Think carefully", "Recover from illness"], "answer": "Avoid unpleasant details" },
+  { "id": 11, "question": "If you 'experience a problem', you ... it.", "options": ["run up against", "bubble over with", "play down", "miss out on"], "answer": "run up against" },
+  { "id": 12, "question": "To 'recover from illness' is to ...", "options": ["pull through", "die down", "mull over", "gloss over"], "answer": "pull through" },
+  { "id": 13, "question": "Which verb means to 'minimize importance'?", "options": ["Play down", "Single out", "Branch out", "Phase out"], "answer": "Play down" },
+  { "id": 14, "question": "If noise 'gradually decreases', it ...", "options": ["dies down", "bubbles over", "runs up against", "mulls over"], "answer": "dies down" },
+  { "id": 15, "question": "To 'get stuck in details' is to ...", "options": ["get bogged down", "single out", "phase out", "pull through"], "answer": "get bogged down" }
+]

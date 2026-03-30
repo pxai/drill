@@ -1,0 +1,17 @@
+[
+  { "id": 1, "question": "Which tense expresses completion by a certain time in the future?", "options": ["Future continuous", "Future perfect simple", "Future perfect continuous", "Will + infinitive"], "answer": "Future perfect simple" },
+  { "id": 2, "question": "I ... this report before the end of the week.", "options": ["will have been finishing", "will have finished", "will be finishing", "am finishing"], "answer": "will have finished" },
+  { "id": 3, "question": "Next month, she ... for the company for ten years.", "options": ["will work", "will be working", "will have been working", "has worked"], "answer": "will have been working" },
+  { "id": 4, "question": "Will you ... to work, as usual?", "options": ["be driving", "have driven", "have been driving", "drive"], "answer": "be driving" },
+  { "id": 5, "question": "The weather forecast says the rain ... by the morning.", "options": ["will clear", "will be clearing", "will have cleared", "is clearing"], "answer": "will have cleared" },
+  { "id": 6, "question": "I suppose by now school ... for Christmas.", "options": ["will close", "will have closed", "will be closing", "closes"], "answer": "will have closed" },
+  { "id": 7, "question": "Tim's 18; it's hard to believe he ... school for college in a few months.", "options": ["will be leaving", "will have been leaving", "leaves", "will have left"], "answer": "will be leaving" },
+  { "id": 8, "question": "They ... all their time with me while they are here.", "options": ["won't be spending", "won't have spent", "don't spend", "won't spend"], "answer": "won't have spent" },
+  { "id": 9, "question": "Joe ... to Tokyo on business, so I ... the rest of the family.", "options": ["will have gone / will be keeping", "will be going / will have kept", "goes / keep", "will go / will keep"], "answer": "will have gone / will be keeping" },
+  { "id": 10, "question": "Use Future Continuous to ask politely: '... with us again tonight?'", "options": ["Will you stay", "Will you be staying", "Are you staying", "Do you stay"], "answer": "Will you be staying" },
+  { "id": 11, "question": "The spacecraft ... into orbit at 9:00 tomorrow.", "options": ["will have gone", "will be going", "will go", "goes"], "answer": "will be going" },
+  { "id": 12, "question": "Tennis fans ... all day to buy tickets. (Belief about the present)", "options": ["will have been queuing", "will queue", "will be queuing", "are queuing"], "answer": "will have been queuing" },
+  { "id": 13, "question": "Identify the completion: By the time they get here they ... through California.", "options": ["will be going", "will have been", "will have gone", "will go"], "answer": "will have been" },
+  { "id": 14, "question": "She ... her prom promotion with a big party later.", "options": ["will be celebrating", "will have celebrated", "celebrates", "is celebrating"], "answer": "will be celebrating" },
+  { "id": 15, "question": "I'm confident I ... the objective we set ourselves.", "options": ["will achieve", "will be achieving", "will have achieved", "achieve"], "answer": "will have achieved" }
+]

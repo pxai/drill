@@ -1,0 +1,17 @@
+[
+  { "id": 1, "front": "accede", "back": "Formal verb: To agree to a request or proposal, often after initial unwillingness [8]." },
+  { "id": 2, "front": "acquiesce", "back": "Formal verb: To permit something to happen, often associated with secrecy or conspiracy [2, 8]." },
+  { "id": 3, "front": "assent", "back": "Formal verb: To agree to something after thinking about it [8]." },
+  { "id": 4, "front": "authorise", "back": "Formal verb: To give official permission [8]." },
+  { "id": 5, "front": "condone", "back": "Formal verb: To approve or allow something that most people consider wrong [8]." },
+  { "id": 6, "front": "countenance", "back": "Formal verb: To consider giving assent or permission [8]." },
+  { "id": 7, "front": "endorse", "back": "Formal verb: To give official approval to something [8]." },
+  { "id": 8, "front": "carte blanche", "back": "Phrasal expression: Complete freedom to do whatever you think is necessary [8]." },
+  { "id": 9, "front": "go-ahead / green light", "back": "Informal: Permission for something to start [8]." },
+  { "id": 10, "front": "bar", "back": "To officially exclude someone or forbid access [8]." },
+  { "id": 11, "front": "clamp down", "back": "To use full power to prevent or limit something (e.g., illegal activities) [8]." },
+  { "id": 12, "front": "outlaw", "back": "To make something officially illegal [8, 9]." },
+  { "id": 13, "front": "veto", "back": "To use an official power to forbid a plan [8, 9]." },
+  { "id": 14, "front": "embargo", "back": "An official ban on trade or other activity with a country [10]." },
+  { "id": 15, "front": "zero-tolerance", "back": "A policy of not allowing any amount of a particular type of behavior [10]." }
+]

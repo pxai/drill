@@ -1,0 +1,17 @@
+[
+  { "id": 1, "question": "What is the difference between 'mutter' and 'murmur'?", "options": ["Mutter is positive; murmur is negative", "Mutter is negative; murmur is often positive", "They are identical", "Mutter is louder"], "answer": "Mutter is negative; murmur is often positive" },
+  { "id": 2, "question": "If you are 'chattering away', you are:", "options": ["Arguing", "Talking continuously in a light way", "Silent", "Shouting"], "answer": "Talking continuously in a light way" },
+  { "id": 3, "question": "To 'nag' someone is to:", "options": ["Praise them", "Criticize their faults continuously", "Buy them a gift", "Whisper to them"], "answer": "Criticize their faults continuously" },
+  { "id": 4, "question": "What do we call the speech problem of repeating sounds at the start of words?", "options": ["Lisp", "Stutter", "Slurring", "Mumbling"], "answer": "Stutter" },
+  { "id": 5, "question": "To 'slag someone off' means to:", "options": ["Say nice things", "Criticize them (informal)", "Help them work", "Call them"], "answer": "Criticize them (informal)" },
+  { "id": 6, "question": "If you are 'tongue-tied', you:", "options": ["Speak very fast", "Cannot say what you want to say", "Have a sore throat", "Are very loud"], "answer": "Cannot say what you want to say" },
+  { "id": 7, "question": "A 'shriek' is a noise that is ...", "options": ["low and deep", "loud and high-pitched", "quiet and melodic", "soft"], "answer": "loud and high-pitched" },
+  { "id": 8, "question": "To 'bicker' means to argue about ...", "options": ["important issues", "unimportant things", "money", "history"], "answer": "unimportant things" },
+  { "id": 9, "question": "If you 'butter someone up', you are being ...", "options": ["rude", "insincerely nice to get a favour", "honest", "silent"], "answer": "insincerely nice to get a favour" },
+  { "id": 10, "question": "Which verb describes the loud sound made by a lion?", "options": ["Murmur", "Roar", "Whimper", "Chatter"], "answer": "Roar" },
+  { "id": 11, "question": "What is 'slurring'?", "options": ["Speaking loudly", "Words having a slow, lazy, unclear sound", "Repeating sounds", "Whispering"], "answer": "Words having a slow, lazy, unclear sound" },
+  { "id": 12, "question": "To 'raise your voice' because someone is hard of hearing is ...", "options": ["negative", "positive/neutral", "illegal", "funny"], "answer": "positive/neutral" },
+  { "id": 13, "question": "Someone who 'whines and whinges' is ...", "options": ["complaining annoyingly", "singing happily", "working hard", "sleeping"], "answer": "complaining annoyingly" },
+  { "id": 14, "question": "To 'wind someone up' (informal) is to:", "options": ["Help them", "Tease or fool them", "Give them a watch", "Talk about work"], "answer": "Tease or fool them" },
+  { "id": 15, "question": "A 'lisp' is a difficulty in making which sounds?", "options": ["'b' and 'p'", "'s' and 'z'", "'m' and 'n'", "vowels"], "answer": "'s' and 'z'" }
+]

@@ -1,0 +1,17 @@
+[
+  { "id": 1, "question": "Which word means 'very different and not related to each other'?", "options": ["Akin", "Disparate", "Indistinguishable", "Affinity"], "answer": "Disparate" },
+  { "id": 2, "question": "If something is 'tantamount to' a lie, it is ...", "options": ["the opposite of a lie", "almost the same as a lie", "clearly a truth", "better than a lie"], "answer": "almost the same as a lie" },
+  { "id": 3, "question": "The word 'discrete' (with an 'e' at the end) means ...", "options": ["careful and quiet", "separate and independent", "very large", "identical"], "answer": "separate and independent" },
+  { "id": 4, "question": "Complete: 'There is a close ... between Singapore and Hong Kong.'", "options": ["disparity", "affinity", "discrepancy", "divergence"], "answer": "affinity" },
+  { "id": 5, "question": "Which term describes two things that are so similar they cannot be told apart?", "options": ["Discrete", "Indistinguishable", "Divergent", "Distinct"], "answer": "Indistinguishable" },
+  { "id": 6, "question": "His life story is ... to a novel by Charles Dickens.", "options": ["akin", "disparate", "discrete", "divergent"], "answer": "akin" },
+  { "id": 7, "question": "Viewpoints that are very different can be called ... viewpoints.", "options": ["affinity", "indistinguishable", "divergent", "akin"], "answer": "divergent" },
+  { "id": 8, "question": "What is a 'discrepancy'?", "options": ["A similarity", "A difference between things that should be the same", "A formal agreement", "A type of contrast"], "answer": "A difference between things that should be the same" },
+  { "id": 9, "question": "English verbs do not always fit easily into ... categories.", "options": ["discrete", "akin", "tantamount", "indistinguishable"], "answer": "discrete" },
+  { "id": 10, "question": "A 'diverse' selection of music means it includes:", "options": ["Only one genre", "Many different types", "Only classical music", "Very few songs"], "answer": "Many different types" },
+  { "id": 11, "question": "The culture of the north is ... from that of the south.", "options": ["distinct", "indistinguishable", "akin", "tantamount"], "answer": "distinct" },
+  { "id": 12, "question": "If two accounts of an accident appear 'inconsistent', there is a ...", "options": ["discrepancy", "divergence", "similarity", "affinity"], "answer": "discrepancy" },
+  { "id": 13, "question": "Which preposition follows 'akin'?", "options": ["with", "to", "for", "from"], "answer": "to" },
+  { "id": 14, "question": "What is the synonym for 'disparate' provided in the source?", "options": ["Divergent", "Akin", "Discrete", "Indistinguishable"], "answer": "Divergent" },
+  { "id": 15, "question": "To equate his shyness with 'coldness' would be a ...", "options": ["distinct", "great mistake", "disparate", "affinity"], "answer": "great mistake" }
+]

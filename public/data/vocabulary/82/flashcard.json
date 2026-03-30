@@ -1,0 +1,17 @@
+[
+  { "id": 1, "front": "advocate", "back": "To argue in favour of something (e.g., 'advocate capital punishment')." },
+  { "id": 2, "front": "deduce", "back": "To reach a conclusion by thinking carefully about known facts." },
+  { "id": 3, "front": "infer", "back": "To reach a conclusion indirectly from contemporary accounts or data." },
+  { "id": 4, "front": "complement", "back": "To combine well with something else to make it more effective." },
+  { "id": 5, "front": "overlap", "back": "When one thing partially covers the same material as another." },
+  { "id": 6, "front": "empirical", "back": "Based on what is observed or experimented rather than theory." },
+  { "id": 7, "front": "ambiguous", "back": "Open to different interpretations; not clear." },
+  { "id": 8, "front": "coherent", "back": "Logically structured and consistent." },
+  { "id": 9, "front": "comprehensive", "back": "Covering all that is relevant or necessary." },
+  { "id": 10, "front": "authoritative", "back": "Thorough and extremely expert (e.g., an authoritative study)." },
+  { "id": 11, "front": "arbitrary", "back": "Based on chance rather than a plan or particular reason." },
+  { "id": 12, "front": "deviate from", "back": "To be different from what is typical or standard." },
+  { "id": 13, "front": "distort", "back": "To give a false impression or change facts (e.g., distort statistics)." },
+  { "id": 14, "front": "incidence", "back": "How often something occurs in a population." },
+  { "id": 15, "front": "predominant", "back": "Being the largest in number or having the most importance." }
+]

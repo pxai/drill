@@ -1,0 +1,17 @@
+[
+  { "id": 1, "question": "Which phrase means 'ready to happen'?", "options": ["Be due to", "Be set to", "Be on the verge of", "Be bound to"], "answer": "Be set to" },
+  { "id": 2, "question": "Scientists are on the ... of making major advances.", "options": ["point", "brink", "verge", "Both brink and verge"], "answer": "Both brink and verge" },
+  { "id": 3, "question": "The decision ... raise questions about profits.", "options": ["bound to", "is set to", "is bound to", "shall"], "answer": "is bound to" },
+  { "id": 4, "question": "NASA's latest Mars probe is ... to Earth later today.", "options": ["due to return", "on the point of returning", "set to return", "about to return"], "answer": "due to return" },
+  { "id": 5, "question": "Major financial firms are on the point of ... their headquarters.", "options": ["move", "moving", "to move", "moved"], "answer": "moving" },
+  { "id": 6, "question": "We ... provide spare parts ourselves, but we ... a supplier.", "options": ["can't / guarantee to find", "shan't / aim to study", "can't / are set to find", "don't / resolved to find"], "answer": "can't / guarantee to find" },
+  { "id": 7, "question": "In statements with 'I', 'll' is more common than ...", "options": ["will", "shall", "be going to", "must"], "answer": "shall" },
+  { "id": 8, "question": "I ... be long. (Commonly used contraction)", "options": ["won't", "shan't", "don't", "amn't"], "answer": "shan't / won't" },
+  { "id": 9, "question": "The governments are ... an agreement to end the dispute.", "options": ["brink of signing", "on the point of signing", "due to sign", "bound to sign"], "answer": "on the point of signing" },
+  { "id": 10, "question": "Tennis star Sancho Gomez is ... a second operation.", "options": ["due to undergo", "on the verge of undergoing", "set to undergo", "bound to undergo"], "answer": "due to undergo" },
+  { "id": 11, "question": "EU agriculture ministers are ... an important announcement.", "options": ["sure to face", "set to make", "verge of making", "due to make"], "answer": "set to make" },
+  { "id": 12, "question": "Every New Year he ... eating biscuits.", "options": ["resolves to give up", "guarantees to find", "aims to study", "expects to finish"], "answer": "resolves to give up" },
+  { "id": 13, "question": "I ... your parents will be very happy with your decision.", "options": ["shall think", "think", "am thinking", "will think"], "answer": "think" },
+  { "id": 14, "question": "My computer is old, and I ... it with a faster one.", "options": ["look to replace", "am looking to replace", "Both are correct", "Neither"], "answer": "Both are correct" },
+  { "id": 15, "question": "The Countryside Conservation Society is ... a new million-Euro scheme.", "options": ["verge of becoming", "set to launch", "due to return", "point of signing"], "answer": "set to launch" }
+]

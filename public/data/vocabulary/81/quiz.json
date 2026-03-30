@@ -1,0 +1,17 @@
+[
+  { "id": 1, "question": "Which verb means to 'match' or 'agree with' another person's comments?", "options": ["Conform", "Tally", "Dissent", "Concede"], "answer": "Tally" },
+  { "id": 2, "question": "A disagreement that divides a political party is a(n) ...", "options": ["Accord", "Rift", "Concession", "Discretion"], "answer": "Rift" },
+  { "id": 3, "question": "To 'concur with' someone means to:", "options": ["Argue with them", "Share their opinion", "Ignore them", "Force them to agree"], "answer": "Share their opinion" },
+  { "id": 4, "question": "What is 'discord'?", "options": ["Harmony", "Lack of agreement", "A formal treaty", "A small gift"], "answer": "Lack of agreement" },
+  { "id": 5, "question": "If you 'make a concession', you:", "options": ["Refuse to change", "Give something up to reach agreement", "Win the argument", "Start a war"], "answer": "Give something up to reach agreement" },
+  { "id": 6, "question": "The President found himself in full ... with the opposition.", "options": ["accord", "discord", "rift", "split"], "answer": "accord" },
+  { "id": 7, "question": "Opposition to accepted thinking is called ...", "options": ["consensus", "settlement", "dissent", "tally"], "answer": "dissent" },
+  { "id": 8, "question": "When a group breaks into two over a policy, there is a ...", "options": ["rift", "split", "coincidence", "concurrence"], "answer": "split" },
+  { "id": 9, "question": "His ideas do not ... to the general definition of civilisation.", "options": ["conform", "tally", "concur", "approve"], "answer": "conform" },
+  { "id": 10, "question": "To 'reach a settlement' means to:", "options": ["Continue a strike", "Reach a final decision or agreement", "Build a new house", "Move to another country"], "answer": "Reach a final decision or agreement" },
+  { "id": 11, "question": "If we 'agree to differ', we:", "options": ["Agree on everything", "Stop arguing despite different views", "Change our minds", "Start a new debate"], "answer": "Stop arguing despite different views" },
+  { "id": 12, "question": "A 'major division' over economic policy is ... than a 'split'.", "options": ["less formal", "more abstract and formal", "more violent", "quicker"], "answer": "more abstract and formal" },
+  { "id": 13, "question": "To 'approve of' a choice means to think it is ...", "options": ["wrong", "right or good", "boring", "illegal"], "answer": "right or good" },
+  { "id": 14, "question": "The management and the union finally reached a ...", "options": ["tally", "dissent", "settlement", "conform"], "answer": "settlement" },
+  { "id": 15, "question": "To 'exercise discretion' is to be ...", "options": ["loud", "sensitive and use judgement", "angry", "fast"], "answer": "sensitive and use judgement" }
+]
