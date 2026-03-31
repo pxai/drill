@@ -1,0 +1,17 @@
+[
+  { "id": 1, "question": "Which verb can follow the pattern 'be + past participle + -ing'?", "options": ["See", "Dread", "Recall", "Hate"], "answer": "See" },
+  { "id": 2, "question": "I really love ... presents.", "options": ["giving", "being given", "to give", "to being given"], "answer": "being given" },
+  { "id": 3, "question": "Which sentence has NO passive form?", "options": ["I saw him climbing the fence.", "I dread him finding out.", "I taught him to sing.", "I expected them to propose changes."], "answer": "I dread him finding out." },
+  { "id": 4, "question": "Rewrite 'They wanted us to show our passports' in the passive.", "options": ["We were wanted to show our passports.", "We were asked to show our passports.", "Both", "Neither"], "answer": "We were asked to show our passports." },
+  { "id": 5, "question": "The passive form of 'Supermarkets started to sell fresh pasta' is:", "options": ["Fresh pasta was started selling.", "Fresh pasta started to be sold.", "Both", "Neither"], "answer": "Fresh pasta started to be sold." },
+  { "id": 6, "question": "Does 'Petra wanted to help me' mean the same as 'I wanted to be helped by Petra'?", "options": ["Yes", "No", "Only in formal contexts", "None"], "answer": "No" },
+  { "id": 7, "question": "The man ... a suspicious package under a seat.", "options": ["was observed hiding", "was observed to hide", "Both", "Neither"], "answer": "was observed hiding" },
+  { "id": 8, "question": "When I woke up in hospital, I ... by a snake.", "options": ["remembered being bitten", "was remembered to bite", "Both", "Neither"], "answer": "remembered being bitten" },
+  { "id": 9, "question": "They think that over 20,000 people will go to the concert. Passive:", "options": ["Over 20,000 people are thought to go.", "It is thought that over 20,000 will go.", "Both", "Neither"], "answer": "Both" },
+  { "id": 10, "question": "Which verb is used in 'Subject + passive verb + to-infinitive'?", "options": ["Require", "Like", "Recall", "Mind"], "answer": "Require" },
+  { "id": 11, "question": "Emil and Laura ... shouting at each other.", "options": ["were heard", "were heard to", "Both", "Neither"], "answer": "were heard" },
+  { "id": 12, "question": "The team captain ... to select Omar.", "options": ["hopes", "is hoped", "Both", "Neither"], "answer": "hopes" },
+  { "id": 13, "question": "Critics have come to recognize Galdos as a great novelist. Passive:", "options": ["Galdos has come to be recognized...", "Galdos was come to recognized...", "Both", "Neither"], "answer": "Galdos has come to be recognized..." },
+  { "id": 14, "question": "I ... to fill in two copies of the customs declaration.", "options": ["told", "was told", "am told", "was telling"], "answer": "was told" },
+  { "id": 15, "question": "They ... prisoner by pretending to be dead.", "options": ["avoided being taken", "avoided to be taken", "Both", "Neither"], "answer": "avoided being taken" }
+]

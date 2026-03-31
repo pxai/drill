@@ -1,0 +1,17 @@
+[
+  { "id": 1, "front": "Indirect Object (IO)", "back": "Usually a person/group; comes before the DO (e.g., 'bring me some milk') [17]." },
+  { "id": 2, "front": "Direct Object (DO)", "back": "Usually a thing; comes after the IO [17]." },
+  { "id": 3, "front": "Prepositional Object", "back": "Reversing order using 'to' or 'for' before the IO (e.g., 'pass that to me') [17]." },
+  { "id": 4, "front": "IO vs. DO length", "back": "Use the prepositional pattern if the IO is much longer than the DO [17]." },
+  { "id": 5, "front": "Pronoun restriction", "back": "If DO is a pronoun, the pattern 'DO + prep + IO' is required (e.g., 'give it to me') [17]." },
+  { "id": 6, "front": "Meaning of 'for'", "back": "Suggests someone benefits (e.g., 'wrote a letter for her' because she couldn't) [17]." },
+  { "id": 7, "front": "Meaning of 'to'", "back": "Suggests transfer/communication (e.g., 'wrote a letter to her') [17]." },
+  { "id": 8, "front": "Object reversal restriction", "back": "Verbs like envy, allow, ask, cost cannot have objects reversed with 'to'/'for' [17]." },
+  { "id": 9, "front": "Preposition-only verbs", "back": "Verbs like describe, fix, collect, mend only take a second object as a prep object [17]." },
+  { "id": 10, "front": "Elias hasn't got any money so I'll have to ...", "back": "pay the bill for him [18]." },
+  { "id": 11, "front": "Kaspar hates shopping. I have to ...", "back": "buy his clothes for him [18]." },
+  { "id": 12, "front": "Jane (8) ... the letter to me.", "back": "posted / read (transfer) [18]." },
+  { "id": 13, "front": "I (9) ... him some dinner.", "back": "saved (benefit) [18]." },
+  { "id": 14, "front": "He kindly ... some library books.", "back": "collected (NOT collected me library books) [17, 18]." },
+  { "id": 15, "front": "When he described ...", "back": "the problem to him (prep required) [17, 18]." }
+]

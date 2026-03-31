@@ -1,0 +1,17 @@
+[
+  { "id": 1, "question": "Why is the passive used in 'My office was broken into when I was on holiday'?", "options": ["The agent is obvious", "The agent is unknown", "The agent is unimportant", "To be more formal"], "answer": "The agent is unknown" },
+  { "id": 2, "question": "In which context are active sentences with 'people' or 'someone' more common than passives?", "options": ["Factual writing", "News reports", "Informal conversation", "Scientific journals"], "answer": "Informal conversation" },
+  { "id": 3, "question": "Which is more formal: 'They're installing the new system' or 'The system is being installed'?", "options": ["Active form", "Passive form", "Both are equal", "Neither"], "answer": "Passive form" },
+  { "id": 4, "question": "Where do we usually prefer to put the 'topic' (what is already being talked about)?", "options": ["At the end of the sentence", "In the middle of the sentence", "After the verb", "At the beginning of the sentence"], "answer": "At the beginning of the sentence" },
+  { "id": 5, "question": "Which structure is more natural in English regarding that-clauses?", "options": ["That the plan would fail was believed.", "It was believed that the plan would fail.", "The plan failing was believed.", "None of these"], "answer": "It was believed that the plan would fail." },
+  { "id": 6, "question": "In factual writing, we often omit the agent because it is ...", "options": ["unknown", "people in general", "obvious from context", "All of the above"], "answer": "All of the above" },
+  { "id": 7, "question": "Complete the passive: 'The basketball arena ... by the end of May.'", "options": ["will have been completed", "will complete", "is completing", "completes"], "answer": "will have been completed" },
+  { "id": 8, "question": "When the agent is 'medical staff', we say 'She is being treated' because the agent is ...", "options": ["unimportant", "obvious", "unknown", "people in general"], "answer": "obvious" },
+  { "id": 9, "question": "Instead of 'They will consider the issue', a formal noun-based passive is:", "options": ["The issue will be considered.", "Consideration will be given to the issue.", "Considering the issue will happen.", "None"], "answer": "Consideration will be given to the issue." },
+  { "id": 10, "question": "True or False: We use 'by' to introduce the agent in a passive sentence.", "options": ["True", "False"], "answer": "True" },
+  { "id": 11, "question": "Which sentence places the emphasis on the valves?", "options": ["The Boron Group manufactured all the valves.", "All the valves were manufactured by the Boron Group.", "Valves were made.", "None"], "answer": "All the valves were manufactured by the Boron Group." },
+  { "id": 12, "question": "Passives are used to avoid mentioning the agent in ... contexts.", "options": ["informal", "formal", "spoken", "casual"], "answer": "formal" },
+  { "id": 13, "question": "London ... to expect severe flooding.", "options": ["is", "is to be", "will", "has"], "answer": "is" },
+  { "id": 14, "question": "Nuclear waste ... be disposed of very carefully.", "options": ["must", "can", "should", "All are possible"], "answer": "must" },
+  { "id": 15, "question": "When describing a process (like building a stadium), we use the ...", "options": ["active", "passive", "imperative", "future simple"], "answer": "passive" }
+]

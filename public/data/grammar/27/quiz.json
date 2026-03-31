@@ -1,0 +1,17 @@
+[
+  { "id": 1, "question": "Why do we use negative questions like 'Wouldn't it be better to go?'", "options": ["To ask for facts", "To suggest, persuade or criticize", "To show surprise only", "To be more formal"], "answer": "To suggest, persuade or criticize" },
+  { "id": 2, "question": "How do you add special emphasis to the negative in a formal question?", "options": ["Use -n't", "Put 'not' after the subject", "Put 'not' at the end", "Use 'never'"], "answer": "Put 'not' after the subject" },
+  { "id": 3, "question": "Suggestions can be made with 'Why not + ...'", "options": ["verb", "noun", "to-infinitive", "adjective"], "answer": "verb" },
+  { "id": 4, "question": "Negative questions with falling intonation (e.g., 'Haven't you grown!') are used as ...", "options": ["criticisms", "exclamations giving opinions", "echo questions", "that-clauses"], "answer": "exclamations giving opinions" },
+  { "id": 5, "question": "Echo questions are used to ...", "options": ["ask for new information", "check understanding or express surprise", "report speech", "make suggestions"], "answer": "check understanding or express surprise" },
+  { "id": 6, "question": "In the echo question 'Leon's arriving when?', which word is stressed?", "options": ["Leon", "arriving", "when", "None"], "answer": "when" },
+  { "id": 7, "question": "True or False: We can leave out 'that' in questions like 'When do you reckon you'll finish?'", "options": ["True", "False"], "answer": "True" },
+  { "id": 8, "question": "If the wh-word is the subject of the subordinate clause, can we use 'that'?", "options": ["Yes", "No", "Only in formal writing", "Only in speech"], "answer": "No" },
+  { "id": 9, "question": " ... you never considered you might be wrong?", "options": ["Haven't", "Have", "Both", "Neither"], "answer": "Have (using 'never' as negative word)" },
+  { "id": 10, "question": "Why didn't you ... me in the first place? (Expressing annoyance)", "options": ["tell", "to tell", "telling", "told"], "answer": "tell" },
+  { "id": 11, "question": "Echo: 'He's sold his house!' 'He's ...?'", "options": ["sold what", "done what", "Both", "Neither"], "answer": "Both" },
+  { "id": 12, "question": "Haven't you got any ... left?", "options": ["money", "nothing", "nowhere", "not"], "answer": "money" },
+  { "id": 13, "question": "Who do you ... will read your blog?", "options": ["expect", "think", "Both", "Neither"], "answer": "Both" },
+  { "id": 14, "question": "Is 'Why do not you help?' correct?", "options": ["Yes", "No, should be 'Why don't you help?'", "No, should be 'Why you not help?'", "None"], "answer": "No, should be 'Why don't you help?'" },
+  { "id": 15, "question": "Echo questions focus on ... of what was said.", "options": ["nothing", "part", "the whole", "the ending only"], "answer": "part" }
+]

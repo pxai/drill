@@ -1,0 +1,17 @@
+[
+  { "id": 1, "front": "Reporting Passive", "back": "Used when the reporter is unimportant (e.g., 'Everyone was asked to bring food') [8]." },
+  { "id": 2, "front": "Pattern: It + passive + that-clause", "back": "Used to report what an unspecified group says (e.g., 'It is reported that damage is extensive') [8]." },
+  { "id": 3, "front": "Verb restrictions (It-clause)", "back": "Verbs like allege, announce, believe, and report can be used in this pattern [8]." },
+  { "id": 4, "front": "Pattern: Subject + passive + to-infinitive", "back": "Alternative when the subject should be the topic (e.g., 'The damage is reported to be extensive') [8]." },
+  { "id": 5, "front": "Verb restrictions (To-inf)", "back": "Most verbs from the it-pattern work, except announce, decide, mention, propose, recommend, suggest [8]." },
+  { "id": 6, "front": "Passive + wh-clause", "back": "Used with discover, explain, find, etc. (e.g., 'It has now been revealed who was responsible') [8]." },
+  { "id": 7, "front": "There + passive + to be", "back": "Used when a that-clause begins with 'there' (e.g., 'It is thought there are many obstacles' -> 'There are thought to be...') [8]." },
+  { "id": 8, "front": "It was ... that Mrs Ho would chair the meeting.", "back": "agreed / announced [9]." },
+  { "id": 9, "front": "It is ... to employ 500 people.", "back": "expected / intended [9]." },
+  { "id": 10, "front": "It is ... that another moon landing will occur.", "back": "thought / assumed [9]." },
+  { "id": 11, "front": "Headline: PATIENTS REASSURED...", "back": "Patients have been reassured about hospital safety [9]." },
+  { "id": 12, "front": "Headline: WATER DISCOVERED ON MARS", "back": "Water has been discovered on Mars [9]." },
+  { "id": 13, "front": "Headline: POLICE TOLD TO WORK LONGER", "back": "Police have been told to work longer hours [9]." },
+  { "id": 14, "front": "It has been ... that a fault caused the problem.", "back": "discovered [9]." },
+  { "id": 15, "front": "A mechanical fault was ... to have caused it.", "back": "discovered [9]." }
+]

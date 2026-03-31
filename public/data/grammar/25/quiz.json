@@ -1,0 +1,17 @@
+[
+  { "id": 1, "question": "Which pattern allows us to put important information at the end of the sentence?", "options": ["Subject + passive + to-inf", "It + passive + that-clause", "There + passive + to be", "Active voice"], "answer": "It + passive + that-clause" },
+  { "id": 2, "question": "Which verb CANNOT be used in the 'Subject + passive + to-infinitive' pattern?", "options": ["Allege", "Believe", "Announce", "Report"], "answer": "Announce" },
+  { "id": 3, "question": "Rewrite 'It is thought that there are many obstacles' using 'There'.", "options": ["There are thought to be many obstacles.", "There is thought that obstacles are many.", "There are thought that many obstacles.", "None"], "answer": "There are thought to be many obstacles." },
+  { "id": 4, "question": "Which verb can be used in both the 'It' and 'Subject' passive reporting patterns?", "options": ["Decide", "Propose", "Claim", "Suggest"], "answer": "Claim" },
+  { "id": 5, "question": "We use 'It + passive + wh-clause' with verbs like ...", "options": ["discover/find out", "say/tell", "announce/decide", "hope/intend"], "answer": "discover/find out" },
+  { "id": 6, "question": "True or False: 'It was agreed that the meeting should be cancelled' is a common reporting pattern.", "options": ["True", "False"], "answer": "True" },
+  { "id": 7, "question": "When do we use 'I was told' to mean 'I was ordered'?", "options": ["In reporting thoughts", "In reporting orders", "In academic writing only", "Never"], "answer": "In reporting orders" },
+  { "id": 8, "question": "'It is ... to employ 500 people.' (Choose the best reporting verb)", "options": ["expected", "thought", "said", "announced"], "answer": "expected" },
+  { "id": 9, "question": "Verbs like 'encourage' or 'persuade' need a ... before a that-clause in the active.", "options": ["preposition", "personal object", "to-infinitive", "nothing"], "answer": "personal object" },
+  { "id": 10, "question": "It ... revealed who was responsible.", "options": ["has now been", "is now", "was being", "now"], "answer": "has now been" },
+  { "id": 11, "question": "Can we say 'It was recommended to appoint him'?", "options": ["Yes", "No, we use 'It was recommended that...'", "No, we use 'He was recommended to...'", "Neither"], "answer": "Yes" },
+  { "id": 12, "question": "Which pattern is used if the subject should be the topic?", "options": ["It + passive + that-clause", "Subject + passive + to-infinitive", "Passive + wh-clause", "None"], "answer": "Subject + passive + to-infinitive" },
+  { "id": 13, "question": "It is ... that another moon landing will occur.", "options": ["thought", "assumed", "Both", "Neither"], "answer": "Both" },
+  { "id": 14, "question": "Which verb only uses the 'tell' pattern when it means 'order'?", "options": ["Say", "Tell", "Speak", "Report"], "answer": "Tell" },
+  { "id": 15, "question": "The damage is reported ... extensive.", "options": ["to be", "that it is", "being", "is"], "answer": "to be" }
+]

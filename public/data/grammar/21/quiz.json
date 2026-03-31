@@ -1,0 +1,17 @@
+[
+  { "id": 1, "question": "In which sentence can 'to be' NOT be omitted?", "options": ["The job turned out (to be) easy.", "He appeared (to be) asleep.", "She seems (to be) efficient.", "It proved (to be) a success."], "answer": "He appeared (to be) asleep." },
+  { "id": 2, "question": "Research shows women who ... pregnant while dieting increase risks.", "options": ["get", "become", "go", "turn"], "answer": "become" },
+  { "id": 3, "question": "The traffic lights ... green and I pulled away.", "options": ["got", "turned", "became", "grew"], "answer": "turned / went" },
+  { "id": 4, "question": "I eventually ... to appreciate his work.", "options": ["became", "got", "came", "turned"], "answer": "came / grew" },
+  { "id": 5, "question": "Which verb is used for unwanted situations like losing one's hearing?", "options": ["Become", "Get", "Go", "Grow"], "answer": "Go" },
+  { "id": 6, "question": "Don't ... annoyed with me, but I've lost the keys.", "options": ["become", "get", "go", "turn"], "answer": "get" },
+  { "id": 7, "question": "He ... an adviser to the government.", "options": ["got", "became", "went", "turned"], "answer": "became" },
+  { "id": 8, "question": "The milk had ... off, so we couldn't have breakfast.", "options": ["turned", "gone", "got", "become"], "answer": "gone" },
+  { "id": 9, "question": "It was ... obvious that we were going to miss our plane.", "options": ["getting", "becoming", "Both are possible", "Neither"], "answer": "getting / becoming" },
+  { "id": 10, "question": "The elephant ... berserk and attacked its keeper.", "options": ["went", "got", "became", "turned"], "answer": "went" },
+  { "id": 11, "question": "The company ... when the bank wouldn't lend more money.", "options": ["became dead", "went bust", "got tired", "turned red"], "answer": "went bust" },
+  { "id": 12, "question": "He only looked to be ten, but he ... be older.", "options": ["must", "appears", "seems", "proves"], "answer": "must" },
+  { "id": 13, "question": "We soon ... to know each other and have been friends since.", "options": ["became", "got", "turned", "grew"], "answer": "came / got" },
+  { "id": 14, "question": "After the treatment, I might ... blind.", "options": ["get", "go", "become", "Both go and become"], "answer": "go / become" },
+  { "id": 15, "question": "I had just ... divorced when I met Marianne.", "options": ["got", "become", "Both", "None"], "answer": "got / become" }
+]

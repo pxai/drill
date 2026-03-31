@@ -1,0 +1,17 @@
+[
+  { "id": 1, "question": "What is the usual order of objects?", "options": ["DO then IO", "IO then DO", "Prep then IO", "Doesn't matter"], "answer": "IO then DO" },
+  { "id": 2, "question": "We reverse the order (DO + prep + IO) when the IO is ...", "options": ["a pronoun", "longer than the DO", "shorter than the DO", "at the start"], "answer": "longer than the DO" },
+  { "id": 3, "question": "If the Direct Object (DO) is a pronoun, which pattern is required?", "options": ["IO + DO", "DO + preposition + IO", "Either", "Neither"], "answer": "DO + preposition + IO" },
+  { "id": 4, "question": "Which preposition suggests that someone benefits from something?", "options": ["to", "for", "with", "from"], "answer": "for" },
+  { "id": 5, "question": "Which verb CANNOT have its objects reversed with for/to?", "options": ["Give", "Envy", "Lend", "Offer"], "answer": "Envy" },
+  { "id": 6, "question": "Verbs like 'describe' and 'fix' only take a second object as a ...", "options": ["direct object", "prepositional object", "subject", "complement"], "answer": "prepositional object" },
+  { "id": 7, "question": "Kaspar hates shopping. I have to ... clothes ... him.", "options": ["buy / for", "buy / to", "sell / to", "post / to"], "answer": "buy / for" },
+  { "id": 8, "question": "Can you pass ...?", "options": ["me it", "it to me", "Both", "Neither"], "answer": "it to me" },
+  { "id": 9, "question": "Which verb uses 'to' to suggest transfer/communication?", "options": ["Post", "Read", "Both", "Neither"], "answer": "Both" },
+  { "id": 10, "question": "I (9) ... him some dinner.", "options": ["saved", "posted", "read", "gave"], "answer": "saved" },
+  { "id": 11, "question": "Jane (8) ... the letter to me.", "options": ["read", "posted", "Both", "Neither"], "answer": "Both" },
+  { "id": 12, "question": "He kindly ... some library books. (Correct word order)", "options": ["collected me", "collected", "collected for me", "Both B and C"], "answer": "Both B and C" },
+  { "id": 13, "question": "When he ... the problem to him, he realised...", "options": ["described", "explained", "Both", "Neither"], "answer": "Both" },
+  { "id": 14, "question": "A special ticket allows ... to all museums.", "options": ["entry for people", "people entry", "Both", "Neither"], "answer": "Both" },
+  { "id": 15, "question": "I'd like to introduce ...", "options": ["you to my sister", "my sister to you", "Both", "Neither"], "answer": "Both" }
+]

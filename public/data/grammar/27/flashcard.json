@@ -1,0 +1,17 @@
+[
+  { "id": 1, "front": "Negative questions", "back": "Used to suggest, persuade, or criticize (e.g., 'Why don't we go out?') [12]." },
+  { "id": 2, "front": "Special emphasis", "back": "Use 'not' after the subject (e.g., 'Did she not realise...?') [12]." },
+  { "id": 3, "front": "Negative words", "back": "Can use never, no, nobody, nothing instead of -n't (e.g., 'Why do you never help?') [12]." },
+  { "id": 4, "front": "Suggestions", "back": "Use 'Why not + verb' or 'Why don't/doesn't' [12]." },
+  { "id": 5, "front": "Criticism", "back": "Use 'Why didn't...?' (e.g., 'Why didn't you tell me?') [12]." },
+  { "id": 6, "front": "Exclamations", "back": "Negative questions with falling intonation (e.g., 'Haven't you grown!') [12]." },
+  { "id": 7, "front": "Echo questions", "back": "Used to check understanding or express surprise (e.g., 'Tala's lost her what?') [12]." },
+  { "id": 8, "front": "Echo focus", "back": "Stressed wh-word focuses on part of the sentence (e.g., 'Leon's arriving when?') [12]." },
+  { "id": 9, "front": "That-clause questions", "back": "Wh-questions can refer to a following that-clause (e.g., 'When do you reckon (that) you'll finish?') [12]." },
+  { "id": 10, "front": "Haven't you got any ... left?", "back": "money (negative question asking for confirmation) [13]." },
+  { "id": 11, "front": "Why didn't ... on holiday?", "back": "you email me [13]." },
+  { "id": 12, "front": "Have you ... you might be wrong?", "back": "never considered [13]." },
+  { "id": 13, "front": "He's sold his house! Echo:", "back": "He's sold what? / He's done what? [13]." },
+  { "id": 14, "front": "Who do you ... will read your blog?", "back": "expect [13]." },
+  { "id": 15, "front": "What did you say ... in these biscuits?", "back": "that is (NOT What did you say is in these biscuits) [12, 13]." }
+]

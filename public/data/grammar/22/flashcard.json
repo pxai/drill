@@ -1,0 +1,17 @@
+[
+  { "id": 1, "front": "Verbs with two objects", "back": "Verbs like 'give' can have two passive forms (e.g., 'We were given that vase' or 'That vase was given to us') [2]." },
+  { "id": 2, "front": "IO + DO Restriction", "back": "Verbs like 'explain' or 'suggest' only have one passive form: 'The problem was explained to me' [2]." },
+  { "id": 3, "front": "Object + Complement Passive", "back": "Verbs like 'elect' or 'appoint' have one passive form (e.g., 'She was elected president') [2]." },
+  { "id": 4, "front": "Bare infinitive in Passive", "back": "Active verbs followed by object + bare infinitive (feel, hear, help, make, see) take a to-infinitive in the passive [2]." },
+  { "id": 5, "front": "Phrasal verb passive", "back": "Transitive two- and three-word verbs can often be made passive (e.g., 'He was looked after') [2]." },
+  { "id": 6, "front": "Non-passive phrasal verbs", "back": "Verbs like 'come up against' or 'brush up on' are NOT used in the passive [2]." },
+  { "id": 7, "front": "Sense-restricted passives", "back": "Some phrasal verbs like 'put out' (extinguish) can be passive, but not 'put out' (reach out a hand) [2]." },
+  { "id": 8, "front": "Someone handed me a note.", "back": "I was handed a note / A note was handed to me [3]." },
+  { "id": 9, "front": "They elected him president.", "back": "He was elected president [2]." },
+  { "id": 10, "front": "They made him return the money.", "back": "He was made to return the money [2]." },
+  { "id": 11, "front": "Rob was ... to his feet.", "back": "helped (followed by to-infinitive in passive) [3]." },
+  { "id": 12, "front": "Has anyone ... Chris?", "back": "seen (active) -> Has Chris been seen? (passive) [3]." },
+  { "id": 13, "front": "The company ... the product.", "back": "phased out -> The product was phased out [3]." },
+  { "id": 14, "front": "The decision ... many people.", "back": "deprived -> Many people were deprived of the right [3]." },
+  { "id": 15, "front": "Ben ... Mrs Patel back.", "back": "called (active) -> NO PASSIVE for 'call back' in this sense [3]." }
+]

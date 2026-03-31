@@ -1,0 +1,17 @@
+[
+  { "id": 1, "front": "When to omit the agent", "back": "When the agent is unknown, people in general, unimportant, or obvious [6]." },
+  { "id": 2, "front": "Passives in factual writing", "back": "Often used to describe procedures or processes (e.g., 'Nuclear waste must be disposed of') [6]." },
+  { "id": 3, "front": "Favouring passives in conversation", "back": "Active sentences with subjects like 'people' or 'someone' are more common in informal contexts [6]." },
+  { "id": 4, "front": "Agent avoidance", "back": "In formal contexts, passives are used to avoid mentioning the agent [6]." },
+  { "id": 5, "front": "Topic placement", "back": "We prefer to put the topic (what is being talked about) at the beginning of the sentence [6]." },
+  { "id": 6, "front": "It-clause vs. That-clause", "back": "It is more normal to use an it-clause (e.g., 'It was believed that...') as the subject of a passive [6]." },
+  { "id": 7, "front": "Noun-based passive", "back": "Some verbs have related nouns that can act as subjects (e.g., 'The installation... will be completed') [6]." },
+  { "id": 8, "front": "The main stadium ... in under three years.", "back": "was built (completed procedure) [7]." },
+  { "id": 9, "front": "The basketball arena ... by the end of May.", "back": "will have been completed [7]." },
+  { "id": 10, "front": "The coastline ... worn away.", "back": "is being (ongoing natural process) [7]." },
+  { "id": 11, "front": "Experts ... that there will be a rise.", "back": "fear (active) [7]." },
+  { "id": 12, "front": "The present government ... 'managed retreat'.", "back": "is using [7]." },
+  { "id": 13, "front": "Low-lying coastal farmland ... to the sea.", "back": "is to be abandoned [7]." },
+  { "id": 14, "front": "London ... severe flooding.", "back": "is to expect (formal prediction) [7]." },
+  { "id": 15, "front": "My office ... into while I was on holiday.", "back": "was broken (unknown agent) [6]." }
+]

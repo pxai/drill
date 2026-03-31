@@ -1,0 +1,17 @@
+[
+  { "id": 1, "front": "Which is more formal: 'I resented Tom winning' or 'I resented Tom's winning'?", "options": ["Object + -ing", "Possessive + -ing", "Both are equal", "Neither"], "answer": "Possessive + -ing" },
+  { "id": 2, "question": "Verbs like 'confess to' or 'object to' use 'to' as a ...", "options": ["preposition", "part of to-infinitive", "conjunction", "none"], "answer": "preposition" },
+  { "id": 3, "question": "Which preposition follows 'begin', 'concentrate', and 'approve'?", "options": ["by, on, of", "to, with, for", "at, in, from", "of, in, to"], "answer": "by, on, of" },
+  { "id": 4, "question": "With sense verbs, the -ing form indicates ...", "options": ["completed action", "action in progress", "future action", "formal speech"], "answer": "action in progress" },
+  { "id": 5, "question": "After 'dare' and 'help', we can use ...", "options": ["bare infinitive", "to-infinitive", "Both", "Neither"], "answer": "Both" },
+  { "id": 6, "question": "When 'dare' has an object, we can only use ...", "options": ["bare infinitive", "to-infinitive", " -ing form", "that-clause"], "answer": "to-infinitive" },
+  { "id": 7, "question": "After 'have', 'let', and 'make', we use ...", "options": ["Object + bare infinitive", "Object + to-infinitive", "Object + -ing", "Object + that-clause"], "answer": "Object + bare infinitive" },
+  { "id": 8, "question": "The noise ... me from sleeping.", "options": ["prevented", "made", "let", "had"], "answer": "prevented" },
+  { "id": 9, "question": "I heard the tyre ... and the lorry skidded.", "options": ["burst", "bursting", "Both", "Neither"], "answer": "burst (completed action implied)" },
+  { "id": 10, "question": "Lana thought of ... on the roller-coaster.", "options": ["going", "to go", "go", "gone"], "answer": "going" },
+  { "id": 11, "question": "I had Irena ... her bedroom.", "options": ["clean up", "to clean up", "cleaning up", "cleaned"], "answer": "clean up" },
+  { "id": 12, "question": "She ... to stealing the money.", "options": ["confessed", "owned up", "Both", "Neither"], "answer": "Both" },
+  { "id": 13, "question": "We don't ... of the developer locating the factory here.", "options": ["approve", "agree", "mind", "suggest"], "answer": "approve" },
+  { "id": 14, "question": "The dial on the left lets ... speed.", "options": ["you control", "you to control", "control", "to control"], "answer": "you control" },
+  { "id": 15, "question": "I really hate ... to be away from home.", "options": ["you having", "your having", "Both", "Neither"], "answer": "Both" }
+]

@@ -1,0 +1,17 @@
+[
+  { "id": 1, "front": "Transitive vs. Intransitive", "back": "Some verbs work as both (e.g., 'She closed the door' vs 'The door closed') [14]." },
+  { "id": 2, "front": "Omissible objects", "back": "Verbs like answer, sing, study don't need objects if meaning is clear (e.g., 'She plays beautifully') [14]." },
+  { "id": 3, "front": "Complement requirement", "back": "Some verbs must have an adverb or prep phrase (e.g., 'The disease originated in Britain') [14]." },
+  { "id": 4, "front": "Verb + Preposition + Object", "back": "Verbs like adhere to, belong to, deal with [14]." },
+  { "id": 5, "front": "Verb + Object + Prep Phrase", "back": "Verbs like associate with, base on, put on (e.g., 'Put the report on the floor') [14]." },
+  { "id": 6, "front": "Verb + Object + Adjective", "back": "Verbs like hold, pronounce, believe (e.g., 'Hold the government responsible') [14]." },
+  { "id": 7, "front": "Formal vs. Informal Adj", "back": "Adding 'to be' or using a that-clause makes it less formal (e.g., 'believe the opposite to be true') [14]." },
+  { "id": 8, "front": "Aya was (1) reading ...", "back": "(a book) (omissible object) [15]." },
+  { "id": 9, "front": "Aya (12) parked ...", "back": "her car (REQUIRED object) [15]." },
+  { "id": 10, "front": "Electors deserve more from a party that ...", "back": "aspires to national leadership [15]." },
+  { "id": 11, "front": "Years of research by Fleming ...", "back": "culminated in the discovery of penicillin [15]." },
+  { "id": 12, "front": "The scientific evidence proved him ...", "back": "guilty (adjective complement) [15]." },
+  { "id": 13, "front": "The doctor told me that ... I might ...", "back": "without treatment / faint (required complement) [14, 16]." },
+  { "id": 14, "front": "She (5) washed ...", "back": "herself (reflexive required) [15]." },
+  { "id": 15, "front": "I (17) introduce ...", "back": "you (REQUIRED object) [15]." }
+]

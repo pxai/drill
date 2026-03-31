@@ -1,0 +1,17 @@
+[
+  { "id": 1, "question": "Rewrite 'Someone offered her a bicycle' in two passive ways.", "options": ["She was offered a bicycle / A bicycle was offered her", "She was offered a bicycle / A bicycle was offered to her", "She is offered a bicycle / A bicycle is offered to her", "None"], "answer": "She was offered a bicycle / A bicycle was offered to her" },
+  { "id": 2, "question": "Which verb only has one passive form (DO as subject)?", "options": ["Give", "Award", "Describe", "Hand"], "answer": "Describe" },
+  { "id": 3, "question": "Passive of 'They made him return the money' is:", "options": ["He was made return the money.", "He was made to return the money.", "The money was made return to him.", "None"], "answer": "He was made to return the money." },
+  { "id": 4, "question": "Identify the passive for 'Strict teachers often look up to children.'", "options": ["Strict teachers are often looked up to by children.", "Children are often looked up to by strict teachers.", "No passive", "Both are correct"], "answer": "Children are often looked up to by strict teachers." },
+  { "id": 5, "question": "Can 'The farmer prevented walkers from crossing' be passive?", "options": ["Yes: Walkers were prevented from crossing.", "No passive", "Yes: From crossing was prevented walkers.", "None"], "answer": "Yes: Walkers were prevented from crossing." },
+  { "id": 6, "question": "Which phrasal verb has NO passive form?", "options": ["Look after", "Take after", "Put out", "Call back"], "answer": "Take after" },
+  { "id": 7, "question": "They ... Alan Watson winner of the election.", "options": ["saw", "declared", "helped", "called"], "answer": "declared" },
+  { "id": 8, "question": "The chairperson ... the last two items until the next meeting.", "options": ["held over", "was held over", "Both", "Neither"], "answer": "held over" },
+  { "id": 9, "question": "I am certain that Sarah's suitability ... as company director.", "options": ["demonstrated", "will demonstrate", "has been demonstrated", "is demonstrating"], "answer": "has been demonstrated" },
+  { "id": 10, "question": "Passive: 'I was ... to rest for three months.'", "options": ["advised", "persuaded", "Both", "Neither"], "answer": "Both" },
+  { "id": 11, "question": "Rewrite 'Someone is sending me spam':", "options": ["I am being sent spam.", "Spam is being sent to me.", "Both", "Neither"], "answer": "Both" },
+  { "id": 12, "question": "Which verb follows the pattern 'Subject + passive verb + complement'?", "options": ["Appoint", "Lend", "Mention", "Suggest"], "answer": "Appoint" },
+  { "id": 13, "question": "The students ... the information as fast as they could.", "options": ["got down", "were got down", "No passive", "Both"], "answer": "got down" },
+  { "id": 14, "question": "'He was seen ... into the house.'", "options": ["climb", "climbing", "to climb", "Both climbing and to climb"], "answer": "Both climbing and to climb" },
+  { "id": 15, "question": "Transitive phrasal verbs in the passive: 'The fire was ...'.", "options": ["put out", "put out hand", "call up", "take after"], "answer": "put out" }
+]

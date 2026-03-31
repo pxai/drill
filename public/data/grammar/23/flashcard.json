@@ -1,0 +1,17 @@
+[
+  { "id": 1, "front": "Verb + -ing passive", "back": "Pattern: 'be + past participle + -ing' (e.g., 'The monkey was seen climbing') [4]." },
+  { "id": 2, "front": "Verb + -ing base passive", "back": "Some verbs followed by -ing can use 'being + past participle' (e.g., 'I love being given presents') [4]." },
+  { "id": 3, "front": "No passive for -ing clause", "back": "Verbs like dread, imagine, and recall followed by an -ing clause usually have no passive [4]." },
+  { "id": 4, "front": "Verb + to-infinitive passive", "back": "Pattern: 'be + past participle + to-infinitive' (e.g., 'Peter has been taught to sing') [4]." },
+  { "id": 5, "front": "Double passive", "back": "Possible for 'expect/propose + to-infinitive' (e.g., 'Changes are expected to be proposed') [4]." },
+  { "id": 6, "front": "No passive for to-infinitive", "back": "Verbs like (can't) bear, hate, and love with object + to-infinitive have no passive [4]." },
+  { "id": 7, "front": "Passive of 'start/continue'", "back": "Pattern: 'verb + to be + past participle' (e.g., 'Fresh pasta started to be sold') [4]." },
+  { "id": 8, "front": "Meaning change (Active vs Passive)", "back": "Verbs like agree, aim, and want do NOT have corresponding meanings in active and passive (e.g., 'Petra wanted to help me' ≠ 'I wanted to be helped by Petra') [4]." },
+  { "id": 9, "front": "Inger ... waiting for over three hours.", "back": "was kept (be + past participle + -ing) [5]." },
+  { "id": 10, "front": "The man was ... lost and alone.", "back": "found wandering (be + past participle + -ing) [5]." },
+  { "id": 11, "front": "Two teenagers ... from school.", "back": "were expelled [5]." },
+  { "id": 12, "front": "We were ... to show our passports.", "back": "asked [5]." },
+  { "id": 13, "front": "The burglar was ... into the museum.", "options": ["seen getting", "seen to get", "Both"], "back": "seen getting [5]." },
+  { "id": 14, "front": "They caught Mrs Dee ... things.", "back": "taking -> Mrs Dee was caught taking things [5]." },
+  { "id": 15, "front": "Marco began to be ... by Kay's questions.", "back": "irritated [5]." }
+]

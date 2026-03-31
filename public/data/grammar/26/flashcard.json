@@ -1,0 +1,17 @@
+[
+  { "id": 1, "front": "Who", "back": "Refers to people; can be subject, object, or complement [10]." },
+  { "id": 2, "front": "Whom", "back": "Formal alternative to 'who' as object or after prepositions [10]." },
+  { "id": 3, "front": "Which vs. Who", "back": "Use 'which' to identify somebody in a group [10]." },
+  { "id": 4, "front": "Which vs. Who/What", "back": "Prefer 'which' when there is a choice between two or more specific things/people [10]." },
+  { "id": 5, "front": "Subject verb number", "back": "Verb is usually singular after 'who' or 'what' as subject, even if plural answer expected [10]." },
+  { "id": 6, "front": "How vs. What (Journey)", "back": "'How was the journey?' (opinion) vs 'What was the journey like?' (opinion) [10]." },
+  { "id": 7, "front": "What vs. How (Doubt)", "back": "'What if your plan doesn't work?' (consequences) [10]." },
+  { "id": 8, "front": "Whose", "back": "Used before a verb or noun to ask about ownership/responsibility [10]." },
+  { "id": 9, "front": "Whose formal prep", "back": "In formal contexts: 'In whose house was it found?' [10]." },
+  { "id": 10, "front": "To ... should the documents be sent?", "back": "whom (formal object) [11]." },
+  { "id": 11, "front": "Which / Who ... of you is Dr Hansen?", "back": "Which (identifying in a group) [11]." },
+  { "id": 12, "front": "Who ... the major decisions?", "back": "makes (singular verb expected) [11]." },
+  { "id": 13, "front": "What ... those cakes made from?", "back": "are (plural because of plural complement) [11]." },
+  { "id": 14, "front": "Whose address to? / ...?", "back": "To whose address? (formal) [11]." },
+  { "id": 15, "front": "Who / Whom translated the book?", "back": "Who (subject) [11]." }
+]

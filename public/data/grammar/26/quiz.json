@@ -1,0 +1,17 @@
+[
+  { "id": 1, "question": "Which is the formal alternative to 'who' as an object?", "options": ["Whose", "Whom", "Which", "Who"], "answer": "Whom" },
+  { "id": 2, "question": "Use 'which' instead of 'who' when you want to ...", "options": ["be informal", "identify someone in a group", "ask about anyone", "refer to things only"], "answer": "identify someone in a group" },
+  { "id": 3, "question": "When who/what is the subject, the following verb is usually ...", "options": ["plural", "singular", "past tense", "infinitive"], "answer": "singular" },
+  { "id": 4, "question": "Which question asks for a general opinion about a journey?", "options": ["How was the journey?", "What was the journey like?", "Both", "Neither"], "answer": "Both" },
+  { "id": 5, "question": "We use 'What if' to ask about ...", "options": ["the past", "possibilities and consequences", "the name of something", "identifying a person"], "answer": "possibilities and consequences" },
+  { "id": 6, "question": "In formal contexts, where does the preposition go with 'whose'?", "options": ["At the end", "Before whose", "After the verb", "After the noun"], "answer": "Before whose" },
+  { "id": 7, "question": " ... one do you think I should choose?", "options": ["Who", "Which", "What", "Whom"], "answer": "Which" },
+  { "id": 8, "question": "What is the difference between 'How is your brother?' and 'What is your brother like?'", "options": ["No difference", "'How' is about health/happiness; 'What' is about character/appearance", "'How' is formal; 'What' is informal", "None"], "answer": "'How' is about health/happiness; 'What' is about character/appearance" },
+  { "id": 9, "question": "Which is more formal: 'Whose desk was it found in?' or 'In whose desk was it found?'", "options": ["First one", "Second one", "Both are equal", "Neither"], "answer": "Second one" },
+  { "id": 10, "question": "To ... were you talking?", "options": ["who", "whom", "whose", "which"], "answer": "whom" },
+  { "id": 11, "question": "Which ... of you is Dr Hansen?", "options": ["one", "person", "Both", "Neither"], "answer": "Both (Which of you / Which one of you)" },
+  { "id": 12, "question": "Who ... the major decisions in the company?", "options": ["make", "makes", "making", "are making"], "answer": "makes" },
+  { "id": 13, "question": "What ... those cakes made from?", "options": ["is", "are", "do", "has"], "answer": "are" },
+  { "id": 14, "question": " ... is your sister at home?", "options": ["What", "Which", "Who", "Whose"], "answer": "Which (identifying one of several sisters)" },
+  { "id": 15, "question": "We use 'How about' to ...", "options": ["ask for info", "make a suggestion", "ask for a name", "ask about health"], "answer": "make a suggestion" }
+]

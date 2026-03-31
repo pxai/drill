@@ -1,0 +1,17 @@
+[
+  { "id": 1, "question": "Which verb can be either transitive or intransitive?", "options": ["Close", "Ripped", "Both", "Neither"], "answer": "Both" },
+  { "id": 2, "question": "Transitive verbs like 'sing' or 'study' can omit the object when ...", "options": ["it is a formal context", "meaning is clear from context", "the verb is at the end", "never"], "answer": "meaning is clear from context" },
+  { "id": 3, "question": "Which verb REQUIRES a complement (adverb or prep phrase)?", "options": ["Originate", "Pause", "Sing", "Study"], "answer": "Originate" },
+  { "id": 4, "question": "The verb 'belongs' is followed by the preposition ...", "options": ["to", "with", "in", "from"], "answer": "to" },
+  { "id": 5, "question": "Verb + object + prepositional phrase: 'She ... on the floor.'", "options": ["put the report", "put", "the report put", "placed"], "answer": "put the report" },
+  { "id": 6, "question": "Verbs like 'hold', 'find', and 'believe' can be followed by ...", "options": ["Object + adjective", "Object + to be + adjective", "Object + that-clause", "All of the above"], "answer": "All of the above" },
+  { "id": 7, "question": "Which pattern is considered more formal: 'proved him guilty' or 'proved him to be guilty'?", "options": ["Adjective complement only", "Adding 'to be'", "Using a that-clause", "None"], "answer": "Adjective complement only" },
+  { "id": 8, "question": "Aya (12) ... on the drive and walked over to Val.", "options": ["parked her car", "parked", "reading", "enjoyed"], "answer": "parked her car (required object)" },
+  { "id": 9, "question": "Electors deserve more from a party that ...", "options": ["aspires to leadership", "aspires leadership", "aspires for leadership", "None"], "answer": "aspires to leadership" },
+  { "id": 10, "question": "I've always found him ...", "options": ["reliable", "reliably", "reliability", "being reliable"], "answer": "reliable" },
+  { "id": 11, "question": "Years of research ... in the discovery of penicillin.", "options": ["culminated", "resulted", "ended", "All are possible"], "answer": "culminated" },
+  { "id": 12, "question": "Can 'She washed herself' be shortened to 'She washed'?", "options": ["Yes", "No, 'herself' is required here", "Only in formal English", "Only in American English"], "answer": "No, 'herself' is required here" },
+  { "id": 13, "question": "I (17) introduce ... to Mrs Rossi.", "options": ["you", "myself", "Both", "Neither"], "answer": "you (required object)" },
+  { "id": 14, "question": "Differentiate ... fantasy and reality.", "options": ["between", "from", "with", "among"], "answer": "between" },
+  { "id": 15, "question": "Attribute his success ... hard work.", "options": ["to", "for", "with", "on"], "answer": "to" }
+]
